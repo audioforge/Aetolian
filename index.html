@@ -1,5 +1,6 @@
 <!DOCTYPE html><html lang="en"><head><meta name=viewport content="width=device-width,initial-scale=1"><meta charset="utf-8">
-    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="plist_parser.js"></script>
     <style>body { background: #000000; color: #ff6400; font-family: 'Lato', Arial, sans-serif; font-size: 10px;}
     a:link {
         color: #ff6400;
@@ -29,7 +30,7 @@
         <table border='0'>
             <tr>
                 <td colspan="2">
-                    <img src="Patel.png">
+                    <img src="patel.png">
                 </td>
             </tr>
             <tr>
@@ -57,14 +58,42 @@
                 </td>
             </tr>
         </table>
-    
+        <table id="data-table"></table>
     </center>
         <script>
         function redirect()
           {
-            var url=document.getElementById('test').value
-            window.location.href="https://realstatsforrealpeople.on.drv.tw/www.aetolian.info/"+url+".html"
+            
+            exampleFetch()
+            //window.location.href=url+".html"
+            
           }
+            async function exampleFetch() {
+                var url=document.getElementById('test').value
+                // 970
+                var fetchUrl = 'https://dl.dropbox.com/scl/fi/lw0c7s3c60ac9hdmey08b/cobra.plist?rlkey=jyqu'+ url +'y0vn6i9z35i4mgb2a7&dl=0';
+                console.log(fetchUrl);
+              const response = await fetch(fetchUrl);
+              sysString = await response.text();
+              if (response.ok) {
+                console.log('Promise resolved and HTTP status is successful');
+                // ...do something with the response
+              } else {
+                console.error('Promise resolved but HTTP status failed');
+              }
+              
+              var linkList = PlistParser.parse(sysString);
+              var allRows = [];
+              for (const [key, value] of Object.entries(linkList)) {
+                 var row = '<tr>'+'<td style="background-image: url(galnet.png);"><img src="world.png"></td><td style="background-image: url(galnet.png);"><a href="'+value+'">'+key+'</a></td>'+
+                           '</tr>';
+                 allRows.push(row);
+              }
+              //append all rows to page
+              document.getElementById('data-table').innerHTML = allRows.join(' ');
+            }
+            
+            
         </script>
 </body></html>
 
