@@ -70,7 +70,15 @@
           }
             async function exampleFetch() {
                 var url=document.getElementById('test').value
-                var fetchUrl = 'https://dl.dropbox.com/scl/fi/lw0c7s3c60ac9hdmey08b/cobra.plist?rlkey=jyqu'+ url +'y0vn6i9z35i4mgb2a7&dl=0';
+                if (url) {
+                    var result = 0;
+                    for (var i = 0; i < url.length; i++) {
+                        let msgToInt = url.charCodeAt(i);
+                        result += msgToInt;
+                        console.log(result);
+                    }
+                    url = result + 451;
+                    var fetchUrl = 'https://dl.dropbox.com/scl/fi/lw0c7s3c60ac9hdmey08b/secret.plist?rlkey=jyqu'+ url +'y0vn6i9z35i4mgb2a7&dl=0';
                 console.log(fetchUrl);
               const response = await fetch(fetchUrl);
               sysString = await response.text();
@@ -90,6 +98,8 @@
               }
               //append all rows to page
               document.getElementById('data-table').innerHTML = allRows.join(' ');
+                }
+                
             }
             
             
