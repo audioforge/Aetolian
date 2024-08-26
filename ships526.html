@@ -62,17 +62,19 @@
             //console.log(systems);
             var dataAr = [];
             for (const [key, value] of Object.entries(systems)) {
-                var data = {};
-                data.system = key;
-                var lowestPrice = 500000000;
-                for (const [stationKey, priceValue] of Object.entries(value)) {
-                    if (priceValue<lowestPrice){
-                        lowestPrice = priceValue;
+                
+                // var lowestPrice = 500000000;
+                 for (const [stationKey, priceValue] of Object.entries(value)) {
+                  //  if (priceValue<lowestPrice){
+                  //      lowestPrice = priceValue;
+                    var data = {};
+                data.system = key; 
                         data.station=stationKey;
                         data.price=priceValue;
-                    }
-                }
-                dataAr.push(data);
+                     dataAr.push(data);
+                   // }
+                 }
+                
             }
             console.log(dataAr);
             
