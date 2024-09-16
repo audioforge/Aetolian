@@ -1,168 +1,115 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="ed, elite, elite dangerous, ship anatomy, ship, ships, module, blueprint, ship blueprints, elite dangerous ship blueprints" />
-<meta name="description" content="Elite: Dangerous Ship Anatomy" />
-<title>Elite Dangerous Ship Anatomy</title>
-<meta property="og:url" content="https://realstatsforrealpeople.on.drv.tw/www.aetolian.info/Anatomy/" />
-<link rel="canonical" href="https://realstatsforrealpeople.on.drv.tw/www.aetolian.info/Anatomy/" />
-<meta property="og:type" content="website" />
-<meta property="og:title" content="Elite Dangerous Ship Anatomy" />
-<meta property="og:description" content="Gives you info on how hard points, utilities and other viable modules and parts are placed on each ship. Elite Dangerous Ship Blueprints." />
-<meta property="og:image" content="edsa.png" />
-<link rel="stylesheet" type="text/css" href="main.css" />
-<link rel="stylesheet" type="text/css" href="edmp.css" />
-</head>
-<body style="margin: 0">
-<div id="control_panel" class="control_panel">
-<h6 style="height: 20px"><img src="favicon.ico" style="vertical-align: middle"></img>Elite Dangerous Ship Anatomy. Rehosted from the <a href="https://web.archive.org/web/20230504145754/http://a.teall.info/edsa/">Wayback Machine</a>. Return to <a href="https://siriuscorp.cc/">siriuscorp.cc</a>. <strong>Q.</strong> Will the Python Mk II and other new ships be here? <strong>A.</strong> No, unless someone can make the blueprints in the same way.
-<span id="loading_text" style="margin-left: 40px"><span class="wait">&#8635;</span> Loading, please wait a bit...</span>
-</h6>
-<a href="https://web.archive.org/web/20230329182234/http://www.teall.info/2020/05/elite-dangerous-ship-anatomy.html">More info and help</a>
-</div>
-<div style="text-align: center; padding: 30px" class="noselect">
-<span id="ship_selector" style="font-size: 230%; cursor: pointer">
-<span id="ship_name" style="margin: 0px 10px">- select ship -</span><span style="font-size: 50%; border: 1px dashed var(--a);">▼</span>
-</span>
-<div style="float: right; position: absolute; display: inline; margin: 18px 40px; border: 0px">
-<span id="options" style="border: 1px dashed var(--a); padding: 2px 4px; cursor: pointer">options</span>
-<span id="sheetinfo" style="border: 1px dashed var(--a); padding: 2px 4px; cursor: pointer">?</span>
-</div>
-</div>
-<section id="main_section" class="noselect">
-<div class="main-side-block">
-<div>hard points</div>
-<div id="hard_points"></div>
-</div><div class="main-central-block">
-<div>
-<span style="width: 20%; display: inline-block">target range</span>
-<input id="fire_range" style="width: 50%" type="range" min="100" max="1500" step="10" />
-<span id="fire_range_number" style="width: 20%; display: inline-block">0m</span>
-</div>
-<div id="svg"></div>
-</div><div class="main-side-block">
-<div>utility mounts</div>
-<div id="utility"></div>
-</div>
-<div id="other" style="text-align: center">
-</div>
-<div id="internal" style="text-align: center">
-</div>
-</section>
-<section id="middle_section" style="padding-bottom: 0px">
-<div id="ingame_description">
-</div>
-</section>
-<hr style="border: none; border-top: 1px solid gray; opacity: 0.3; height: 1px; margin-top: 20px; margin-bottom: 20px" />
-<section id="bottom_section" style="text-align: center; font-size: 70%">
-This website is not an official tool for <a href="http://www.elitedangerous.com" target="_blank">Elite Dangerous</a> and is not affiliated with <a href="http://frontier.co.uk/" target="_blank">Frontier Developments</a>. All trademarks and copyright are acknowledged as the property of their respective owners. All information provided is based on publicly available information and may not be entirely accurate. Images of ships are based on the original appearance of the corresponding ships and represent the original work of Anton Natarov.<br/><br/>
-
-</section>
-<div id="ship_menu" class="menu-holder">
-<div class="menu-content">
-<div style="font-size: 130%; padding-bottom: 10px">Ships</div>
-<div id="menu_ship_list" class="columned"></div>
-<div style="font-size: 130%; padding-bottom: 10px; padding-top: 20px">Ship-Launched Fighters</div>
-<div id="menu_fighter_list" class="columned"></div>
-</div>
-</div>
-<div id="sheetinfo_menu" class="menu-holder">
-<div class="menu-content" style="max-width: 40%">
-<div style="font-size: 130%; padding-bottom: 10px">Important notice</div>
-This is the blueprint of the ship. Left image is the top view, right one is the bottom view.<br/><br/>
-NOTE: The bottom view is not mirrored, so the <i>starboard</i> (the right side of the ship)
-is located on the <i>left</i> side of the bottom view picture (as if you see a ship flying over you).
-For some reasons it may cause a confuse: you think you have selected a weapon on the left side, but in the gunsight view it appears to be on the right.<br/><br/>
-If you are sure you have found an error or misplacement on the blueprint, please feel free to report.
-</div>
-</div>
-<div id="options_menu" class="menu-holder">
-<div class="menu-content">
-<div style="font-size: 130%; padding-bottom: 10px">Options</div>
-<div class="menu-option"><span>Color theme</span>
-<select id="color_theme">
-<option value="white">White</option>
-<option value="blueprint">Blueprint</option>
-<option value="dark">Dark</option>
-</select>
-</div>
-<div class="menu-option"><span>Module hooks</span>
-<select id="show_hooks">
-<option value="1">Show main ones</option>
-<option value="0">Hide all</option>
-<option value="2">Show all</option>
-</select>
-</div>
-<div class="menu-option"><span>Auto aiming</span>
-<select id="gunsight_adjustment">
-<option value="1">Micro (fixed mount)</option>
-<option value="0">None</option>
-</select>
-</div>
-<div class="menu-option"><span>Gunsight target</span>
-<select id="gunsight_target">
-<option value>None</option>
-<option value="viper">Viper Mk III</option>
-<option value="fer-de-lance">Fer-de-Lance</option>
-<option value="federal-corvette">Federal Corvette</option>
-<option value="thargoid-cyclops">Thargoid Cyclops</option>
-</select>
-</div>
-</div>
-</div>
-<div class="featured-ships">
-Elite Dangerous Ship Blueprints of
-Adder
-Alliance Challenger
-Alliance Chieftain
-Alliance Crusader
-Anaconda
-Asp Explorer
-Asp Scout
-Beluga Liner
-Cobra Mk III
-Cobra Mk IV
-Diamondback Explorer
-Diamondback Scout
-Dolphin
-Eagle
-Federal Assault Ship
-Federal Corvette
-Federal Dropship
-Federal Gunship
-Fer-de-Lance
-Hauler
-Imperial Clipper
-Imperial Courier
-Imperial Cutter
-Imperial Eagle
-Keelback
-Krait Mk II
-Krait Phantom
-Mamba
-Orca
-Python
-Sidewinder
-Type-6 Transporter
-Type-7 Transporter
-Type-9 Heavy
-Type-10 Defender
-Viper Mk III
-Viper Mk IV
-Vulture
-F63 Condor
-Gu-97
-Taipan
-XG7 Trident
-XG8 Javelin
-XG9 Lance
-</div>
-<script type="text/javascript" src="teal.js"></script>
-<script type="text/javascript" src="shiplist.js"></script>
-<script type="text/javascript" src="main.js"></script>
-<script type="text/javascript" defer="defer">
-        initialize(document.body);
-    </script>
-</body>
-</html>
+<!DOCTYPE html><html lang="en"><head><meta name=viewport content="width=device-width,initial-scale=1"><meta charset="utf-8">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="plist_parser.js"></script>
+    <style>body { background: #000000; color: #ff6400; font-family: 'Lato', Arial, sans-serif; font-size: 10px;}
+    a:link {
+        color: #ff6400;
+        background-color: transparent;
+        text-decoration: none;
+    }
+    a:visited {
+        color: #ff6400;
+        background-color: transparent;
+        text-decoration: none;
+    }
+    a:hover {
+        color: red;
+        background-color: transparent;
+        text-decoration: underline;
+    }
+    a:active {
+        color: yellow;
+        background-color: transparent;
+        text-decoration: underline;
+    }
+</style><title>Aetolia</title>
+   
+</head><body>
+    <br>
+    <center>
+        <table border='0'>
+            <tr>
+                <td colspan="2">
+                    <img src="Patel.png">
+                </td>
+            </tr>
+            <tr>
+                <td style="background-image: url(galnet.png);">
+                    <img src="galnetlogo.png">
+                </td>
+                <td style="background-image: url(galnet.png);">
+                    <a href='http://nnews.aetolian.info'>NEGINN NEWS</a>
+                </td>
+            </tr>
+             <tr>
+                <td style="background-image: url(galnet.png);">
+                    <img src="galnetlogo.png">
+                </td>
+                <td style="background-image: url(galnet.png);">
+                    <a href='https://discord.gg/tqJjjSyU68'>DISCORD</a>
+                </td>
+            </tr>
+            <tr>
+                <td style="background-image: url(galnet.png);">
+                    <img src="contacts.png">
+                </td>
+                <td style="background-image: url(galnet.png);">
+                    <a href='http://nnews.aetolian.info/p/diplomatic-corps.html'>DIPLOMATIC CORPS</a>
+                </td>
+            </tr>
+            <tr>
+                <td style="background-image: url(galnet.png);">
+                    <img src="world.png">
+                </td>
+                <td style="background-image: url(galnet.png);">
+                    <input id="test" type=text style="color:white; background-color: #222222"><button onclick="redirect()" style="color:#ff6400; background-color: #333333; font-size: 10px;" >PASSCODE</button>
+                </td>
+            </tr>
+        </table>
+        <table id="data-table"></table>
+    </center>
+        <script>
+        function redirect()
+          {
+            
+            exampleFetch()
+            //window.location.href=url+".html"
+            
+          }
+            async function exampleFetch() {
+                var url=document.getElementById('test').value
+                if (url) {
+                    var result = 0;
+                    for (var i = 0; i < url.length; i++) {
+                        let msgToInt = url.charCodeAt(i);
+                        result += msgToInt;
+                        console.log(result);
+                    }
+                    url = result + 451;
+                    var fetchUrl = 'https://dl.dropbox.com/scl/fi/lw0c7s3c60ac9hdmey08b/secret.plist?rlkey=jyqu'+ url +'y0vn6i9z35i4mgb2a7&dl=0';
+                console.log(fetchUrl);
+              const response = await fetch(fetchUrl);
+              sysString = await response.text();
+              if (response.ok) {
+                console.log('Promise resolved and HTTP status is successful');
+                // ...do something with the response
+              } else {
+                console.error('Promise resolved but HTTP status failed');
+              }
+              
+              var linkList = PlistParser.parse(sysString);
+              var allRows = [];
+              for (const [key, value] of Object.entries(linkList)) {
+                 var row = '<tr>'+'<td style="background-image: url(galnet.png);"><img src="world.png"></td><td style="background-image: url(galnet.png);"><a href="'+value+'">'+key+'</a></td>'+
+                           '</tr>';
+                 allRows.push(row);
+              }
+              //append all rows to page
+              document.getElementById('data-table').innerHTML = allRows.join(' ');
+                }
+                
+            }
+            
+            
+        </script>
+</body></html>
