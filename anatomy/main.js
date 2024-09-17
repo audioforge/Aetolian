@@ -57,7 +57,8 @@ function update_sheet(svg_content,ship_descr){
       add_es_listeners($t.element('span',{class:`es-button es-internal-button es-internal-type${Math.floor(i/10)}`,'data-es':`internal${j+1}`},internal,i%10));
     });
   }
-  $t.id('ship_name').innerHTML=ship_descr.name;document.title=`${ship_descr.name} - Elite Dangerous Ship Anatomy`;
+  $t.id('ship_name').innerHTML=ship_descr.name;
+  document.title=`${ship_descr.name} - Elite Dangerous Ship Anatomy`;
   $t.id('ingame_description').innerHTML='<div>'+ship_descr.ingame_description+'</div>'+ship_info(ship_descr.info,ship_descr.core);
   var svg_holder=$t.id('svg');
   $t.empty(svg_holder);
@@ -90,6 +91,7 @@ function update_sheet(svg_content,ship_descr){
   adjust_gunsight(neutral_distance);
   $t.id('fire_range_number').innerHTML=`${neutral_distance}m`;
   update_target_ship(localStorage.gunsight_target);
+  $t.id('where').innerHTML='Where to find ' + ship_descr.name;
 }
 function load_file(name,callback){fetch(name,{cache:'default'}).then(response=>response.text()).then(res=>callback(res));return;}
 function update_target_ship(name){var svg=$t.id('svg').querySelector('svg');if(!svg||svg.dataset.target===name)return;svg.dataset.target=name;if(name===''||name===undefined)svg.querySelectorAll('.es-target').forEach(target=>target.remove());else load_file(`target-${name}.svg`,res=>{svg.querySelectorAll('.es-target').forEach(target=>target.remove());var target=(new DOMParser()).parseFromString(res,"image/svg+xml").documentElement.querySelector('path');target.classList.add('es-target');svg.insertBefore(target,svg.firstChild);target.transform.baseVal.appendItem(svg.createSVGTransform());target.transform.baseVal.appendItem(svg.createSVGTransform());adjust_gunsight(parseInt($t.id('fire_range').value));setTimeout(function(){target.style.transition='0.3s'},600);});}
