@@ -14,11 +14,83 @@ function es_click(ev){document.querySelectorAll(`[data-es="${ev.target.dataset.e
 function es_deselect_all(ev){document.querySelectorAll('[data-sel="1"]').forEach(el=>el.dataset.sel=0);ev.stopPropagation();}
 function add_es_listeners(b){$t.bind(b,'mouseenter',es_mouseover);$t.bind(b,'mouseleave',es_mouseout);$t.bind(b,['click','touchend'],es_click);}
 function ship_info(info,core){if(info===undefined)return '';var core_info='',fighter_info='';if(core!==undefined)core_info=`<br/><span><i>Sensors Size Class</i>: ${core[5]};</span><span><i>Fuel Tank, t</i>: ${2**core[6]}</span>`;if(info[9]!==undefined)fighter_info=`<br/><span>Fighter Addendum.</span><span><i>Armor</i>: ${info[9]};</span><span><i>Shields, MJ</i>: ${info[10]}</span><span>Shield Generator is in internal 1</span>`;return `<div class="ship-info"><span><i>Manufacturer</i>: ${info[8]};</span><span><i>Pad</i>: ${info[0]};</span><span><i>Dimensions, m</i>: L ${info[1]} × W ${info[2]} × H ${info[3]};</span><span><i>Seats</i>: ${info[4]};</span><span><i>Hull Mass, t</i>: ${info[5]};</span><span><i>Mass Lock Factor</i>: ${info[6]};</span><span><i>Armor Hardness</i>: ${info[7]}</span>${core_info}${fighter_info}</div>`;}
-function update_sheet(svg_content,ship_descr){var hard_points=$t.id('hard_points');$t.empty(hard_points);ship_descr.hard_points.forEach((hp,i)=>{var b=$t.element('span',{class:'es-button es-hard-point-button','data-size':hp,'data-es':`hard_point${i+1}`},$t.element('div',{},hard_points),`${hp} ${i+1}`);add_es_listeners(b);});var utility=$t.id('utility');$t.empty(utility);for(var i=0;i<ship_descr.utilities;++i){var b=$t.element('span',{class:'es-button es-utility-button','data-size':'U','data-es':`utility${i+1}`},$t.element('div',{},utility),(i+1));add_es_listeners(b);}
-var other=$t.id('other');$t.empty(other);['canopy','cargo hatch','fighter bay'].forEach(i=>{var b=$t.element('span',{class:'es-button es-other-button','data-es':`other${i}`},other,i);if(ship_descr.missing_modules.indexOf(i)==-1)add_es_listeners(b);else b.setAttribute('disabled','1');});['landing gear','thrusters','heat vents'].forEach(i=>{var b=$t.element('span',{class:'es-button es-other-button','data-es':`misc${i}`},other,i);if(ship_descr.missing_modules.indexOf(i)==-1)add_es_listeners(b);else b.setAttribute('disabled','1');});if(ship_descr.missing_modules.indexOf('landing gear')==-1){var b=$t.element('span',{class:'es-button es-internal-button','data-es':`internalentrance`},other,'entrance');add_es_listeners(b);}
-var internal=$t.id('internal');$t.empty(internal);if(ship_descr.internal){['PP','drive','FSD','life support','distributor'].forEach((i,j)=>{if(ship_descr.core[j]===0)return;add_es_listeners($t.element('span',{class:'es-button es-internal-button','data-es':`internal${i}`},internal,`${ship_descr.core[j]} ${i}`));});ship_descr.internal.forEach((i,j)=>{add_es_listeners($t.element('span',{class:`es-button es-internal-button es-internal-type${Math.floor(i/10)}`,'data-es':`internal${j+1}`},internal,i%10));});}
-$t.id('ship_name').innerHTML=ship_descr.name;document.title=`${ship_descr.name} - Elite Dangerous Ship Anatomy`;$t.id('ingame_description').innerHTML='<div>'+ship_descr.ingame_description+'</div>'+ship_info(ship_descr.info,ship_descr.core);var svg_holder=$t.id('svg');$t.empty(svg_holder);var dom=(new DOMParser()).parseFromString(svg_content,"image/svg+xml");var svg=dom.documentElement;svg.style.stroke='var(--outline)';$t.bind(svg,'click',es_deselect_all);svg_holder.appendChild(svg);svg_holder.querySelectorAll("desc").forEach(el=>{var t=JSON.parse(el.innerHTML);var node=el.parentNode;node.dataset.es=t.type+t.i;if(t.type=='gunsight'){node.style.stroke='none';return;}
-if(t.cl)node.classList.add(`es-${t.cl}`);else node.classList.add('es-place',`es-${t.type}-place`);add_es_listeners(node);if(t.cl=='gun'){node.dataset.esX=node.cx.baseVal.value;node.dataset.esY=node.cy.baseVal.value;node.setAttribute('stroke-width',0);}});$t.id('ship_selector').style.display='inline-block';var c=document.querySelector('[data-es="gunsight0"]');var g1=document.querySelector(`[data-es="gunsight${ship_descr.calibration_gun}"]`);var g2=document.querySelector(`circle[data-es="hard_point${ship_descr.calibration_gun}"]`);if(!(c&&g1&&g2))return;c.dataset.esTrueDistanceShift=calc_true_distance_shift(c,g1,g2,ship_descr.calibration_distance);g1.style.display='none';var neutral_distance=ship_descr.neutral_distance||500;$t.id('fire_range').value=neutral_distance;adjust_gunsight(neutral_distance);$t.id('fire_range_number').innerHTML=`${neutral_distance}m`;update_target_ship(localStorage.gunsight_target);}
+function update_sheet(svg_content,ship_descr){
+  var hard_points=$t.id('hard_points');
+  $t.empty(hard_points);
+  ship_descr.hard_points.forEach((hp,i)=>{
+    var b=$t.element('span',{
+      class:'es-button es-hard-point-button','data-size':hp,'data-es':`hard_point${i+1}`
+    },$t.element('div',{},hard_points),`${hp} ${i+1}`);
+    add_es_listeners(b);
+  });
+  var utility=$t.id('utility');
+  $t.empty(utility);
+  for(var i=0;i<ship_descr.utilities;++i){
+    var b=$t.element('span',{class:'es-button es-utility-button','data-size':'U','data-es':`utility${i+1}`
+                            },$t.element('div',{},utility),(i+1));
+    add_es_listeners(b);
+  }
+  var other=$t.id('other');
+  $t.empty(other);
+  ['canopy','cargo hatch','fighter bay'].forEach(i=>{
+    var b=$t.element('span',{class:'es-button es-other-button','data-es':`other${i}`},other,i);
+    if(ship_descr.missing_modules.indexOf(i)==-1)add_es_listeners(b);
+    else b.setAttribute('disabled','1');
+                                                    });
+  ['landing gear','thrusters','heat vents'].forEach(i=>{
+    var b=$t.element('span',{class:'es-button es-other-button','data-es':`misc${i}`},other,i);
+    if(ship_descr.missing_modules.indexOf(i)==-1)add_es_listeners(b);
+    else b.setAttribute('disabled','1');
+                                                        });
+  if(ship_descr.missing_modules.indexOf('landing gear')==-1){
+    var b=$t.element('span',{class:'es-button es-internal-button','data-es':`internalentrance`},other,'entrance');
+    add_es_listeners(b);
+                                                            }
+  var internal=$t.id('internal');
+  $t.empty(internal);
+  if(ship_descr.internal){
+    ['PP','drive','FSD','life support','distributor'].forEach((i,j)=>{
+      if(ship_descr.core[j]===0)return;
+      add_es_listeners($t.element('span',{class:'es-button es-internal-button','data-es':`internal${i}`},internal,`${ship_descr.core[j]} ${i}`));
+                                                                      });
+    ship_descr.internal.forEach((i,j)=>{
+      add_es_listeners($t.element('span',{class:`es-button es-internal-button es-internal-type${Math.floor(i/10)}`,'data-es':`internal${j+1}`},internal,i%10));
+    });
+  }
+  $t.id('ship_name').innerHTML=ship_descr.name;document.title=`${ship_descr.name} - Elite Dangerous Ship Anatomy`;
+  $t.id('ingame_description').innerHTML='<div>'+ship_descr.ingame_description+'</div>'+ship_info(ship_descr.info,ship_descr.core);
+  var svg_holder=$t.id('svg');
+  $t.empty(svg_holder);
+  var dom=(new DOMParser()).parseFromString(svg_content,"image/svg+xml");
+  var svg=dom.documentElement;svg.style.stroke='var(--outline)';
+  $t.bind(svg,'click',es_deselect_all);
+  svg_holder.appendChild(svg);
+  svg_holder.querySelectorAll("desc").forEach(el=>{
+    var t=JSON.parse(el.innerHTML);
+    var node=el.parentNode;
+    node.dataset.es=t.type+t.i;
+    if(t.type=='gunsight'){node.style.stroke='none';return;}
+    if(t.cl)node.classList.add(`es-${t.cl}`);
+    else node.classList.add('es-place',`es-${t.type}-place`);
+    add_es_listeners(node);
+    if(t.cl=='gun'){
+      node.dataset.esX=node.cx.baseVal.value;
+      node.dataset.esY=node.cy.baseVal.value;
+      node.setAttribute('stroke-width',0);
+                    }
+  });
+  $t.id('ship_selector').style.display='inline-block';
+  var c=document.querySelector('[data-es="gunsight0"]');
+  var g1=document.querySelector(`[data-es="gunsight${ship_descr.calibration_gun}"]`);
+  var g2=document.querySelector(`circle[data-es="hard_point${ship_descr.calibration_gun}"]`);
+  if(!(c&&g1&&g2))return;
+  c.dataset.esTrueDistanceShift=calc_true_distance_shift(c,g1,g2,ship_descr.calibration_distance);
+  g1.style.display='none';
+  var neutral_distance=ship_descr.neutral_distance||500;$t.id('fire_range').value=neutral_distance;
+  adjust_gunsight(neutral_distance);
+  $t.id('fire_range_number').innerHTML=`${neutral_distance}m`;
+  update_target_ship(localStorage.gunsight_target);
+}
 function load_file(name,callback){fetch(name,{cache:'default'}).then(response=>response.text()).then(res=>callback(res));return;}
 function update_target_ship(name){var svg=$t.id('svg').querySelector('svg');if(!svg||svg.dataset.target===name)return;svg.dataset.target=name;if(name===''||name===undefined)svg.querySelectorAll('.es-target').forEach(target=>target.remove());else load_file(`target-${name}.svg`,res=>{svg.querySelectorAll('.es-target').forEach(target=>target.remove());var target=(new DOMParser()).parseFromString(res,"image/svg+xml").documentElement.querySelector('path');target.classList.add('es-target');svg.insertBefore(target,svg.firstChild);target.transform.baseVal.appendItem(svg.createSVGTransform());target.transform.baseVal.appendItem(svg.createSVGTransform());adjust_gunsight(parseInt($t.id('fire_range').value));setTimeout(function(){target.style.transition='0.3s'},600);});}
 function show_ship(ship_descr){load_file(`${ship_descr.link}.svg`,res=>{$t.remove($t.id('loading_text'));$t.id('main_section').style.display='block';update_sheet(res,ship_descr);});}
