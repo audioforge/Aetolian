@@ -91,9 +91,153 @@ function update_sheet(svg_content,ship_descr){
   adjust_gunsight(neutral_distance);
   $t.id('fire_range_number').innerHTML=`${neutral_distance}m`;
   update_target_ship(localStorage.gunsight_target);
+  // my edits
+  var modDicts = {};
+  exampleFetch();
+        async function exampleFetch() {
+          const response = await fetch('https://dl.dropbox.com/scl/fi/ux0h85kvxmmw6wlnwy4lp/ShipList.plist?rlkey=adr0owaq6omwz9wvpu4jfl74q&dl=0');
+          sysString = await response.text();
+          if (response.ok) {
+            console.log('Promise resolved and HTTP status is successful');
+            // ...do something with the response
+          } else {
+            console.error('Promise resolved but HTTP status failed');
+          }
+            modDicts = PlistParser.parse(sysString);
+            const modules = Object.keys(modDicts);
+            var systems = modDicts[modules[ship_descr.name]];
+var         dataAr = [];
+            for (const [key, value] of Object.entries(systems)) {
+                var data = {};
+                data.system = key;
+                var lowestPrice = 500000000;
+                for (const [stationKey, priceValue] of Object.entries(value)) {
+                    if (priceValue<lowestPrice){
+                        lowestPrice = priceValue;
+                        data.station=stationKey;
+                        data.price=priceValue;
+                    }
+                }
+                dataAr.push(data);
+            }
+            //console.log(dataAr);
+            
+            var dt = dynamicTable.config('data-table',
+                                         ['system','station','price'],
+                                         ['System','Station','Price'], //set to null for field names instead of custom header names
+                                               'There are no items to list...');
+            dt.load(dataAr);
+        }        
+        var dynamicTable = (function() {
+            
+            var _tableId, _table,
+                _fields, _headers,
+                _defaultText;
+            
+            /** Builds the row with columns from the specified names.
+             *  If the item parameter is specified, the memebers of the names array will be used as property names of the item; otherwise they will be directly parsed as text.
+             */
+            function _buildRowColumns(names, item) {
+                var row = '<tr>';
+                if (names && names.length > 0)
+                {
+                    $.each(names, function(index, name) {
+                        var c = item ? item[name+''] : name;
+                        var curow = '<td>' + c + '</td>';
+                        if (curow.includes('System')){
+                            row = '<tr bgcolor="lightgray">';
+                        }
+                        if (curow.includes('Aetolians')) {
+                            curow = '<td bgcolor="palegreen">' + c + '</td>';
+                        }
+                        if (curow.includes(':')) {
+                            curow = '<td bgcolor="black">' + c + '</td>';
+                        }
+                        if (curow.includes('War')||curow.includes('Election')) {
+                            curow = '<td bgcolor="red">' + c + '</td>';
+                        }
+                        if (curow.includes('Retreat')) {
+                            curow = '<td bgcolor="pink">' + c + '</td>';
+                        }
+                        if (curow.includes('Boom')) {
+                            curow = '<td bgcolor="palegreen">' + c + '</td>';
+                        }
+                        if (curow.includes('Expansion')) {
+                            curow = '<td bgcolor="lightblue">' + c + '</td>';
+                        }
+                        row += curow;//'<td>' + c + '</td>';
 
+                    });
+                }
+                row += '</tr>';
+                return row;
+            }
+            
+            /** Builds and sets the headers of the table. */
+            function _setHeaders() {
+                // if no headers specified, we will use the fields as headers.
+                _headers = (_headers == null || _headers.length < 1) ? _fields : _headers;
+                var h = _buildRowColumns(_headers);
+                if (_table.children('thead').length < 1) _table.prepend('<thead></thead>');
+                _table.children('thead').html(h);
+            }
+            
+            function _setNoItemsInfo() {
+                if (_table.length < 1) return; //not configured.
+                var colspan = _headers != null && _headers.length > 0 ?
+                    'colspan="' + _headers.length + '"' : '';
+                var content = '<tr class="no-items"><td ' + colspan + ' style="text-align:center">' +
+                    _defaultText + '</td></tr>';
+                if (_table.children('tbody').length > 0)
+                    _table.children('tbody').html(content);
+                else _table.append('<tbody>' + content + '</tbody>');
+            }
+            
+            function _removeNoItemsInfo() {
+                var c = _table.children('tbody').children('tr');
+                if (c.length == 1 && c.hasClass('no-items')) _table.children('tbody').empty();
+            }
+            
+            return {
+                /** Configres the dynamic table. */
+                config: function(tableId, fields, headers, defaultText) {
+                    _tableId = tableId;
+                    _table = $('#' + tableId);
+                    _fields = fields || null;
+                    _headers = headers || null;
+                    _defaultText = defaultText || 'No items to list...';
+                    _setHeaders();
+                    _setNoItemsInfo();
+                    return this;
+                },
+                /** Loads the specified data to the table body. */
+                load: function(data, append) {
+                    if (_table.length < 1) return; //not configured.
+                    _setHeaders();
+                    _removeNoItemsInfo();
+                    if (data && data.length > 0) {
+                        var rows = '';
+                        $.each(data, function(index, item) {
+                            rows += _buildRowColumns(_fields, item);
+                        });
+                        var mthd = append ? 'append' : 'html';
+                        _table.children('tbody')[mthd](rows);
+                    }
+                    else {
+                        _setNoItemsInfo();
+                    }
+                    return this;
+                },
+                /** Clears the table body. */
+                clear: function() {
+                    _setNoItemsInfo();
+                    return this;
+                }
+            };
+        }());
   $t.id('where').innerHTML='Go here to find ' + ship_descr.name;
   
+  // end my edits
 }
 
 function load_file(name,callback){fetch(name,{cache:'default'}).then(response=>response.text()).then(res=>callback(res));return;}
