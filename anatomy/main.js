@@ -104,8 +104,9 @@ function update_sheet(svg_content,ship_descr){
             console.error('Promise resolved but HTTP status failed');
           }
             modDicts = PlistParser.parse(sysString);
-            const modules = Object.keys(modDicts);
-            var systems = modDicts[modules[ship_descr.name]];
+            //const modules = Object.keys(modDicts);
+            var systems = modDicts[ship_descr.name];
+            console.log(systems);
             var dataAr = [];
             for (const [key, value] of Object.entries(systems)) {
                 var data = {};
