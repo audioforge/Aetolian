@@ -94,9 +94,9 @@ function update_sheet(svg_content,ship_descr){
   // my edits
   var modDicts = {};
   exampleFetch();
-        async function exampleFetch() {
+  async function exampleFetch() {
           const response = await fetch('https://dl.dropbox.com/scl/fi/f793wjwvjvg99ojv3hc6m/ShipList.plist?rlkey=3i1crytk4l1g62tfqm2pcqesb&st=esdtqft6&dl=0');
-          const sysString = await response.text();
+          var sysString = await response.text();
           if (response.ok) {
             console.log('Promise resolved and HTTP status is successful');
             // ...do something with the response
