@@ -243,6 +243,11 @@ function apply_options(){if(localStorage.color_theme!==undefined){var theme={whi
 if(localStorage.show_hooks!==undefined){document.documentElement.style.setProperty('--show-hooks',localStorage.show_hooks>=1?1:0);document.documentElement.style.setProperty('--show-all-hooks',localStorage.show_hooks==='2'?1:0);}
 update_target_ship(localStorage.gunsight_target);adjust_gunsight(parseInt($t.id('fire_range').value));}
 function option_changed(ev){localStorage[ev.target.id]=ev.target.selectedOptions[0].value;apply_options();}
-function initialize(container){var menu_ship_list=$t.id('menu_ship_list'),menu_fighter_list=$t.id('menu_fighter_list');ship_list.forEach(ship_descr=>{$t.element('a',{class:'ship-link',href:`?s=${ship_descr.link}`},menu_ship_list,ship_descr.name);});fighter_list.forEach(ship_descr=>{$t.element('a',{class:'ship-link',href:`?s=${ship_descr.link}`},menu_fighter_list,ship_descr.name);});var params=$t.get_url_params();if(params.s){var ship_descr=ship_list.concat(fighter_list).find(descr=>descr.link==params.s);if(ship_descr)show_ship(ship_descr);else window.location.search='';}
+function initialize(container){
+  var menu_ship_list=$t.id('menu_ship_list'),menu_fighter_list=$t.id('menu_fighter_list');
+  ship_list.forEach(ship_descr=>{$t.element('a',{class:'ship-link',href:`?s=${ship_descr.link}`},menu_ship_list,ship_descr.name);});
+  fighter_list.forEach(ship_descr=>{$t.element('a',{class:'ship-link',href:`?s=${ship_descr.link}`},menu_fighter_list,ship_descr.name);});
+  var params=$t.get_url_params();
+  if(params.s){var ship_descr=ship_list.concat(fighter_list).find(descr=>descr.link==params.s);if(ship_descr)show_ship(ship_descr);else window.location.search='';}
 else{$t.id('ship_selector').style.display='inline-block';$t.id('ship_menu').style.display='block';$t.remove($t.id('loading_text'));}
 $t.bind($t.id('fire_range'),['change','input'],fire_range_change);$t.bind(document.body,'click',ev=>{if(ev.target.className=='menu-holder')ev.target.style.display='none';if(ev.target.className=='menu-content')ev.stopPropagation();});$t.bind($t.id('ship_selector'),'click',ev=>$t.id('ship_menu').style.display='block');$t.bind($t.id('options'),['click'],ev=>$t.id('options_menu').style.display='block');$t.bind($t.id('sheetinfo'),['click'],ev=>$t.id('sheetinfo_menu').style.display='block');['color_theme','show_hooks','gunsight_adjustment','gunsight_target'].forEach(i=>{if(localStorage[i]!==undefined)$t.id(i).value=localStorage[i];$t.bind($t.id(i),['change'],option_changed);});apply_options();}
