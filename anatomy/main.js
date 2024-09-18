@@ -14,6 +14,113 @@ function es_click(ev){document.querySelectorAll(`[data-es="${ev.target.dataset.e
 function es_deselect_all(ev){document.querySelectorAll('[data-sel="1"]').forEach(el=>el.dataset.sel=0);ev.stopPropagation();}
 function add_es_listeners(b){$t.bind(b,'mouseenter',es_mouseover);$t.bind(b,'mouseleave',es_mouseout);$t.bind(b,['click','touchend'],es_click);}
 function ship_info(info,core){if(info===undefined)return '';var core_info='',fighter_info='';if(core!==undefined)core_info=`<br/><span><i>Sensors Size Class</i>: ${core[5]};</span><span><i>Fuel Tank, t</i>: ${2**core[6]}</span>`;if(info[9]!==undefined)fighter_info=`<br/><span>Fighter Addendum.</span><span><i>Armor</i>: ${info[9]};</span><span><i>Shields, MJ</i>: ${info[10]}</span><span>Shield Generator is in internal 1</span>`;return `<div class="ship-info"><span><i>Manufacturer</i>: ${info[8]};</span><span><i>Pad</i>: ${info[0]};</span><span><i>Dimensions, m</i>: L ${info[1]} × W ${info[2]} × H ${info[3]};</span><span><i>Seats</i>: ${info[4]};</span><span><i>Hull Mass, t</i>: ${info[5]};</span><span><i>Mass Lock Factor</i>: ${info[6]};</span><span><i>Armor Hardness</i>: ${info[7]}</span>${core_info}${fighter_info}</div>`;}
+var dynamicTable = (function() {
+            
+            var _tableId, _table,
+                _fields, _headers,
+                _defaultText;
+            
+            /** Builds the row with columns from the specified names.
+             *  If the item parameter is specified, the memebers of the names array will be used as property names of the item; otherwise they will be directly parsed as text.
+             */
+            function _buildRowColumns(names, item) {
+                var row = '<tr>';
+                if (names && names.length > 0)
+                {
+                    $.each(names, function(index, name) {
+                        var c = item ? item[name+''] : name;
+                        var curow = '<td>' + c + '</td>';
+                        if (curow.includes('System')){
+                            row = '<tr bgcolor="lightgray">';
+                        }
+                        if (curow.includes('Aetolians')) {
+                            curow = '<td bgcolor="palegreen">' + c + '</td>';
+                        }
+                        if (curow.includes(':')) {
+                            curow = '<td bgcolor="black">' + c + '</td>';
+                        }
+                        if (curow.includes('War')||curow.includes('Election')) {
+                            curow = '<td bgcolor="red">' + c + '</td>';
+                        }
+                        if (curow.includes('Retreat')) {
+                            curow = '<td bgcolor="pink">' + c + '</td>';
+                        }
+                        if (curow.includes('Boom')) {
+                            curow = '<td bgcolor="palegreen">' + c + '</td>';
+                        }
+                        if (curow.includes('Expansion')) {
+                            curow = '<td bgcolor="lightblue">' + c + '</td>';
+                        }
+                        row += curow;//'<td>' + c + '</td>';
+
+                    });
+                }
+                row += '</tr>';
+                return row;
+            }
+            
+            /** Builds and sets the headers of the table. */
+            function _setHeaders() {
+                // if no headers specified, we will use the fields as headers.
+                _headers = (_headers == null || _headers.length < 1) ? _fields : _headers;
+                var h = _buildRowColumns(_headers);
+                if (_table.children('thead').length < 1) _table.prepend('<thead></thead>');
+                _table.children('thead').html(h);
+            }
+            
+            function _setNoItemsInfo() {
+                if (_table.length < 1) return; //not configured.
+                var colspan = _headers != null && _headers.length > 0 ?
+                    'colspan="' + _headers.length + '"' : '';
+                var content = '<tr class="no-items"><td ' + colspan + ' style="text-align:center">' +
+                    _defaultText + '</td></tr>';
+                if (_table.children('tbody').length > 0)
+                    _table.children('tbody').html(content);
+                else _table.append('<tbody>' + content + '</tbody>');
+            }
+            
+            function _removeNoItemsInfo() {
+                var c = _table.children('tbody').children('tr');
+                if (c.length == 1 && c.hasClass('no-items')) _table.children('tbody').empty();
+            }
+            
+            return {
+                /** Configres the dynamic table. */
+                config: function(tableId, fields, headers, defaultText) {
+                    _tableId = tableId;
+                    _table = $('#' + tableId);
+                    _fields = fields || null;
+                    _headers = headers || null;
+                    _defaultText = defaultText || 'No items to list...';
+                    _setHeaders();
+                    _setNoItemsInfo();
+                    return this;
+                },
+                /** Loads the specified data to the table body. */
+                load: function(data, append) {
+                    if (_table.length < 1) return; //not configured.
+                    _setHeaders();
+                    _removeNoItemsInfo();
+                    if (data && data.length > 0) {
+                        var rows = '';
+                        $.each(data, function(index, item) {
+                            rows += _buildRowColumns(_fields, item);
+                        });
+                        var mthd = append ? 'append' : 'html';
+                        _table.children('tbody')[mthd](rows);
+                    }
+                    else {
+                        _setNoItemsInfo();
+                    }
+                    return this;
+                },
+                /** Clears the table body. */
+                clear: function() {
+                    _setNoItemsInfo();
+                    return this;
+                }
+            };
+        }());
 function update_sheet(svg_content,ship_descr){
   var hard_points=$t.id('hard_points');
   $t.empty(hard_points);
@@ -93,6 +200,7 @@ function update_sheet(svg_content,ship_descr){
   update_target_ship(localStorage.gunsight_target);
   $t.id('where').innerHTML='Where to find ' + ship_descr.name;
 }
+
 function load_file(name,callback){fetch(name,{cache:'default'}).then(response=>response.text()).then(res=>callback(res));return;}
 function update_target_ship(name){var svg=$t.id('svg').querySelector('svg');if(!svg||svg.dataset.target===name)return;svg.dataset.target=name;if(name===''||name===undefined)svg.querySelectorAll('.es-target').forEach(target=>target.remove());else load_file(`target-${name}.svg`,res=>{svg.querySelectorAll('.es-target').forEach(target=>target.remove());var target=(new DOMParser()).parseFromString(res,"image/svg+xml").documentElement.querySelector('path');target.classList.add('es-target');svg.insertBefore(target,svg.firstChild);target.transform.baseVal.appendItem(svg.createSVGTransform());target.transform.baseVal.appendItem(svg.createSVGTransform());adjust_gunsight(parseInt($t.id('fire_range').value));setTimeout(function(){target.style.transition='0.3s'},600);});}
 function show_ship(ship_descr){load_file(`${ship_descr.link}.svg`,res=>{$t.remove($t.id('loading_text'));$t.id('main_section').style.display='block';update_sheet(res,ship_descr);});}
