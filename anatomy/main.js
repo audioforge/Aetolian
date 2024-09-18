@@ -14,12 +14,11 @@ function es_click(ev){document.querySelectorAll(`[data-es="${ev.target.dataset.e
 function es_deselect_all(ev){document.querySelectorAll('[data-sel="1"]').forEach(el=>el.dataset.sel=0);ev.stopPropagation();}
 function add_es_listeners(b){$t.bind(b,'mouseenter',es_mouseover);$t.bind(b,'mouseleave',es_mouseout);$t.bind(b,['click','touchend'],es_click);}
 function ship_info(info,core){if(info===undefined)return '';var core_info='',fighter_info='';if(core!==undefined)core_info=`<br/><span><i>Sensors Size Class</i>: ${core[5]};</span><span><i>Fuel Tank, t</i>: ${2**core[6]}</span>`;if(info[9]!==undefined)fighter_info=`<br/><span>Fighter Addendum.</span><span><i>Armor</i>: ${info[9]};</span><span><i>Shields, MJ</i>: ${info[10]}</span><span>Shield Generator is in internal 1</span>`;return `<div class="ship-info"><span><i>Manufacturer</i>: ${info[8]};</span><span><i>Pad</i>: ${info[0]};</span><span><i>Dimensions, m</i>: L ${info[1]} × W ${info[2]} × H ${info[3]};</span><span><i>Seats</i>: ${info[4]};</span><span><i>Hull Mass, t</i>: ${info[5]};</span><span><i>Mass Lock Factor</i>: ${info[6]};</span><span><i>Armor Hardness</i>: ${info[7]}</span>${core_info}${fighter_info}</div>`;}
+var modDicts = {};
 var dynamicTable = (function() {
-            
             var _tableId, _table,
                 _fields, _headers,
-                _defaultText;
-            
+                _defaultText; 
             /** Builds the row with columns from the specified names.
              *  If the item parameter is specified, the memebers of the names array will be used as property names of the item; otherwise they will be directly parsed as text.
              */
@@ -198,7 +197,11 @@ function update_sheet(svg_content,ship_descr){
   adjust_gunsight(neutral_distance);
   $t.id('fire_range_number').innerHTML=`${neutral_distance}m`;
   update_target_ship(localStorage.gunsight_target);
-  $t.id('where').innerHTML='Where to find ' + ship_descr.name;
+  if (modDicts.length<1) {
+              $t.id('where').innerHTML='Nowhere to find ' + ship_descr.name;
+  }
+  else {
+              $t.id('where').innerHTML='Go here to find ' + ship_descr.name;
 }
 
 function load_file(name,callback){fetch(name,{cache:'default'}).then(response=>response.text()).then(res=>callback(res));return;}
