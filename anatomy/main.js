@@ -106,22 +106,17 @@ function update_sheet(svg_content,ship_descr){
             modDicts = PlistParser.parse(sysString);
             const modules = Object.keys(modDicts);
             var systems = modDicts[modules[ship_descr.name]];
-var         dataAr = [];
+            var dataAr = [];
             for (const [key, value] of Object.entries(systems)) {
                 var data = {};
                 data.system = key;
-                var lowestPrice = 500000000;
                 for (const [stationKey, priceValue] of Object.entries(value)) {
-                    if (priceValue<lowestPrice){
-                        lowestPrice = priceValue;
                         data.station=stationKey;
                         data.price=priceValue;
-                    }
                 }
                 dataAr.push(data);
             }
             //console.log(dataAr);
-            
             var dt = dynamicTable.config('data-table',
                                          ['system','station','price'],
                                          ['System','Station','Price'], //set to null for field names instead of custom header names
