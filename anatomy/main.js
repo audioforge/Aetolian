@@ -106,7 +106,7 @@ function update_sheet(svg_content,ship_descr){
             modDicts = PlistParser.parse(sysString);
             //const modules = Object.keys(modDicts);
             var systems = modDicts[ship_descr.name];
-            console.log(systems);
+            //console.log(systems);
             var dataAr = [];
             for (const [key, value] of Object.entries(systems)) {
                 var data = {};
@@ -231,7 +231,7 @@ function update_sheet(svg_content,ship_descr){
                 }
             };
         }());
-  $t.id('where').innerHTML='Go here to find ' + ship_descr.name;
+  //$t.id('where').innerHTML='Go here to find ' + ship_descr.name;
   
   // end my edits
 }
