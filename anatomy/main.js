@@ -202,6 +202,7 @@ function update_sheet(svg_content,ship_descr){
   }
   else {
               $t.id('where').innerHTML='Go here to find ' + ship_descr.name;
+  }
 }
 
 function load_file(name,callback){fetch(name,{cache:'default'}).then(response=>response.text()).then(res=>callback(res));return;}
