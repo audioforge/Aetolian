@@ -113,7 +113,7 @@ function update_sheet(svg_content,ship_descr){
                 data.system = key;
                 for (const [stationKey, priceValue] of Object.entries(value)) {
                         data.station=stationKey;
-                        data.price=priceValue;
+                        data.price=priceValue.toLocaleString();
                 }
                 dataAr.push(data);
             }
