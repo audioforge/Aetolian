@@ -141,7 +141,7 @@ function update_sheet(svg_content,ship_descr){
                         var c = item ? item[name+''] : name;
                         var curow = '<td>' + c + '</td>';
                         if (curow.includes('System')){
-                            row = '<tr bgcolor="lightgray">';
+                            row = '<tr bgcolor="darkgray">';
                         }
                         if (curow.includes('Aetolians')) {
                             curow = '<td bgcolor="palegreen">' + c + '</td>';
