@@ -1,0 +1,1293 @@
+<!DOCTYPE html><html lang="en"><head><meta name=viewport content="width=device-width,initial-scale=1"><meta charset="utf-8">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="plist_parser.js"></script>
+    <style>body { background: #000000; color: #ff6400; font-family: 'Lato', Arial, sans-serif; font-size: 10px;}
+    a:link {
+        color: #ff6400;
+        background-color: transparent;
+        text-decoration: none;
+    }
+    a:visited {
+        color: #ff6400;
+        background-color: transparent;
+        text-decoration: none;
+    }
+    a:hover {
+        color: red;
+        background-color: transparent;
+        text-decoration: underline;
+    }
+    a:active {
+        color: yellow;
+        background-color: transparent;
+        text-decoration: underline;
+    }
+</style><title>Aetolia</title>
+   
+</head><body>
+<div class="table-responsive">
+                    <table class="table table-bordered table-striped table-condensed table-hover table-sm">
+                        <thead>
+                            <tr>
+                                <td class="text-end">Done</td>
+                                <td>System Name</td>
+                                <td class="text-end">Distance (LY)</td>
+                                <td class="text-end">Remaining (LY)</td>
+                                <td class="text-end">Jumps Left</td>
+                                <td class="text-end ember-tooltip-target">
+                                    Fuel Left (tonnes)
+                                    <svg class="svg-inline--fa fa-circle-info" data-prefix="fas" data-icon="circle-info" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+        <path fill="currentColor" d="M256 512A256 256 0 1 0 256 0a256 256 0 1 0 0 512zM216 336h24V272H216c-13.3 0-24-10.7-24-24s10.7-24 24-24h48c13.3 0 24 10.7 24 24v88h8c13.3 0 24 10.7 24 24s-10.7 24-24 24H216c-13.3 0-24-10.7-24-24s10.7-24 24-24zm40-208a32 32 0 1 1 0 64 32 32 0 1 1 0-64z"></path>
+    </svg>
+                                    <div id="ember153" class="ember-tooltip-base ember-view">  <div>
+<!---->  </div>
+</div>
+                                </td>
+                                <td class="text-end ember-tooltip-target">
+                                    Tritium in market
+                                    <svg class="svg-inline--fa fa-circle-info" data-prefix="fas" data-icon="circle-info" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+        <path fill="currentColor" d="M256 512A256 256 0 1 0 256 0a256 256 0 1 0 0 512zM216 336h24V272H216c-13.3 0-24-10.7-24-24s10.7-24 24-24h48c13.3 0 24 10.7 24 24v88h8c13.3 0 24 10.7 24 24s-10.7 24-24 24H216c-13.3 0-24-10.7-24-24s10.7-24 24-24zm40-208a32 32 0 1 1 0 64 32 32 0 1 1 0-64z"></path>
+    </svg>
+                                    <div id="ember154" class="ember-tooltip-base ember-view">  <div>
+<!---->  </div>
+</div>
+                                </td>
+                                <td class="text-end ember-tooltip-target">
+                                    Fuel Used (tonnes)
+                                    <svg class="svg-inline--fa fa-circle-info" data-prefix="fas" data-icon="circle-info" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+        <path fill="currentColor" d="M256 512A256 256 0 1 0 256 0a256 256 0 1 0 0 512zM216 336h24V272H216c-13.3 0-24-10.7-24-24s10.7-24 24-24h48c13.3 0 24 10.7 24 24v88h8c13.3 0 24 10.7 24 24s-10.7 24-24 24H216c-13.3 0-24-10.7-24-24s10.7-24 24-24zm40-208a32 32 0 1 1 0 64 32 32 0 1 1 0-64z"></path>
+    </svg>
+                                    <div id="ember155" class="ember-tooltip-base ember-view">  <div>
+<!---->  </div>
+</div>
+                                </td>
+                                <td class="ember-tooltip-target">
+                                    Icy ring
+                                    <svg class="svg-inline--fa fa-circle-info" data-prefix="fas" data-icon="circle-info" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+        <path fill="currentColor" d="M256 512A256 256 0 1 0 256 0a256 256 0 1 0 0 512zM216 336h24V272H216c-13.3 0-24-10.7-24-24s10.7-24 24-24h48c13.3 0 24 10.7 24 24v88h8c13.3 0 24 10.7 24 24s-10.7 24-24 24H216c-13.3 0-24-10.7-24-24s10.7-24 24-24zm40-208a32 32 0 1 1 0 64 32 32 0 1 1 0-64z"></path>
+    </svg>
+                                    <div id="ember156" class="ember-tooltip-base ember-view">  <div>
+<!---->  </div>
+</div>
+                                </td>
+                                <td class="ember-tooltip-target">
+                                    Restock?
+                                    <svg class="svg-inline--fa fa-circle-info" data-prefix="fas" data-icon="circle-info" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+        <path fill="currentColor" d="M256 512A256 256 0 1 0 256 0a256 256 0 1 0 0 512zM216 336h24V272H216c-13.3 0-24-10.7-24-24s10.7-24 24-24h48c13.3 0 24 10.7 24 24v88h8c13.3 0 24 10.7 24 24s-10.7 24-24 24H216c-13.3 0-24-10.7-24-24s10.7-24 24-24zm40-208a32 32 0 1 1 0 64 32 32 0 1 1 0-64z"></path>
+    </svg>
+                                    <div id="ember157" class="ember-tooltip-base ember-view">  <div>
+<!---->  </div>
+</div>
+                                </td>
+                                <td class="ember-tooltip-target">
+                                    Restock Amount
+                                    <svg class="svg-inline--fa fa-circle-info" data-prefix="fas" data-icon="circle-info" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+        <path fill="currentColor" d="M256 512A256 256 0 1 0 256 0a256 256 0 1 0 0 512zM216 336h24V272H216c-13.3 0-24-10.7-24-24s10.7-24 24-24h48c13.3 0 24 10.7 24 24v88h8c13.3 0 24 10.7 24 24s-10.7 24-24 24H216c-13.3 0-24-10.7-24-24s10.7-24 24-24zm40-208a32 32 0 1 1 0 64 32 32 0 1 1 0-64z"></path>
+    </svg>
+                                    <div id="ember158" class="ember-tooltip-base ember-view">  <div>
+<!---->  </div>
+</div>
+                                </td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                                <tr class="alert table-danger">
+                                    <td class="text-end"><input aria-label="Done" type="checkbox"></td>
+                                    <td>
+                                        <a id="ember159" class="ember-view alert-link" href="/system/16088838246699">
+                                            Eol Prou VY-R d4-468
+                                        </a>
+                                        <button class="copy-btn clipboard-button " title="Copy Eol Prou VY-R d4-468 to clipboard" data-clipboard-text="Eol Prou VY-R d4-468" type="button" id="ember205">
+  
+                                            <svg class="svg-inline--fa fa-copy" data-prefix="far" data-icon="copy" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+        <path fill="currentColor" d="M384 336H192c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16l140.1 0L400 115.9V320c0 8.8-7.2 16-16 16zM192 384H384c35.3 0 64-28.7 64-64V115.9c0-12.7-5.1-24.9-14.1-33.9L366.1 14.1c-9-9-21.2-14.1-33.9-14.1H192c-35.3 0-64 28.7-64 64V320c0 35.3 28.7 64 64 64zM64 128c-35.3 0-64 28.7-64 64V448c0 35.3 28.7 64 64 64H256c35.3 0 64-28.7 64-64V416H272v32c0 8.8-7.2 16-16 16H64c-8.8 0-16-7.2-16-16V192c0-8.8 7.2-16 16-16H96V128H64z"></path>
+    </svg>
+                                        
+</button>
+                                    </td>
+                                    <td class="text-end">0.00</td>
+                                    <td class="text-end">22,054.10</td>
+                                    <td class="text-end">45</td>
+                                    <td class="text-end">1,000</td>
+                                    <td class="text-end">3,616</td>
+                                    <td class="text-end">0</td>
+                                    <td class="text-center">
+<!---->                                    </td>
+                                    <td class="text-center">Yes</td>
+                                    <td class="text-end">4,616</td>
+                                </tr>
+                                <tr>
+                                    <td class="text-end"><input aria-label="Done" type="checkbox"></td>
+                                    <td>
+                                        <a id="ember160" class="ember-view" href="/system/1967036125435">
+                                            Dryooe Flyou KN-A d14-57
+                                        </a>
+                                        <button class="copy-btn clipboard-button " title="Copy Dryooe Flyou KN-A d14-57 to clipboard" data-clipboard-text="Dryooe Flyou KN-A d14-57" type="button" id="ember206">
+  
+                                            <svg class="svg-inline--fa fa-copy" data-prefix="far" data-icon="copy" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+        <path fill="currentColor" d="M384 336H192c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16l140.1 0L400 115.9V320c0 8.8-7.2 16-16 16zM192 384H384c35.3 0 64-28.7 64-64V115.9c0-12.7-5.1-24.9-14.1-33.9L366.1 14.1c-9-9-21.2-14.1-33.9-14.1H192c-35.3 0-64 28.7-64 64V320c0 35.3 28.7 64 64 64zM64 128c-35.3 0-64 28.7-64 64V448c0 35.3 28.7 64 64 64H256c35.3 0 64-28.7 64-64V416H272v32c0 8.8-7.2 16-16 16H64c-8.8 0-16-7.2-16-16V192c0-8.8 7.2-16 16-16H96V128H64z"></path>
+    </svg>
+                                        
+</button>
+                                    </td>
+                                    <td class="text-end">499.97</td>
+                                    <td class="text-end">21,554.36</td>
+                                    <td class="text-end">44</td>
+                                    <td class="text-end">1,000</td>
+                                    <td class="text-end">3,506</td>
+                                    <td class="text-end">110</td>
+                                    <td class="text-center">
+<!---->                                    </td>
+                                    <td class="text-center"></td>
+                                    <td class="text-end"></td>
+                                </tr>
+                                <tr>
+                                    <td class="text-end"><input aria-label="Done" type="checkbox"></td>
+                                    <td>
+                                        <a id="ember161" class="ember-view" href="/system/69071638712523">
+                                            Dryooe Flyou OC-L d8-2010
+                                        </a>
+                                        <button class="copy-btn clipboard-button " title="Copy Dryooe Flyou OC-L d8-2010 to clipboard" data-clipboard-text="Dryooe Flyou OC-L d8-2010" type="button" id="ember207">
+  
+                                            <svg class="svg-inline--fa fa-copy" data-prefix="far" data-icon="copy" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+        <path fill="currentColor" d="M384 336H192c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16l140.1 0L400 115.9V320c0 8.8-7.2 16-16 16zM192 384H384c35.3 0 64-28.7 64-64V115.9c0-12.7-5.1-24.9-14.1-33.9L366.1 14.1c-9-9-21.2-14.1-33.9-14.1H192c-35.3 0-64 28.7-64 64V320c0 35.3 28.7 64 64 64zM64 128c-35.3 0-64 28.7-64 64V448c0 35.3 28.7 64 64 64H256c35.3 0 64-28.7 64-64V416H272v32c0 8.8-7.2 16-16 16H64c-8.8 0-16-7.2-16-16V192c0-8.8 7.2-16 16-16H96V128H64z"></path>
+    </svg>
+                                        
+</button>
+                                    </td>
+                                    <td class="text-end">499.77</td>
+                                    <td class="text-end">21,054.65</td>
+                                    <td class="text-end">43</td>
+                                    <td class="text-end">1,000</td>
+                                    <td class="text-end">3,396</td>
+                                    <td class="text-end">110</td>
+                                    <td class="text-center">
+                                                Pristine
+                                    </td>
+                                    <td class="text-center"></td>
+                                    <td class="text-end"></td>
+                                </tr>
+                                <tr>
+                                    <td class="text-end"><input aria-label="Done" type="checkbox"></td>
+                                    <td>
+                                        <a id="ember162" class="ember-view" href="/system/52845511778626">
+                                            Dryio Flyuae PU-N c7-192
+                                        </a>
+                                        <button class="copy-btn clipboard-button " title="Copy Dryio Flyuae PU-N c7-192 to clipboard" data-clipboard-text="Dryio Flyuae PU-N c7-192" type="button" id="ember208">
+  
+                                            <svg class="svg-inline--fa fa-copy" data-prefix="far" data-icon="copy" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+        <path fill="currentColor" d="M384 336H192c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16l140.1 0L400 115.9V320c0 8.8-7.2 16-16 16zM192 384H384c35.3 0 64-28.7 64-64V115.9c0-12.7-5.1-24.9-14.1-33.9L366.1 14.1c-9-9-21.2-14.1-33.9-14.1H192c-35.3 0-64 28.7-64 64V320c0 35.3 28.7 64 64 64zM64 128c-35.3 0-64 28.7-64 64V448c0 35.3 28.7 64 64 64H256c35.3 0 64-28.7 64-64V416H272v32c0 8.8-7.2 16-16 16H64c-8.8 0-16-7.2-16-16V192c0-8.8 7.2-16 16-16H96V128H64z"></path>
+    </svg>
+                                        
+</button>
+                                    </td>
+                                    <td class="text-end">499.31</td>
+                                    <td class="text-end">20,555.59</td>
+                                    <td class="text-end">42</td>
+                                    <td class="text-end">1,000</td>
+                                    <td class="text-end">3,287</td>
+                                    <td class="text-end">109</td>
+                                    <td class="text-center">
+                                                Pristine
+                                    </td>
+                                    <td class="text-center"></td>
+                                    <td class="text-end"></td>
+                                </tr>
+                                <tr>
+                                    <td class="text-end"><input aria-label="Done" type="checkbox"></td>
+                                    <td>
+                                        <a id="ember163" class="ember-view" href="/system/34703905497314">
+                                            Eoch Flyuae US-E c26-126
+                                        </a>
+                                        <button class="copy-btn clipboard-button " title="Copy Eoch Flyuae US-E c26-126 to clipboard" data-clipboard-text="Eoch Flyuae US-E c26-126" type="button" id="ember209">
+  
+                                            <svg class="svg-inline--fa fa-copy" data-prefix="far" data-icon="copy" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+        <path fill="currentColor" d="M384 336H192c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16l140.1 0L400 115.9V320c0 8.8-7.2 16-16 16zM192 384H384c35.3 0 64-28.7 64-64V115.9c0-12.7-5.1-24.9-14.1-33.9L366.1 14.1c-9-9-21.2-14.1-33.9-14.1H192c-35.3 0-64 28.7-64 64V320c0 35.3 28.7 64 64 64zM64 128c-35.3 0-64 28.7-64 64V448c0 35.3 28.7 64 64 64H256c35.3 0 64-28.7 64-64V416H272v32c0 8.8-7.2 16-16 16H64c-8.8 0-16-7.2-16-16V192c0-8.8 7.2-16 16-16H96V128H64z"></path>
+    </svg>
+                                        
+</button>
+                                    </td>
+                                    <td class="text-end">499.43</td>
+                                    <td class="text-end">20,057.08</td>
+                                    <td class="text-end">41</td>
+                                    <td class="text-end">1,000</td>
+                                    <td class="text-end">3,178</td>
+                                    <td class="text-end">109</td>
+                                    <td class="text-center">
+                                                Yes
+                                    </td>
+                                    <td class="text-center"></td>
+                                    <td class="text-end"></td>
+                                </tr>
+                                <tr>
+                                    <td class="text-end"><input aria-label="Done" type="checkbox"></td>
+                                    <td>
+                                        <a id="ember164" class="ember-view" href="/system/38827409645706">
+                                            Eoch Flyuae HD-Y c15-141
+                                        </a>
+                                        <button class="copy-btn clipboard-button " title="Copy Eoch Flyuae HD-Y c15-141 to clipboard" data-clipboard-text="Eoch Flyuae HD-Y c15-141" type="button" id="ember210">
+  
+                                            <svg class="svg-inline--fa fa-copy" data-prefix="far" data-icon="copy" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+        <path fill="currentColor" d="M384 336H192c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16l140.1 0L400 115.9V320c0 8.8-7.2 16-16 16zM192 384H384c35.3 0 64-28.7 64-64V115.9c0-12.7-5.1-24.9-14.1-33.9L366.1 14.1c-9-9-21.2-14.1-33.9-14.1H192c-35.3 0-64 28.7-64 64V320c0 35.3 28.7 64 64 64zM64 128c-35.3 0-64 28.7-64 64V448c0 35.3 28.7 64 64 64H256c35.3 0 64-28.7 64-64V416H272v32c0 8.8-7.2 16-16 16H64c-8.8 0-16-7.2-16-16V192c0-8.8 7.2-16 16-16H96V128H64z"></path>
+    </svg>
+                                        
+</button>
+                                    </td>
+                                    <td class="text-end">499.65</td>
+                                    <td class="text-end">19,557.62</td>
+                                    <td class="text-end">40</td>
+                                    <td class="text-end">1,000</td>
+                                    <td class="text-end">3,069</td>
+                                    <td class="text-end">109</td>
+                                    <td class="text-center">
+                                                Pristine
+                                    </td>
+                                    <td class="text-center"></td>
+                                    <td class="text-end"></td>
+                                </tr>
+                                <tr>
+                                    <td class="text-end"><input aria-label="Done" type="checkbox"></td>
+                                    <td>
+                                        <a id="ember165" class="ember-view" href="/system/13754495942761">
+                                            Eoch Flyuae RR-H b12-6
+                                        </a>
+                                        <button class="copy-btn clipboard-button " title="Copy Eoch Flyuae RR-H b12-6 to clipboard" data-clipboard-text="Eoch Flyuae RR-H b12-6" type="button" id="ember211">
+  
+                                            <svg class="svg-inline--fa fa-copy" data-prefix="far" data-icon="copy" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+        <path fill="currentColor" d="M384 336H192c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16l140.1 0L400 115.9V320c0 8.8-7.2 16-16 16zM192 384H384c35.3 0 64-28.7 64-64V115.9c0-12.7-5.1-24.9-14.1-33.9L366.1 14.1c-9-9-21.2-14.1-33.9-14.1H192c-35.3 0-64 28.7-64 64V320c0 35.3 28.7 64 64 64zM64 128c-35.3 0-64 28.7-64 64V448c0 35.3 28.7 64 64 64H256c35.3 0 64-28.7 64-64V416H272v32c0 8.8-7.2 16-16 16H64c-8.8 0-16-7.2-16-16V192c0-8.8 7.2-16 16-16H96V128H64z"></path>
+    </svg>
+                                        
+</button>
+                                    </td>
+                                    <td class="text-end">499.86</td>
+                                    <td class="text-end">19,058.12</td>
+                                    <td class="text-end">39</td>
+                                    <td class="text-end">1,000</td>
+                                    <td class="text-end">2,960</td>
+                                    <td class="text-end">109</td>
+                                    <td class="text-center">
+                                                Pristine
+                                    </td>
+                                    <td class="text-center"></td>
+                                    <td class="text-end"></td>
+                                </tr>
+                                <tr>
+                                    <td class="text-end"><input aria-label="Done" type="checkbox"></td>
+                                    <td>
+                                        <a id="ember166" class="ember-view" href="/system/26733520003034">
+                                            Boeph CX-G c25-97
+                                        </a>
+                                        <button class="copy-btn clipboard-button " title="Copy Boeph CX-G c25-97 to clipboard" data-clipboard-text="Boeph CX-G c25-97" type="button" id="ember212">
+  
+                                            <svg class="svg-inline--fa fa-copy" data-prefix="far" data-icon="copy" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+        <path fill="currentColor" d="M384 336H192c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16l140.1 0L400 115.9V320c0 8.8-7.2 16-16 16zM192 384H384c35.3 0 64-28.7 64-64V115.9c0-12.7-5.1-24.9-14.1-33.9L366.1 14.1c-9-9-21.2-14.1-33.9-14.1H192c-35.3 0-64 28.7-64 64V320c0 35.3 28.7 64 64 64zM64 128c-35.3 0-64 28.7-64 64V448c0 35.3 28.7 64 64 64H256c35.3 0 64-28.7 64-64V416H272v32c0 8.8-7.2 16-16 16H64c-8.8 0-16-7.2-16-16V192c0-8.8 7.2-16 16-16H96V128H64z"></path>
+    </svg>
+                                        
+</button>
+                                    </td>
+                                    <td class="text-end">499.86</td>
+                                    <td class="text-end">18,559.60</td>
+                                    <td class="text-end">38</td>
+                                    <td class="text-end">1,000</td>
+                                    <td class="text-end">2,852</td>
+                                    <td class="text-end">108</td>
+                                    <td class="text-center">
+                                                Pristine
+                                    </td>
+                                    <td class="text-center"></td>
+                                    <td class="text-end"></td>
+                                </tr>
+                                <tr>
+                                    <td class="text-end"><input aria-label="Done" type="checkbox"></td>
+                                    <td>
+                                        <a id="ember167" class="ember-view" href="/system/29153296137985">
+                                            Boeph CZ-A b30-13
+                                        </a>
+                                        <button class="copy-btn clipboard-button " title="Copy Boeph CZ-A b30-13 to clipboard" data-clipboard-text="Boeph CZ-A b30-13" type="button" id="ember213">
+  
+                                            <svg class="svg-inline--fa fa-copy" data-prefix="far" data-icon="copy" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+        <path fill="currentColor" d="M384 336H192c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16l140.1 0L400 115.9V320c0 8.8-7.2 16-16 16zM192 384H384c35.3 0 64-28.7 64-64V115.9c0-12.7-5.1-24.9-14.1-33.9L366.1 14.1c-9-9-21.2-14.1-33.9-14.1H192c-35.3 0-64 28.7-64 64V320c0 35.3 28.7 64 64 64zM64 128c-35.3 0-64 28.7-64 64V448c0 35.3 28.7 64 64 64H256c35.3 0 64-28.7 64-64V416H272v32c0 8.8-7.2 16-16 16H64c-8.8 0-16-7.2-16-16V192c0-8.8 7.2-16 16-16H96V128H64z"></path>
+    </svg>
+                                        
+</button>
+                                    </td>
+                                    <td class="text-end">498.99</td>
+                                    <td class="text-end">18,060.80</td>
+                                    <td class="text-end">37</td>
+                                    <td class="text-end">1,000</td>
+                                    <td class="text-end">2,744</td>
+                                    <td class="text-end">108</td>
+                                    <td class="text-center">
+                                                Pristine
+                                    </td>
+                                    <td class="text-center"></td>
+                                    <td class="text-end"></td>
+                                </tr>
+                                <tr>
+                                    <td class="text-end"><input aria-label="Done" type="checkbox"></td>
+                                    <td>
+                                        <a id="ember168" class="ember-view" href="/system/3479233744787">
+                                            Boelts WU-X d1-101
+                                        </a>
+                                        <button class="copy-btn clipboard-button " title="Copy Boelts WU-X d1-101 to clipboard" data-clipboard-text="Boelts WU-X d1-101" type="button" id="ember214">
+  
+                                            <svg class="svg-inline--fa fa-copy" data-prefix="far" data-icon="copy" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+        <path fill="currentColor" d="M384 336H192c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16l140.1 0L400 115.9V320c0 8.8-7.2 16-16 16zM192 384H384c35.3 0 64-28.7 64-64V115.9c0-12.7-5.1-24.9-14.1-33.9L366.1 14.1c-9-9-21.2-14.1-33.9-14.1H192c-35.3 0-64 28.7-64 64V320c0 35.3 28.7 64 64 64zM64 128c-35.3 0-64 28.7-64 64V448c0 35.3 28.7 64 64 64H256c35.3 0 64-28.7 64-64V416H272v32c0 8.8-7.2 16-16 16H64c-8.8 0-16-7.2-16-16V192c0-8.8 7.2-16 16-16H96V128H64z"></path>
+    </svg>
+                                        
+</button>
+                                    </td>
+                                    <td class="text-end">499.79</td>
+                                    <td class="text-end">17,563.73</td>
+                                    <td class="text-end">36</td>
+                                    <td class="text-end">1,000</td>
+                                    <td class="text-end">2,636</td>
+                                    <td class="text-end">108</td>
+                                    <td class="text-center">
+                                                Pristine
+                                    </td>
+                                    <td class="text-center"></td>
+                                    <td class="text-end"></td>
+                                </tr>
+                                <tr>
+                                    <td class="text-end"><input aria-label="Done" type="checkbox"></td>
+                                    <td>
+                                        <a id="ember169" class="ember-view" href="/system/15676991197035">
+                                            Blua Eaec RK-E d12-456
+                                        </a>
+                                        <button class="copy-btn clipboard-button " title="Copy Blua Eaec RK-E d12-456 to clipboard" data-clipboard-text="Blua Eaec RK-E d12-456" type="button" id="ember215">
+  
+                                            <svg class="svg-inline--fa fa-copy" data-prefix="far" data-icon="copy" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+        <path fill="currentColor" d="M384 336H192c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16l140.1 0L400 115.9V320c0 8.8-7.2 16-16 16zM192 384H384c35.3 0 64-28.7 64-64V115.9c0-12.7-5.1-24.9-14.1-33.9L366.1 14.1c-9-9-21.2-14.1-33.9-14.1H192c-35.3 0-64 28.7-64 64V320c0 35.3 28.7 64 64 64zM64 128c-35.3 0-64 28.7-64 64V448c0 35.3 28.7 64 64 64H256c35.3 0 64-28.7 64-64V416H272v32c0 8.8-7.2 16-16 16H64c-8.8 0-16-7.2-16-16V192c0-8.8 7.2-16 16-16H96V128H64z"></path>
+    </svg>
+                                        
+</button>
+                                    </td>
+                                    <td class="text-end">499.01</td>
+                                    <td class="text-end">17,066.38</td>
+                                    <td class="text-end">35</td>
+                                    <td class="text-end">1,000</td>
+                                    <td class="text-end">2,529</td>
+                                    <td class="text-end">107</td>
+                                    <td class="text-center">
+                                                Pristine
+                                    </td>
+                                    <td class="text-center"></td>
+                                    <td class="text-end"></td>
+                                </tr>
+                                <tr>
+                                    <td class="text-end"><input aria-label="Done" type="checkbox"></td>
+                                    <td>
+                                        <a id="ember170" class="ember-view" href="/system/37180424068730">
+                                            Blua Eaec RP-C c14-135
+                                        </a>
+                                        <button class="copy-btn clipboard-button " title="Copy Blua Eaec RP-C c14-135 to clipboard" data-clipboard-text="Blua Eaec RP-C c14-135" type="button" id="ember216">
+  
+                                            <svg class="svg-inline--fa fa-copy" data-prefix="far" data-icon="copy" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+        <path fill="currentColor" d="M384 336H192c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16l140.1 0L400 115.9V320c0 8.8-7.2 16-16 16zM192 384H384c35.3 0 64-28.7 64-64V115.9c0-12.7-5.1-24.9-14.1-33.9L366.1 14.1c-9-9-21.2-14.1-33.9-14.1H192c-35.3 0-64 28.7-64 64V320c0 35.3 28.7 64 64 64zM64 128c-35.3 0-64 28.7-64 64V448c0 35.3 28.7 64 64 64H256c35.3 0 64-28.7 64-64V416H272v32c0 8.8-7.2 16-16 16H64c-8.8 0-16-7.2-16-16V192c0-8.8 7.2-16 16-16H96V128H64z"></path>
+    </svg>
+                                        
+</button>
+                                    </td>
+                                    <td class="text-end">499.81</td>
+                                    <td class="text-end">16,567.53</td>
+                                    <td class="text-end">34</td>
+                                    <td class="text-end">1,000</td>
+                                    <td class="text-end">2,422</td>
+                                    <td class="text-end">107</td>
+                                    <td class="text-center">
+                                                Pristine
+                                    </td>
+                                    <td class="text-center"></td>
+                                    <td class="text-end"></td>
+                                </tr>
+                                <tr>
+                                    <td class="text-end"><input aria-label="Done" type="checkbox"></td>
+                                    <td>
+                                        <a id="ember171" class="ember-view" href="/system/896875896346">
+                                            Blua Eaec AU-X c2-3
+                                        </a>
+                                        <button class="copy-btn clipboard-button " title="Copy Blua Eaec AU-X c2-3 to clipboard" data-clipboard-text="Blua Eaec AU-X c2-3" type="button" id="ember217">
+  
+                                            <svg class="svg-inline--fa fa-copy" data-prefix="far" data-icon="copy" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+        <path fill="currentColor" d="M384 336H192c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16l140.1 0L400 115.9V320c0 8.8-7.2 16-16 16zM192 384H384c35.3 0 64-28.7 64-64V115.9c0-12.7-5.1-24.9-14.1-33.9L366.1 14.1c-9-9-21.2-14.1-33.9-14.1H192c-35.3 0-64 28.7-64 64V320c0 35.3 28.7 64 64 64zM64 128c-35.3 0-64 28.7-64 64V448c0 35.3 28.7 64 64 64H256c35.3 0 64-28.7 64-64V416H272v32c0 8.8-7.2 16-16 16H64c-8.8 0-16-7.2-16-16V192c0-8.8 7.2-16 16-16H96V128H64z"></path>
+    </svg>
+                                        
+</button>
+                                    </td>
+                                    <td class="text-end">499.89</td>
+                                    <td class="text-end">16,067.74</td>
+                                    <td class="text-end">33</td>
+                                    <td class="text-end">1,000</td>
+                                    <td class="text-end">2,315</td>
+                                    <td class="text-end">107</td>
+                                    <td class="text-center">
+                                                Pristine
+                                    </td>
+                                    <td class="text-center"></td>
+                                    <td class="text-end"></td>
+                                </tr>
+                                <tr>
+                                    <td class="text-end"><input aria-label="Done" type="checkbox"></td>
+                                    <td>
+                                        <a id="ember172" class="ember-view" href="/system/26735801834946">
+                                            Stuelou KY-M c22-97
+                                        </a>
+                                        <button class="copy-btn clipboard-button " title="Copy Stuelou KY-M c22-97 to clipboard" data-clipboard-text="Stuelou KY-M c22-97" type="button" id="ember218">
+  
+                                            <svg class="svg-inline--fa fa-copy" data-prefix="far" data-icon="copy" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+        <path fill="currentColor" d="M384 336H192c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16l140.1 0L400 115.9V320c0 8.8-7.2 16-16 16zM192 384H384c35.3 0 64-28.7 64-64V115.9c0-12.7-5.1-24.9-14.1-33.9L366.1 14.1c-9-9-21.2-14.1-33.9-14.1H192c-35.3 0-64 28.7-64 64V320c0 35.3 28.7 64 64 64zM64 128c-35.3 0-64 28.7-64 64V448c0 35.3 28.7 64 64 64H256c35.3 0 64-28.7 64-64V416H272v32c0 8.8-7.2 16-16 16H64c-8.8 0-16-7.2-16-16V192c0-8.8 7.2-16 16-16H96V128H64z"></path>
+    </svg>
+                                        
+</button>
+                                    </td>
+                                    <td class="text-end">499.89</td>
+                                    <td class="text-end">15,568.50</td>
+                                    <td class="text-end">32</td>
+                                    <td class="text-end">1,000</td>
+                                    <td class="text-end">2,208</td>
+                                    <td class="text-end">107</td>
+                                    <td class="text-center">
+                                                Pristine
+                                    </td>
+                                    <td class="text-center"></td>
+                                    <td class="text-end"></td>
+                                </tr>
+                                <tr>
+                                    <td class="text-end"><input aria-label="Done" type="checkbox"></td>
+                                    <td>
+                                        <a id="ember173" class="ember-view" href="/system/24772698323665">
+                                            Stuelou TR-M b24-11
+                                        </a>
+                                        <button class="copy-btn clipboard-button " title="Copy Stuelou TR-M b24-11 to clipboard" data-clipboard-text="Stuelou TR-M b24-11" type="button" id="ember219">
+  
+                                            <svg class="svg-inline--fa fa-copy" data-prefix="far" data-icon="copy" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+        <path fill="currentColor" d="M384 336H192c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16l140.1 0L400 115.9V320c0 8.8-7.2 16-16 16zM192 384H384c35.3 0 64-28.7 64-64V115.9c0-12.7-5.1-24.9-14.1-33.9L366.1 14.1c-9-9-21.2-14.1-33.9-14.1H192c-35.3 0-64 28.7-64 64V320c0 35.3 28.7 64 64 64zM64 128c-35.3 0-64 28.7-64 64V448c0 35.3 28.7 64 64 64H256c35.3 0 64-28.7 64-64V416H272v32c0 8.8-7.2 16-16 16H64c-8.8 0-16-7.2-16-16V192c0-8.8 7.2-16 16-16H96V128H64z"></path>
+    </svg>
+                                        
+</button>
+                                    </td>
+                                    <td class="text-end">499.99</td>
+                                    <td class="text-end">15,069.08</td>
+                                    <td class="text-end">31</td>
+                                    <td class="text-end">1,000</td>
+                                    <td class="text-end">2,101</td>
+                                    <td class="text-end">107</td>
+                                    <td class="text-center">
+<!---->                                    </td>
+                                    <td class="text-center"></td>
+                                    <td class="text-end"></td>
+                                </tr>
+                                <tr>
+                                    <td class="text-end"><input aria-label="Done" type="checkbox"></td>
+                                    <td>
+                                        <a id="ember174" class="ember-view" href="/system/6120697011474">
+                                            Nuekuae FS-Z c1-22
+                                        </a>
+                                        <button class="copy-btn clipboard-button " title="Copy Nuekuae FS-Z c1-22 to clipboard" data-clipboard-text="Nuekuae FS-Z c1-22" type="button" id="ember220">
+  
+                                            <svg class="svg-inline--fa fa-copy" data-prefix="far" data-icon="copy" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+        <path fill="currentColor" d="M384 336H192c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16l140.1 0L400 115.9V320c0 8.8-7.2 16-16 16zM192 384H384c35.3 0 64-28.7 64-64V115.9c0-12.7-5.1-24.9-14.1-33.9L366.1 14.1c-9-9-21.2-14.1-33.9-14.1H192c-35.3 0-64 28.7-64 64V320c0 35.3 28.7 64 64 64zM64 128c-35.3 0-64 28.7-64 64V448c0 35.3 28.7 64 64 64H256c35.3 0 64-28.7 64-64V416H272v32c0 8.8-7.2 16-16 16H64c-8.8 0-16-7.2-16-16V192c0-8.8 7.2-16 16-16H96V128H64z"></path>
+    </svg>
+                                        
+</button>
+                                    </td>
+                                    <td class="text-end">499.31</td>
+                                    <td class="text-end">14,571.37</td>
+                                    <td class="text-end">30</td>
+                                    <td class="text-end">1,000</td>
+                                    <td class="text-end">1,995</td>
+                                    <td class="text-end">106</td>
+                                    <td class="text-center">
+                                                Pristine
+                                    </td>
+                                    <td class="text-center"></td>
+                                    <td class="text-end"></td>
+                                </tr>
+                                <tr>
+                                    <td class="text-end"><input aria-label="Done" type="checkbox"></td>
+                                    <td>
+                                        <a id="ember175" class="ember-view" href="/system/18181534202217">
+                                            Clooku ZH-F b42-8
+                                        </a>
+                                        <button class="copy-btn clipboard-button " title="Copy Clooku ZH-F b42-8 to clipboard" data-clipboard-text="Clooku ZH-F b42-8" type="button" id="ember221">
+  
+                                            <svg class="svg-inline--fa fa-copy" data-prefix="far" data-icon="copy" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+        <path fill="currentColor" d="M384 336H192c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16l140.1 0L400 115.9V320c0 8.8-7.2 16-16 16zM192 384H384c35.3 0 64-28.7 64-64V115.9c0-12.7-5.1-24.9-14.1-33.9L366.1 14.1c-9-9-21.2-14.1-33.9-14.1H192c-35.3 0-64 28.7-64 64V320c0 35.3 28.7 64 64 64zM64 128c-35.3 0-64 28.7-64 64V448c0 35.3 28.7 64 64 64H256c35.3 0 64-28.7 64-64V416H272v32c0 8.8-7.2 16-16 16H64c-8.8 0-16-7.2-16-16V192c0-8.8 7.2-16 16-16H96V128H64z"></path>
+    </svg>
+                                        
+</button>
+                                    </td>
+                                    <td class="text-end">500.00</td>
+                                    <td class="text-end">14,072.70</td>
+                                    <td class="text-end">29</td>
+                                    <td class="text-end">1,000</td>
+                                    <td class="text-end">1,889</td>
+                                    <td class="text-end">106</td>
+                                    <td class="text-center">
+                                                Pristine
+                                    </td>
+                                    <td class="text-center"></td>
+                                    <td class="text-end"></td>
+                                </tr>
+                                <tr>
+                                    <td class="text-end"><input aria-label="Done" type="checkbox"></td>
+                                    <td>
+                                        <a id="ember176" class="ember-view" href="/system/84155184789681">
+                                            Clooku SG-U b20-38
+                                        </a>
+                                        <button class="copy-btn clipboard-button " title="Copy Clooku SG-U b20-38 to clipboard" data-clipboard-text="Clooku SG-U b20-38" type="button" id="ember222">
+  
+                                            <svg class="svg-inline--fa fa-copy" data-prefix="far" data-icon="copy" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+        <path fill="currentColor" d="M384 336H192c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16l140.1 0L400 115.9V320c0 8.8-7.2 16-16 16zM192 384H384c35.3 0 64-28.7 64-64V115.9c0-12.7-5.1-24.9-14.1-33.9L366.1 14.1c-9-9-21.2-14.1-33.9-14.1H192c-35.3 0-64 28.7-64 64V320c0 35.3 28.7 64 64 64zM64 128c-35.3 0-64 28.7-64 64V448c0 35.3 28.7 64 64 64H256c35.3 0 64-28.7 64-64V416H272v32c0 8.8-7.2 16-16 16H64c-8.8 0-16-7.2-16-16V192c0-8.8 7.2-16 16-16H96V128H64z"></path>
+    </svg>
+                                        
+</button>
+                                    </td>
+                                    <td class="text-end">500.00</td>
+                                    <td class="text-end">13,573.15</td>
+                                    <td class="text-end">28</td>
+                                    <td class="text-end">1,000</td>
+                                    <td class="text-end">1,783</td>
+                                    <td class="text-end">106</td>
+                                    <td class="text-center">
+<!---->                                    </td>
+                                    <td class="text-center"></td>
+                                    <td class="text-end"></td>
+                                </tr>
+                                <tr>
+                                    <td class="text-end"><input aria-label="Done" type="checkbox"></td>
+                                    <td>
+                                        <a id="ember177" class="ember-view" href="/system/18187439978497">
+                                            Clooku RG-H b8
+                                        </a>
+                                        <button class="copy-btn clipboard-button " title="Copy Clooku RG-H b8 to clipboard" data-clipboard-text="Clooku RG-H b8" type="button" id="ember223">
+  
+                                            <svg class="svg-inline--fa fa-copy" data-prefix="far" data-icon="copy" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+        <path fill="currentColor" d="M384 336H192c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16l140.1 0L400 115.9V320c0 8.8-7.2 16-16 16zM192 384H384c35.3 0 64-28.7 64-64V115.9c0-12.7-5.1-24.9-14.1-33.9L366.1 14.1c-9-9-21.2-14.1-33.9-14.1H192c-35.3 0-64 28.7-64 64V320c0 35.3 28.7 64 64 64zM64 128c-35.3 0-64 28.7-64 64V448c0 35.3 28.7 64 64 64H256c35.3 0 64-28.7 64-64V416H272v32c0 8.8-7.2 16-16 16H64c-8.8 0-16-7.2-16-16V192c0-8.8 7.2-16 16-16H96V128H64z"></path>
+    </svg>
+                                        
+</button>
+                                    </td>
+                                    <td class="text-end">499.98</td>
+                                    <td class="text-end">13,073.20</td>
+                                    <td class="text-end">27</td>
+                                    <td class="text-end">1,000</td>
+                                    <td class="text-end">1,678</td>
+                                    <td class="text-end">105</td>
+                                    <td class="text-center">
+                                                Pristine
+                                    </td>
+                                    <td class="text-center"></td>
+                                    <td class="text-end"></td>
+                                </tr>
+                                <tr>
+                                    <td class="text-end"><input aria-label="Done" type="checkbox"></td>
+                                    <td>
+                                        <a id="ember178" class="ember-view" href="/system/20389416089417">
+                                            Prua Phoe IE-N b38-9
+                                        </a>
+                                        <button class="copy-btn clipboard-button " title="Copy Prua Phoe IE-N b38-9 to clipboard" data-clipboard-text="Prua Phoe IE-N b38-9" type="button" id="ember224">
+  
+                                            <svg class="svg-inline--fa fa-copy" data-prefix="far" data-icon="copy" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+        <path fill="currentColor" d="M384 336H192c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16l140.1 0L400 115.9V320c0 8.8-7.2 16-16 16zM192 384H384c35.3 0 64-28.7 64-64V115.9c0-12.7-5.1-24.9-14.1-33.9L366.1 14.1c-9-9-21.2-14.1-33.9-14.1H192c-35.3 0-64 28.7-64 64V320c0 35.3 28.7 64 64 64zM64 128c-35.3 0-64 28.7-64 64V448c0 35.3 28.7 64 64 64H256c35.3 0 64-28.7 64-64V416H272v32c0 8.8-7.2 16-16 16H64c-8.8 0-16-7.2-16-16V192c0-8.8 7.2-16 16-16H96V128H64z"></path>
+    </svg>
+                                        
+</button>
+                                    </td>
+                                    <td class="text-end">499.34</td>
+                                    <td class="text-end">12,573.95</td>
+                                    <td class="text-end">26</td>
+                                    <td class="text-end">1,000</td>
+                                    <td class="text-end">1,573</td>
+                                    <td class="text-end">105</td>
+                                    <td class="text-center">
+                                                Pristine
+                                    </td>
+                                    <td class="text-center"></td>
+                                    <td class="text-end"></td>
+                                </tr>
+                                <tr>
+                                    <td class="text-end"><input aria-label="Done" type="checkbox"></td>
+                                    <td>
+                                        <a id="ember179" class="ember-view" href="/system/11596275922585">
+                                            Prua Phoe HE-A b18-5
+                                        </a>
+                                        <button class="copy-btn clipboard-button " title="Copy Prua Phoe HE-A b18-5 to clipboard" data-clipboard-text="Prua Phoe HE-A b18-5" type="button" id="ember225">
+  
+                                            <svg class="svg-inline--fa fa-copy" data-prefix="far" data-icon="copy" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+        <path fill="currentColor" d="M384 336H192c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16l140.1 0L400 115.9V320c0 8.8-7.2 16-16 16zM192 384H384c35.3 0 64-28.7 64-64V115.9c0-12.7-5.1-24.9-14.1-33.9L366.1 14.1c-9-9-21.2-14.1-33.9-14.1H192c-35.3 0-64 28.7-64 64V320c0 35.3 28.7 64 64 64zM64 128c-35.3 0-64 28.7-64 64V448c0 35.3 28.7 64 64 64H256c35.3 0 64-28.7 64-64V416H272v32c0 8.8-7.2 16-16 16H64c-8.8 0-16-7.2-16-16V192c0-8.8 7.2-16 16-16H96V128H64z"></path>
+    </svg>
+                                        
+</button>
+                                    </td>
+                                    <td class="text-end">499.98</td>
+                                    <td class="text-end">12,073.99</td>
+                                    <td class="text-end">25</td>
+                                    <td class="text-end">1,000</td>
+                                    <td class="text-end">1,468</td>
+                                    <td class="text-end">105</td>
+                                    <td class="text-center">
+                                                Pristine
+                                    </td>
+                                    <td class="text-center"></td>
+                                    <td class="text-end"></td>
+                                </tr>
+                                <tr>
+                                    <td class="text-end"><input aria-label="Done" type="checkbox"></td>
+                                    <td>
+                                        <a id="ember180" class="ember-view" href="/system/1555625315707">
+                                            Skaude QL-B d14-45
+                                        </a>
+                                        <button class="copy-btn clipboard-button " title="Copy Skaude QL-B d14-45 to clipboard" data-clipboard-text="Skaude QL-B d14-45" type="button" id="ember226">
+  
+                                            <svg class="svg-inline--fa fa-copy" data-prefix="far" data-icon="copy" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+        <path fill="currentColor" d="M384 336H192c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16l140.1 0L400 115.9V320c0 8.8-7.2 16-16 16zM192 384H384c35.3 0 64-28.7 64-64V115.9c0-12.7-5.1-24.9-14.1-33.9L366.1 14.1c-9-9-21.2-14.1-33.9-14.1H192c-35.3 0-64 28.7-64 64V320c0 35.3 28.7 64 64 64zM64 128c-35.3 0-64 28.7-64 64V448c0 35.3 28.7 64 64 64H256c35.3 0 64-28.7 64-64V416H272v32c0 8.8-7.2 16-16 16H64c-8.8 0-16-7.2-16-16V192c0-8.8 7.2-16 16-16H96V128H64z"></path>
+    </svg>
+                                        
+</button>
+                                    </td>
+                                    <td class="text-end">499.92</td>
+                                    <td class="text-end">11,574.52</td>
+                                    <td class="text-end">24</td>
+                                    <td class="text-end">1,000</td>
+                                    <td class="text-end">1,363</td>
+                                    <td class="text-end">105</td>
+                                    <td class="text-center">
+                                                Pristine
+                                    </td>
+                                    <td class="text-center"></td>
+                                    <td class="text-end"></td>
+                                </tr>
+                                <tr>
+                                    <td class="text-end"><input aria-label="Done" type="checkbox"></td>
+                                    <td>
+                                        <a id="ember181" class="ember-view" href="/system/606796985649">
+                                            Skaude IE-T b35-0
+                                        </a>
+                                        <button class="copy-btn clipboard-button " title="Copy Skaude IE-T b35-0 to clipboard" data-clipboard-text="Skaude IE-T b35-0" type="button" id="ember227">
+  
+                                            <svg class="svg-inline--fa fa-copy" data-prefix="far" data-icon="copy" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+        <path fill="currentColor" d="M384 336H192c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16l140.1 0L400 115.9V320c0 8.8-7.2 16-16 16zM192 384H384c35.3 0 64-28.7 64-64V115.9c0-12.7-5.1-24.9-14.1-33.9L366.1 14.1c-9-9-21.2-14.1-33.9-14.1H192c-35.3 0-64 28.7-64 64V320c0 35.3 28.7 64 64 64zM64 128c-35.3 0-64 28.7-64 64V448c0 35.3 28.7 64 64 64H256c35.3 0 64-28.7 64-64V416H272v32c0 8.8-7.2 16-16 16H64c-8.8 0-16-7.2-16-16V192c0-8.8 7.2-16 16-16H96V128H64z"></path>
+    </svg>
+                                        
+</button>
+                                    </td>
+                                    <td class="text-end">499.02</td>
+                                    <td class="text-end">11,075.92</td>
+                                    <td class="text-end">23</td>
+                                    <td class="text-end">1,000</td>
+                                    <td class="text-end">1,259</td>
+                                    <td class="text-end">104</td>
+                                    <td class="text-center">
+                                                Pristine
+                                    </td>
+                                    <td class="text-center"></td>
+                                    <td class="text-end"></td>
+                                </tr>
+                                <tr>
+                                    <td class="text-end"><input aria-label="Done" type="checkbox"></td>
+                                    <td>
+                                        <a id="ember182" class="ember-view" href="/system/18201667318905">
+                                            Skaude GO-H b14-8
+                                        </a>
+                                        <button class="copy-btn clipboard-button " title="Copy Skaude GO-H b14-8 to clipboard" data-clipboard-text="Skaude GO-H b14-8" type="button" id="ember228">
+  
+                                            <svg class="svg-inline--fa fa-copy" data-prefix="far" data-icon="copy" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+        <path fill="currentColor" d="M384 336H192c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16l140.1 0L400 115.9V320c0 8.8-7.2 16-16 16zM192 384H384c35.3 0 64-28.7 64-64V115.9c0-12.7-5.1-24.9-14.1-33.9L366.1 14.1c-9-9-21.2-14.1-33.9-14.1H192c-35.3 0-64 28.7-64 64V320c0 35.3 28.7 64 64 64zM64 128c-35.3 0-64 28.7-64 64V448c0 35.3 28.7 64 64 64H256c35.3 0 64-28.7 64-64V416H272v32c0 8.8-7.2 16-16 16H64c-8.8 0-16-7.2-16-16V192c0-8.8 7.2-16 16-16H96V128H64z"></path>
+    </svg>
+                                        
+</button>
+                                    </td>
+                                    <td class="text-end">499.73</td>
+                                    <td class="text-end">10,576.55</td>
+                                    <td class="text-end">22</td>
+                                    <td class="text-end">1,000</td>
+                                    <td class="text-end">1,155</td>
+                                    <td class="text-end">104</td>
+                                    <td class="text-center">
+                                                Pristine
+                                    </td>
+                                    <td class="text-center"></td>
+                                    <td class="text-end"></td>
+                                </tr>
+                                <tr>
+                                    <td class="text-end"><input aria-label="Done" type="checkbox"></td>
+                                    <td>
+                                        <a id="ember183" class="ember-view" href="/system/3100194281954">
+                                            Flyiedge MQ-G c26-11
+                                        </a>
+                                        <button class="copy-btn clipboard-button " title="Copy Flyiedge MQ-G c26-11 to clipboard" data-clipboard-text="Flyiedge MQ-G c26-11" type="button" id="ember229">
+  
+                                            <svg class="svg-inline--fa fa-copy" data-prefix="far" data-icon="copy" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+        <path fill="currentColor" d="M384 336H192c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16l140.1 0L400 115.9V320c0 8.8-7.2 16-16 16zM192 384H384c35.3 0 64-28.7 64-64V115.9c0-12.7-5.1-24.9-14.1-33.9L366.1 14.1c-9-9-21.2-14.1-33.9-14.1H192c-35.3 0-64 28.7-64 64V320c0 35.3 28.7 64 64 64zM64 128c-35.3 0-64 28.7-64 64V448c0 35.3 28.7 64 64 64H256c35.3 0 64-28.7 64-64V416H272v32c0 8.8-7.2 16-16 16H64c-8.8 0-16-7.2-16-16V192c0-8.8 7.2-16 16-16H96V128H64z"></path>
+    </svg>
+                                        
+</button>
+                                    </td>
+                                    <td class="text-end">499.89</td>
+                                    <td class="text-end">10,076.77</td>
+                                    <td class="text-end">21</td>
+                                    <td class="text-end">1,000</td>
+                                    <td class="text-end">1,051</td>
+                                    <td class="text-end">104</td>
+                                    <td class="text-center">
+                                                Pristine
+                                    </td>
+                                    <td class="text-center"></td>
+                                    <td class="text-end"></td>
+                                </tr>
+                                <tr>
+                                    <td class="text-end"><input aria-label="Done" type="checkbox"></td>
+                                    <td>
+                                        <a id="ember184" class="ember-view" href="/system/6674009725322">
+                                            Flyiedge AB-A c16-24
+                                        </a>
+                                        <button class="copy-btn clipboard-button " title="Copy Flyiedge AB-A c16-24 to clipboard" data-clipboard-text="Flyiedge AB-A c16-24" type="button" id="ember230">
+  
+                                            <svg class="svg-inline--fa fa-copy" data-prefix="far" data-icon="copy" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+        <path fill="currentColor" d="M384 336H192c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16l140.1 0L400 115.9V320c0 8.8-7.2 16-16 16zM192 384H384c35.3 0 64-28.7 64-64V115.9c0-12.7-5.1-24.9-14.1-33.9L366.1 14.1c-9-9-21.2-14.1-33.9-14.1H192c-35.3 0-64 28.7-64 64V320c0 35.3 28.7 64 64 64zM64 128c-35.3 0-64 28.7-64 64V448c0 35.3 28.7 64 64 64H256c35.3 0 64-28.7 64-64V416H272v32c0 8.8-7.2 16-16 16H64c-8.8 0-16-7.2-16-16V192c0-8.8 7.2-16 16-16H96V128H64z"></path>
+    </svg>
+                                        
+</button>
+                                    </td>
+                                    <td class="text-end">499.97</td>
+                                    <td class="text-end">9,577.29</td>
+                                    <td class="text-end">20</td>
+                                    <td class="text-end">1,000</td>
+                                    <td class="text-end">947</td>
+                                    <td class="text-end">104</td>
+                                    <td class="text-center">
+<!---->                                    </td>
+                                    <td class="text-center"></td>
+                                    <td class="text-end"></td>
+                                </tr>
+                                <tr>
+                                    <td class="text-end"><input aria-label="Done" type="checkbox"></td>
+                                    <td>
+                                        <a id="ember185" class="ember-view" href="/system/6399467395378">
+                                            Flyiedge LQ-T c5-23
+                                        </a>
+                                        <button class="copy-btn clipboard-button " title="Copy Flyiedge LQ-T c5-23 to clipboard" data-clipboard-text="Flyiedge LQ-T c5-23" type="button" id="ember231">
+  
+                                            <svg class="svg-inline--fa fa-copy" data-prefix="far" data-icon="copy" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+        <path fill="currentColor" d="M384 336H192c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16l140.1 0L400 115.9V320c0 8.8-7.2 16-16 16zM192 384H384c35.3 0 64-28.7 64-64V115.9c0-12.7-5.1-24.9-14.1-33.9L366.1 14.1c-9-9-21.2-14.1-33.9-14.1H192c-35.3 0-64 28.7-64 64V320c0 35.3 28.7 64 64 64zM64 128c-35.3 0-64 28.7-64 64V448c0 35.3 28.7 64 64 64H256c35.3 0 64-28.7 64-64V416H272v32c0 8.8-7.2 16-16 16H64c-8.8 0-16-7.2-16-16V192c0-8.8 7.2-16 16-16H96V128H64z"></path>
+    </svg>
+                                        
+</button>
+                                    </td>
+                                    <td class="text-end">499.93</td>
+                                    <td class="text-end">9,078.37</td>
+                                    <td class="text-end">19</td>
+                                    <td class="text-end">1,000</td>
+                                    <td class="text-end">844</td>
+                                    <td class="text-end">103</td>
+                                    <td class="text-center">
+<!---->                                    </td>
+                                    <td class="text-center"></td>
+                                    <td class="text-end"></td>
+                                </tr>
+                                <tr>
+                                    <td class="text-end"><input aria-label="Done" type="checkbox"></td>
+                                    <td>
+                                        <a id="ember186" class="ember-view" href="/system/5019070771625">
+                                            Nyeajaae ZG-T b49-2
+                                        </a>
+                                        <button class="copy-btn clipboard-button " title="Copy Nyeajaae ZG-T b49-2 to clipboard" data-clipboard-text="Nyeajaae ZG-T b49-2" type="button" id="ember232">
+  
+                                            <svg class="svg-inline--fa fa-copy" data-prefix="far" data-icon="copy" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+        <path fill="currentColor" d="M384 336H192c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16l140.1 0L400 115.9V320c0 8.8-7.2 16-16 16zM192 384H384c35.3 0 64-28.7 64-64V115.9c0-12.7-5.1-24.9-14.1-33.9L366.1 14.1c-9-9-21.2-14.1-33.9-14.1H192c-35.3 0-64 28.7-64 64V320c0 35.3 28.7 64 64 64zM64 128c-35.3 0-64 28.7-64 64V448c0 35.3 28.7 64 64 64H256c35.3 0 64-28.7 64-64V416H272v32c0 8.8-7.2 16-16 16H64c-8.8 0-16-7.2-16-16V192c0-8.8 7.2-16 16-16H96V128H64z"></path>
+    </svg>
+                                        
+</button>
+                                    </td>
+                                    <td class="text-end">499.85</td>
+                                    <td class="text-end">8,579.51</td>
+                                    <td class="text-end">18</td>
+                                    <td class="text-end">1,000</td>
+                                    <td class="text-end">741</td>
+                                    <td class="text-end">103</td>
+                                    <td class="text-center">
+<!---->                                    </td>
+                                    <td class="text-center"></td>
+                                    <td class="text-end"></td>
+                                </tr>
+                                <tr>
+                                    <td class="text-end"><input aria-label="Done" type="checkbox"></td>
+                                    <td>
+                                        <a id="ember187" class="ember-view" href="/system/4750938183802">
+                                            Nyeajaae YX-D c14-17
+                                        </a>
+                                        <button class="copy-btn clipboard-button " title="Copy Nyeajaae YX-D c14-17 to clipboard" data-clipboard-text="Nyeajaae YX-D c14-17" type="button" id="ember233">
+  
+                                            <svg class="svg-inline--fa fa-copy" data-prefix="far" data-icon="copy" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+        <path fill="currentColor" d="M384 336H192c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16l140.1 0L400 115.9V320c0 8.8-7.2 16-16 16zM192 384H384c35.3 0 64-28.7 64-64V115.9c0-12.7-5.1-24.9-14.1-33.9L366.1 14.1c-9-9-21.2-14.1-33.9-14.1H192c-35.3 0-64 28.7-64 64V320c0 35.3 28.7 64 64 64zM64 128c-35.3 0-64 28.7-64 64V448c0 35.3 28.7 64 64 64H256c35.3 0 64-28.7 64-64V416H272v32c0 8.8-7.2 16-16 16H64c-8.8 0-16-7.2-16-16V192c0-8.8 7.2-16 16-16H96V128H64z"></path>
+    </svg>
+                                        
+</button>
+                                    </td>
+                                    <td class="text-end">499.92</td>
+                                    <td class="text-end">8,079.65</td>
+                                    <td class="text-end">17</td>
+                                    <td class="text-end">1,000</td>
+                                    <td class="text-end">638</td>
+                                    <td class="text-end">103</td>
+                                    <td class="text-center">
+<!---->                                    </td>
+                                    <td class="text-center"></td>
+                                    <td class="text-end"></td>
+                                </tr>
+                                <tr>
+                                    <td class="text-end"><input aria-label="Done" type="checkbox"></td>
+                                    <td>
+                                        <a id="ember188" class="ember-view" href="/system/4476395821082">
+                                            Nyeajaae HC-Z c2-16
+                                        </a>
+                                        <button class="copy-btn clipboard-button " title="Copy Nyeajaae HC-Z c2-16 to clipboard" data-clipboard-text="Nyeajaae HC-Z c2-16" type="button" id="ember234">
+  
+                                            <svg class="svg-inline--fa fa-copy" data-prefix="far" data-icon="copy" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+        <path fill="currentColor" d="M384 336H192c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16l140.1 0L400 115.9V320c0 8.8-7.2 16-16 16zM192 384H384c35.3 0 64-28.7 64-64V115.9c0-12.7-5.1-24.9-14.1-33.9L366.1 14.1c-9-9-21.2-14.1-33.9-14.1H192c-35.3 0-64 28.7-64 64V320c0 35.3 28.7 64 64 64zM64 128c-35.3 0-64 28.7-64 64V448c0 35.3 28.7 64 64 64H256c35.3 0 64-28.7 64-64V416H272v32c0 8.8-7.2 16-16 16H64c-8.8 0-16-7.2-16-16V192c0-8.8 7.2-16 16-16H96V128H64z"></path>
+    </svg>
+                                        
+</button>
+                                    </td>
+                                    <td class="text-end">499.75</td>
+                                    <td class="text-end">7,580.73</td>
+                                    <td class="text-end">16</td>
+                                    <td class="text-end">1,000</td>
+                                    <td class="text-end">535</td>
+                                    <td class="text-end">103</td>
+                                    <td class="text-center">
+<!---->                                    </td>
+                                    <td class="text-center"></td>
+                                    <td class="text-end"></td>
+                                </tr>
+                                <tr>
+                                    <td class="text-end"><input aria-label="Done" type="checkbox"></td>
+                                    <td>
+                                        <a id="ember189" class="ember-view" href="/system/16022777114505">
+                                            Pyraleau LT-A b46-7
+                                        </a>
+                                        <button class="copy-btn clipboard-button " title="Copy Pyraleau LT-A b46-7 to clipboard" data-clipboard-text="Pyraleau LT-A b46-7" type="button" id="ember235">
+  
+                                            <svg class="svg-inline--fa fa-copy" data-prefix="far" data-icon="copy" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+        <path fill="currentColor" d="M384 336H192c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16l140.1 0L400 115.9V320c0 8.8-7.2 16-16 16zM192 384H384c35.3 0 64-28.7 64-64V115.9c0-12.7-5.1-24.9-14.1-33.9L366.1 14.1c-9-9-21.2-14.1-33.9-14.1H192c-35.3 0-64 28.7-64 64V320c0 35.3 28.7 64 64 64zM64 128c-35.3 0-64 28.7-64 64V448c0 35.3 28.7 64 64 64H256c35.3 0 64-28.7 64-64V416H272v32c0 8.8-7.2 16-16 16H64c-8.8 0-16-7.2-16-16V192c0-8.8 7.2-16 16-16H96V128H64z"></path>
+    </svg>
+                                        
+</button>
+                                    </td>
+                                    <td class="text-end">499.90</td>
+                                    <td class="text-end">7,082.26</td>
+                                    <td class="text-end">15</td>
+                                    <td class="text-end">1,000</td>
+                                    <td class="text-end">433</td>
+                                    <td class="text-end">102</td>
+                                    <td class="text-center">
+<!---->                                    </td>
+                                    <td class="text-center"></td>
+                                    <td class="text-end"></td>
+                                </tr>
+                                <tr>
+                                    <td class="text-end"><input aria-label="Done" type="checkbox"></td>
+                                    <td>
+                                        <a id="ember190" class="ember-view" href="/system/632567312089">
+                                            Pyraleau GD-O b25-0
+                                        </a>
+                                        <button class="copy-btn clipboard-button " title="Copy Pyraleau GD-O b25-0 to clipboard" data-clipboard-text="Pyraleau GD-O b25-0" type="button" id="ember236">
+  
+                                            <svg class="svg-inline--fa fa-copy" data-prefix="far" data-icon="copy" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+        <path fill="currentColor" d="M384 336H192c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16l140.1 0L400 115.9V320c0 8.8-7.2 16-16 16zM192 384H384c35.3 0 64-28.7 64-64V115.9c0-12.7-5.1-24.9-14.1-33.9L366.1 14.1c-9-9-21.2-14.1-33.9-14.1H192c-35.3 0-64 28.7-64 64V320c0 35.3 28.7 64 64 64zM64 128c-35.3 0-64 28.7-64 64V448c0 35.3 28.7 64 64 64H256c35.3 0 64-28.7 64-64V416H272v32c0 8.8-7.2 16-16 16H64c-8.8 0-16-7.2-16-16V192c0-8.8 7.2-16 16-16H96V128H64z"></path>
+    </svg>
+                                        
+</button>
+                                    </td>
+                                    <td class="text-end">499.97</td>
+                                    <td class="text-end">6,583.89</td>
+                                    <td class="text-end">14</td>
+                                    <td class="text-end">1,000</td>
+                                    <td class="text-end">331</td>
+                                    <td class="text-end">102</td>
+                                    <td class="text-center">
+<!---->                                    </td>
+                                    <td class="text-center"></td>
+                                    <td class="text-end"></td>
+                                </tr>
+                                <tr>
+                                    <td class="text-end"><input aria-label="Done" type="checkbox"></td>
+                                    <td>
+                                        <a id="ember191" class="ember-view" href="/system/1728623482642">
+                                            NGC 6705 Sector TT-Q c5-6
+                                        </a>
+                                        <button class="copy-btn clipboard-button " title="Copy NGC 6705 Sector TT-Q c5-6 to clipboard" data-clipboard-text="NGC 6705 Sector TT-Q c5-6" type="button" id="ember237">
+  
+                                            <svg class="svg-inline--fa fa-copy" data-prefix="far" data-icon="copy" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+        <path fill="currentColor" d="M384 336H192c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16l140.1 0L400 115.9V320c0 8.8-7.2 16-16 16zM192 384H384c35.3 0 64-28.7 64-64V115.9c0-12.7-5.1-24.9-14.1-33.9L366.1 14.1c-9-9-21.2-14.1-33.9-14.1H192c-35.3 0-64 28.7-64 64V320c0 35.3 28.7 64 64 64zM64 128c-35.3 0-64 28.7-64 64V448c0 35.3 28.7 64 64 64H256c35.3 0 64-28.7 64-64V416H272v32c0 8.8-7.2 16-16 16H64c-8.8 0-16-7.2-16-16V192c0-8.8 7.2-16 16-16H96V128H64z"></path>
+    </svg>
+                                        
+</button>
+                                    </td>
+                                    <td class="text-end">499.59</td>
+                                    <td class="text-end">6,086.28</td>
+                                    <td class="text-end">13</td>
+                                    <td class="text-end">1,000</td>
+                                    <td class="text-end">229</td>
+                                    <td class="text-end">102</td>
+                                    <td class="text-center">
+                                                Pristine
+                                    </td>
+                                    <td class="text-center"></td>
+                                    <td class="text-end"></td>
+                                </tr>
+                                <tr>
+                                    <td class="text-end"><input aria-label="Done" type="checkbox"></td>
+                                    <td>
+                                        <a id="ember192" class="ember-view" href="/system/5027628127930">
+                                            Blae Drye TJ-Q c21-18
+                                        </a>
+                                        <button class="copy-btn clipboard-button " title="Copy Blae Drye TJ-Q c21-18 to clipboard" data-clipboard-text="Blae Drye TJ-Q c21-18" type="button" id="ember238">
+  
+                                            <svg class="svg-inline--fa fa-copy" data-prefix="far" data-icon="copy" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+        <path fill="currentColor" d="M384 336H192c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16l140.1 0L400 115.9V320c0 8.8-7.2 16-16 16zM192 384H384c35.3 0 64-28.7 64-64V115.9c0-12.7-5.1-24.9-14.1-33.9L366.1 14.1c-9-9-21.2-14.1-33.9-14.1H192c-35.3 0-64 28.7-64 64V320c0 35.3 28.7 64 64 64zM64 128c-35.3 0-64 28.7-64 64V448c0 35.3 28.7 64 64 64H256c35.3 0 64-28.7 64-64V416H272v32c0 8.8-7.2 16-16 16H64c-8.8 0-16-7.2-16-16V192c0-8.8 7.2-16 16-16H96V128H64z"></path>
+    </svg>
+                                        
+</button>
+                                    </td>
+                                    <td class="text-end">498.93</td>
+                                    <td class="text-end">5,591.39</td>
+                                    <td class="text-end">12</td>
+                                    <td class="text-end">1,000</td>
+                                    <td class="text-end">128</td>
+                                    <td class="text-end">101</td>
+                                    <td class="text-center">
+                                                Pristine
+                                    </td>
+                                    <td class="text-center"></td>
+                                    <td class="text-end"></td>
+                                </tr>
+                                <tr>
+                                    <td class="text-end"><input aria-label="Done" type="checkbox"></td>
+                                    <td>
+                                        <a id="ember193" class="ember-view" href="/system/3514717653811">
+                                            Blae Drye DX-R d5-102
+                                        </a>
+                                        <button class="copy-btn clipboard-button " title="Copy Blae Drye DX-R d5-102 to clipboard" data-clipboard-text="Blae Drye DX-R d5-102" type="button" id="ember239">
+  
+                                            <svg class="svg-inline--fa fa-copy" data-prefix="far" data-icon="copy" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+        <path fill="currentColor" d="M384 336H192c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16l140.1 0L400 115.9V320c0 8.8-7.2 16-16 16zM192 384H384c35.3 0 64-28.7 64-64V115.9c0-12.7-5.1-24.9-14.1-33.9L366.1 14.1c-9-9-21.2-14.1-33.9-14.1H192c-35.3 0-64 28.7-64 64V320c0 35.3 28.7 64 64 64zM64 128c-35.3 0-64 28.7-64 64V448c0 35.3 28.7 64 64 64H256c35.3 0 64-28.7 64-64V416H272v32c0 8.8-7.2 16-16 16H64c-8.8 0-16-7.2-16-16V192c0-8.8 7.2-16 16-16H96V128H64z"></path>
+    </svg>
+                                        
+</button>
+                                    </td>
+                                    <td class="text-end">499.95</td>
+                                    <td class="text-end">5,092.88</td>
+                                    <td class="text-end">11</td>
+                                    <td class="text-end">1,000</td>
+                                    <td class="text-end">27</td>
+                                    <td class="text-end">101</td>
+                                    <td class="text-center">
+<!---->                                    </td>
+                                    <td class="text-center"></td>
+                                    <td class="text-end"></td>
+                                </tr>
+                                <tr>
+                                    <td class="text-end"><input aria-label="Done" type="checkbox"></td>
+                                    <td>
+                                        <a id="ember194" class="ember-view" href="/system/630386955786">
+                                            Blae Drye TJ-D c1-2
+                                        </a>
+                                        <button class="copy-btn clipboard-button " title="Copy Blae Drye TJ-D c1-2 to clipboard" data-clipboard-text="Blae Drye TJ-D c1-2" type="button" id="ember240">
+  
+                                            <svg class="svg-inline--fa fa-copy" data-prefix="far" data-icon="copy" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+        <path fill="currentColor" d="M384 336H192c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16l140.1 0L400 115.9V320c0 8.8-7.2 16-16 16zM192 384H384c35.3 0 64-28.7 64-64V115.9c0-12.7-5.1-24.9-14.1-33.9L366.1 14.1c-9-9-21.2-14.1-33.9-14.1H192c-35.3 0-64 28.7-64 64V320c0 35.3 28.7 64 64 64zM64 128c-35.3 0-64 28.7-64 64V448c0 35.3 28.7 64 64 64H256c35.3 0 64-28.7 64-64V416H272v32c0 8.8-7.2 16-16 16H64c-8.8 0-16-7.2-16-16V192c0-8.8 7.2-16 16-16H96V128H64z"></path>
+    </svg>
+                                        
+</button>
+                                    </td>
+                                    <td class="text-end">499.50</td>
+                                    <td class="text-end">4,596.47</td>
+                                    <td class="text-end">10</td>
+                                    <td class="text-end">926</td>
+                                    <td class="text-end">0</td>
+                                    <td class="text-end">101</td>
+                                    <td class="text-center">
+                                                Pristine
+                                    </td>
+                                    <td class="text-center"></td>
+                                    <td class="text-end"></td>
+                                </tr>
+                                <tr>
+                                    <td class="text-end"><input aria-label="Done" type="checkbox"></td>
+                                    <td>
+                                        <a id="ember195" class="ember-view" href="/system/2005044958634">
+                                            Drojeae XH-U c19-7
+                                        </a>
+                                        <button class="copy-btn clipboard-button " title="Copy Drojeae XH-U c19-7 to clipboard" data-clipboard-text="Drojeae XH-U c19-7" type="button" id="ember241">
+  
+                                            <svg class="svg-inline--fa fa-copy" data-prefix="far" data-icon="copy" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+        <path fill="currentColor" d="M384 336H192c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16l140.1 0L400 115.9V320c0 8.8-7.2 16-16 16zM192 384H384c35.3 0 64-28.7 64-64V115.9c0-12.7-5.1-24.9-14.1-33.9L366.1 14.1c-9-9-21.2-14.1-33.9-14.1H192c-35.3 0-64 28.7-64 64V320c0 35.3 28.7 64 64 64zM64 128c-35.3 0-64 28.7-64 64V448c0 35.3 28.7 64 64 64H256c35.3 0 64-28.7 64-64V416H272v32c0 8.8-7.2 16-16 16H64c-8.8 0-16-7.2-16-16V192c0-8.8 7.2-16 16-16H96V128H64z"></path>
+    </svg>
+                                        
+</button>
+                                    </td>
+                                    <td class="text-end">499.85</td>
+                                    <td class="text-end">4,099.00</td>
+                                    <td class="text-end">9</td>
+                                    <td class="text-end">825</td>
+                                    <td class="text-end">0</td>
+                                    <td class="text-end">101</td>
+                                    <td class="text-center">
+                                                Pristine
+                                    </td>
+                                    <td class="text-center"></td>
+                                    <td class="text-end"></td>
+                                </tr>
+                                <tr>
+                                    <td class="text-end"><input aria-label="Done" type="checkbox"></td>
+                                    <td>
+                                        <a id="ember196" class="ember-view" href="/system/9446377466537">
+                                            Drojeae YV-Z b19-4
+                                        </a>
+                                        <button class="copy-btn clipboard-button " title="Copy Drojeae YV-Z b19-4 to clipboard" data-clipboard-text="Drojeae YV-Z b19-4" type="button" id="ember242">
+  
+                                            <svg class="svg-inline--fa fa-copy" data-prefix="far" data-icon="copy" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+        <path fill="currentColor" d="M384 336H192c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16l140.1 0L400 115.9V320c0 8.8-7.2 16-16 16zM192 384H384c35.3 0 64-28.7 64-64V115.9c0-12.7-5.1-24.9-14.1-33.9L366.1 14.1c-9-9-21.2-14.1-33.9-14.1H192c-35.3 0-64 28.7-64 64V320c0 35.3 28.7 64 64 64zM64 128c-35.3 0-64 28.7-64 64V448c0 35.3 28.7 64 64 64H256c35.3 0 64-28.7 64-64V416H272v32c0 8.8-7.2 16-16 16H64c-8.8 0-16-7.2-16-16V192c0-8.8 7.2-16 16-16H96V128H64z"></path>
+    </svg>
+                                        
+</button>
+                                    </td>
+                                    <td class="text-end">499.96</td>
+                                    <td class="text-end">3,599.14</td>
+                                    <td class="text-end">8</td>
+                                    <td class="text-end">724</td>
+                                    <td class="text-end">0</td>
+                                    <td class="text-end">101</td>
+                                    <td class="text-center">
+<!---->                                    </td>
+                                    <td class="text-center"></td>
+                                    <td class="text-end"></td>
+                                </tr>
+                                <tr>
+                                    <td class="text-end"><input aria-label="Done" type="checkbox"></td>
+                                    <td>
+                                        <a id="ember197" class="ember-view" href="/system/1728195824251">
+                                            Bleia Eohn GF-C d14-50
+                                        </a>
+                                        <button class="copy-btn clipboard-button " title="Copy Bleia Eohn GF-C d14-50 to clipboard" data-clipboard-text="Bleia Eohn GF-C d14-50" type="button" id="ember243">
+  
+                                            <svg class="svg-inline--fa fa-copy" data-prefix="far" data-icon="copy" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+        <path fill="currentColor" d="M384 336H192c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16l140.1 0L400 115.9V320c0 8.8-7.2 16-16 16zM192 384H384c35.3 0 64-28.7 64-64V115.9c0-12.7-5.1-24.9-14.1-33.9L366.1 14.1c-9-9-21.2-14.1-33.9-14.1H192c-35.3 0-64 28.7-64 64V320c0 35.3 28.7 64 64 64zM64 128c-35.3 0-64 28.7-64 64V448c0 35.3 28.7 64 64 64H256c35.3 0 64-28.7 64-64V416H272v32c0 8.8-7.2 16-16 16H64c-8.8 0-16-7.2-16-16V192c0-8.8 7.2-16 16-16H96V128H64z"></path>
+    </svg>
+                                        
+</button>
+                                    </td>
+                                    <td class="text-end">499.70</td>
+                                    <td class="text-end">3,100.25</td>
+                                    <td class="text-end">7</td>
+                                    <td class="text-end">624</td>
+                                    <td class="text-end">0</td>
+                                    <td class="text-end">100</td>
+                                    <td class="text-center">
+                                                Pristine
+                                    </td>
+                                    <td class="text-center"></td>
+                                    <td class="text-end"></td>
+                                </tr>
+                                <tr>
+                                    <td class="text-end"><input aria-label="Done" type="checkbox"></td>
+                                    <td>
+                                        <a id="ember198" class="ember-view" href="/system/3105764512938">
+                                            Bleia Eohn LC-U c19-11
+                                        </a>
+                                        <button class="copy-btn clipboard-button " title="Copy Bleia Eohn LC-U c19-11 to clipboard" data-clipboard-text="Bleia Eohn LC-U c19-11" type="button" id="ember244">
+  
+                                            <svg class="svg-inline--fa fa-copy" data-prefix="far" data-icon="copy" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+        <path fill="currentColor" d="M384 336H192c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16l140.1 0L400 115.9V320c0 8.8-7.2 16-16 16zM192 384H384c35.3 0 64-28.7 64-64V115.9c0-12.7-5.1-24.9-14.1-33.9L366.1 14.1c-9-9-21.2-14.1-33.9-14.1H192c-35.3 0-64 28.7-64 64V320c0 35.3 28.7 64 64 64zM64 128c-35.3 0-64 28.7-64 64V448c0 35.3 28.7 64 64 64H256c35.3 0 64-28.7 64-64V416H272v32c0 8.8-7.2 16-16 16H64c-8.8 0-16-7.2-16-16V192c0-8.8 7.2-16 16-16H96V128H64z"></path>
+    </svg>
+                                        
+</button>
+                                    </td>
+                                    <td class="text-end">499.98</td>
+                                    <td class="text-end">2,606.92</td>
+                                    <td class="text-end">6</td>
+                                    <td class="text-end">524</td>
+                                    <td class="text-end">0</td>
+                                    <td class="text-end">100</td>
+                                    <td class="text-center">
+<!---->                                    </td>
+                                    <td class="text-center"></td>
+                                    <td class="text-end"></td>
+                                </tr>
+                                <tr>
+                                    <td class="text-end"><input aria-label="Done" type="checkbox"></td>
+                                    <td>
+                                        <a id="ember199" class="ember-view" href="/system/9455504009369">
+                                            Bleia Eohn UO-C b18-4
+                                        </a>
+                                        <button class="copy-btn clipboard-button " title="Copy Bleia Eohn UO-C b18-4 to clipboard" data-clipboard-text="Bleia Eohn UO-C b18-4" type="button" id="ember245">
+  
+                                            <svg class="svg-inline--fa fa-copy" data-prefix="far" data-icon="copy" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+        <path fill="currentColor" d="M384 336H192c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16l140.1 0L400 115.9V320c0 8.8-7.2 16-16 16zM192 384H384c35.3 0 64-28.7 64-64V115.9c0-12.7-5.1-24.9-14.1-33.9L366.1 14.1c-9-9-21.2-14.1-33.9-14.1H192c-35.3 0-64 28.7-64 64V320c0 35.3 28.7 64 64 64zM64 128c-35.3 0-64 28.7-64 64V448c0 35.3 28.7 64 64 64H256c35.3 0 64-28.7 64-64V416H272v32c0 8.8-7.2 16-16 16H64c-8.8 0-16-7.2-16-16V192c0-8.8 7.2-16 16-16H96V128H64z"></path>
+    </svg>
+                                        
+</button>
+                                    </td>
+                                    <td class="text-end">499.84</td>
+                                    <td class="text-end">2,107.69</td>
+                                    <td class="text-end">5</td>
+                                    <td class="text-end">424</td>
+                                    <td class="text-end">0</td>
+                                    <td class="text-end">100</td>
+                                    <td class="text-center">
+                                                Pristine
+                                    </td>
+                                    <td class="text-center"></td>
+                                    <td class="text-end"></td>
+                                </tr>
+                                <tr>
+                                    <td class="text-end"><input aria-label="Done" type="checkbox"></td>
+                                    <td>
+                                        <a id="ember200" class="ember-view" href="/system/357656531954">
+                                            Swoiwns FG-E c28-1
+                                        </a>
+                                        <button class="copy-btn clipboard-button " title="Copy Swoiwns FG-E c28-1 to clipboard" data-clipboard-text="Swoiwns FG-E c28-1" type="button" id="ember246">
+  
+                                            <svg class="svg-inline--fa fa-copy" data-prefix="far" data-icon="copy" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+        <path fill="currentColor" d="M384 336H192c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16l140.1 0L400 115.9V320c0 8.8-7.2 16-16 16zM192 384H384c35.3 0 64-28.7 64-64V115.9c0-12.7-5.1-24.9-14.1-33.9L366.1 14.1c-9-9-21.2-14.1-33.9-14.1H192c-35.3 0-64 28.7-64 64V320c0 35.3 28.7 64 64 64zM64 128c-35.3 0-64 28.7-64 64V448c0 35.3 28.7 64 64 64H256c35.3 0 64-28.7 64-64V416H272v32c0 8.8-7.2 16-16 16H64c-8.8 0-16-7.2-16-16V192c0-8.8 7.2-16 16-16H96V128H64z"></path>
+    </svg>
+                                        
+</button>
+                                    </td>
+                                    <td class="text-end">499.20</td>
+                                    <td class="text-end">1,608.92</td>
+                                    <td class="text-end">4</td>
+                                    <td class="text-end">325</td>
+                                    <td class="text-end">0</td>
+                                    <td class="text-end">99</td>
+                                    <td class="text-center">
+                                                Pristine
+                                    </td>
+                                    <td class="text-center"></td>
+                                    <td class="text-end"></td>
+                                </tr>
+                                <tr>
+                                    <td class="text-end"><input aria-label="Done" type="checkbox"></td>
+                                    <td>
+                                        <a id="ember201" class="ember-view" href="/system/5063363077937">
+                                            Col 359 Sector BT-D b40-2
+                                        </a>
+                                        <button class="copy-btn clipboard-button " title="Copy Col 359 Sector BT-D b40-2 to clipboard" data-clipboard-text="Col 359 Sector BT-D b40-2" type="button" id="ember247">
+  
+                                            <svg class="svg-inline--fa fa-copy" data-prefix="far" data-icon="copy" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+        <path fill="currentColor" d="M384 336H192c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16l140.1 0L400 115.9V320c0 8.8-7.2 16-16 16zM192 384H384c35.3 0 64-28.7 64-64V115.9c0-12.7-5.1-24.9-14.1-33.9L366.1 14.1c-9-9-21.2-14.1-33.9-14.1H192c-35.3 0-64 28.7-64 64V320c0 35.3 28.7 64 64 64zM64 128c-35.3 0-64 28.7-64 64V448c0 35.3 28.7 64 64 64H256c35.3 0 64-28.7 64-64V416H272v32c0 8.8-7.2 16-16 16H64c-8.8 0-16-7.2-16-16V192c0-8.8 7.2-16 16-16H96V128H64z"></path>
+    </svg>
+                                        
+</button>
+                                    </td>
+                                    <td class="text-end">499.95</td>
+                                    <td class="text-end">1,110.30</td>
+                                    <td class="text-end">3</td>
+                                    <td class="text-end">226</td>
+                                    <td class="text-end">0</td>
+                                    <td class="text-end">99</td>
+                                    <td class="text-center">
+<!---->                                    </td>
+                                    <td class="text-center"></td>
+                                    <td class="text-end"></td>
+                                </tr>
+                                <tr>
+                                    <td class="text-end"><input aria-label="Done" type="checkbox"></td>
+                                    <td>
+                                        <a id="ember202" class="ember-view" href="/system/83516822330">
+                                            Col 359 Sector XI-J c9-0
+                                        </a>
+                                        <button class="copy-btn clipboard-button " title="Copy Col 359 Sector XI-J c9-0 to clipboard" data-clipboard-text="Col 359 Sector XI-J c9-0" type="button" id="ember248">
+  
+                                            <svg class="svg-inline--fa fa-copy" data-prefix="far" data-icon="copy" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+        <path fill="currentColor" d="M384 336H192c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16l140.1 0L400 115.9V320c0 8.8-7.2 16-16 16zM192 384H384c35.3 0 64-28.7 64-64V115.9c0-12.7-5.1-24.9-14.1-33.9L366.1 14.1c-9-9-21.2-14.1-33.9-14.1H192c-35.3 0-64 28.7-64 64V320c0 35.3 28.7 64 64 64zM64 128c-35.3 0-64 28.7-64 64V448c0 35.3 28.7 64 64 64H256c35.3 0 64-28.7 64-64V416H272v32c0 8.8-7.2 16-16 16H64c-8.8 0-16-7.2-16-16V192c0-8.8 7.2-16 16-16H96V128H64z"></path>
+    </svg>
+                                        
+</button>
+                                    </td>
+                                    <td class="text-end">499.89</td>
+                                    <td class="text-end">612.19</td>
+                                    <td class="text-end">2</td>
+                                    <td class="text-end">127</td>
+                                    <td class="text-end">0</td>
+                                    <td class="text-end">99</td>
+                                    <td class="text-center">
+<!---->                                    </td>
+                                    <td class="text-center"></td>
+                                    <td class="text-end"></td>
+                                </tr>
+                                <tr>
+                                    <td class="text-end"><input aria-label="Done" type="checkbox"></td>
+                                    <td>
+                                        <a id="ember203" class="ember-view" href="/system/5068463351233">
+                                            Col 285 Sector TJ-P b19-2
+                                        </a>
+                                        <button class="copy-btn clipboard-button " title="Copy Col 285 Sector TJ-P b19-2 to clipboard" data-clipboard-text="Col 285 Sector TJ-P b19-2" type="button" id="ember249">
+  
+                                            <svg class="svg-inline--fa fa-copy" data-prefix="far" data-icon="copy" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+        <path fill="currentColor" d="M384 336H192c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16l140.1 0L400 115.9V320c0 8.8-7.2 16-16 16zM192 384H384c35.3 0 64-28.7 64-64V115.9c0-12.7-5.1-24.9-14.1-33.9L366.1 14.1c-9-9-21.2-14.1-33.9-14.1H192c-35.3 0-64 28.7-64 64V320c0 35.3 28.7 64 64 64zM64 128c-35.3 0-64 28.7-64 64V448c0 35.3 28.7 64 64 64H256c35.3 0 64-28.7 64-64V416H272v32c0 8.8-7.2 16-16 16H64c-8.8 0-16-7.2-16-16V192c0-8.8 7.2-16 16-16H96V128H64z"></path>
+    </svg>
+                                        
+</button>
+                                    </td>
+                                    <td class="text-end">499.71</td>
+                                    <td class="text-end">120.60</td>
+                                    <td class="text-end">1</td>
+                                    <td class="text-end">28</td>
+                                    <td class="text-end">0</td>
+                                    <td class="text-end">99</td>
+                                    <td class="text-center">
+                                                Pristine
+                                    </td>
+                                    <td class="text-center"></td>
+                                    <td class="text-end"></td>
+                                </tr>
+                                <tr class="alert table-danger">
+                                    <td class="text-end"><input aria-label="Done" type="checkbox"></td>
+                                    <td>
+                                        <a id="ember204" class="ember-view alert-link" href="/system/671222277529">
+                                            Neginn
+                                        </a>
+                                        <button class="copy-btn clipboard-button " title="Copy Neginn to clipboard" data-clipboard-text="Neginn" type="button" id="ember250">
+  
+                                            <svg class="svg-inline--fa fa-copy" data-prefix="far" data-icon="copy" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+        <path fill="currentColor" d="M384 336H192c-8.8 0-16-7.2-16-16V64c0-8.8 7.2-16 16-16l140.1 0L400 115.9V320c0 8.8-7.2 16-16 16zM192 384H384c35.3 0 64-28.7 64-64V115.9c0-12.7-5.1-24.9-14.1-33.9L366.1 14.1c-9-9-21.2-14.1-33.9-14.1H192c-35.3 0-64 28.7-64 64V320c0 35.3 28.7 64 64 64zM64 128c-35.3 0-64 28.7-64 64V448c0 35.3 28.7 64 64 64H256c35.3 0 64-28.7 64-64V416H272v32c0 8.8-7.2 16-16 16H64c-8.8 0-16-7.2-16-16V192c0-8.8 7.2-16 16-16H96V128H64z"></path>
+    </svg>
+                                        
+</button>
+                                    </td>
+                                    <td class="text-end">120.60</td>
+                                    <td class="text-end">0.00</td>
+                                    <td class="text-end">0</td>
+                                    <td class="text-end">0</td>
+                                    <td class="text-end">0</td>
+                                    <td class="text-end">28</td>
+                                    <td class="text-center">
+                                                Yes
+                                    </td>
+                                    <td class="text-center"></td>
+                                    <td class="text-end"></td>
+                                </tr>
+                        </tbody>
+                        <tfoot>
+                            <tr class="table-success">
+                                <td></td>
+                                <td>Totals</td>
+                                <td class="text-end">22,108.30</td>
+                                <td></td>
+                                <td class="text-end">45</td>
+                                <td></td>
+                                <td></td>
+                                <td class="text-end">4,616</td>
+                                <td></td>
+                                <td></td>
+                                <td class="text-end">4,616</td>
+                            </tr>
+                        </tfoot>
+                    </table>
+                </div>
+
+                    </body></html>
