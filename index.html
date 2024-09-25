@@ -99,7 +99,7 @@
               
               var linkList = PlistParser.parse(sysString);
               var allRows = [];
-                    var firstRow = '<tr><td colspan="2"><img src="Width.png"</td></tr>>';
+                    var firstRow = '<tr><td colspan="2"><img src="Width.png"</td></tr>';
                     allRows.push(firstRow);
               for (const [key, value] of Object.entries(linkList)) {
                  var row = '<tr>'+'<td style="background-image: url(galnet.png);"><img src="world.png"></td><td style="background-image: url(galnet.png);"><a href="'+value+'">'+key+'</a></td>'+
