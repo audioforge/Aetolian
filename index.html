@@ -25,7 +25,7 @@
 </style><title>Aetolia</title>
    
 </head><body>
-    <br>
+    <div id="time"></div><br>
     <center>
         <table border='0'>
             <tr>
@@ -69,6 +69,28 @@
         <table id="data-table"></table>
     </center>
         <script>
+        function checkTime(i) {
+          if (i < 10) {
+            i = "0" + i;
+          }
+          return i;
+        }
+        
+        function startTime() {
+          var today = new Date();
+          var h = today.getHours();
+          var m = today.getMinutes();
+          var s = today.getSeconds();
+          // add a zero in front of numbers<10
+          m = checkTime(m);
+          s = checkTime(s);
+          document.getElementById('time').innerHTML = h + ":" + m + ":" + s;
+          t = setTimeout(function() {
+            startTime()
+          }, 500);
+        }
+        startTime();
+            
         function redirect()
           {
             
