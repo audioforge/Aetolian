@@ -26,7 +26,7 @@
    
 </head><body>
 <a href="https://time.is/Elite_Dangerous_Time" id="time_is_link" rel="nofollow"></a>
-<span id="Elite_Dangerous_Time_za00"></span>
+<span id="Elite_Dangerous_Time_za00"></span><span id="EDDate"></span>
 <script src="//widget.time.is/t.js"></script>
 <script>
 time_is_widget.init({Elite_Dangerous_Time_za00:{}});
@@ -83,16 +83,16 @@ time_is_widget.init({Elite_Dangerous_Time_za00:{}});
         
         function startTime() {
           var today = new Date();
-          var h = today.getHours();
-          var m = today.getMinutes();
-          var s = today.getSeconds();
+          var d = today.getDays();
+          var m = today.getMonths();
+          var y = today.getYears();
           // add a zero in front of numbers<10
-          m = checkTime(m);
-          s = checkTime(s);
-          document.getElementById('time').innerHTML = h + ":" + m + ":" + s;
-          t = setTimeout(function() {
-            startTime()
-          }, 500);
+          // m = checkTime(m);
+          // s = checkTime(s);
+          document.getElementById('EDDate').innerHTML = d + ":" + m + ":" + y;
+          // t = setTimeout(function() {
+          //   startTime()
+          // }, 500);
         }
         startTime();
             
