@@ -84,7 +84,7 @@ time_is_widget.init({Elite_Dangerous_Time_za00:{}});
         function startTime() {
           var today = new Date();
           var d = today.getDate();
-          var m = today.getMonth();
+          var m = today.getMonth() + 1;
           var y = today.getUTCFullYear() + 1286;
           // add a zero in front of numbers<10
           // m = checkTime(m);
