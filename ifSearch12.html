@@ -162,7 +162,7 @@
                       break;
                   }
                   // get coordinates
-                  var fetchStr = '/data/'+system+'.plist';
+                  var fetchStr = '/data/'+system+'.Plist';
                   //console.log(fetchStr);
                   const response = await fetch(fetchStr);
                   const sysString = await response.text();
@@ -174,7 +174,7 @@
                   document.getElementById("showresulthere").innerHTML = system + ' found';
                   
                   // build array with interstellar systems
-                  const response1 = await fetch('/data/Ifjs.plist');
+                  const response1 = await fetch('/data/Ifjs.Plist');
                   const ifString1 = await response1.text();
                   const ifSystems = PlistParser.parse(ifString1);
                   //const ifSysNames = Object.keys(ifSystems);
