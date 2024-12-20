@@ -184,10 +184,10 @@
             }
             document.getElementById("showresulthere").innerHTML = system + ' searching ...';
             //system = system.toUpperCase();
-            //const response = await fetch('/data/'+system+'.plist');
+            //const response = await fetch('/data/'+system+'.Plist');
             var sysString;
             try {
-              const response = await fetch('/data/'+system+'.plist');
+              const response = await fetch('/data/'+system+'.Plist');
               sysString = await response.text();
               if (response.ok) {
                 //console.log('Promise resolved and HTTP status is successful');
@@ -202,7 +202,7 @@
               //console.error('Promise rejected');
               document.getElementById("showresulthere").innerHTML = 'Adjusting system name ...';
               
-              const response2 = await fetch('/data/' + system +' A.plist');
+              const response2 = await fetch('/data/' + system +' A.Plist');
               sysString = await response2.text();
               
               if (response2.ok) {
