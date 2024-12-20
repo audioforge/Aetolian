@@ -196,7 +196,22 @@
                 
               } else {
                 console.error('Promise resolved but HTTP status failed');
+                //document.getElementById("showresulthere").innerHTML = system + ' not found';
+                document.getElementById("showresulthere").innerHTML = 'Adjusting system name ...';
+              
+              const response2 = await fetch('/data/' + system +' A.Plist');
+              sysString = await response2.text();
+              
+              if (response2.ok) {
+                //console.log('Promise resolved and HTTP status is successful');
+                // ...do something with the response
+                document.getElementById("showresulthere").innerHTML = system + ' found';
+                
+              } else {
+                //console.error('Promise resolved but HTTP status failed');
                 document.getElementById("showresulthere").innerHTML = system + ' not found';
+              }
+
               }
             } catch {
               console.error('Promise rejected');
