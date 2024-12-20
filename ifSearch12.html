@@ -152,12 +152,12 @@
             let dataDicts = new Map();
             let largeIF = new Map ();
             var topTen = [];
-            //system = system.toUpperCase();
+            var systemU = system.toUpperCase();
             var done = 0;
             for (let k=0; k<2; k++) {
                 console.log(system);
             for (let i = 0; i < systems.length; i++) {
-              if (system.localeCompare(systems[i]==0) {
+              if (systemU.localeCompare(systems[i].toUpperCase())==0) {
                   if (done>0) {
                       break;
                   }
