@@ -2203,7 +2203,7 @@
 	<key>Boyajian Survey_Punta</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>30.883889</real>
+		<real>30.858471000000002</real>
 		<key>starSystem</key>
 		<string>Punta</string>
 		<key>stationFaction</key>
@@ -2239,7 +2239,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20241209</string>
+		<string>20241225</string>
 	</dict>
 	<key>Boyer Dock_Mokoi</key>
 	<dict>
@@ -8948,7 +8948,7 @@
 	<key>Lambert Ring_Reshero</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>294.50612799999999</real>
+		<real>296.30195700000002</real>
 		<key>starSystem</key>
 		<string>Reshero</string>
 		<key>stationFaction</key>
@@ -11159,7 +11159,7 @@
 	<key>Ohain Hub_Gungo</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>871.48963900000001</real>
+		<real>866.30692299999998</real>
 		<key>starSystem</key>
 		<string>Gungo</string>
 		<key>stationFaction</key>
@@ -11203,7 +11203,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20240901</string>
+		<string>20241225</string>
 	</dict>
 	<key>Oikawa Stop_Badbh</key>
 	<dict>
@@ -12187,11 +12187,13 @@
 	<key>Purbach Vision_Sui Xianoan</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1218.556118</real>
+		<real>1218.5668189999999</real>
 		<key>starSystem</key>
 		<string>Sui Xianoan</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Expansion</string>
 			<key>Name</key>
 			<string>Night Wolves Corporation</string>
 		</dict>
@@ -12230,7 +12232,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20241202</string>
+		<string>20241225</string>
 	</dict>
 	<key>QBZ-35V_Bayah</key>
 	<dict>
@@ -17272,6 +17274,52 @@
 		<string>CraterOutpost</string>
 		<key>updated</key>
 		<string>20240422</string>
+	</dict>
+	<key>Trumpler Mines_Ausermoduro</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>475945.10318600002</real>
+		<key>starSystem</key>
+		<string>Ausermoduro</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>Ditae Empire League</string>
+		</dict>
+		<key>stationName</key>
+		<string>Trumpler Mines</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>facilitator</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Outpost</string>
+		<key>updated</key>
+		<string>20241225</string>
 	</dict>
 	<key>Tshang City_Furuhjelm III-674</key>
 	<dict>
