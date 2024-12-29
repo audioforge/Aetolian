@@ -291,18 +291,18 @@
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 		<key>Dumni</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.13909099999999999</real>
+			<real>0.13900000000000001</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241209</string>
+			<string>20241229</string>
 		</dict>
 		<key>Kites</key>
 		<dict>
@@ -314,6 +314,20 @@
 			<array/>
 			<key>updated</key>
 			<string>20241225</string>
+		</dict>
+	</dict>
+	<key>Acorn Freelancers Corporate Faction</key>
+	<dict>
+		<key>Crom Dubh</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.059921000000000002</real>
+			<key>State</key>
+			<string>None</string>
+			<key>Stations</key>
+			<array/>
+			<key>updated</key>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Addovichs Inc</key>
@@ -426,7 +440,7 @@
 		<key>Bolocara</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.35034999999999999</real>
+			<real>0.35835800000000001</real>
 			<key>State</key>
 			<string>Expansion</string>
 			<key>Stations</key>
@@ -436,7 +450,7 @@
 				<string>Herndon's Exile</string>
 			</array>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 		<key>Brigual</key>
 		<dict>
@@ -449,12 +463,12 @@
 				<string>Sudworth Port</string>
 			</array>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 		<key>Degardhi</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.55991899999999994</real>
+			<real>0.563253</real>
 			<key>State</key>
 			<string>Expansion</string>
 			<key>Stations</key>
@@ -464,12 +478,12 @@
 				<string>Joy Landing</string>
 			</array>
 			<key>updated</key>
-			<string>20241225</string>
+			<string>20241229</string>
 		</dict>
 		<key>Dumni</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.56909100000000001</real>
+			<real>0.57499999999999996</real>
 			<key>State</key>
 			<string>Expansion</string>
 			<key>Stations</key>
@@ -477,7 +491,7 @@
 				<string>Crown Works</string>
 			</array>
 			<key>updated</key>
-			<string>20241209</string>
+			<string>20241229</string>
 		</dict>
 		<key>Gladuwong</key>
 		<dict>
@@ -499,14 +513,16 @@
 			<key>State</key>
 			<string>Expansion</string>
 			<key>Stations</key>
-			<array/>
+			<array>
+				<string>Eisinga Colony</string>
+			</array>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 		<key>HIP 7304</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.503992</real>
+			<real>0.51545399999999997</real>
 			<key>State</key>
 			<string>Expansion</string>
 			<key>Stations</key>
@@ -516,7 +532,7 @@
 				<string>Kojima Station</string>
 			</array>
 			<key>updated</key>
-			<string>20241223</string>
+			<string>20241229</string>
 		</dict>
 		<key>HIP 7823 A</key>
 		<dict>
@@ -565,7 +581,7 @@
 		<key>Mu Nialfi A</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.26373600000000003</real>
+			<real>0.25600000000000001</real>
 			<key>State</key>
 			<string>Expansion</string>
 			<key>Stations</key>
@@ -575,7 +591,7 @@
 				<string>McCrea Works</string>
 			</array>
 			<key>updated</key>
-			<string>20241224</string>
+			<string>20241229</string>
 		</dict>
 		<key>Neginn</key>
 		<dict>
@@ -588,7 +604,7 @@
 				<string>Delporte Vision</string>
 			</array>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 		<key>Nyan</key>
 		<dict>
@@ -646,7 +662,7 @@
 				<string>Stevin Hub</string>
 			</array>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 		<key>Sibianoe</key>
 		<dict>
@@ -1031,18 +1047,32 @@
 			<string>20241225</string>
 		</dict>
 	</dict>
-	<key>Allied Degardhi Focus</key>
+	<key>Allied Crom Dubh Liberty Party</key>
 	<dict>
-		<key>Degardhi</key>
+		<key>Crom Dubh</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.019134000000000002</real>
+			<real>0.050097999999999997</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241225</string>
+			<string>20241229</string>
+		</dict>
+	</dict>
+	<key>Allied Degardhi Focus</key>
+	<dict>
+		<key>Degardhi</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.019075999999999999</real>
+			<key>State</key>
+			<string>None</string>
+			<key>Stations</key>
+			<array/>
+			<key>updated</key>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Allied G 139-3 Defence Party</key>
@@ -1201,7 +1231,7 @@
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Allied Tauernonese Dominion</key>
@@ -1495,7 +1525,7 @@
 				<string>Hughes Vision</string>
 			</array>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 		<key>Dangu A</key>
 		<dict>
@@ -1608,13 +1638,13 @@
 		<key>HIP 7304</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.20658699999999999</real>
+			<real>0.20139599999999999</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241223</string>
+			<string>20241229</string>
 		</dict>
 		<key>Inherth A</key>
 		<dict>
@@ -1803,7 +1833,7 @@
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 		<key>Shokwus A</key>
 		<dict>
@@ -1878,7 +1908,7 @@
 		<key>Yinegafo A</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.233038</real>
+			<real>0.22691600000000001</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
@@ -1886,7 +1916,7 @@
 				<string>Pollas Port</string>
 			</array>
 			<key>updated</key>
-			<string>20241209</string>
+			<string>20241229</string>
 		</dict>
 		<key>Yokusu A</key>
 		<dict>
@@ -2162,7 +2192,7 @@
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 		<key>HR 394</key>
 		<dict>
@@ -3716,13 +3746,13 @@
 		<key>Bolocara</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.046045999999999997</real>
+			<real>0.044044</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Bolocara Clan</key>
@@ -3730,13 +3760,13 @@
 		<key>Bolocara</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.02002</real>
+			<real>0.019019000000000001</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Bolocara allied</key>
@@ -3744,13 +3774,13 @@
 		<key>Bolocara</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.056056000000000002</real>
+			<real>0.053053000000000003</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Bolocas Advanced Industry</key>
@@ -4147,13 +4177,13 @@
 		<key>Xbalamana A</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.059744999999999999</real>
+			<real>0.059059</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241210</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Brigid Citizens of Tradition</key>
@@ -4235,7 +4265,7 @@
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Brigual Industry</key>
@@ -4249,7 +4279,7 @@
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Brigual Pirates</key>
@@ -4263,7 +4293,7 @@
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Brotherhood of Atrongo</key>
@@ -4375,6 +4405,20 @@
 			<array/>
 			<key>updated</key>
 			<string>20240918</string>
+		</dict>
+	</dict>
+	<key>Bureau of Crom Dubh</key>
+	<dict>
+		<key>Crom Dubh</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.030452</real>
+			<key>State</key>
+			<string>None</string>
+			<key>Stations</key>
+			<array/>
+			<key>updated</key>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Bureau of Geawetes Flag</key>
@@ -4903,13 +4947,13 @@
 		<key>Dumni</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.019091</real>
+			<real>0.012</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241209</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Caspataya Group</key>
@@ -4983,7 +5027,7 @@
 				<string>Ahnert Dock</string>
 			</array>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Cemplangpa Partners</key>
@@ -4997,7 +5041,7 @@
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Cemplangpa Systems</key>
@@ -5011,7 +5055,7 @@
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Chaaratisa Industries</key>
@@ -5081,7 +5125,7 @@
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Chen Shapa Silver Public Ex</key>
@@ -5403,7 +5447,7 @@
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Clan of Chunza</key>
@@ -5849,13 +5893,13 @@
 		<key>HIP 7304</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.019959999999999999</real>
+			<real>0.019939999999999999</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241223</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Crew of Rabatha</key>
@@ -5898,6 +5942,20 @@
 			<array/>
 			<key>updated</key>
 			<string>20240401</string>
+		</dict>
+	</dict>
+	<key>Crom Dubh Silver Allied Services</key>
+	<dict>
+		<key>Crom Dubh</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.01277</real>
+			<key>State</key>
+			<string>None</string>
+			<key>Stations</key>
+			<array/>
+			<key>updated</key>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Cwn Annwn</key>
@@ -6112,13 +6170,13 @@
 		<key>Degardhi</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.060422999999999998</real>
+			<real>0.059236999999999998</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241225</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Degardhi Life &amp; Co</key>
@@ -6132,18 +6190,18 @@
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 		<key>Degardhi</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.036254000000000002</real>
+			<real>0.036144999999999997</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241225</string>
+			<string>20241229</string>
 		</dict>
 		<key>Fei Lin A</key>
 		<dict>
@@ -6181,13 +6239,13 @@
 		<key>Mu Nialfi A</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.13286700000000001</real>
+			<real>0.153</real>
 			<key>State</key>
-			<string>War</string>
+			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241224</string>
+			<string>20241229</string>
 		</dict>
 		<key>Wayica</key>
 		<dict>
@@ -6742,7 +6800,7 @@
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Drug Empire of Ix Tub Tun</key>
@@ -6845,24 +6903,24 @@
 		<key>Degardhi</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.14501500000000001</real>
+			<real>0.14357400000000001</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241225</string>
+			<string>20241229</string>
 		</dict>
 		<key>Dumni</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.093635999999999997</real>
+			<real>0.106</real>
 			<key>State</key>
-			<string>War</string>
+			<string>CivilWar</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241209</string>
+			<string>20241229</string>
 		</dict>
 		<key>Kites</key>
 		<dict>
@@ -6884,7 +6942,7 @@
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Duronese Posse</key>
@@ -6984,13 +7042,13 @@
 		<key>Bolocara</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.19819800000000001</real>
+			<real>0.18818799999999999</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 		<key>Cemplangpa A</key>
 		<dict>
@@ -7006,7 +7064,7 @@
 				<string>Gorgani Orbital</string>
 			</array>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 		<key>Chih Hiner A</key>
 		<dict>
@@ -7021,6 +7079,19 @@
 			</array>
 			<key>updated</key>
 			<string>20241119</string>
+		</dict>
+		<key>Crom Dubh</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.68958699999999995</real>
+			<key>State</key>
+			<string>None</string>
+			<key>Stations</key>
+			<array>
+				<string>Francis Landing</string>
+			</array>
+			<key>updated</key>
+			<string>20241229</string>
 		</dict>
 		<key>Guttors A</key>
 		<dict>
@@ -7227,13 +7298,13 @@
 		<key>Dumni</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.085455000000000003</real>
+			<real>0.106</real>
 			<key>State</key>
-			<string>None</string>
+			<string>CivilWar</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241209</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Earls of Ekondalie</key>
@@ -7838,13 +7909,13 @@
 		<key>Mu Nialfi A</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.072927000000000006</real>
+			<real>0.070000000000000007</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241224</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Friends of Yinegafo</key>
@@ -7852,13 +7923,13 @@
 		<key>Yinegafo A</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.107178</real>
+			<real>0.109037</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241209</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Furuhjelm III-674 Federal Ltd</key>
@@ -8820,7 +8891,7 @@
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Green Party of Luyten's Star</key>
@@ -10848,7 +10919,7 @@
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>HIP 6807 Imperial Society</key>
@@ -10856,13 +10927,13 @@
 		<key>Dumni</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.093635999999999997</real>
+			<real>0.062</real>
 			<key>State</key>
-			<string>War</string>
+			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241209</string>
+			<string>20241229</string>
 		</dict>
 		<key>HIP 6807 A</key>
 		<dict>
@@ -10874,10 +10945,9 @@
 			<array>
 				<string>Amano Dock</string>
 				<string>Young Orbital</string>
-				<string>Eisinga Colony</string>
 			</array>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 		<key>Neginn</key>
 		<dict>
@@ -10888,7 +10958,7 @@
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>HIP 6807 Power Holdings</key>
@@ -10902,7 +10972,7 @@
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>HIP 6847 Silver Power Comms</key>
@@ -11192,13 +11262,13 @@
 		<key>HIP 7304</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.058881999999999997</real>
+			<real>0.057827000000000003</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241223</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>HIP 7304 Empire League</key>
@@ -11228,13 +11298,13 @@
 		<key>HIP 7304</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.054890000000000001</real>
+			<real>0.053837999999999997</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241223</string>
+			<string>20241229</string>
 		</dict>
 		<key>Pi Sculptoris</key>
 		<dict>
@@ -11267,13 +11337,13 @@
 		<key>HIP 7304</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.084830000000000003</real>
+			<real>0.082752000000000006</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241223</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>HIP 7386 Blue Mob</key>
@@ -11309,13 +11379,13 @@
 		<key>Bolocara</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.086085999999999996</real>
+			<real>0.082082000000000002</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 		<key>Cemplangpa A</key>
 		<dict>
@@ -11329,7 +11399,7 @@
 				<string>Nakamura Hub</string>
 			</array>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 		<key>HIP 7386 A</key>
 		<dict>
@@ -11920,7 +11990,7 @@
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 		<key>HIP 9252 A</key>
 		<dict>
@@ -12176,7 +12246,7 @@
 				<string>Bulychev Beacon</string>
 			</array>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Hand Gang of Haghole</key>
@@ -12400,6 +12470,48 @@
 			<array/>
 			<key>updated</key>
 			<string>20240818</string>
+		</dict>
+	</dict>
+	<key>Hunapese Coordinated</key>
+	<dict>
+		<key>Hunapese A</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.083083000000000004</real>
+			<key>State</key>
+			<string>None</string>
+			<key>Stations</key>
+			<array/>
+			<key>updated</key>
+			<string>20241229</string>
+		</dict>
+	</dict>
+	<key>Hunapese Crimson Syndicate</key>
+	<dict>
+		<key>Hunapese A</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.018017999999999999</real>
+			<key>State</key>
+			<string>None</string>
+			<key>Stations</key>
+			<array/>
+			<key>updated</key>
+			<string>20241229</string>
+		</dict>
+	</dict>
+	<key>Hunapese Gold Central Corp</key>
+	<dict>
+		<key>Hunapese A</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.13613600000000001</real>
+			<key>State</key>
+			<string>None</string>
+			<key>Stations</key>
+			<array/>
+			<key>updated</key>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Huruk Citizens' Forum</key>
@@ -13536,13 +13648,13 @@
 		<key>Jemede</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.046580999999999997</real>
+			<real>0.045635000000000002</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Jemede Purple Brotherhood</key>
@@ -13550,13 +13662,13 @@
 		<key>Jemede</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.0099109999999999997</real>
+			<real>0.0099209999999999993</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Jemede Purple Natural Corp</key>
@@ -13564,13 +13676,13 @@
 		<key>Jemede</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.056492000000000001</real>
+			<real>0.055556000000000001</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Jericho Free</key>
@@ -13776,13 +13888,13 @@
 		<key>HIP 7304</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.070858000000000004</real>
+			<real>0.068793999999999994</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241223</string>
+			<string>20241229</string>
 		</dict>
 		<key>HIP 7526</key>
 		<dict>
@@ -13833,6 +13945,17 @@
 			<array/>
 			<key>updated</key>
 			<string>20241228</string>
+		</dict>
+		<key>Hunapese A</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.30130099999999999</real>
+			<key>State</key>
+			<string>None</string>
+			<key>Stations</key>
+			<array/>
+			<key>updated</key>
+			<string>20241229</string>
 		</dict>
 		<key>Ithertrudhr A</key>
 		<dict>
@@ -14083,7 +14206,7 @@
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Justice Party of Tjurojiu</key>
@@ -14407,7 +14530,7 @@
 		<key>Yinegafo A</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.14061000000000001</real>
+			<real>0.136542</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
@@ -14415,7 +14538,7 @@
 				<string>Wafa Horizons</string>
 			</array>
 			<key>updated</key>
-			<string>20241209</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Karwareti General Partners</key>
@@ -14848,7 +14971,7 @@
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 		<key>HIP 7823 A</key>
 		<dict>
@@ -14905,7 +15028,7 @@
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Kotigeni Allied Industries</key>
@@ -16077,13 +16200,13 @@
 		<key>Jemede</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.065410999999999997</real>
+			<real>0.063492000000000007</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Leaders of L 119-33</key>
@@ -16119,13 +16242,13 @@
 		<key>Yinegafo A</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.06293</real>
+			<real>0.072692000000000007</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241209</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>League of 15 Lambda Aurigae Party</key>
@@ -16645,13 +16768,13 @@
 		<key>Xbalamana A</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.58667999999999998</real>
+			<real>0.59059099999999998</real>
 			<key>State</key>
-			<string>Expansion</string>
+			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241210</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Lileni Blue Pirates</key>
@@ -17040,7 +17163,7 @@
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Mafia of Gliese 9073</key>
@@ -17621,7 +17744,7 @@
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Movement for Chunza Values Party</key>
@@ -17780,13 +17903,13 @@
 		<key>Mu Nialfi A</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.051948000000000001</real>
+			<real>0.050000000000000003</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241224</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Mu Nialfi Gold Power Industry</key>
@@ -17794,13 +17917,13 @@
 		<key>Mu Nialfi A</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.13086900000000001</real>
+			<real>0.126</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241224</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Mu Nialfi Patron's Principles</key>
@@ -17808,13 +17931,13 @@
 		<key>Mu Nialfi A</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.13286700000000001</real>
+			<real>0.113</real>
 			<key>State</key>
-			<string>War</string>
+			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241224</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Muang Blue Creative Corporation</key>
@@ -18437,7 +18560,7 @@
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Neginn Crimson Travel Network</key>
@@ -18462,7 +18585,7 @@
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Neits Jet Crew</key>
@@ -19312,6 +19435,17 @@
 			<key>updated</key>
 			<string>20241123</string>
 		</dict>
+		<key>Upsilon Phoenicis</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.234544</real>
+			<key>State</key>
+			<string>None</string>
+			<key>Stations</key>
+			<array/>
+			<key>updated</key>
+			<string>20241229</string>
+		</dict>
 	</dict>
 	<key>Nusantara Dominion</key>
 	<dict>
@@ -19346,13 +19480,13 @@
 		<key>Jemede</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.14271600000000001</real>
+			<real>0.13888900000000001</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 		<key>Nyalayan A</key>
 		<dict>
@@ -20533,6 +20667,20 @@
 			<string>20241104</string>
 		</dict>
 	</dict>
+	<key>Pirates of Crom Dubh</key>
+	<dict>
+		<key>Crom Dubh</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.018664</real>
+			<key>State</key>
+			<string>None</string>
+			<key>Stations</key>
+			<array/>
+			<key>updated</key>
+			<string>20241229</string>
+		</dict>
+	</dict>
 	<key>Pirates of Gliese 105.2</key>
 	<dict>
 		<key>Gliese 105.2</key>
@@ -20941,7 +21089,7 @@
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Pyemmairre Jet Bridge Partners</key>
@@ -21513,13 +21661,13 @@
 		<key>Bolocara</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.24324299999999999</real>
+			<real>0.25525500000000001</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 		<key>Caspataya A</key>
 		<dict>
@@ -21546,7 +21694,7 @@
 		<key>Jemede</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.60753199999999996</real>
+			<real>0.61706300000000003</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
@@ -21555,7 +21703,7 @@
 				<string>Kohoutek Mines</string>
 			</array>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 		<key>Mayapok A</key>
 		<dict>
@@ -21791,7 +21939,7 @@
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Rishanha Jet Boys</key>
@@ -21805,7 +21953,7 @@
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Rishanha for Equality</key>
@@ -21819,7 +21967,7 @@
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Ross 584 Conservatives</key>
@@ -23560,13 +23708,13 @@
 		<key>Mu Nialfi A</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.214785</real>
+			<real>0.23200000000000001</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241224</string>
+			<string>20241229</string>
 		</dict>
 		<key>Rynchi</key>
 		<dict>
@@ -23815,16 +23963,27 @@
 			<key>updated</key>
 			<string>20241228</string>
 		</dict>
-		<key>Jemede</key>
+		<key>Hunapese A</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.071358000000000005</real>
+			<real>0.46146100000000001</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
+		</dict>
+		<key>Jemede</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.069444000000000006</real>
+			<key>State</key>
+			<string>None</string>
+			<key>Stations</key>
+			<array/>
+			<key>updated</key>
+			<string>20241229</string>
 		</dict>
 		<key>Manthe</key>
 		<dict>
@@ -25005,13 +25164,13 @@
 		<key>Degardhi</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.069486000000000006</real>
+			<real>0.070280999999999996</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241225</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Unionists of HIP 6905</key>
@@ -25072,6 +25231,17 @@
 	</dict>
 	<key>United German Commanders</key>
 	<dict>
+		<key>Crom Dubh</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.13850699999999999</real>
+			<key>State</key>
+			<string>None</string>
+			<key>Stations</key>
+			<array/>
+			<key>updated</key>
+			<string>20241229</string>
+		</dict>
 		<key>Duronese A</key>
 		<dict>
 			<key>Influence</key>
@@ -25104,6 +25274,17 @@
 			<array/>
 			<key>updated</key>
 			<string>20240223</string>
+		</dict>
+		<key>Upsilon Phoenicis</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.39057900000000001</real>
+			<key>State</key>
+			<string>None</string>
+			<key>Stations</key>
+			<array/>
+			<key>updated</key>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>United HIP 4072 for Equality</key>
@@ -25303,6 +25484,76 @@
 			<array/>
 			<key>updated</key>
 			<string>20240929</string>
+		</dict>
+	</dict>
+	<key>Upsilon Phoenicis Central Interstellar</key>
+	<dict>
+		<key>Upsilon Phoenicis</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.114818</real>
+			<key>State</key>
+			<string>None</string>
+			<key>Stations</key>
+			<array/>
+			<key>updated</key>
+			<string>20241229</string>
+		</dict>
+	</dict>
+	<key>Upsilon Phoenicis Empire Party</key>
+	<dict>
+		<key>Upsilon Phoenicis</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.102061</real>
+			<key>State</key>
+			<string>None</string>
+			<key>Stations</key>
+			<array/>
+			<key>updated</key>
+			<string>20241229</string>
+		</dict>
+	</dict>
+	<key>Upsilon Phoenicis Jet Syndicate</key>
+	<dict>
+		<key>Upsilon Phoenicis</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.066732</real>
+			<key>State</key>
+			<string>None</string>
+			<key>Stations</key>
+			<array/>
+			<key>updated</key>
+			<string>20241229</string>
+		</dict>
+	</dict>
+	<key>Upsilon Phoenicis Ltd</key>
+	<dict>
+		<key>Upsilon Phoenicis</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.047105000000000001</real>
+			<key>State</key>
+			<string>None</string>
+			<key>Stations</key>
+			<array/>
+			<key>updated</key>
+			<string>20241229</string>
+		</dict>
+	</dict>
+	<key>Upsilon Phoenicis Resistance</key>
+	<dict>
+		<key>Upsilon Phoenicis</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.044160999999999999</real>
+			<key>State</key>
+			<string>None</string>
+			<key>Stations</key>
+			<array/>
+			<key>updated</key>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Vadimui Blue Posse</key>
@@ -25572,13 +25823,13 @@
 		<key>Degardhi</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.109768</real>
+			<real>0.108434</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241225</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Vucasto Patrons of Law</key>
@@ -26422,13 +26673,13 @@
 		<key>Xbalamana A</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.100881</real>
+			<real>0.10009999999999999</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241210</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Xbalamana Power Holdings</key>
@@ -26436,13 +26687,13 @@
 		<key>Xbalamana A</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.055828000000000003</real>
+			<real>0.055055</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241210</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Xbalamana Purple Clan</key>
@@ -26450,13 +26701,13 @@
 		<key>Xbalamana A</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.018609000000000001</real>
+			<real>0.018017999999999999</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241210</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Xbalamana State Corporation</key>
@@ -26464,13 +26715,13 @@
 		<key>Xbalamana A</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.14397599999999999</real>
+			<real>0.14314299999999999</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241210</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Xbalamana Union Party</key>
@@ -26478,13 +26729,13 @@
 		<key>Xbalamana A</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.034279999999999998</real>
+			<real>0.034034000000000002</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241210</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Xi Wangda Liberals</key>
@@ -26810,13 +27061,13 @@
 		<key>Yinegafo A</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.096362000000000003</real>
+			<real>0.09332</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241209</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Yinegafo Natural Co</key>
@@ -26824,13 +27075,13 @@
 		<key>Yinegafo A</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.196657</real>
+			<real>0.20333999999999999</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241209</string>
+			<string>20241229</string>
 		</dict>
 	</dict>
 	<key>Yokusu Central Group</key>
@@ -26872,7 +27123,7 @@
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241228</string>
+			<string>20241229</string>
 		</dict>
 		<key>Karwareti</key>
 		<dict>
@@ -26888,13 +27139,13 @@
 		<key>Yinegafo A</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.16322500000000001</real>
+			<real>0.15815299999999999</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20241209</string>
+			<string>20241229</string>
 		</dict>
 		<key>Yokusu A</key>
 		<dict>
