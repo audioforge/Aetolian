@@ -219,13 +219,14 @@
             const locDicts = PlistParser.parse(sysString);
             const sourceZ = locDicts['Z'];
             var targetArray = sourceZ['ExpTarget'];
-            console.log(locDicts);
-            
-            var dataAr = [];
-            var len = targetArray.length
             if (!targetArray) {
                document.getElementById("showresulthere").innerHTML = 'Data missing'; 
             }
+            //console.log(locDicts);
+            
+            var dataAr = [];
+            var len = targetArray.length
+            
             for (let i = 0; i < len; i++) {
                 var data = {};
                 // get target system
