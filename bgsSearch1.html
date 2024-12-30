@@ -235,7 +235,7 @@
                   const updated = z['updated'];
                   const factionInfo = targetDicts[updated];
                 data.system = targetArray[i];
-                data.count = factionInfo.length;
+                data.count = Object.keys(factionInfo).length;
                 data.population = z['Population'];
                 var sysFaction = z['SysFaction'];
                 var sysFacDicts = factionInfo[sysFaction];
