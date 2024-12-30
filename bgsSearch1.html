@@ -22,9 +22,9 @@
         background-color: transparent;
         text-decoration: underline;
     }
-</style><title>System BGS info</title>
+</style><title>Expansions</title>
    
-</head><body><h2>System BGS Search</h2>
+</head><body><h2>Expansions</h2>
     Request system info:<br>
     <input id="test" type=text style="color:white; background-color: #222222"><button onclick="exampleFetch()" style="color:#ff6400; background-color: #333333; font-size: 10px;">Access</button>
  
@@ -266,7 +266,7 @@
                 var sysFacDicts = factionInfo[sysFact];
                 //console.log (sysFacDicts);
                 var inf = (sysFacDicts['Influence']*100).toFixed(1);
-                data.factions = sysFact + ': ' + inf + ' (' + smallest + ')';
+                data.factions = sysFact + ': ' + inf + ' (' + lowestFac + ': ' + smallest + ')';
                 
                 dataAr.push(data);
                 document.getElementById("showresulthere").innerHTML = i + ' found';
