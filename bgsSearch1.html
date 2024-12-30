@@ -50,7 +50,7 @@
                     $.each(names, function(index, name) {
                         var c = item ? item[name+''] : name;
                         var curow = '<td>' + c + '</td>';
-                        if (curow.includes('System')){
+                        if (c==='System'){
                             row = '<tr bgcolor="darkgray">';
                         }
                         if (curow.includes('Aetolians')) {
