@@ -218,12 +218,12 @@
             
             const locDicts = PlistParser.parse(sysString);
             const sourceZ = locDicts['Z'];
-            const targetArray = sourceZ['ExpTarget'];
-            //console.log(z,system);
+            var targetArray = sourceZ['ExpTarget'];
+            console.log(targetArray);
             
             var dataAr = [];
-            
-            for (let i = 0; i < targetArray.length; i++) {
+            var len = targetArray.length
+            for (let i = 0; i < len; i++) {
                 var data = {};
                 // get target system
                   var fetchStr = '/data/'+targetArray[i]+'.Plist';
