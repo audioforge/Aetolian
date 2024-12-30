@@ -232,13 +232,14 @@
                   const sysString = await response.text();
                   const targetDicts = PlistParser.parse(sysString);
                   const z = targetDicts['Z'];
-                  const updated = z['updated'];
-                  const factionInfo = targetDicts[updated];
+                  var updated = z['updated'];
+                  var factionInfo = targetDicts[updated];
+                  console.log (factionInfo);
                 data.system = targetArray[i];
                 data.count = Object.keys(factionInfo).length;
                 data.population = z['Population'];
                 var sysFaction = z['SysFaction'];
-                console.log (sysFaction);
+                
                 var sysFacDicts = factionInfo[sysFaction];
                 var inf = (sysFacDict['Influence']*100).toFixed(1);
                 data.factions = sysFaction + ': ' + inf;
