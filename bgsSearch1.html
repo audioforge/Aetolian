@@ -223,7 +223,7 @@
             
             var dataAr = [];
             var len = targetArray.length
-            if (len <1) {
+            if (!targetArray) {
                document.getElementById("showresulthere").innerHTML = 'Data missing'; 
             }
             for (let i = 0; i < len; i++) {
