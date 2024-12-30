@@ -237,8 +237,10 @@
                   var sysFact = z['SysFaction'];
                   
                 data.system = targetArray[i];
-                data.count = Object.keys(factionInfo).length;
-                data.population = z['Population'];
+                var count = Object.keys(factionInfo).length;
+                data.count = count;
+                var popu = z['Population'];
+                data.population = popu;
                 
                 var sysFacDicts = factionInfo[sysFact];
                 //console.log (sysFacDicts);
