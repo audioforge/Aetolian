@@ -242,8 +242,8 @@
                 
                 
                 var sysFacDicts = factionInfo[sysFact];
-                console.log (sysFacDicts);
-                var inf = 50;//(sysFacDict['Influence']*100).toFixed(1);
+                //console.log (sysFacDicts);
+                var inf = (sysFacDict['Influence']*100).toFixed(1);
                 data.factions = sysFact + ': ' + inf;
                 dataAr.push(data);
             }
