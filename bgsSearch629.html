@@ -1,0 +1,237 @@
+<!DOCTYPE html><html lang="en"><head><meta name=viewport content="width=device-width,initial-scale=1"><meta charset="utf-8">
+    <script src="plist_parser.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <style>body { background: #556B2F; color: #000000; font-family: 'Lato', Arial, sans-serif; } h1 { font-family: "proxima-nova",sans-serif; letter-spacing: -0.01em; font-weight: 700; font-style: normal; font-size: 60px; margin-left: -3px; line-height: 1em; color: #fff; text-align: center; margin-bottom: 8px; text-rendering: optimizeLegibility; } table { width: 80%; margin: auto; } table, th, td { border: 1px solid #fff; border-collapse: collapse; } th, td { padding: 5px; }
+    a:link {
+        color: orange;
+        background-color: black;
+        text-decoration: none;
+    }
+    a:visited {
+        color: orangered;
+        background-color: transparent;
+        text-decoration: none;
+    }
+    a:hover {
+        color: red;
+        background-color: transparent;
+        text-decoration: underline;
+    }
+    a:active {
+        color: yellow;
+        background-color: transparent;
+        text-decoration: underline;
+    }
+</style><title>Interstellar Factors</title>
+   
+</head><body><h2>BGS Search</h2>
+    Enter current system name:<br>
+    <input id="test" type=text style="color:white; background-color: #222222"><button onclick="exampleFetch()" style="color:#ff6400; background-color: #333333; font-size: 10px;">Current</button>
+ 
+ <p id="showresulthere">Result will be shown here</p>
+ <table id="data-table"></table>
+    <script>
+        var dynamicTable = (function() {
+            
+            var _tableId, _table,
+                _fields, _headers,
+                _defaultText;
+            
+            /** Builds the row with columns from the specified names.
+             *  If the item parameter is specified, the memebers of the names array will be used as property names of the item; otherwise they will be directly parsed as text.
+             */
+            function _buildRowColumns(names, item) {
+                var row = '<tr>';
+                if (names && names.length > 0)
+                {
+                    $.each(names, function(index, name) {
+                        var c = item ? item[name+''] : name;
+                        row += '<td>' + c + '</td>';
+                    });
+                }
+                row += '</tr>';
+                return row;
+            }
+            
+            /** Builds and sets the headers of the table. */
+            function _setHeaders() {
+                // if no headers specified, we will use the fields as headers.
+                _headers = (_headers == null || _headers.length < 1) ? _fields : _headers;
+                var h = _buildRowColumns(_headers);
+                if (_table.children('thead').length < 1) _table.prepend('<thead></thead>');
+                _table.children('thead').html(h);
+            }
+            
+            function _setNoItemsInfo() {
+                if (_table.length < 1) return; //not configured.
+                var colspan = _headers != null && _headers.length > 0 ?
+                    'colspan="' + _headers.length + '"' : '';
+                var content = '<tr class="no-items"><td ' + colspan + ' style="text-align:center">' +
+                    _defaultText + '</td></tr>';
+                if (_table.children('tbody').length > 0)
+                    _table.children('tbody').html(content);
+                else _table.append('<tbody>' + content + '</tbody>');
+            }
+            
+            function _removeNoItemsInfo() {
+                var c = _table.children('tbody').children('tr');
+                if (c.length == 1 && c.hasClass('no-items')) _table.children('tbody').empty();
+            }
+            
+            return {
+                /** Configres the dynamic table. */
+                config: function(tableId, fields, headers, defaultText) {
+                    _tableId = tableId;
+                    _table = $('#' + tableId);
+                    _fields = fields || null;
+                    _headers = headers || null;
+                    _defaultText = defaultText || 'No items to list...';
+                    _setHeaders();
+                    _setNoItemsInfo();
+                    return this;
+                },
+                /** Loads the specified data to the table body. */
+                load: function(data, append) {
+                    if (_table.length < 1) return; //not configured.
+                    _setHeaders();
+                    _removeNoItemsInfo();
+                    if (data && data.length > 0) {
+                        var rows = '';
+                        $.each(data, function(index, item) {
+                            rows += _buildRowColumns(_fields, item);
+                        });
+                        var mthd = append ? 'append' : 'html';
+                        _table.children('tbody')[mthd](rows);
+                    }
+                    else {
+                        _setNoItemsInfo();
+                    }
+                    return this;
+                },
+                /** Clears the table body. */
+                clear: function() {
+                    _setNoItemsInfo();
+                    return this;
+                }
+            };
+        }());
+        
+        // distance funtion
+        function dist3d (source,target) {
+            var d = 0;
+            for (let i=0; i<3; i++) {
+                var cur = Number(source[i]);
+                var tar = Number(target[i]);
+                var delta = cur - tar;
+                var squared = delta * delta;
+                d = d + squared;
+            }
+            d = Math.sqrt(d);
+            return d;
+        }
+        
+        
+        //async function exampleFetch() {
+        async function exampleFetch() {
+            var system=document.getElementById('test').value
+            document.getElementById("showresulthere").innerHTML = system + ' searching ...';
+            var dt = dynamicTable.config('data-table',
+                                             ['station','system','distance','type','updated'],
+                                         ['Station','System','Distance','Type','Updated'], //set to null for field names instead of custom header names
+                                             'populating ...');
+            dt.clear();
+            const response = await fetch('/data/'+system+'.Plist');
+            const plistString = await response.text();
+            //var plistString = data;
+
+            var sourceDicts = PlistParser.parse(plistString);
+            const sourceZ = sourceDicts['Z'];
+            //console.log(systems,system);
+            const targetArray = sourceZ['ExpTarget'];
+            
+            let dataDicts = new Map();
+            //var systemU = system.toUpperCase();
+            var done = 0;
+            for (let k=0; k<2; k++) {
+                console.log(system);
+            for (let i = 0; i < targetArray.length; i++) {
+              if (true) {
+                  if (done>0) {
+                      break;
+                  }
+                  // get target system
+                  var fetchStr = '/data/'+targetArray[i]+'.Plist';
+                  //console.log(fetchStr);
+                  const response = await fetch(fetchStr);
+                  const sysString = await response.text();
+                  const targetDicts = PlistParser.parse(sysString);
+                  const z = targetDicts['Z'];
+                  const updated = z['updated'];
+                  const factionInfo = targetDicts[updated];
+                  //console.log(d);
+                  document.getElementById("showresulthere").innerHTML = system + ' found';
+                  
+                  // build array with factioninfo
+                                    
+//                  for (const [key, value] of Object.entries(ifSystems)) {
+//                      // build array with distance to each system, keep the 10 closests
+//                      if (Object.keys(value).length>3) {
+//                          var type = value['type'];
+//                          if (!type.includes('Outpost')) {
+//                              var infoDicts = value;
+//                              infoDicts.system = key;
+//                              //console.log('Large');
+//                              largeIF.set(d, infoDicts);
+//                          }
+//                      }
+//                  }
+//                  topTen.sort(function(a, b){return a - b});
+                  // prep table for output
+                  //console.log(dataDicts);
+                  //console.log(largeIF);
+                  var dataAr = [];
+                  for (let i = 0; i < 10; i++) {
+                      // outposts first
+                      let key = topTen[i];
+                      //console.log(key,dataDicts);
+                      var stuff = dataDicts.get(key);
+                      //console.log(topTen[i],stuff);
+                      var data = {};
+                      data.station = stuff['name'];
+                      data.system = stuff['system'];
+                      data.distance = parseFloat(topTen[i]).toFixed(1);
+                      data.updated = stuff['updated'];
+                      data.type = stuff['type'];
+                      dataAr.push(data);
+                      
+                  }
+//                  largeIF.forEach((value, key) => {
+//                          var data = {};
+//                          data.station = value['name'];
+//                          data.system = value['system'];
+//                          data.distance = parseFloat(key).toFixed(1);;
+//                          data.updated = value['updated'];
+//                          data.type = value['type'];
+//                          dataAr.push(data);
+//                  })
+                  //console.log (dataAr);
+                  var dt = dynamicTable.config('data-table',
+                                                   ['station','system','distance','type','updated'],
+                                               ['System','Count','Factions','Population','Updated'], //set to null for field names instead of custom header names
+                                                   'There are no items to list...');
+                  dt.load(dataAr);
+                  done = 1;
+              }
+            
+            }
+            if (topTen.length<1) {
+                    document.getElementById("showresulthere").innerHTML = system + ' not found';
+                    // see if _A finds it:
+                    system = system + ' A';
+                    
+            }
+            }
+        }
+        
+    </script>
+</body></html>

@@ -719,8 +719,112 @@
 			<string>CivilUnrest</string>
 		</dict>
 	</dict>
+	<key>20241230</key>
+	<dict>
+		<key>Mayapok Co</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.123867</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Mayapok Co-op</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.108761</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Mayapok Jet Rats</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.010070000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Mayapok Patrons of Law</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.15709999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Reret Emperor's Grace</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.059415999999999997</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>The Independent Light Wheel</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.54078499999999996</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
+		<key>ExpTarget</key>
+		<array>
+			<string>Hajara A</string>
+			<string>HIP 8894</string>
+			<string>HIP 10123</string>
+			<string>Gladuwong</string>
+			<string>Caspataya A</string>
+			<string>Bembo</string>
+			<string>Bolocara</string>
+			<string>Varri</string>
+			<string>Aurgens A</string>
+			<string>Lusoneshas</string>
+			<string>Rugien A</string>
+			<string>Cozaanat A</string>
+			<string>Almudjara</string>
+			<string>Guan Wango A</string>
+			<string>Ngadji A</string>
+			<string>HIP 7386 A</string>
+			<string>Nanapan</string>
+			<string>Pauish</string>
+			<string>Nyalayan A</string>
+			<string>HIP 6011 A</string>
+		</array>
 		<key>StarPos</key>
 		<array>
 			<real>48.53125</real>
@@ -740,7 +844,7 @@
 		<key>system</key>
 		<string>Mayapok A</string>
 		<key>updated</key>
-		<string>20241228</string>
+		<string>20241230</string>
 	</dict>
 </dict>
 </plist>

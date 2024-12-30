@@ -284,8 +284,128 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20241230</key>
+	<dict>
+		<key>Allied HIP 6551 League</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.19800000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Guttors Empire Consulate</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.27500000000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Ovamalu Inc</key>
+		<dict>
+			<key>Active</key>
+			<string>CivilWar</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.151</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>CivilWar</string>
+		</dict>
+		<key>Ovamalu League</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.039</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Ovamalu Order</key>
+		<dict>
+			<key>Active</key>
+			<string>CivilWar</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.151</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>CivilWar</string>
+		</dict>
+		<key>Ovamalu Values Party</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.067000000000000004</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Paiwatec Flag</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.11899999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
+		<key>ExpTarget</key>
+		<array>
+			<string>Soniteru A</string>
+			<string>Guttors A</string>
+			<string>Yab Yum</string>
+			<string>Lusoneshas</string>
+			<string>HIP 7386 A</string>
+			<string>Autrimpe A</string>
+			<string>HIP 8894</string>
+			<string>Crom Dubh</string>
+			<string>Varri</string>
+			<string>Cemplangpa A</string>
+			<string>Tjialim</string>
+			<string>Songloi</string>
+			<string>Bolocara</string>
+			<string>Nyalayan A</string>
+			<string>Caspataya A</string>
+			<string>Jemede</string>
+			<string>Nespel</string>
+			<string>Gladuwong</string>
+			<string>Rishanha</string>
+			<string>Rugien A</string>
+			<string>Karelitakas</string>
+			<string>Bembo</string>
+			<string>Guan Wango A</string>
+		</array>
 		<key>StarPos</key>
 		<array>
 			<real>42.03125</real>
@@ -305,7 +425,7 @@
 		<key>system</key>
 		<string>Ovamalu A</string>
 		<key>updated</key>
-		<string>20241228</string>
+		<string>20241230</string>
 	</dict>
 </dict>
 </plist>
