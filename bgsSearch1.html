@@ -235,15 +235,16 @@
                   var updated = z['updated'];
                   var factionInfo = targetDicts[updated];
                   var sysFact = z['SysFaction'];
-                  console.log (sysFact);
+                  
                 data.system = targetArray[i];
                 data.count = Object.keys(factionInfo).length;
                 data.population = z['Population'];
                 
                 
                 var sysFacDicts = factionInfo[sysFact];
+                console.log (sysFacDicts);
                 var inf = 50;//(sysFacDict['Influence']*100).toFixed(1);
-                data.factions = sysFaction + ': ' + inf;
+                data.factions = sysFact + ': ' + inf;
                 dataAr.push(data);
             }
 
