@@ -219,7 +219,7 @@
             const locDicts = PlistParser.parse(sysString);
             const sourceZ = locDicts['Z'];
             var targetArray = sourceZ['ExpTarget'];
-            console.log(targetArray);
+            console.log(locDicts);
             
             var dataAr = [];
             var len = targetArray.length
@@ -238,6 +238,7 @@
                 data.count = Object.keys(factionInfo).length;
                 data.population = z['Population'];
                 var sysFaction = z['SysFaction'];
+                console.log (sysFaction);
                 var sysFacDicts = factionInfo[sysFaction];
                 var inf = (sysFacDict['Influence']*100).toFixed(1);
                 data.factions = sysFaction + ': ' + inf;
