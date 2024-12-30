@@ -50,16 +50,16 @@
                     $.each(names, function(index, name) {
                         var c = item ? item[name+''] : name;
                         var curow = '<td>' + c + '</td>';
-                        if (curow.includes('Date')){
+                        if (curow.includes('Updated')){
                             row = '<tr bgcolor="lightgray">';
                         }
                         if (curow.includes('Aetolians')) {
                             curow = '<td bgcolor="palegreen">' + c + '</td>';
                         }
-                        if (curow.includes(':')) {
-                            curow = '<td bgcolor="white">' + c + '</td>';
-                        }
-                        if (curow.includes('War')||curow.includes('Election')) {
+//                        if (curow.includes(':')) {
+//                            curow = '<td bgcolor="white">' + c + '</td>';
+//                        }
+                        if (curow.includes('ELITE SPACE WINGS')||curow.includes('Election')) {
                             curow = '<td bgcolor="red">' + c + '</td>';
                         }
                         if (curow.includes('Retreat')) {
@@ -266,6 +266,7 @@
                 var sysFacDicts = factionInfo[sysFact];
                 //console.log (sysFacDicts);
                 var inf = (sysFacDicts['Influence']*100).toFixed(1);
+                smallest = (smallest*100).toFixed(1);
                 data.factions = sysFact + ': ' + inf + ' (' + lowestFac + ': ' + smallest + ')';
                 
                 dataAr.push(data);
