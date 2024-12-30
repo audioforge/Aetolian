@@ -231,24 +231,41 @@
                   const response = await fetch(fetchStr);
                   const sysString = await response.text();
                   const targetDicts = PlistParser.parse(sysString);
-                  const z = targetDicts['Z'];
+                  var z = targetDicts['Z'];
                   var updated = z['updated'];
                   var factionInfo = targetDicts[updated];
                   var sysFact = z['SysFaction'];
                   
-                data.system = targetArray[i];
-                var count = Object.keys(factionInfo).length;
-                data.count = count;
-                var popu = z['Population'];
-                data.population = popu;
+                  var systemName = targetArray[i];
+                  if(systemName.includes(" A")){
+                      systemName = systemName.substring(0, systemName.length-2);
+                  }
+                data.system = systemName;
+                var count = 0;
+                var smallest = 1;
+                var lowestFac = '';
+                factionInfo.forEach((value, key) => {
+                        // get lowest inf
+                        if(!key.includes(systemName)) {
+                              var inf = value['Influence'];
+                              if (inf < smallest) {
+                                  smallest = inf;
+                                  lowestFac = key;
+                              }
+                        }
+                        count++;
+                })                
+                data['count'] = count;
+                
+                
+                
+                var popu = z['population'];
+                data[population] = popu;
                 
                 var sysFacDicts = factionInfo[sysFact];
                 //console.log (sysFacDicts);
                 var inf = (sysFacDicts['Influence']*100).toFixed(1);
-                data.factions = sysFact + ': ' + inf;
-                
-                
-                
+                data.factions = sysFact + ': ' + inf + ' (' + smallest + ')';
                 
                 dataAr.push(data);
             }
