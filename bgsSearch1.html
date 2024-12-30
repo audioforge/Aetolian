@@ -244,7 +244,8 @@
                 var count = 0;
                 var smallest = 1;
                 var lowestFac = '';
-                factionInfo.forEach((value, key) => {
+                for (const [key, value] of Object.entries(factionInfo)) {
+                //factionInfo.forEach((value, key) => {
                         // get lowest inf
                         if(!key.includes(systemName)) {
                               var inf = value['Influence'];
