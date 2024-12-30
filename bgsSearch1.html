@@ -159,6 +159,14 @@
         exampleFetch();
         
         async function exampleFetch() {
+            
+            var dt = dynamicTable.config('data-table',
+                                               ['system','count','main','lowest','population','updated'],
+                                               ['System','Count','Main','Lowest','Population','Updated'], //set to null for field names instead of custom header names
+                                               'There are no items to list...');
+
+            
+            
             var system=document.getElementById('test').value
             if  (dec!=null) {
                 system = dec;
@@ -221,6 +229,7 @@
             var targetArray = sourceZ['ExpTarget'];
             if (!targetArray) {
                document.getElementById("showresulthere").innerHTML = 'Data missing'; 
+               dt.clear();
             }
             //console.log(locDicts);
             
@@ -282,10 +291,6 @@
 
             
             //console.log (dataAr);
-            var dt = dynamicTable.config('data-table',
-                                               ['system','count','main','lowest','population','updated'],
-                                               ['System','Count','Main','Lowest','Population','Updated'], //set to null for field names instead of custom header names
-                                               'There are no items to list...');
             dt.load(dataAr);
               
             
