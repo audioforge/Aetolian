@@ -44,14 +44,14 @@
              *  If the item parameter is specified, the memebers of the names array will be used as property names of the item; otherwise they will be directly parsed as text.
              */
             function _buildRowColumns(names, item) {
-                var row = '<tr>';
+                var row = '<tr  bgcolor="lightgray">';
                 if (names && names.length > 0)
                 {
                     $.each(names, function(index, name) {
                         var c = item ? item[name+''] : name;
                         var curow = '<td>' + c + '</td>';
                         if (curow.includes('System')){
-                            row = '<tr bgcolor="lightgray">';
+                            row = '<tr bgcolor="darkgray">';
                         }
                         if (curow.includes('Aetolians')) {
                             curow = '<td bgcolor="palegreen">' + c + '</td>';
