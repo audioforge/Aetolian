@@ -223,6 +223,9 @@
             
             var dataAr = [];
             var len = targetArray.length
+            if (len <1) {
+               document.getElementById("showresulthere").innerHTML = 'Data missing'; 
+            }
             for (let i = 0; i < len; i++) {
                 var data = {};
                 // get target system
@@ -238,6 +241,9 @@
                   
                   var systemName = targetArray[i];
                   if(systemName.includes(" A")){
+                      systemName = systemName.substring(0, systemName.length-2);
+                  }
+                  if(systemName.includes(" B")){
                       systemName = systemName.substring(0, systemName.length-2);
                   }
                 data.system = systemName;
