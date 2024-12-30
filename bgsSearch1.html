@@ -262,13 +262,14 @@
                 
                 var popu = z['population'];
                 data['population'] = popu;
-                
+                data['updated'] = updated;
                 var sysFacDicts = factionInfo[sysFact];
                 //console.log (sysFacDicts);
                 var inf = (sysFacDicts['Influence']*100).toFixed(1);
                 data.factions = sysFact + ': ' + inf + ' (' + smallest + ')';
                 
                 dataAr.push(data);
+                document.getElementById("showresulthere").innerHTML = i + ' found';
             }
 
             
