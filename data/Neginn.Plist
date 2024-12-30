@@ -11149,8 +11149,111 @@
 			<string>War</string>
 		</dict>
 	</dict>
+	<key>20241230</key>
+	<dict>
+		<key>Aetolians</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.51983699999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Dumni Jet Public Inc</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.12614400000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>HIP 6807 Imperial Society</key>
+		<dict>
+			<key>Active</key>
+			<string>War</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.104781</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>War</string>
+		</dict>
+		<key>Kolhou Wu Systems</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.077313999999999994</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Neginn Co-operative</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.067141000000000006</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Neginn Crimson Travel Network</key>
+		<dict>
+			<key>Active</key>
+			<string>War</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.104781</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>War</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
+		<key>ExpTarget</key>
+		<array>
+			<string>Dumni</string>
+			<string>Kites</string>
+			<string>Wayica</string>
+			<string>HIP 6807 A</string>
+			<string>Degardhi</string>
+			<string>Brigual</string>
+			<string>Mu Nialfi A</string>
+			<string>Chebaei</string>
+			<string>HIP 7304</string>
+			<string>Ao Kicho A</string>
+			<string>Fei Lin B</string>
+			<string>Yinegafo A</string>
+			<string>Belatus</string>
+			<string>Badbh</string>
+			<string>Bayah A</string>
+			<string>HIP 9252 A</string>
+			<string>Tau Sculptoris A</string>
+			<string>Kolhou Wu</string>
+			<string>Sibianoe</string>
+		</array>
 		<key>StarPos</key>
 		<array>
 			<real>19.28125</real>
@@ -11170,7 +11273,7 @@
 		<key>system</key>
 		<string>Neginn</string>
 		<key>updated</key>
-		<string>20241229</string>
+		<string>20241230</string>
 	</dict>
 </dict>
 </plist>
