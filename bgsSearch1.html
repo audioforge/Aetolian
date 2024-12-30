@@ -267,8 +267,8 @@
                 //console.log (sysFacDicts);
                 var inf = (sysFacDicts['Influence']*100).toFixed(1);
                 smallest = (smallest*100).toFixed(1);
-                data.factions = sysFact + ': ' + inf + ' (' + lowestFac + ': ' + smallest + ')';
-                
+                data.main = sysFact + ': ' + inf; // + ' (' + lowestFac + ': ' + smallest + ')';
+                data.lowest = smallest + ' (' + lowestFac + ')';
                 dataAr.push(data);
                 document.getElementById("showresulthere").innerHTML = i + ' found';
             }
@@ -276,8 +276,8 @@
             
             //console.log (dataAr);
             var dt = dynamicTable.config('data-table',
-                                               ['system','count','factions','population','updated'],
-                                               ['System','Count','Factions','Population','Updated'], //set to null for field names instead of custom header names
+                                               ['system','count','main','lowest','population','updated'],
+                                               ['System','Count','Main','Lowest','Population','Updated'], //set to null for field names instead of custom header names
                                                'There are no items to list...');
             dt.load(dataAr);
               
