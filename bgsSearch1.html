@@ -240,11 +240,14 @@
                 data.count = Object.keys(factionInfo).length;
                 data.population = z['Population'];
                 
-                
                 var sysFacDicts = factionInfo[sysFact];
                 //console.log (sysFacDicts);
-                var inf = (sysFacDict['Influence']*100).toFixed(1);
+                var inf = (sysFacDicts['Influence']*100).toFixed(1);
                 data.factions = sysFact + ': ' + inf;
+                
+                
+                
+                
                 dataAr.push(data);
             }
 
