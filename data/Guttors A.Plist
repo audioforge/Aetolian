@@ -284,8 +284,124 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20241230</key>
+	<dict>
+		<key>ELITE SPACE WINGS</key>
+		<dict>
+			<key>Active</key>
+			<string>Expansion</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.43756200000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Expansion</string>
+		</dict>
+		<key>Guttors Crimson Allied Systems</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.065934000000000006</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Guttors Crimson Clan</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.021978000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Guttors Crimson Comms Ltd</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.070929000000000006</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Guttors Empire Consulate</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.217782</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Party of Sieganga</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.107892</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Progressive Party of Guttors</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.077922000000000005</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
+		<key>ExpTarget</key>
+		<array>
+			<string>Ovamalu A</string>
+			<string>Soniteru A</string>
+			<string>Yab Yum</string>
+			<string>Karelitakas</string>
+			<string>Ketsauts A</string>
+			<string>Songloi</string>
+			<string>Crom Dubh</string>
+			<string>HIP 7386 A</string>
+			<string>Autrimpe A</string>
+			<string>Tjialim</string>
+			<string>Cemplangpa A</string>
+			<string>Pastara A</string>
+			<string>Lusoneshas</string>
+			<string>Zosian Tse</string>
+			<string>Jemede</string>
+			<string>Nyalayan A</string>
+			<string>Shambhala</string>
+			<string>Nespel</string>
+			<string>Amsitia</string>
+		</array>
 		<key>StarPos</key>
 		<array>
 			<real>37.28125</real>
@@ -305,7 +421,7 @@
 		<key>system</key>
 		<string>Guttors A</string>
 		<key>updated</key>
-		<string>20241110</string>
+		<string>20241230</string>
 	</dict>
 </dict>
 </plist>
