@@ -6494,8 +6494,132 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20250101</key>
+	<dict>
+		<key>Aetolians</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.55400000000000005</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Bolocara Bridge Corporation</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.031</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Bolocara Clan</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.012999999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Bolocara allied</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.060999999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>ELITE SPACE WINGS</key>
+		<dict>
+			<key>Active</key>
+			<string>Expansion</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.097000000000000003</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Expansion</string>
+		</dict>
+		<key>HIP 7386 Guardians of Tradition</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.057000000000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Reret Emperor's Grace</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.187</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
+		<key>ExpTarget</key>
+		<array>
+			<string>Rishanha</string>
+			<string>HIP 7386 A</string>
+			<string>HIP 8894</string>
+			<string>Caspataya A</string>
+			<string>Yokusu A</string>
+			<string>Nyalayan A</string>
+			<string>Jemede</string>
+			<string>Nyan</string>
+			<string>Gladuwong</string>
+			<string>Dyin A</string>
+			<string>Nespel</string>
+			<string>Mayapok A</string>
+			<string>Songloi</string>
+			<string>Cemplangpa A</string>
+			<string>Guan Wango A</string>
+			<string>HIP 6854</string>
+			<string>Almudjara</string>
+			<string>Zhuang A</string>
+			<string>Ovamalu A</string>
+			<string>Bembo</string>
+			<string>Soniteru A</string>
+			<string>Lusoneshas</string>
+			<string>Muang</string>
+			<string>Amsitia</string>
+			<string>Zosian Tse</string>
+			<string>Cozaanat A</string>
+			<string>Gliese 9043 A</string>
+		</array>
 		<key>StarPos</key>
 		<array>
 			<real>33.25</real>
@@ -6515,7 +6639,7 @@
 		<key>system</key>
 		<string>Bolocara</string>
 		<key>updated</key>
-		<string>20241230</string>
+		<string>20250101</string>
 	</dict>
 </dict>
 </plist>
