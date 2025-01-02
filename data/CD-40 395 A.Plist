@@ -2,55 +2,68 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>20241229</key>
+	<key>20250102</key>
 	<dict>
-		<key>Acorn Freelancers Corporate Faction</key>
+		<key>CD-40 395 Crew</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.059921000000000002</real>
+			<real>0.0099399999999999992</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Allied Crom Dubh Liberty Party</key>
+		<key>CD-40 395 Empire League</key>
+		<dict>
+			<key>Active</key>
+			<string>War</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.094433000000000003</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>War</string>
+		</dict>
+		<key>CD-40 395 Imperial Society</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.050097999999999997</real>
+			<real>0.072565000000000004</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Bureau of Crom Dubh</key>
+		<key>CD-40 395 Independents</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.030452</real>
+			<real>0.026838999999999998</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Crom Dubh Silver Allied Services</key>
+		<key>CD-40 395 Life Solutions</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.01277</real>
+			<real>0.052684000000000002</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -59,88 +72,74 @@
 		<key>ELITE SPACE WINGS</key>
 		<dict>
 			<key>Active</key>
-			<string></string>
+			<string>Expansion</string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.68958699999999995</real>
+			<real>0.64910500000000004</real>
 			<key>Pending</key>
-			<string>Expansion - 0</string>
+			<string></string>
 			<key>State</key>
-			<string>None</string>
+			<string>Expansion</string>
 		</dict>
-		<key>Pirates of Crom Dubh</key>
+		<key>G.O.M. Collective</key>
 		<dict>
 			<key>Active</key>
-			<string></string>
+			<string>War</string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.018664</real>
+			<real>0.094433000000000003</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
-			<string>None</string>
-		</dict>
-		<key>United German Commanders</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.13850699999999999</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>None</string>
+			<string>War</string>
 		</dict>
 	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
 		<array>
-			<string>Bolowari A</string>
-			<string>Cemplangpa A</string>
-			<string>Yab Yum</string>
-			<string>Ovamalu A</string>
-			<string>Guttors A</string>
-			<string>Ketsauts A</string>
-			<string>Jemede</string>
-			<string>Kharpulo</string>
-			<string>Nyalayan A</string>
-			<string>HIP 7386 A</string>
-			<string>Nespel</string>
-			<string>Lusoneshas</string>
-			<string>Amsitia</string>
-			<string>Karelitakas</string>
-			<string>Songloi</string>
+			<string>Kadrusa A</string>
+			<string>Summerland</string>
+			<string>LP 940-115</string>
+			<string>Ba Nari A</string>
+			<string>Siddha A</string>
+			<string>CF 464</string>
+			<string>Veamit</string>
+			<string>Asphodel</string>
+			<string>Pai Huldr A</string>
+			<string>Mbetatika</string>
+			<string>Santupik</string>
 			<string>Waangamici A</string>
-			<string>Muang</string>
-			<string>Pastara A</string>
-			<string>Autrimpe A</string>
-			<string>HIP 6854</string>
+			<string>Ketsauts A</string>
+			<string>Shambhala</string>
+			<string>Eotienses A</string>
+			<string>Kui Hsien A</string>
+			<string>LEHPM 1902</string>
+			<string>Delta Phoenicis</string>
+			<string>LHS 1110 A</string>
 		</array>
 		<key>StarPos</key>
 		<array>
-			<real>36.6875</real>
-			<real>-154.875</real>
-			<real>-2.46875</real>
+			<real>34</real>
+			<real>-119.8125</real>
+			<real>-1.03125</real>
 		</array>
 		<key>SysFaction</key>
 		<string>ELITE SPACE WINGS</string>
 		<key>economy</key>
-		<string>Industrial</string>
-		<key>economy2</key>
 		<string>Extraction</string>
+		<key>economy2</key>
+		<string>Industrial</string>
 		<key>population</key>
-		<integer>8964852</integer>
+		<integer>7775472</integer>
 		<key>security</key>
-		<string>High Security</string>
+		<string>Medium Security</string>
 		<key>system</key>
-		<string>Crom Dubh</string>
+		<string>CD-40 395 A</string>
 		<key>updated</key>
-		<string>20241229</string>
+		<string>20250102</string>
 	</dict>
 </dict>
 </plist>

@@ -2,21 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>20241231</key>
+	<key>20250102</key>
 	<dict>
-		<key>Drug Empire of Kadrusa</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.011917000000000001</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>None</string>
-		</dict>
 		<key>ELITE SPACE WINGS</key>
 		<dict>
 			<key>Active</key>
@@ -24,7 +11,7 @@
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.57994000000000001</real>
+			<real>0.13830799999999999</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -33,57 +20,57 @@
 		<key>G.O.M. Collective</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.177756</real>
+			<real>0.67661700000000002</real>
 			<key>State</key>
-			<string>Expansion</string>
+			<string>Election</string>
 		</dict>
-		<key>Justice Party of Kadrusa</key>
+		<key>Labour of Pai Huldr</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.054618</real>
+			<real>0.021891000000000001</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Kadrusa Gold Life Services</key>
+		<key>Pai Huldr Blue Brothers</key>
+		<dict>
+			<key>Active</key>
+			<string>Bust</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.022886</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Bust</string>
+		</dict>
+		<key>Pai Huldr Empire Assembly</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.106256</real>
+			<real>0.089552000000000007</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Kadrusa Jet Society</key>
+		<key>Pai Huldr Power Limited</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.0099299999999999996</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>None</string>
-		</dict>
-		<key>Kadrusa Left Party</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.059582999999999997</real>
+			<real>0.050745999999999999</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -94,42 +81,44 @@
 	<dict>
 		<key>ExpTarget</key>
 		<array>
-			<string>Summerland</string>
-			<string>Ba Nari A</string>
-			<string>CF 464</string>
-			<string>Veamit</string>
-			<string>Siddha A</string>
 			<string>Asphodel</string>
-			<string>Mbetatika</string>
-			<string>Shambhala</string>
-			<string>Santupik</string>
+			<string>CF 464</string>
+			<string>Miphifa</string>
 			<string>Eotienses A</string>
-			<string>Ketsauts A</string>
+			<string>Ba Nari A</string>
+			<string>Alacagui A</string>
 			<string>Kui Hsien A</string>
+			<string>Santupik</string>
 			<string>Delta Phoenicis</string>
-			<string>Waangamici A</string>
-			<string>LEHPM 1902</string>
+			<string>Kadrusa A</string>
+			<string>Akualanu A</string>
+			<string>Mbetatika</string>
+			<string>Samen A</string>
+			<string>Cockaigne</string>
+			<string>CD-40 395 A</string>
+			<string>LP 940-115</string>
+			<string>Veamit</string>
 		</array>
 		<key>StarPos</key>
 		<array>
-			<real>37.8125</real>
-			<real>-120.28125</real>
-			<real>-1.34375</real>
+			<real>52.625</real>
+			<real>-114.59375</real>
+			<real>7.1875</real>
 		</array>
 		<key>SysFaction</key>
-		<string>ELITE SPACE WINGS</string>
+		<string>G.O.M. Collective</string>
 		<key>economy</key>
-		<string>Industrial</string>
+		<string>Refinery</string>
 		<key>economy2</key>
-		<string>Colony</string>
+		<string>Extraction</string>
 		<key>population</key>
-		<integer>5065515</integer>
+		<integer>434359</integer>
 		<key>security</key>
 		<string>Medium Security</string>
 		<key>system</key>
-		<string>Kadrusa A</string>
+		<string>Pai Huldr A</string>
 		<key>updated</key>
-		<string>20241231</string>
+		<string>20250102</string>
 	</dict>
 </dict>
 </plist>

@@ -2,88 +2,81 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>20241231</key>
+	<key>20250102</key>
 	<dict>
-		<key>Drug Empire of Kadrusa</key>
+		<key>Alacagui Holdings</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.011917000000000001</real>
+			<real>0.039</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>ELITE SPACE WINGS</key>
+		<key>Alacagui Resistance</key>
 		<dict>
 			<key>Active</key>
-			<string>Expansion</string>
+			<string>War</string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.57994000000000001</real>
+			<real>0.079000000000000001</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
-			<string>Expansion</string>
+			<string>War</string>
+		</dict>
+		<key>Cartel of Alacagui</key>
+		<dict>
+			<key>Active</key>
+			<string>Bust</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.01</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Bust</string>
 		</dict>
 		<key>G.O.M. Collective</key>
 		<dict>
-			<key>Influence</key>
-			<real>0.177756</real>
-			<key>State</key>
-			<string>Expansion</string>
-		</dict>
-		<key>Justice Party of Kadrusa</key>
-		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.054618</real>
+			<real>0.76700000000000002</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
-			<string>None</string>
+			<string>Election</string>
 		</dict>
-		<key>Kadrusa Gold Life Services</key>
+		<key>Lavigny's Legion</key>
 		<dict>
 			<key>Active</key>
-			<string></string>
+			<string>War</string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.106256</real>
+			<real>0.079000000000000001</real>
 			<key>Pending</key>
-			<string></string>
+			<string>Expansion - 0</string>
 			<key>State</key>
-			<string>None</string>
+			<string>War</string>
 		</dict>
-		<key>Kadrusa Jet Society</key>
+		<key>Regulatory State of Alacagui</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.0099299999999999996</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>None</string>
-		</dict>
-		<key>Kadrusa Left Party</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.059582999999999997</real>
+			<real>0.025999999999999999</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -94,42 +87,41 @@
 	<dict>
 		<key>ExpTarget</key>
 		<array>
-			<string>Summerland</string>
-			<string>Ba Nari A</string>
-			<string>CF 464</string>
-			<string>Veamit</string>
-			<string>Siddha A</string>
-			<string>Asphodel</string>
-			<string>Mbetatika</string>
-			<string>Shambhala</string>
-			<string>Santupik</string>
-			<string>Eotienses A</string>
-			<string>Ketsauts A</string>
-			<string>Kui Hsien A</string>
+			<string>Miphifa</string>
 			<string>Delta Phoenicis</string>
-			<string>Waangamici A</string>
-			<string>LEHPM 1902</string>
+			<string>Pai Huldr A</string>
+			<string>Asphodel</string>
+			<string>Akualanu A</string>
+			<string>CF 464</string>
+			<string>Annwn</string>
+			<string>Cockaigne</string>
+			<string>Mbetatika</string>
+			<string>Eotienses A</string>
+			<string>Ba Nari A</string>
+			<string>Kaiakul A</string>
+			<string>Kui Hsien A</string>
+			<string>Santupik</string>
 		</array>
 		<key>StarPos</key>
 		<array>
-			<real>37.8125</real>
-			<real>-120.28125</real>
-			<real>-1.34375</real>
+			<real>63.65625</real>
+			<real>-119</real>
+			<real>17.0625</real>
 		</array>
 		<key>SysFaction</key>
-		<string>ELITE SPACE WINGS</string>
+		<string>G.O.M. Collective</string>
 		<key>economy</key>
-		<string>Industrial</string>
+		<string>Refinery</string>
 		<key>economy2</key>
-		<string>Colony</string>
+		<string>Military</string>
 		<key>population</key>
-		<integer>5065515</integer>
+		<integer>258079</integer>
 		<key>security</key>
 		<string>Medium Security</string>
 		<key>system</key>
-		<string>Kadrusa A</string>
+		<string>Alacagui A</string>
 		<key>updated</key>
-		<string>20241231</string>
+		<string>20250102</string>
 	</dict>
 </dict>
 </plist>
