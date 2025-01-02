@@ -5167,8 +5167,14 @@
 	<dict>
 		<key>Aetolians</key>
 		<dict>
+			<key>Active</key>
+			<string>War</string>
+			<key>Happiness</key>
+			<string>Happy</string>
 			<key>Influence</key>
 			<real>0.30460900000000002</real>
+			<key>Pending</key>
+			<string></string>
 			<key>State</key>
 			<string>War</string>
 		</dict>
@@ -5187,14 +5193,8 @@
 		</dict>
 		<key>HIP 8894 Citizens of Tradition</key>
 		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
 			<key>Influence</key>
 			<real>0.062123999999999999</real>
-			<key>Pending</key>
-			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
@@ -5280,6 +5280,7 @@
 			<string>Cemplangpa A</string>
 			<string>Ngadji A</string>
 			<string>Nespel</string>
+			<string>Bolowari A</string>
 		</array>
 		<key>StarPos</key>
 		<array>
