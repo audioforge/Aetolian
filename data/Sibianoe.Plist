@@ -5611,8 +5611,127 @@
 			<string>CivilWar</string>
 		</dict>
 	</dict>
+	<key>20250104</key>
+	<dict>
+		<key>Aetolians</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.55588800000000005</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Audhenu Empire Party</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.10478999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>New Sibianoe Values Party</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.028941999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Sibianoe Defence Force</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.051895999999999998</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Sibianoe Guardians of Tradition</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.13672699999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Sibianoe Jet Clan</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.016965999999999998</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Sibianoe Silver Vision Inc</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.10478999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
+		<key>ExpTarget</key>
+		<array>
+			<string>Audhenu</string>
+			<string>Caleket</string>
+			<string>Pemeno A</string>
+			<string>Bayah A</string>
+			<string>HIP 10012</string>
+			<string>Kureinji A</string>
+			<string>Waventeno A</string>
+			<string>HIP 10579</string>
+			<string>Nyikas A</string>
+			<string>Partii</string>
+			<string>Bolocas A</string>
+			<string>Humatsu A</string>
+			<string>Inherth A</string>
+			<string>HIP 12425 A</string>
+			<string>Prana</string>
+			<string>HIP 11305</string>
+			<string>Hiradha A</string>
+			<string>Dumni</string>
+			<string>Chih Hiner A</string>
+			<string>Cozaanat A</string>
+			<string>Aitvas</string>
+			<string>Neginn</string>
+		</array>
 		<key>StarPos</key>
 		<array>
 			<real>35.59375</real>
@@ -5632,7 +5751,7 @@
 		<key>system</key>
 		<string>Sibianoe</string>
 		<key>updated</key>
-		<string>20241031</string>
+		<string>20250104</string>
 	</dict>
 </dict>
 </plist>
