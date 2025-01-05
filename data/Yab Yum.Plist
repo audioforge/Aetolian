@@ -190,8 +190,119 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20250105</key>
+	<dict>
+		<key>ELITE SPACE WINGS</key>
+		<dict>
+			<key>Active</key>
+			<string>Expansion</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.45183699999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Expansion</string>
+		</dict>
+		<key>Paiwatec Flag</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.17279</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Traditional Yab Yum Nationalists</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.042701000000000003</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Yab Yum Empire Consulate</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.13505500000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Yab Yum Gold Ring</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.049652000000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Yab Yum Inc</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.064547999999999994</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Yab Yum Purple Allied Industry</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.083416000000000004</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
+		<key>ExpTarget</key>
+		<array>
+			<string>Lusoneshas</string>
+			<string>Ovamalu A</string>
+			<string>Autrimpe A</string>
+			<string>Varri</string>
+			<string>Soniteru A</string>
+			<string>Guttors A</string>
+			<string>Crom Dubh</string>
+			<string>Manthe</string>
+			<string>Ketsauts A</string>
+			<string>HIP 7386 A</string>
+			<string>HIP 8894</string>
+			<string>Duronese A</string>
+			<string>Rugien A</string>
+			<string>Dyin A</string>
+		</array>
 		<key>StarPos</key>
 		<array>
 			<real>50.71875</real>
@@ -211,7 +322,7 @@
 		<key>system</key>
 		<string>Yab Yum</string>
 		<key>updated</key>
-		<string>20241004</string>
+		<string>20250105</string>
 	</dict>
 </dict>
 </plist>
