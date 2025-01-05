@@ -2,94 +2,94 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>20241216</key>
+	<key>20250103</key>
 	<dict>
-		<key>Conservatives of Cockaigne</key>
+		<key>Co-op of Xi Wangar</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.15742600000000001</real>
+			<real>0.015198</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Lavigny's Legion</key>
+		<key>ELITE SPACE WINGS</key>
 		<dict>
 			<key>Active</key>
 			<string>Expansion</string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.53564400000000001</real>
+			<real>0.35055700000000001</real>
 			<key>Pending</key>
-			<string></string>
+			<string>Election - 0</string>
 			<key>State</key>
 			<string>Expansion</string>
 		</dict>
-		<key>Raiders of Samen</key>
+		<key>Night Wolves Corporation</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.018811999999999999</real>
+			<real>0.35055700000000001</real>
+			<key>Pending</key>
+			<string>Election - 0</string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Thule Empire League</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.248227</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Samen Bridge Partners</key>
+		<key>Waangamici Prison Colony</key>
+		<dict>
+			<key>Active</key>
+			<string>Retreat</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.010132</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Retreat</string>
+		</dict>
+		<key>Xi Wangar Posse</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.047524999999999998</real>
+			<real>0.012158</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Samen Citizens' Forum</key>
+		<key>Xi Wangar Purple Life Systems</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.117822</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>None</string>
-		</dict>
-		<key>Samen Crimson General Services</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.072276999999999994</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>None</string>
-		</dict>
-		<key>Samen Resistance</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.050494999999999998</real>
+			<real>0.013171</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -100,35 +100,46 @@
 	<dict>
 		<key>ExpTarget</key>
 		<array>
-			<string>Akualanu A</string>
-			<string>Cockaigne</string>
-			<string>Gender A</string>
-			<string>Lombi A</string>
-			<string>Miphifa</string>
-			<string>Pai Huldr A</string>
-			<string>Eotienses A</string>
-			<string>Delta Phoenicis</string>
+			<string>Ibormbu A</string>
+			<string>Vadimui A</string>
+			<string>Waangamici A</string>
+			<string>HIP 3125</string>
+			<string>Ditae</string>
+			<string>Tlakakaltan A</string>
+			<string>Gliese 9043 A</string>
+			<string>Shokwus A</string>
+			<string>Ten Samba</string>
+			<string>Kalvaitu A</string>
+			<string>Targamu A</string>
+			<string>Gliese 58 A</string>
+			<string>Namba A</string>
+			<string>Pyemmairre A</string>
+			<string>LHS 1110 A</string>
+			<string>Reshero</string>
+			<string>Karelitakas</string>
+			<string>Sui Xianoan A</string>
+			<string>Bolowari A</string>
 		</array>
 		<key>StarPos</key>
 		<array>
-			<real>68.875</real>
-			<real>-118.4375</real>
-			<real>-3.65625</real>
+			<real>9.21875</real>
+			<real>-144.46875</real>
+			<real>-0.53125</real>
 		</array>
 		<key>SysFaction</key>
-		<string>Lavigny's Legion</string>
+		<string>ELITE SPACE WINGS</string>
 		<key>economy</key>
-		<string>Agriculture</string>
+		<string>Industrial</string>
 		<key>economy2</key>
-		<string>Tourism</string>
+		<string>Colony</string>
 		<key>population</key>
-		<integer>6494124293</integer>
+		<integer>10637</integer>
 		<key>security</key>
-		<string>Medium Security</string>
+		<string>Low Security</string>
 		<key>system</key>
-		<string>Samen A</string>
+		<string>Xi Wangar</string>
 		<key>updated</key>
-		<string>20241216</string>
+		<string>20250103</string>
 	</dict>
 </dict>
 </plist>
