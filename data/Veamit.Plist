@@ -83,8 +83,105 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20250105</key>
+	<dict>
+		<key>Allied Veamit Movement</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.057883999999999998</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>ELITE SPACE WINGS</key>
+		<dict>
+			<key>Active</key>
+			<string>Expansion</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.65369299999999997</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Expansion</string>
+		</dict>
+		<key>League of Veamit Defence Party</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.046906000000000003</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Social Veamit Revolutionary Party</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.079839999999999994</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Veamit Solutions</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.070858000000000004</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Warlords of Tengri</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.090817999999999996</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
+		<key>ExpTarget</key>
+		<array>
+			<string>Shambhala</string>
+			<string>Ketsauts A</string>
+			<string>Ba Nari A</string>
+			<string>LP 940-115</string>
+			<string>Kadrusa A</string>
+			<string>CD-40 395 A</string>
+			<string>Lombi A</string>
+			<string>Cockaigne</string>
+			<string>CF 464</string>
+			<string>Summerland</string>
+			<string>Karelitakas</string>
+			<string>Gender A</string>
+			<string>Pai Huldr A</string>
+		</array>
 		<key>StarPos</key>
 		<array>
 			<real>43.65625</real>
@@ -104,7 +201,7 @@
 		<key>system</key>
 		<string>Veamit</string>
 		<key>updated</key>
-		<string>20240731</string>
+		<string>20250105</string>
 	</dict>
 </dict>
 </plist>

@@ -378,8 +378,119 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20250105</key>
+	<dict>
+		<key>ELITE SPACE WINGS</key>
+		<dict>
+			<key>Active</key>
+			<string>Expansion</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.77666999999999997</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Expansion</string>
+		</dict>
+		<key>Kholu Energy &amp; Co</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.053837999999999997</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Revolutionary Party of Wichaimi</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.030907</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Wichaimi Empire Assembly</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.020937000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Wichaimi Jet Gang</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.012961</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Wichaimi PLC</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.083749000000000004</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Wichaimi Services</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.020937000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
+		<key>ExpTarget</key>
+		<array>
+			<string>Kholu</string>
+			<string>Pastara A</string>
+			<string>Karelitakas</string>
+			<string>Rabatha</string>
+			<string>Gliese 58 A</string>
+			<string>HIP 7687 A</string>
+			<string>Zosian Tse</string>
+			<string>Lwali</string>
+			<string>Ausermoduro A</string>
+			<string>Bolowari A</string>
+			<string>Ten Samba</string>
+			<string>Ibormbu A</string>
+			<string>Gliese 9043 A</string>
+			<string>Ditae</string>
+		</array>
 		<key>StarPos</key>
 		<array>
 			<real>15.5</real>
@@ -399,7 +510,7 @@
 		<key>system</key>
 		<string>Wichaimi A</string>
 		<key>updated</key>
-		<string>20240626</string>
+		<string>20250105</string>
 	</dict>
 </dict>
 </plist>
