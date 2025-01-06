@@ -1944,7 +1944,7 @@
 	<key>Biermann Dock_Nyororor</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>354.158818</real>
+		<real>353.728543</real>
 		<key>starSystem</key>
 		<string>Nyororor</string>
 		<key>stationFaction</key>
@@ -1990,7 +1990,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20240804</string>
+		<string>20250105</string>
 	</dict>
 	<key>Biesbroeck Station_Mayapok</key>
 	<dict>
@@ -2719,7 +2719,7 @@
 	<key>Bullialdus Gateway_HIP 8894</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>16.229665000000001</real>
+		<real>16.259439</real>
 		<key>starSystem</key>
 		<string>HIP 8894</string>
 		<key>stationFaction</key>
@@ -6954,7 +6954,7 @@
 	<key>Harvey-Smith Holdings_Huruk</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>64.637860000000003</real>
+		<real>96.480611999999994</real>
 		<key>starSystem</key>
 		<string>Huruk</string>
 		<key>stationFaction</key>
@@ -6998,7 +6998,7 @@
 		<key>stationType</key>
 		<string>Ocellus</string>
 		<key>updated</key>
-		<string>20241230</string>
+		<string>20250105</string>
 	</dict>
 	<key>Harvia Mines_Maritou</key>
 	<dict>
@@ -9472,11 +9472,13 @@
 	<key>Kuchemann Horizons_Bolocara</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>977.67445199999997</real>
+		<real>977.680071</real>
 		<key>starSystem</key>
 		<string>Bolocara</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Boom</string>
 			<key>Name</key>
 			<string>Aetolians</string>
 		</dict>
@@ -9513,7 +9515,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250104</string>
+		<string>20250105</string>
 	</dict>
 	<key>Kulin Station_HIP 7526</key>
 	<dict>
@@ -18938,7 +18940,7 @@
 	<key>Tshang City_Furuhjelm III-674</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>49.351560999999997</real>
+		<real>49.359962000000003</real>
 		<key>starSystem</key>
 		<string>Furuhjelm III-674</string>
 		<key>stationFaction</key>
@@ -18983,7 +18985,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20240918</string>
+		<string>20250105</string>
 	</dict>
 	<key>Unsold City_Brigid</key>
 	<dict>
@@ -20601,11 +20603,13 @@
 	<key>i Sola Prospect_Brestla</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>14.930781</real>
+		<real>14.930790999999999</real>
 		<key>starSystem</key>
 		<string>Brestla</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>CivilLiberty</string>
 			<key>Name</key>
 			<string>Heilelang Patron's Principles</string>
 		</dict>
@@ -20644,7 +20648,7 @@
 		<key>stationType</key>
 		<string>CraterOutpost</string>
 		<key>updated</key>
-		<string>20241216</string>
+		<string>20250105</string>
 	</dict>
 	<key>van Rhijn Station_Anja</key>
 	<dict>
