@@ -783,13 +783,13 @@
 	<key>Anderson Works_HIP 9252</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>94.210232000000005</real>
+		<real>98.049667999999997</real>
 		<key>starSystem</key>
 		<string>HIP 9252</string>
 		<key>stationFaction</key>
 		<dict>
 			<key>FactionState</key>
-			<string>War</string>
+			<string>CivilUnrest</string>
 			<key>Name</key>
 			<string>HIP 10716 Vision PLC</string>
 		</dict>
@@ -827,7 +827,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20241230</string>
+		<string>20250106</string>
 	</dict>
 	<key>Angstrom Hub_HIP 6905</key>
 	<dict>
@@ -1474,7 +1474,7 @@
 	<key>Baracchi Port_Boresti</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>79.778077999999994</real>
+		<real>79.812302000000003</real>
 		<key>starSystem</key>
 		<string>Boresti</string>
 		<key>stationFaction</key>
@@ -1515,7 +1515,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20241216</string>
+		<string>20250106</string>
 	</dict>
 	<key>Barbuy Landing_Targamu</key>
 	<dict>
@@ -2719,11 +2719,13 @@
 	<key>Bullialdus Gateway_HIP 8894</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>16.259439</real>
+		<real>16.185731000000001</real>
 		<key>starSystem</key>
 		<string>HIP 8894</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Boom</string>
 			<key>Name</key>
 			<string>Aetolians</string>
 		</dict>
@@ -2764,7 +2766,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20250105</string>
+		<string>20250106</string>
 	</dict>
 	<key>Bulychev Beacon_Chebaei</key>
 	<dict>
@@ -3513,13 +3515,11 @@
 	<key>Chertovsky Arena_Kites</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>996.57541600000002</real>
+		<real>996.49390800000003</real>
 		<key>starSystem</key>
 		<string>Kites</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>Expansion</string>
 			<key>Name</key>
 			<string>Kites Central Solutions</string>
 		</dict>
@@ -3555,7 +3555,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20241224</string>
+		<string>20250106</string>
 	</dict>
 	<key>Chris &amp; Silvia's Paradise Hideout_Eurybia</key>
 	<dict>
@@ -9472,7 +9472,7 @@
 	<key>Kuchemann Horizons_Bolocara</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>977.680071</real>
+		<real>978.30810299999996</real>
 		<key>starSystem</key>
 		<string>Bolocara</string>
 		<key>stationFaction</key>
@@ -9515,7 +9515,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250105</string>
+		<string>20250106</string>
 	</dict>
 	<key>Kulin Station_HIP 7526</key>
 	<dict>
@@ -12628,7 +12628,7 @@
 	<key>Pajdusakova Port_Guttors</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>180.007994</real>
+		<real>180.18781899999999</real>
 		<key>starSystem</key>
 		<string>Guttors</string>
 		<key>stationFaction</key>
@@ -12671,7 +12671,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20241230</string>
+		<string>20250106</string>
 	</dict>
 	<key>Patterson Enterprise_Sirius</key>
 	<dict>
@@ -12816,13 +12816,13 @@
 	<key>Pickering Point_Songloi</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>739.85380899999996</real>
+		<real>737.860679</real>
 		<key>starSystem</key>
 		<string>Songloi</string>
 		<key>stationFaction</key>
 		<dict>
 			<key>FactionState</key>
-			<string>Expansion</string>
+			<string>War</string>
 			<key>Name</key>
 			<string>ELITE SPACE WINGS</string>
 		</dict>
@@ -12859,7 +12859,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250104</string>
+		<string>20250106</string>
 	</dict>
 	<key>Pilcher Port_Nyalayan</key>
 	<dict>
@@ -14967,7 +14967,7 @@
 	<key>Sudworth Port_Brigual</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>345.72106300000002</real>
+		<real>345.72857699999997</real>
 		<key>starSystem</key>
 		<string>Brigual</string>
 		<key>stationFaction</key>
@@ -15007,7 +15007,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250103</string>
+		<string>20250106</string>
 	</dict>
 	<key>Sugie Works_Nyan</key>
 	<dict>
@@ -16146,6 +16146,44 @@
 		<key>updated</key>
 		<string>20240515</string>
 	</dict>
+	<key>THH-LHG_Kites</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>0.0</real>
+		<key>starSystem</key>
+		<string>Kites</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>FleetCarrier</string>
+		</dict>
+		<key>stationName</key>
+		<string>THH-LHG</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>shipyard</string>
+			<string>engineer</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>stationMenu</string>
+			<string>carriermanagement</string>
+			<string>carrierfuel</string>
+			<string>socialspace</string>
+		</array>
+		<key>stationType</key>
+		<string>FleetCarrier</string>
+		<key>updated</key>
+		<string>20250106</string>
+	</dict>
 	<key>THH-LHG_Koli Discii</key>
 	<dict>
 		<key>DistFromStarLS</key>
@@ -16263,7 +16301,7 @@
 	<key>THH-LHG_Mu Nialfi</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1351.575004</real>
+		<real>1306.250738</real>
 		<key>starSystem</key>
 		<string>Mu Nialfi</string>
 		<key>stationFaction</key>
@@ -16296,7 +16334,7 @@
 		<key>stationType</key>
 		<string>FleetCarrier</string>
 		<key>updated</key>
-		<string>20240730</string>
+		<string>20250106</string>
 	</dict>
 	<key>THH-LHG_Neginn</key>
 	<dict>
