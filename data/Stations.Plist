@@ -2719,13 +2719,11 @@
 	<key>Bullialdus Gateway_HIP 8894</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>16.185731000000001</real>
+		<real>16.305174999999998</real>
 		<key>starSystem</key>
 		<string>HIP 8894</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>Boom</string>
 			<key>Name</key>
 			<string>Aetolians</string>
 		</dict>
@@ -2766,7 +2764,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20250106</string>
+		<string>20250107</string>
 	</dict>
 	<key>Bulychev Beacon_Chebaei</key>
 	<dict>
@@ -2867,7 +2865,7 @@
 	<key>Burnham Market_HIP 10123</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>175.15759199999999</real>
+		<real>175.096171</real>
 		<key>starSystem</key>
 		<string>HIP 10123</string>
 		<key>stationFaction</key>
@@ -2910,7 +2908,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20241230</string>
+		<string>20250107</string>
 	</dict>
 	<key>Burnham Prospect_Audhenu</key>
 	<dict>
@@ -8626,7 +8624,7 @@
 	<key>Karachkina Orbital_Rishanha</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>2642.532592</real>
+		<real>2641.5945929999998</real>
 		<key>starSystem</key>
 		<string>Rishanha</string>
 		<key>stationFaction</key>
@@ -8670,7 +8668,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20250105</string>
+		<string>20250107</string>
 	</dict>
 	<key>Kaufmanis Port_Eotienses</key>
 	<dict>
@@ -9472,7 +9470,7 @@
 	<key>Kuchemann Horizons_Bolocara</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>978.30810299999996</real>
+		<real>978.59823700000004</real>
 		<key>starSystem</key>
 		<string>Bolocara</string>
 		<key>stationFaction</key>
@@ -9515,7 +9513,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250106</string>
+		<string>20250107</string>
 	</dict>
 	<key>Kulin Station_HIP 7526</key>
 	<dict>
@@ -10081,7 +10079,7 @@
 	<key>Littrow Colony_Bolocara</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1260.9662189999999</real>
+		<real>1265.3830190000001</real>
 		<key>starSystem</key>
 		<string>Bolocara</string>
 		<key>stationFaction</key>
@@ -10124,7 +10122,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250104</string>
+		<string>20250107</string>
 	</dict>
 	<key>Littrow Oasis_HIP 6990</key>
 	<dict>
@@ -13457,13 +13455,11 @@
 	<key>Rich Gateway_HIP 10123</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>316.45626399999998</real>
+		<real>316.51059500000002</real>
 		<key>starSystem</key>
 		<string>HIP 10123</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>CivilUnrest</string>
 			<key>Name</key>
 			<string>The Independent Light Wheel</string>
 		</dict>
@@ -13502,7 +13498,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20241228</string>
+		<string>20250107</string>
 	</dict>
 	<key>Ritchey Port_Eotienses</key>
 	<dict>
@@ -18365,7 +18361,7 @@
 	<key>Tarter Port_Rugien</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>21.150516</real>
+		<real>21.170435999999999</real>
 		<key>starSystem</key>
 		<string>Rugien</string>
 		<key>stationFaction</key>
@@ -18403,7 +18399,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20241228</string>
+		<string>20250107</string>
 	</dict>
 	<key>The Seraph's Wing_ICZ ZK-X b1-0</key>
 	<dict>
@@ -19494,11 +19490,13 @@
 	<key>Wang Ring_Ovamalu</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>2599.261407</real>
+		<real>2599.0712170000002</real>
 		<key>starSystem</key>
 		<string>Ovamalu</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Boom</string>
 			<key>Name</key>
 			<string>Guttors Empire Consulate</string>
 		</dict>
@@ -19533,7 +19531,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20241023</string>
+		<string>20250107</string>
 	</dict>
 	<key>Watanabe Dock_Mac Cha</key>
 	<dict>
