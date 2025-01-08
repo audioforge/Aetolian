@@ -96,8 +96,114 @@
 			<string>CivilWar</string>
 		</dict>
 	</dict>
+	<key>20250107</key>
+	<dict>
+		<key>ELITE SPACE WINGS</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.47415499999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>War</string>
+		</dict>
+		<key>G.O.M. Collective</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.18787300000000001</real>
+			<key>Pending</key>
+			<string>Expansion - 0</string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Jet Comms Corporation</key>
+		<dict>
+			<key>Active</key>
+			<string>InfrastructureFailure</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.055666</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>InfrastructureFailure</string>
+		</dict>
+		<key>New Siddha Constitution Party</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.054671999999999998</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Siddha Empire League</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.105368</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Siddha Vision PLC</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.069583000000000006</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Social Siddha Future</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.052684000000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
+		<key>ExpTarget</key>
+		<array>
+			<string>LEHPM 1902</string>
+			<string>CD-40 395 A</string>
+			<string>Summerland</string>
+			<string>LP 940-115</string>
+			<string>Kadrusa A</string>
+			<string>LHS 1097</string>
+			<string>HIP 7687 A</string>
+			<string>Ketekhmet A</string>
+			<string>Gliese 58 A</string>
+		</array>
 		<key>StarPos</key>
 		<array>
 			<real>24.59375</real>
@@ -117,7 +223,7 @@
 		<key>system</key>
 		<string>Siddha A</string>
 		<key>updated</key>
-		<string>20240821</string>
+		<string>20250107</string>
 	</dict>
 </dict>
 </plist>
