@@ -2436,7 +2436,7 @@
 	<key>Boyajian Survey_Punta</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>30.883889</real>
+		<real>30.858471000000002</real>
 		<key>starSystem</key>
 		<string>Punta</string>
 		<key>stationFaction</key>
@@ -2472,16 +2472,18 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20241209</string>
+		<string>20241225</string>
 	</dict>
 	<key>Boyer Dock_Mokoi</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>270.83022999999997</real>
+		<real>270.508599</real>
 		<key>starSystem</key>
 		<string>Mokoi</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Election</string>
 			<key>Name</key>
 			<string>Amanogawa Enlight</string>
 		</dict>
@@ -2521,7 +2523,7 @@
 		<key>stationType</key>
 		<string>Ocellus</string>
 		<key>updated</key>
-		<string>20241222</string>
+		<string>20241226</string>
 	</dict>
 	<key>Brashear Vision_Clota</key>
 	<dict>
@@ -2807,7 +2809,7 @@
 	<key>Bullialdus Gateway_HIP 8894</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>16.302118</real>
+		<real>16.131855000000002</real>
 		<key>starSystem</key>
 		<string>HIP 8894</string>
 		<key>stationFaction</key>
@@ -2854,7 +2856,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20241225</string>
+		<string>20241228</string>
 	</dict>
 	<key>Bulychev Beacon_Chebaei</key>
 	<dict>
@@ -3840,7 +3842,7 @@
 	<key>Consolmagno Mines_Blang Tzu</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>21.584323999999999</real>
+		<real>21.601714999999999</real>
 		<key>starSystem</key>
 		<string>Blang Tzu</string>
 		<key>stationFaction</key>
@@ -3878,7 +3880,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20241214</string>
+		<string>20241225</string>
 	</dict>
 	<key>Corben Vision_Xi Wangda</key>
 	<dict>
@@ -5336,7 +5338,7 @@
 	<key>Fabricius Vision_Yaso Kondi</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>458.61157900000001</real>
+		<real>458.52569799999998</real>
 		<key>starSystem</key>
 		<string>Yaso Kondi</string>
 		<key>stationFaction</key>
@@ -5379,7 +5381,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20241222</string>
+		<string>20241226</string>
 	</dict>
 	<key>Fallows Terminal_Guan Wango</key>
 	<dict>
@@ -7707,7 +7709,7 @@
 	<key>Hertzsprung Terminal_Yaso Kondi</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>212.708731</real>
+		<real>212.71381500000001</real>
 		<key>starSystem</key>
 		<string>Yaso Kondi</string>
 		<key>stationFaction</key>
@@ -7750,7 +7752,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20241214</string>
+		<string>20241226</string>
 	</dict>
 	<key>Herzfeld Orbital_Ye'kuana</key>
 	<dict>
@@ -9935,11 +9937,13 @@
 	<key>Lambert Ring_Reshero</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>296.27963799999998</real>
+		<real>294.65369700000002</real>
 		<key>starSystem</key>
 		<string>Reshero</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Election</string>
 			<key>Name</key>
 			<string>Amanogawa Enlight</string>
 		</dict>
@@ -9979,7 +9983,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20241223</string>
+		<string>20241226</string>
 	</dict>
 	<key>Laming Vision_Zvaithhogg</key>
 	<dict>
@@ -13701,11 +13705,13 @@
 	<key>Purbach Vision_Sui Xianoan</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1218.556118</real>
+		<real>1218.5668189999999</real>
 		<key>starSystem</key>
 		<string>Sui Xianoan</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Expansion</string>
 			<key>Name</key>
 			<string>Night Wolves Corporation</string>
 		</dict>
@@ -13744,7 +13750,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20241202</string>
+		<string>20241225</string>
 	</dict>
 	<key>QBZ-35V_Bayah</key>
 	<dict>
@@ -16514,7 +16520,7 @@
 	<key>THH-LHG_HIP 8894</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>16.222019</real>
+		<real>16.221515</real>
 		<key>starSystem</key>
 		<string>HIP 8894</string>
 		<key>stationFaction</key>
@@ -16547,7 +16553,7 @@
 		<key>stationType</key>
 		<string>FleetCarrier</string>
 		<key>updated</key>
-		<string>20241230</string>
+		<string>20241228</string>
 	</dict>
 	<key>THH-LHG_Huruk</key>
 	<dict>
@@ -20271,11 +20277,13 @@
 	<key>Webb Port_Ten Samba</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>579.41483900000003</real>
+		<real>578.797777</real>
 		<key>starSystem</key>
 		<string>Ten Samba</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Election</string>
 			<key>Name</key>
 			<string>Amanogawa Enlight</string>
 		</dict>
@@ -20313,7 +20321,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20241209</string>
+		<string>20241225</string>
 	</dict>
 	<key>Weill's Pride_Kureinji</key>
 	<dict>
@@ -20503,7 +20511,7 @@
 	<key>Wheeler Market_Yaso Kondi</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>112.89506900000001</real>
+		<real>112.939836</real>
 		<key>starSystem</key>
 		<string>Yaso Kondi</string>
 		<key>stationFaction</key>
@@ -20546,7 +20554,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20241222</string>
+		<string>20241225</string>
 	</dict>
 	<key>Whipple Survey_Shokwus</key>
 	<dict>
