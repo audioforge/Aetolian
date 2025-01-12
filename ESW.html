@@ -152,7 +152,6 @@
             d = Math.sqrt(d);
             return d;
         }
-        var dec = queryString;
         exampleFetch();
         
         async function exampleFetch() {
@@ -162,65 +161,10 @@
                                                ['System','Inf','Control','From Neginn','Updated'], //set to null for field names instead of custom header names
                                                'There are no items to list...');
 
-            
-            
-            var system=document.getElementById('test').value
-            if  (dec!=null) {
-                system = dec;
-                dec = null;
-            }
-            document.getElementById("showresulthere").innerHTML = system + ' searching ...';
-            //system = system.toUpperCase();
-            //const response = await fetch('/data/'+system+'.Plist');
-            var sysString;
-            try {
-              const response = await fetch('/data/ESW.Plist');
-              sysString = await response.text();
-              if (response.ok) {
-                //console.log('Promise resolved and HTTP status is successful');
-                // ...do something with the response
-                document.getElementById("showresulthere").innerHTML = system + ' found';
-                
-              } else {
-                //console.error('Promise resolved but HTTP status failed');
-                //document.getElementById("showresulthere").innerHTML = system + ' not found';
-                document.getElementById("showresulthere").innerHTML = 'Adjusting system name ...';
-              
-              const response2 = await fetch('/data/' + system +' A.Plist');
-              sysString = await response2.text();
-              
-              if (response2.ok) {
-                //console.log('Promise resolved and HTTP status is successful');
-                // ...do something with the response
-                document.getElementById("showresulthere").innerHTML = system + ' found';
-                
-              } else {
-                //console.error('Promise resolved but HTTP status failed');
-                document.getElementById("showresulthere").innerHTML = system + ' not found';
-              }
-
-              }
-            } catch {
-              console.error('Promise rejected');
-              document.getElementById("showresulthere").innerHTML = 'Adjusting system name ...';
-              
-              const response2 = await fetch('/data/' + system +' A.Plist');
-              sysString = await response2.text();
-              
-              if (response2.ok) {
-                //console.log('Promise resolved and HTTP status is successful');
-                // ...do something with the response
-                document.getElementById("showresulthere").innerHTML = system + ' found';
-                
-              } else {
-                //console.error('Promise resolved but HTTP status failed');
-                document.getElementById("showresulthere").innerHTML = system + ' not found';
-              }
-              
-            }
-                        
+            const response = await fetch('/data/ESW.Plist');
+            var sysString = await response.text();                        
             const locDicts = PlistParser.parse(sysString);
-            
+            document.getElementById("showresulthere").innerHTML = 'Data loaded';
             var dataAr = [];
             for (const [key, value] of Object.entries(logDicts)) {
                 var data = {};
@@ -237,7 +181,7 @@
             }
             //console.log (dataAr);
             dt.load(dataAr);
-          document.getElementById("showresulthere").innerHTML = system + ' expansion targets'; 
+           
             
         }
         
