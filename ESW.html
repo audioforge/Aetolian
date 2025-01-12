@@ -172,13 +172,13 @@
                 data.influence = (value['Influence']*100).toFixed(1);
                 data.distance = value['Distance'].toFixed(1);
                 data.system = key;
-                //data.sysFaction = 'ESW';
-                //if (!value['SysFaction]) {
+                data.sysFaction = 'ESW';
+                if (typeof value['SysFaction'] !== 'undefined') {
                 //    data.sysFaction = 'ESW';
                 //}
                 //else {
-                //    data.sysFaction = value['SysFaction];
-                //}
+                    data.sysFaction = value['SysFaction'];
+                }
                 data.updated = value['updated'];
                 dataAr.push(data);
             }
