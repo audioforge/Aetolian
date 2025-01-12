@@ -166,7 +166,7 @@
             const locDicts = PlistParser.parse(sysString);
             document.getElementById("showresulthere").innerHTML = 'Data loaded';
             var dataAr = [];
-            for (const [key, value] of Object.entries(logDicts)) {
+            for (const [key, value] of Object.entries(locDicts)) {
                 var data = {};
                 //['system','influence','sysFaction','distance','updated']
                 data.influence = (value['Influence']*100).toFixed(1);
