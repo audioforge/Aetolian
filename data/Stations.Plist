@@ -2809,7 +2809,7 @@
 	<key>Bullialdus Gateway_HIP 8894</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>16.222341</real>
+		<real>16.169951000000001</real>
 		<key>starSystem</key>
 		<string>HIP 8894</string>
 		<key>stationFaction</key>
@@ -14824,13 +14824,11 @@
 	<key>Shiner Port_Pastara</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>63.651207999999997</real>
+		<real>64.457909999999998</real>
 		<key>starSystem</key>
 		<string>Pastara</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>War</string>
 			<key>Name</key>
 			<string>ELITE SPACE WINGS</string>
 		</dict>
@@ -20813,6 +20811,54 @@
 		<string>Coriolis</string>
 		<key>updated</key>
 		<string>20240401</string>
+	</dict>
+	<key>Windt Colony_Byeri</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>1466.8190810000001</real>
+		<key>starSystem</key>
+		<string>Byeri</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>Radius Group Inc</string>
+		</dict>
+		<key>stationName</key>
+		<string>Windt Colony</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>shipyard</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>shop</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Coriolis</string>
+		<key>updated</key>
+		<string>20250111</string>
 	</dict>
 	<key>Wirtanen Orbital_Omukula</key>
 	<dict>
