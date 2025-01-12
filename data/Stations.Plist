@@ -2809,7 +2809,7 @@
 	<key>Bullialdus Gateway_HIP 8894</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>16.305717999999999</real>
+		<real>16.255566000000002</real>
 		<key>starSystem</key>
 		<string>HIP 8894</string>
 		<key>stationFaction</key>
@@ -6483,13 +6483,11 @@
 	<key>Glushko Landing_HIP 3125</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1215.2639039999999</real>
+		<real>1215.0564629999999</real>
 		<key>starSystem</key>
 		<string>HIP 3125</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>Election</string>
 			<key>Name</key>
 			<string>Thule Empire League</string>
 		</dict>
@@ -6526,7 +6524,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250109</string>
+		<string>20250112</string>
 	</dict>
 	<key>Goldreich Ring_Ovamalu</key>
 	<dict>
@@ -10888,11 +10886,13 @@
 	<key>Mattingly Vision_Ditae</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>4698.786059</real>
+		<real>4698.0194039999997</real>
 		<key>starSystem</key>
 		<string>Ditae</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Election</string>
 			<key>Name</key>
 			<string>BFNF Solutions</string>
 		</dict>
@@ -10924,7 +10924,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250109</string>
+		<string>20250112</string>
 	</dict>
 	<key>Maupertuis Terminal_Guan Wango</key>
 	<dict>
@@ -14417,11 +14417,13 @@
 	<key>Ryan Ring_Tlakakaltan</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>123.776359</real>
+		<real>123.76352</real>
 		<key>starSystem</key>
 		<string>Tlakakaltan</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Expansion</string>
 			<key>Name</key>
 			<string>Night Wolves Corporation</string>
 		</dict>
@@ -14456,7 +14458,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250108</string>
+		<string>20250112</string>
 	</dict>
 	<key>Ryle Orbital_Pai Huldr</key>
 	<dict>
@@ -19068,13 +19070,13 @@
 	<key>Thiele Camp_Xi Wangar</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>449.664896</real>
+		<real>449.74848100000003</real>
 		<key>starSystem</key>
 		<string>Xi Wangar</string>
 		<key>stationFaction</key>
 		<dict>
 			<key>FactionState</key>
-			<string>Election</string>
+			<string>War</string>
 			<key>Name</key>
 			<string>ELITE SPACE WINGS</string>
 		</dict>
@@ -19109,7 +19111,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250109</string>
+		<string>20250112</string>
 	</dict>
 	<key>Tietjen City_Guttors</key>
 	<dict>
