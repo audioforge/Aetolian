@@ -2797,8 +2797,108 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20250112</key>
+	<dict>
+		<key>Aetolians</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.46346300000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Boom</string>
+		</dict>
+		<key>Kolhou Wu Systems</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.19019</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Laksmi Jet Fortune Partners</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.019019000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Laksmi Monarchy</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.050049999999999997</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Laksmi Rats</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.060060000000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Lusitani</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.21721699999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
+		<key>ExpTarget</key>
+		<array>
+			<string>Kolhou Wu</string>
+			<string>Boresti</string>
+			<string>Brigual</string>
+			<string>Mu Nialfi A</string>
+			<string>HIP 9252 A</string>
+			<string>HIP 7823 A</string>
+			<string>Degardhi</string>
+			<string>Tau Sculptoris A</string>
+			<string>Ithertrudhr A</string>
+			<string>HIP 10973</string>
+			<string>Pi Sculptoris</string>
+			<string>Kites</string>
+			<string>Saranggura</string>
+			<string>Belatus</string>
+			<string>HIP 8758 A</string>
+			<string>HIP 7304</string>
+		</array>
 		<key>StarPos</key>
 		<array>
 			<real>43.84375</real>
@@ -2818,7 +2918,7 @@
 		<key>system</key>
 		<string>Laksmi</string>
 		<key>updated</key>
-		<string>20240912</string>
+		<string>20250112</string>
 	</dict>
 </dict>
 </plist>
