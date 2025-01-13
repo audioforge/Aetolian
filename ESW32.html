@@ -170,7 +170,7 @@
                 var data = {};
                 //['system','influence','sysFaction','distance','updated']
                 data.influence = (value['Influence']*100).toFixed(1);
-                data.distance = value['Distance'].toFixed(1);
+                data.distance = value['Distance'].toFixed(1) + ' Ly';
                 data.system = '<a href = "sysinfo987.html?' + key + '">' + key + '</a>';
                 data.sysFaction = 'ESW';
                 if (typeof value['SysFaction'] !== 'undefined') {
