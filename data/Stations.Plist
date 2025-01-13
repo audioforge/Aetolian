@@ -4442,11 +4442,13 @@
 	<key>Delporte Vision_Neginn</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>6.1856869999999997</real>
+		<real>6.1968540000000001</real>
 		<key>starSystem</key>
 		<string>Neginn</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>War</string>
 			<key>Name</key>
 			<string>Aetolians</string>
 		</dict>
@@ -4482,7 +4484,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250112</string>
+		<string>20250113</string>
 	</dict>
 	<key>Demolition Unlimited_Eurybia</key>
 	<dict>
@@ -4966,7 +4968,7 @@
 	<key>Dyson Terminal_Songloi</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>11385.747998000001</real>
+		<real>11387.837045</real>
 		<key>starSystem</key>
 		<string>Songloi</string>
 		<key>stationFaction</key>
@@ -5004,7 +5006,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20241230</string>
+		<string>20250113</string>
 	</dict>
 	<key>Edwards Port_Yokusu</key>
 	<dict>
@@ -8025,6 +8027,49 @@
 		<key>updated</key>
 		<string>20241106</string>
 	</dict>
+	<key>Hornoch Ring_Crom Dubh</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>813.95630100000005</real>
+		<key>starSystem</key>
+		<string>Crom Dubh</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>ELITE SPACE WINGS</string>
+		</dict>
+		<key>stationName</key>
+		<string>Hornoch Ring</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>repair</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Outpost</string>
+		<key>updated</key>
+		<string>20250113</string>
+	</dict>
 	<key>Howard Station_Ye'kuana</key>
 	<dict>
 		<key>DistFromStarLS</key>
@@ -9369,7 +9414,7 @@
 	<key>Kirby Vision_HR 394</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1141.633413</real>
+		<real>1141.7498410000001</real>
 		<key>starSystem</key>
 		<string>HR 394</string>
 		<key>stationFaction</key>
@@ -10616,7 +10661,7 @@
 	<key>Lubbock Terminal_Gladuwong</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>369.91772800000001</real>
+		<real>369.94723199999999</real>
 		<key>starSystem</key>
 		<string>Gladuwong</string>
 		<key>stationFaction</key>
@@ -10658,7 +10703,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20241230</string>
+		<string>20250113</string>
 	</dict>
 	<key>Lupoff's Folly_Vadimui</key>
 	<dict>
@@ -13219,13 +13264,11 @@
 	<key>Pickering Point_Songloi</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>736.49019099999998</real>
+		<real>738.775667</real>
 		<key>starSystem</key>
 		<string>Songloi</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>War</string>
 			<key>Name</key>
 			<string>ELITE SPACE WINGS</string>
 		</dict>
@@ -13262,7 +13305,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250110</string>
+		<string>20250113</string>
 	</dict>
 	<key>Pilcher Port_Nyalayan</key>
 	<dict>
@@ -17142,7 +17185,7 @@
 		<key>stationType</key>
 		<string>FleetCarrier</string>
 		<key>updated</key>
-		<string>20250108</string>
+		<string>20250113</string>
 	</dict>
 	<key>THH-LHG_Ross 584</key>
 	<dict>
