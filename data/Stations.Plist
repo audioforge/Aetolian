@@ -2341,6 +2341,57 @@
 		<key>updated</key>
 		<string>20240518</string>
 	</dict>
+	<key>Boss Orbital_HIP 3142</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>825.332492</real>
+		<key>starSystem</key>
+		<string>HIP 3142</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>FactionState</key>
+			<string>Expansion</string>
+			<key>Name</key>
+			<string>The Winged Hussars</string>
+		</dict>
+		<key>stationName</key>
+		<string>Boss Orbital</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>blackmarket</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>shipyard</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>shop</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Ocellus</string>
+		<key>updated</key>
+		<string>20250113</string>
+	</dict>
 	<key>Bouch Orbital_Svaratia</key>
 	<dict>
 		<key>DistFromStarLS</key>
@@ -2809,7 +2860,7 @@
 	<key>Bullialdus Gateway_HIP 8894</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>16.187408999999999</real>
+		<real>16.147200000000002</real>
 		<key>starSystem</key>
 		<string>HIP 8894</string>
 		<key>stationFaction</key>
@@ -2854,7 +2905,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20250112</string>
+		<string>20250113</string>
 	</dict>
 	<key>Bulychev Beacon_Chebaei</key>
 	<dict>
@@ -4964,6 +5015,54 @@
 		<string>Outpost</string>
 		<key>updated</key>
 		<string>20250111</string>
+	</dict>
+	<key>Dyr Terminal_HIP 3142</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>295.59400799999997</real>
+		<key>starSystem</key>
+		<string>HIP 3142</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>FactionState</key>
+			<string>Expansion</string>
+			<key>Name</key>
+			<string>The Winged Hussars</string>
+		</dict>
+		<key>stationName</key>
+		<string>Dyr Terminal</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>blackmarket</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Outpost</string>
+		<key>updated</key>
+		<string>20250113</string>
 	</dict>
 	<key>Dyson Terminal_Songloi</key>
 	<dict>
@@ -9780,6 +9879,53 @@
 		<string>Coriolis</string>
 		<key>updated</key>
 		<string>20241214</string>
+	</dict>
+	<key>Kovalevskaya Outpost_Waangamici</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>4776.1999079999996</real>
+		<key>starSystem</key>
+		<string>Waangamici</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>FactionState</key>
+			<string>Election</string>
+			<key>Name</key>
+			<string>Thule Empire League</string>
+		</dict>
+		<key>stationName</key>
+		<string>Kovalevskaya Outpost</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>facilitator</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Outpost</string>
+		<key>updated</key>
+		<string>20250113</string>
 	</dict>
 	<key>Kraft Survey_Hiradha</key>
 	<dict>
@@ -19109,13 +19255,11 @@
 	<key>Thiele Camp_Xi Wangar</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>449.74848100000003</real>
+		<real>449.67802</real>
 		<key>starSystem</key>
 		<string>Xi Wangar</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>War</string>
 			<key>Name</key>
 			<string>ELITE SPACE WINGS</string>
 		</dict>
@@ -19150,7 +19294,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250112</string>
+		<string>20250113</string>
 	</dict>
 	<key>Tietjen City_Guttors</key>
 	<dict>
