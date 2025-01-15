@@ -6869,7 +6869,7 @@
 	<key>Gotz Platform_HIP 6795</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>6322.9978090000004</real>
+		<real>6283.663415</real>
 		<key>starSystem</key>
 		<string>HIP 6795</string>
 		<key>stationFaction</key>
@@ -6907,7 +6907,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250108</string>
+		<string>20250114</string>
 	</dict>
 	<key>Gould Station_HIP 5651</key>
 	<dict>
@@ -9060,11 +9060,13 @@
 	<key>Jones Survey_Shokwus</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>54.390943999999998</real>
+		<real>54.391098</real>
 		<key>starSystem</key>
 		<string>Shokwus</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>War</string>
 			<key>Name</key>
 			<string>Shokwus aristocrats</string>
 		</dict>
@@ -9100,7 +9102,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20241225</string>
+		<string>20250114</string>
 	</dict>
 	<key>Joy Landing_Degardhi</key>
 	<dict>
@@ -14932,7 +14934,7 @@
 	<key>Schiaparelli Station_HIP 6795</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>6370.7885980000001</real>
+		<real>6307.7927250000002</real>
 		<key>starSystem</key>
 		<string>HIP 6795</string>
 		<key>stationFaction</key>
@@ -14972,7 +14974,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250109</string>
+		<string>20250114</string>
 	</dict>
 	<key>Schommer's Claim_HIP 12167</key>
 	<dict>
@@ -19450,13 +19452,11 @@
 	<key>Thiele Camp_Xi Wangar</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>449.589586</real>
+		<real>449.54712799999999</real>
 		<key>starSystem</key>
 		<string>Xi Wangar</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>Election</string>
 			<key>Name</key>
 			<string>ELITE SPACE WINGS</string>
 		</dict>
@@ -20922,11 +20922,13 @@
 	<key>Whipple Survey_Shokwus</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>74.437475000000006</real>
+		<real>74.295931999999993</real>
 		<key>starSystem</key>
 		<string>Shokwus</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>War</string>
 			<key>Name</key>
 			<string>Sui Xianoan Patron's Principles</string>
 		</dict>
@@ -20962,7 +20964,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20241222</string>
+		<string>20250114</string>
 	</dict>
 	<key>Whitford Installation_Alyuta</key>
 	<dict>
