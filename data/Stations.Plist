@@ -2957,13 +2957,11 @@
 	<key>Bullialdus Gateway_HIP 8894</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>16.276346</real>
+		<real>16.233352</real>
 		<key>starSystem</key>
 		<string>HIP 8894</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>Boom</string>
 			<key>Name</key>
 			<string>Aetolians</string>
 		</dict>
@@ -3004,7 +3002,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20250114</string>
+		<string>20250107</string>
 	</dict>
 	<key>Bulychev Beacon_Chebaei</key>
 	<dict>
@@ -3057,7 +3055,7 @@
 	<key>Burnham City_Nespel</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>315.45326799999998</real>
+		<real>315.46664900000002</real>
 		<key>starSystem</key>
 		<string>Nespel</string>
 		<key>stationFaction</key>
@@ -3100,7 +3098,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20241230</string>
+		<string>20250107</string>
 	</dict>
 	<key>Burnham Market_HIP 10123</key>
 	<dict>
@@ -4722,7 +4720,7 @@
 	<key>Dhawan Platform_Jemede</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>775.63361199999997</real>
+		<real>775.55691400000001</real>
 		<key>starSystem</key>
 		<string>Jemede</string>
 		<key>stationFaction</key>
@@ -4759,7 +4757,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250102</string>
+		<string>20250107</string>
 	</dict>
 	<key>Dhawan Survey_Gender</key>
 	<dict>
@@ -5256,7 +5254,7 @@
 	<key>Edwards Port_Yokusu</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>7943.9665400000004</real>
+		<real>7917.343492</real>
 		<key>starSystem</key>
 		<string>Yokusu</string>
 		<key>stationFaction</key>
@@ -5300,7 +5298,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20250114</string>
+		<string>20250107</string>
 	</dict>
 	<key>Eisinga Colony_HIP 6807</key>
 	<dict>
@@ -7848,11 +7846,13 @@
 	<key>Herbig Station_Apurusia</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>44.386637</real>
+		<real>44.194508999999996</real>
 		<key>starSystem</key>
 		<string>Apurusia</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Boom</string>
 			<key>Name</key>
 			<string>Aetolians</string>
 		</dict>
@@ -7893,7 +7893,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20241230</string>
+		<string>20250107</string>
 	</dict>
 	<key>Herndon's Exile_Bolocara</key>
 	<dict>
@@ -10169,7 +10169,7 @@
 	<key>Kuchemann Horizons_Bolocara</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>978.06301499999995</real>
+		<real>977.97430799999995</real>
 		<key>starSystem</key>
 		<string>Bolocara</string>
 		<key>stationFaction</key>
@@ -10212,7 +10212,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250114</string>
+		<string>20250107</string>
 	</dict>
 	<key>Kulin Station_HIP 7526</key>
 	<dict>
@@ -11649,7 +11649,7 @@
 	<key>Merritt Port_Nespel</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>423.28598599999998</real>
+		<real>423.28810299999998</real>
 		<key>starSystem</key>
 		<string>Nespel</string>
 		<key>stationFaction</key>
@@ -11693,7 +11693,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20250112</string>
+		<string>20250107</string>
 	</dict>
 	<key>Mies van der Rohe's Claim_Mainani</key>
 	<dict>
@@ -13653,7 +13653,7 @@
 	<key>Pilcher Port_Nyalayan</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>76.337091000000001</real>
+		<real>76.462905000000006</real>
 		<key>starSystem</key>
 		<string>Nyalayan</string>
 		<key>stationFaction</key>
@@ -13696,7 +13696,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20250113</string>
+		<string>20250107</string>
 	</dict>
 	<key>Pilyugin Terminal_HIP 6921</key>
 	<dict>
@@ -14755,7 +14755,7 @@
 	<key>Rubin Orbital_Nyalayan</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>3829.626663</real>
+		<real>3839.7186799999999</real>
 		<key>starSystem</key>
 		<string>Nyalayan</string>
 		<key>stationFaction</key>
@@ -14794,7 +14794,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250103</string>
+		<string>20250107</string>
 	</dict>
 	<key>Ryan Ring_Tlakakaltan</key>
 	<dict>
@@ -17528,7 +17528,7 @@
 		<key>stationType</key>
 		<string>FleetCarrier</string>
 		<key>updated</key>
-		<string>20250113</string>
+		<string>20250107</string>
 	</dict>
 	<key>THH-LHG_Ross 584</key>
 	<dict>
