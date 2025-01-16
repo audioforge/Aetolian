@@ -2,94 +2,94 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>20250111</key>
+	<key>20250116</key>
 	<dict>
-		<key>Byeri Silver Raiders</key>
+		<key>Crimson Natural Inc</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.010059999999999999</real>
+			<real>0.117705</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Byeri Silver Syndicate</key>
+		<key>Earls of Chakho</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.010059999999999999</real>
+			<real>0.05638</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Byeri Universal &amp; Co</key>
+		<key>Kanzicnal Gold Clan</key>
+		<dict>
+			<key>Active</key>
+			<string>CivilWar</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.082097000000000003</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>CivilWar</string>
+		</dict>
+		<key>Kanzicnal Guardians of Tradition</key>
+		<dict>
+			<key>Active</key>
+			<string>CivilWar</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.082097000000000003</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>CivilWar</string>
+		</dict>
+		<key>Kanzicnal Liberals</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.046278</real>
+			<real>0.173096</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Gliese 76 Guardians of Tradition</key>
+		<key>Kunggalerni Electronics Co</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.093561000000000005</real>
+			<real>0.036596999999999998</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>League of Byeri First</key>
+		<key>Likedeeler of Michel</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.073441000000000006</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>None</string>
-		</dict>
-		<key>New Byeri Unionists</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.044266</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>None</string>
-		</dict>
-		<key>Radius Group Inc</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.72233400000000003</real>
+			<real>0.45202799999999999</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -100,48 +100,28 @@
 	<dict>
 		<key>ExpTarget</key>
 		<array>
-			<string>Gliese 58 A</string>
-			<string>Wichaimi A</string>
-			<string>Kholu</string>
-			<string>HIP 7687 A</string>
-			<string>Karelitakas</string>
-			<string>HIP 6795 A</string>
-			<string>Macat</string>
-			<string>Pastara A</string>
-			<string>Waangamici A</string>
-			<string>Ketsauts A</string>
-			<string>Xi Wangar</string>
-			<string>Rabatha</string>
-			<string>LP 940-115</string>
-			<string>Lu Hsiensei A</string>
-			<string>HIP 11131 A</string>
-			<string>Summerland</string>
-			<string>CD-40 395 A</string>
-			<string>Ibormbu A</string>
-			<string>Kadrusa A</string>
-			<string>Ausermoduro A</string>
-			<string>Lwali</string>
+			<string>Tocorii</string>
 		</array>
 		<key>StarPos</key>
 		<array>
-			<real>18.28125</real>
-			<real>-134.09375</real>
-			<real>-16.15625</real>
+			<real>39.34375</real>
+			<real>-179.3125</real>
+			<real>38.40625</real>
 		</array>
 		<key>SysFaction</key>
-		<string>Radius Group Inc</string>
+		<string>Likedeeler of Michel</string>
 		<key>economy</key>
-		<string>Refinery</string>
+		<string>Industrial</string>
 		<key>economy2</key>
-		<string>Colony</string>
+		<string>Extraction</string>
 		<key>population</key>
-		<integer>217427</integer>
+		<integer>14613030</integer>
 		<key>security</key>
 		<string>Medium Security</string>
 		<key>system</key>
-		<string>Byeri A</string>
+		<string>Kanzicnal A</string>
 		<key>updated</key>
-		<string>20250111</string>
+		<string>20250116</string>
 	</dict>
 </dict>
 </plist>
