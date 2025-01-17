@@ -4317,13 +4317,13 @@
 	<key>Crown Works_Dumni</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1354.0878869999999</real>
+		<real>1354.912611</real>
 		<key>starSystem</key>
 		<string>Dumni</string>
 		<key>stationFaction</key>
 		<dict>
 			<key>FactionState</key>
-			<string>War</string>
+			<string>Expansion</string>
 			<key>Name</key>
 			<string>Aetolians</string>
 		</dict>
@@ -4361,7 +4361,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250101</string>
+		<string>20250117</string>
 	</dict>
 	<key>Curtiss Mines_Fandh</key>
 	<dict>
@@ -4639,13 +4639,13 @@
 	<key>Delporte Vision_Neginn</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>6.1968540000000001</real>
+		<real>6.1816339999999999</real>
 		<key>starSystem</key>
 		<string>Neginn</string>
 		<key>stationFaction</key>
 		<dict>
 			<key>FactionState</key>
-			<string>War</string>
+			<string>Expansion</string>
 			<key>Name</key>
 			<string>Aetolians</string>
 		</dict>
@@ -4681,7 +4681,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250113</string>
+		<string>20250117</string>
 	</dict>
 	<key>Demolition Unlimited_Eurybia</key>
 	<dict>
@@ -6145,15 +6145,13 @@
 	<key>Flettner Survey_Aitvas</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>374.75038899999998</real>
+		<real>374.10386699999998</real>
 		<key>starSystem</key>
 		<string>Aitvas</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>Expansion</string>
 			<key>Name</key>
-			<string>Brazilian League of Pilots</string>
+			<string>Aitvas Corp.</string>
 		</dict>
 		<key>stationName</key>
 		<string>Flettner Survey</string>
@@ -6161,7 +6159,6 @@
 		<array>
 			<string>dock</string>
 			<string>autodock</string>
-			<string>blackmarket</string>
 			<string>commodities</string>
 			<string>contacts</string>
 			<string>exploration</string>
@@ -6187,7 +6184,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20241024</string>
+		<string>20250117</string>
 	</dict>
 	<key>Foerster Ring_HIP 7167</key>
 	<dict>
@@ -13003,13 +13000,11 @@
 	<key>Oikawa Stop_Badbh</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>387.50599799999998</real>
+		<real>387.52677</real>
 		<key>starSystem</key>
 		<string>Badbh</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>Boom</string>
 			<key>Name</key>
 			<string>Nationals of HIP 6108</string>
 		</dict>
@@ -13046,7 +13041,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20241220</string>
+		<string>20250117</string>
 	</dict>
 	<key>Oort Port_CD-40 395</key>
 	<dict>
@@ -15994,11 +15989,13 @@
 	<key>Sudworth Port_Brigual</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>345.72857699999997</real>
+		<real>345.66642200000001</real>
 		<key>starSystem</key>
 		<string>Brigual</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Expansion</string>
 			<key>Name</key>
 			<string>Aetolians</string>
 		</dict>
@@ -16034,7 +16031,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250106</string>
+		<string>20250117</string>
 	</dict>
 	<key>Sugie Works_Nyan</key>
 	<dict>
