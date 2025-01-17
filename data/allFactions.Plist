@@ -487,9 +487,9 @@
 		<key>Bolocara</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.53560700000000006</real>
+			<real>0.539157</real>
 			<key>State</key>
-			<string>Boom</string>
+			<string>Expansion</string>
 			<key>Stations</key>
 			<array>
 				<string>Littrow Colony</string>
@@ -497,7 +497,7 @@
 				<string>Herndon's Exile</string>
 			</array>
 			<key>updated</key>
-			<string>20250116</string>
+			<string>20250117</string>
 		</dict>
 		<key>Brigual</key>
 		<dict>
@@ -899,7 +899,9 @@
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
-			<array/>
+			<array>
+				<string>Flettner Survey</string>
+			</array>
 			<key>updated</key>
 			<string>20250117</string>
 		</dict>
@@ -1637,15 +1639,15 @@
 		<key>Bembo</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.407115</real>
+			<real>0.43521300000000002</real>
 			<key>State</key>
-			<string>War</string>
+			<string>None</string>
 			<key>Stations</key>
 			<array>
 				<string>Pons Orbital</string>
 			</array>
 			<key>updated</key>
-			<string>20250108</string>
+			<string>20250117</string>
 		</dict>
 		<key>Caleket</key>
 		<dict>
@@ -1999,7 +2001,7 @@
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250116</string>
+			<string>20250117</string>
 		</dict>
 		<key>Tamaya</key>
 		<dict>
@@ -2714,7 +2716,7 @@
 				<string>Dyson Terminal</string>
 			</array>
 			<key>updated</key>
-			<string>20250116</string>
+			<string>20250117</string>
 		</dict>
 	</dict>
 	<key>Artemis Corporation</key>
@@ -3541,7 +3543,7 @@
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250116</string>
+			<string>20250117</string>
 		</dict>
 		<key>Ten Samba</key>
 		<dict>
@@ -3565,7 +3567,7 @@
 				<string>Dunlop Port</string>
 			</array>
 			<key>updated</key>
-			<string>20250114</string>
+			<string>20250117</string>
 		</dict>
 	</dict>
 	<key>BR Federation Force</key>
@@ -3920,7 +3922,7 @@
 		<key>Bembo</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.018775</real>
+			<real>0.0098910000000000005</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
@@ -3928,7 +3930,7 @@
 				<string>Arrhenius Landing</string>
 			</array>
 			<key>updated</key>
-			<string>20250108</string>
+			<string>20250117</string>
 		</dict>
 	</dict>
 	<key>Bembo Empire Consulate</key>
@@ -3936,13 +3938,13 @@
 		<key>Bembo</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.19071099999999999</real>
+			<real>0.22453000000000001</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250108</string>
+			<string>20250117</string>
 		</dict>
 		<key>Cozaanat A</key>
 		<dict>
@@ -3961,13 +3963,13 @@
 		<key>Bembo</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.060276999999999997</real>
+			<real>0.044510000000000001</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250108</string>
+			<string>20250117</string>
 		</dict>
 	</dict>
 	<key>Black Birds Consilium</key>
@@ -4223,13 +4225,13 @@
 		<key>Bolocara</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.010030000000000001</real>
+			<real>0.01004</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250116</string>
+			<string>20250117</string>
 		</dict>
 	</dict>
 	<key>Bolocara Clan</key>
@@ -4237,13 +4239,13 @@
 		<key>Bolocara</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.010030000000000001</real>
+			<real>0.01004</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250116</string>
+			<string>20250117</string>
 		</dict>
 	</dict>
 	<key>Bolocara allied</key>
@@ -4251,13 +4253,13 @@
 		<key>Bolocara</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.023068999999999999</real>
+			<real>0.022088</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250116</string>
+			<string>20250117</string>
 		</dict>
 	</dict>
 	<key>Bolocas Advanced Industry</key>
@@ -4411,9 +4413,7 @@
 			<key>State</key>
 			<string>Election</string>
 			<key>Stations</key>
-			<array>
-				<string>Flettner Survey</string>
-			</array>
+			<array/>
 			<key>updated</key>
 			<string>20250117</string>
 		</dict>
@@ -5139,7 +5139,7 @@
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250114</string>
+			<string>20250117</string>
 		</dict>
 	</dict>
 	<key>Bwgcolmasci Conservatives</key>
@@ -8317,13 +8317,13 @@
 		<key>Bolocara</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.179539</real>
+			<real>0.17971899999999999</real>
 			<key>State</key>
 			<string>War</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250116</string>
+			<string>20250117</string>
 		</dict>
 		<key>Bolowari A</key>
 		<dict>
@@ -8666,7 +8666,7 @@
 				<string>Pickering Point</string>
 			</array>
 			<key>updated</key>
-			<string>20250116</string>
+			<string>20250117</string>
 		</dict>
 		<key>Tjialim</key>
 		<dict>
@@ -8739,7 +8739,7 @@
 				<string>Connes Ring</string>
 			</array>
 			<key>updated</key>
-			<string>20250114</string>
+			<string>20250117</string>
 		</dict>
 	</dict>
 	<key>EXO</key>
@@ -10466,13 +10466,13 @@
 		<key>Bembo</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.12253</real>
+			<real>0.105836</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250108</string>
+			<string>20250117</string>
 		</dict>
 		<key>Gladuwong</key>
 		<dict>
@@ -13440,13 +13440,13 @@
 		<key>Bolocara</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.062186999999999999</real>
+			<real>0.059236999999999998</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250116</string>
+			<string>20250117</string>
 		</dict>
 		<key>Cemplangpa A</key>
 		<dict>
@@ -13830,13 +13830,13 @@
 		<key>Bembo</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.14822099999999999</real>
+			<real>0.14342199999999999</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250108</string>
+			<string>20250117</string>
 		</dict>
 		<key>Caspataya A</key>
 		<dict>
@@ -15554,13 +15554,13 @@
 		<key>Bembo</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.052372000000000002</real>
+			<real>0.036596999999999998</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250108</string>
+			<string>20250117</string>
 		</dict>
 	</dict>
 	<key>Integrated Prana</key>
@@ -19055,7 +19055,7 @@
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250114</string>
+			<string>20250117</string>
 		</dict>
 	</dict>
 	<key>Left Party of Akualanu</key>
@@ -24846,13 +24846,13 @@
 		<key>Bolocara</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.179539</real>
+			<real>0.17971899999999999</real>
 			<key>State</key>
 			<string>War</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250116</string>
+			<string>20250117</string>
 		</dict>
 		<key>Bolowari A</key>
 		<dict>
@@ -24954,11 +24954,11 @@
 			<key>Influence</key>
 			<real>0.038309999999999997</real>
 			<key>State</key>
-			<string>None</string>
+			<string>War</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250116</string>
+			<string>20250117</string>
 		</dict>
 	</dict>
 	<key>Reshero Blue Organisation</key>
@@ -26105,7 +26105,7 @@
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250114</string>
+			<string>20250117</string>
 		</dict>
 	</dict>
 	<key>Simbad Regime</key>
@@ -26450,7 +26450,7 @@
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250116</string>
+			<string>20250117</string>
 		</dict>
 	</dict>
 	<key>Soniteru Imperial Society</key>
@@ -28750,7 +28750,7 @@
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250114</string>
+			<string>20250117</string>
 		</dict>
 	</dict>
 	<key>Unionists of Degardhi</key>
@@ -31074,7 +31074,7 @@
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250114</string>
+			<string>20250117</string>
 		</dict>
 	</dict>
 </dict>
