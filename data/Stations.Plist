@@ -2391,13 +2391,11 @@
 	<key>Boss Orbital_HIP 3142</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>825.45919600000002</real>
+		<real>825.40883199999996</real>
 		<key>starSystem</key>
 		<string>HIP 3142</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>Expansion</string>
 			<key>Name</key>
 			<string>The Winged Hussars</string>
 		</dict>
@@ -2437,7 +2435,7 @@
 		<key>stationType</key>
 		<string>Ocellus</string>
 		<key>updated</key>
-		<string>20250114</string>
+		<string>20250117</string>
 	</dict>
 	<key>Bouch Orbital_Svaratia</key>
 	<dict>
@@ -2957,7 +2955,7 @@
 	<key>Bullialdus Gateway_HIP 8894</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>16.134274999999999</real>
+		<real>16.274954000000001</real>
 		<key>starSystem</key>
 		<string>HIP 8894</string>
 		<key>stationFaction</key>
@@ -3985,7 +3983,7 @@
 	<key>Connes Ring_Zosian Tse</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1498.1989100000001</real>
+		<real>1498.224003</real>
 		<key>starSystem</key>
 		<string>Zosian Tse</string>
 		<key>stationFaction</key>
@@ -9109,15 +9107,13 @@
 	<key>Jones Survey_Shokwus</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>54.391098</real>
+		<real>54.386332000000003</real>
 		<key>starSystem</key>
 		<string>Shokwus</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>War</string>
 			<key>Name</key>
-			<string>Shokwus aristocrats</string>
+			<string>Amanogawa Enlight</string>
 		</dict>
 		<key>stationName</key>
 		<string>Jones Survey</string>
@@ -9125,6 +9121,7 @@
 		<array>
 			<string>dock</string>
 			<string>autodock</string>
+			<string>blackmarket</string>
 			<string>commodities</string>
 			<string>contacts</string>
 			<string>exploration</string>
@@ -9151,7 +9148,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250114</string>
+		<string>20250117</string>
 	</dict>
 	<key>Joy Landing_Degardhi</key>
 	<dict>
@@ -19550,7 +19547,7 @@
 	<key>Thiele Camp_Xi Wangar</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>449.71063700000002</real>
+		<real>449.73662999999999</real>
 		<key>starSystem</key>
 		<string>Xi Wangar</string>
 		<key>stationFaction</key>
