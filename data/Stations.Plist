@@ -141,7 +141,7 @@
 	<key>Adams Colony_Rabatha</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>13.944329</real>
+		<real>13.884888</real>
 		<key>starSystem</key>
 		<string>Rabatha</string>
 		<key>stationFaction</key>
@@ -181,7 +181,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250114</string>
+		<string>20250117</string>
 	</dict>
 	<key>Adams Market_Eotienses</key>
 	<dict>
@@ -7101,11 +7101,13 @@
 	<key>Gunter Hub_Ibormbu</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>18.214953000000001</real>
+		<real>18.133246</real>
 		<key>starSystem</key>
 		<string>Ibormbu</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Boom</string>
 			<key>Name</key>
 			<string>Thule Empire League</string>
 		</dict>
@@ -7141,7 +7143,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250108</string>
+		<string>20250117</string>
 	</dict>
 	<key>Haack Survey_Selisao Jiu</key>
 	<dict>
@@ -7468,7 +7470,7 @@
 	<key>Harding Orbital_Tlakakaltan</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>90.127251999999999</real>
+		<real>90.092821999999998</real>
 		<key>starSystem</key>
 		<string>Tlakakaltan</string>
 		<key>stationFaction</key>
@@ -7512,7 +7514,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20250109</string>
+		<string>20250117</string>
 	</dict>
 	<key>Harvey-Smith Holdings_Huruk</key>
 	<dict>
@@ -11143,7 +11145,7 @@
 	<key>Lupoff's Folly_Vadimui</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>487.80145800000003</real>
+		<real>487.83420999999998</real>
 		<key>starSystem</key>
 		<string>Vadimui</string>
 		<key>stationFaction</key>
@@ -11182,7 +11184,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250109</string>
+		<string>20250117</string>
 	</dict>
 	<key>Luu Platform_HIP 11305</key>
 	<dict>
@@ -11364,13 +11366,11 @@
 	<key>Mattingly Vision_Ditae</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>4698.0194039999997</real>
+		<real>4696.789667</real>
 		<key>starSystem</key>
 		<string>Ditae</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>Election</string>
 			<key>Name</key>
 			<string>BFNF Solutions</string>
 		</dict>
@@ -11402,7 +11402,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250112</string>
+		<string>20250117</string>
 	</dict>
 	<key>Maupertuis Terminal_Guan Wango</key>
 	<dict>
@@ -14526,7 +14526,7 @@
 	<key>Rizvi Port_HIP 6854</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>932.84453499999995</real>
+		<real>932.66978800000004</real>
 		<key>starSystem</key>
 		<string>HIP 6854</string>
 		<key>stationFaction</key>
@@ -14569,7 +14569,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20250103</string>
+		<string>20250117</string>
 	</dict>
 	<key>Rizvi Station_Bolowari</key>
 	<dict>
@@ -15300,11 +15300,13 @@
 	<key>Shiner Port_Pastara</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>79.097494999999995</real>
+		<real>70.285306000000006</real>
 		<key>starSystem</key>
 		<string>Pastara</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Expansion</string>
 			<key>Name</key>
 			<string>ELITE SPACE WINGS</string>
 		</dict>
@@ -15343,7 +15345,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20250114</string>
+		<string>20250117</string>
 	</dict>
 	<key>Shirazi Terminal_HIP 11305</key>
 	<dict>
@@ -19548,11 +19550,13 @@
 	<key>Thiele Camp_Xi Wangar</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>449.54396300000002</real>
+		<real>449.71063700000002</real>
 		<key>starSystem</key>
 		<string>Xi Wangar</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Election</string>
 			<key>Name</key>
 			<string>ELITE SPACE WINGS</string>
 		</dict>
@@ -19587,7 +19591,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250114</string>
+		<string>20250117</string>
 	</dict>
 	<key>Tietjen City_Guttors</key>
 	<dict>
