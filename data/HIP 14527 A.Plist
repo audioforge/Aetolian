@@ -96,8 +96,108 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20250118</key>
+	<dict>
+		<key>HIP 14307 Imperial Society</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.135189</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>HIP 14527 Advanced Partners</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.058647999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>HIP 14527 Empire Consulate</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.097416000000000003</real>
+			<key>Pending</key>
+			<string>CivilWar - 0</string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>HIP 14527 Raiders</key>
+		<dict>
+			<key>Active</key>
+			<string>Bust</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.0099399999999999992</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Bust</string>
+		</dict>
+		<key>HIP 14527 for Equality</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.097416000000000003</real>
+			<key>Pending</key>
+			<string>CivilWar - 0</string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Nationalists of Shilluk</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.052684000000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>The Independent Light Wheel</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.54870799999999997</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
+		<key>ExpTarget</key>
+		<array>
+			<string>Ande A</string>
+			<string>Gyvatices A</string>
+			<string>Tialocan A</string>
+		</array>
 		<key>StarPos</key>
 		<array>
 			<real>91.875</real>
@@ -117,7 +217,7 @@
 		<key>system</key>
 		<string>HIP 14527 A</string>
 		<key>updated</key>
-		<string>20241027</string>
+		<string>20250118</string>
 	</dict>
 </dict>
 </plist>
