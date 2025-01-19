@@ -148,13 +148,13 @@
 		<key>Eotienses A</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.089999999999999997</real>
+			<real>0.066000000000000003</real>
 			<key>State</key>
-			<string>War</string>
+			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250102</string>
+			<string>20250119</string>
 		</dict>
 	</dict>
 	<key>6th Interstellar Corps</key>
@@ -162,13 +162,13 @@
 		<key>CF 464</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.067404000000000006</real>
+			<real>0.048902000000000001</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250111</string>
+			<string>20250119</string>
 		</dict>
 		<key>Cockaigne</key>
 		<dict>
@@ -1302,7 +1302,7 @@
 		<key>Soniteru A</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.33932099999999998</real>
+			<real>0.341974</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
@@ -1310,7 +1310,7 @@
 				<string>Giacconi Platform</string>
 			</array>
 			<key>updated</key>
-			<string>20250116</string>
+			<string>20250119</string>
 		</dict>
 	</dict>
 	<key>Allied HIP 7167 Constitution Party</key>
@@ -1412,13 +1412,13 @@
 		<key>Veamit</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.057883999999999998</real>
+			<real>0.065867999999999996</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250105</string>
+			<string>20250119</string>
 		</dict>
 	</dict>
 	<key>Almudjara Council</key>
@@ -3510,10 +3510,23 @@
 			<key>updated</key>
 			<string>20241117</string>
 		</dict>
+		<key>Khonsa</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.56970900000000002</real>
+			<key>State</key>
+			<string>None</string>
+			<key>Stations</key>
+			<array>
+				<string>Lalande Station</string>
+			</array>
+			<key>updated</key>
+			<string>20250119</string>
+		</dict>
 		<key>Lu Hsiensei A</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.53546499999999997</real>
+			<real>0.56557400000000002</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
@@ -3521,7 +3534,7 @@
 				<string>Israel Base</string>
 			</array>
 			<key>updated</key>
-			<string>20250111</string>
+			<string>20250119</string>
 		</dict>
 		<key>Macat</key>
 		<dict>
@@ -4362,13 +4375,13 @@
 		<key>Lu Hsiensei A</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.082917000000000005</real>
+			<real>0.080943000000000001</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250111</string>
+			<string>20250119</string>
 		</dict>
 	</dict>
 	<key>Booty Bay Butchers</key>
@@ -5410,13 +5423,13 @@
 		<key>CF 464</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.099598000000000006</real>
+			<real>0.042914000000000001</real>
 			<key>State</key>
-			<string>CivilWar</string>
+			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250111</string>
+			<string>20250119</string>
 		</dict>
 	</dict>
 	<key>CF 464 Natural Partners</key>
@@ -5435,13 +5448,13 @@
 		<key>CF 464</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.099598000000000006</real>
+			<real>0.101796</real>
 			<key>State</key>
-			<string>CivilWar</string>
+			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250111</string>
+			<string>20250119</string>
 		</dict>
 	</dict>
 	<key>CF 464 Silver Brotherhood</key>
@@ -5449,13 +5462,13 @@
 		<key>CF 464</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.010059999999999999</real>
+			<real>0.0099799999999999993</real>
 			<key>State</key>
 			<string>Bust</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250111</string>
+			<string>20250119</string>
 		</dict>
 	</dict>
 	<key>CL Phoenicis Citizens' Forum</key>
@@ -6397,6 +6410,20 @@
 			<string>20250111</string>
 		</dict>
 	</dict>
+	<key>Clan of Khonsa</key>
+	<dict>
+		<key>Khonsa</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.010030000000000001</real>
+			<key>State</key>
+			<string>None</string>
+			<key>Stations</key>
+			<array/>
+			<key>updated</key>
+			<string>20250119</string>
+		</dict>
+	</dict>
 	<key>Clan of LHS 1110</key>
 	<dict>
 		<key>LHS 1110 A</key>
@@ -6416,13 +6443,13 @@
 		<key>Lu Hsiensei A</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.0099900000000000006</real>
+			<real>0.010246</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250111</string>
+			<string>20250119</string>
 		</dict>
 	</dict>
 	<key>Clan of Namba</key>
@@ -6845,13 +6872,13 @@
 		<key>Eotienses A</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.053999999999999999</real>
+			<real>0.043999999999999997</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250102</string>
+			<string>20250119</string>
 		</dict>
 	</dict>
 	<key>Constitution Party of Hernir</key>
@@ -7251,7 +7278,7 @@
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250118</string>
+			<string>20250119</string>
 		</dict>
 	</dict>
 	<key>Defence Party of Shedi</key>
@@ -8379,15 +8406,15 @@
 		<key>CF 464</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.36820900000000001</real>
+			<real>0.446108</real>
 			<key>State</key>
-			<string>War</string>
+			<string>Expansion</string>
 			<key>Stations</key>
 			<array>
 				<string>Bartini Enterprise</string>
 			</array>
 			<key>updated</key>
-			<string>20250111</string>
+			<string>20250119</string>
 		</dict>
 		<key>Cemplangpa A</key>
 		<dict>
@@ -8620,13 +8647,13 @@
 		<key>Lu Hsiensei A</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.064935000000000007</real>
+			<real>0.112705</real>
 			<key>State</key>
-			<string>War</string>
+			<string>Election</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250111</string>
+			<string>20250119</string>
 		</dict>
 		<key>Manthe</key>
 		<dict>
@@ -8666,7 +8693,7 @@
 		<key>Pastara A</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.68363300000000005</real>
+			<real>0.68263499999999999</real>
 			<key>State</key>
 			<string>Expansion</string>
 			<key>Stations</key>
@@ -8676,7 +8703,7 @@
 				<string>Shiner Port</string>
 			</array>
 			<key>updated</key>
-			<string>20250118</string>
+			<string>20250119</string>
 		</dict>
 		<key>Santupik</key>
 		<dict>
@@ -8740,13 +8767,13 @@
 		<key>Veamit</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.65369299999999997</real>
+			<real>0.63772499999999999</real>
 			<key>State</key>
 			<string>Expansion</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250105</string>
+			<string>20250119</string>
 		</dict>
 		<key>Wichaimi A</key>
 		<dict>
@@ -9176,9 +9203,9 @@
 		<key>Eotienses A</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.44600000000000001</real>
+			<real>0.504</real>
 			<key>State</key>
-			<string>Boom</string>
+			<string>PublicHoliday</string>
 			<key>Stations</key>
 			<array>
 				<string>Adams Market</string>
@@ -9186,10 +9213,11 @@
 				<string>Delporte Dock</string>
 				<string>Westphal Port</string>
 				<string>Roe Dock</string>
+				<string>Parkinson Dock</string>
 				<string>Ritchey Port</string>
 			</array>
 			<key>updated</key>
-			<string>20250102</string>
+			<string>20250119</string>
 		</dict>
 	</dict>
 	<key>Eotienses Galactic Inc</key>
@@ -9197,13 +9225,13 @@
 		<key>Eotienses A</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.067000000000000004</real>
+			<real>0.057000000000000002</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250102</string>
+			<string>20250119</string>
 		</dict>
 	</dict>
 	<key>Eotienses Silver Universal PLC</key>
@@ -9211,13 +9239,13 @@
 		<key>Eotienses A</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.13100000000000001</real>
+			<real>0.14000000000000001</real>
 			<key>State</key>
-			<string>None</string>
+			<string>Election</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250102</string>
+			<string>20250119</string>
 		</dict>
 	</dict>
 	<key>Epsilon Fornacis Empire Group</key>
@@ -9997,13 +10025,13 @@
 		<key>CF 464</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.29275699999999999</real>
+			<real>0.30439100000000002</real>
 			<key>State</key>
-			<string>Expansion</string>
+			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250111</string>
+			<string>20250119</string>
 		</dict>
 		<key>Chaaratisa A</key>
 		<dict>
@@ -10026,17 +10054,6 @@
 			<array/>
 			<key>updated</key>
 			<string>20240730</string>
-		</dict>
-		<key>Eotienses A</key>
-		<dict>
-			<key>Influence</key>
-			<real>0.060999999999999999</real>
-			<key>State</key>
-			<string>Election</string>
-			<key>Stations</key>
-			<array/>
-			<key>updated</key>
-			<string>20250102</string>
 		</dict>
 		<key>Kadrusa A</key>
 		<dict>
@@ -10772,6 +10789,17 @@
 			<key>updated</key>
 			<string>20240730</string>
 		</dict>
+		<key>Khonsa</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.071214</real>
+			<key>State</key>
+			<string>None</string>
+			<key>Stations</key>
+			<array/>
+			<key>updated</key>
+			<string>20250119</string>
+		</dict>
 		<key>Macat</key>
 		<dict>
 			<key>Influence</key>
@@ -10789,13 +10817,13 @@
 		<key>Pastara A</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.070858000000000004</real>
+			<real>0.071856000000000003</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250118</string>
+			<string>20250119</string>
 		</dict>
 	</dict>
 	<key>Gliese 9043 Bridge Services</key>
@@ -14174,13 +14202,13 @@
 		<key>Soniteru A</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.053892000000000002</real>
+			<real>0.053837999999999997</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250116</string>
+			<string>20250119</string>
 		</dict>
 		<key>Varri</key>
 		<dict>
@@ -15652,13 +15680,13 @@
 		<key>Eotienses A</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.089999999999999997</real>
+			<real>0.049000000000000002</real>
 			<key>State</key>
-			<string>War</string>
+			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250102</string>
+			<string>20250119</string>
 		</dict>
 	</dict>
 	<key>Independents of FT Ceti</key>
@@ -17433,6 +17461,48 @@
 			<string>20241117</string>
 		</dict>
 	</dict>
+	<key>Khonsa Co-op</key>
+	<dict>
+		<key>Khonsa</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.041123</real>
+			<key>State</key>
+			<string>None</string>
+			<key>Stations</key>
+			<array/>
+			<key>updated</key>
+			<string>20250119</string>
+		</dict>
+	</dict>
+	<key>Khonsa General Co</key>
+	<dict>
+		<key>Khonsa</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.14443300000000001</real>
+			<key>State</key>
+			<string>None</string>
+			<key>Stations</key>
+			<array/>
+			<key>updated</key>
+			<string>20250119</string>
+		</dict>
+	</dict>
+	<key>Khonsa Nobles</key>
+	<dict>
+		<key>Khonsa</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.051152999999999997</real>
+			<key>State</key>
+			<string>None</string>
+			<key>Stations</key>
+			<array/>
+			<key>updated</key>
+			<string>20250119</string>
+		</dict>
+	</dict>
 	<key>Kingdom of the Elysian Fields</key>
 	<dict>
 		<key>Allentiac</key>
@@ -19121,16 +19191,16 @@
 			<key>updated</key>
 			<string>20250111</string>
 		</dict>
-		<key>Lu Hsiensei A</key>
+		<key>Khonsa</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.064935000000000007</real>
+			<real>0.11233700000000001</real>
 			<key>State</key>
-			<string>War</string>
+			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250111</string>
+			<string>20250119</string>
 		</dict>
 		<key>Waangamici A</key>
 		<dict>
@@ -19300,13 +19370,13 @@
 		<key>Veamit</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.046906000000000003</real>
+			<real>0.047904000000000002</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250105</string>
+			<string>20250119</string>
 		</dict>
 	</dict>
 	<key>League of Yerava</key>
@@ -19908,13 +19978,13 @@
 		<key>Lu Hsiensei A</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.067932000000000006</real>
+			<real>0.066598000000000004</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250111</string>
+			<string>20250119</string>
 		</dict>
 	</dict>
 	<key>Lu Hsiensei Exchange</key>
@@ -19922,13 +19992,13 @@
 		<key>Lu Hsiensei A</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.052947000000000001</real>
+			<real>0.051229999999999998</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250111</string>
+			<string>20250119</string>
 		</dict>
 	</dict>
 	<key>Lusitani</key>
@@ -22419,6 +22489,19 @@
 			<key>updated</key>
 			<string>20241225</string>
 		</dict>
+		<key>Tepi</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.64405100000000004</real>
+			<key>State</key>
+			<string>None</string>
+			<key>Stations</key>
+			<array>
+				<string>Fibonacci Orbital</string>
+			</array>
+			<key>updated</key>
+			<string>20250119</string>
+		</dict>
 		<key>Tlakakaltan A</key>
 		<dict>
 			<key>Influence</key>
@@ -22994,6 +23077,20 @@
 			<string>20241029</string>
 		</dict>
 	</dict>
+	<key>Official Tepi Regulatory State</key>
+	<dict>
+		<key>Tepi</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.044248000000000003</real>
+			<key>State</key>
+			<string>None</string>
+			<key>Stations</key>
+			<array/>
+			<key>updated</key>
+			<string>20250119</string>
+		</dict>
+	</dict>
 	<key>Official Xi Wangda Focus</key>
 	<dict>
 		<key>Addovichs A</key>
@@ -23165,13 +23262,13 @@
 		<key>Soniteru A</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.11676599999999999</real>
+			<real>0.14057800000000001</real>
 			<key>State</key>
-			<string>Election</string>
+			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250116</string>
+			<string>20250119</string>
 		</dict>
 	</dict>
 	<key>Ovamalu Values Party</key>
@@ -23257,13 +23354,13 @@
 		<key>Soniteru A</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.11676599999999999</real>
+			<real>0.096710000000000004</real>
 			<key>State</key>
-			<string>Election</string>
+			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250116</string>
+			<string>20250119</string>
 		</dict>
 		<key>Yab Yum</key>
 		<dict>
@@ -23486,7 +23583,7 @@
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250118</string>
+			<string>20250119</string>
 		</dict>
 	</dict>
 	<key>Pastara Crimson Dragons</key>
@@ -23500,7 +23597,7 @@
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250118</string>
+			<string>20250119</string>
 		</dict>
 	</dict>
 	<key>Pastara Empire Party</key>
@@ -23514,7 +23611,7 @@
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250118</string>
+			<string>20250119</string>
 		</dict>
 	</dict>
 	<key>Pastara Transport Organisation</key>
@@ -23528,7 +23625,7 @@
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250118</string>
+			<string>20250119</string>
 		</dict>
 	</dict>
 	<key>Patal Free</key>
@@ -24119,6 +24216,20 @@
 			<array/>
 			<key>updated</key>
 			<string>20240919</string>
+		</dict>
+	</dict>
+	<key>Plentauri Guardians of Tradition</key>
+	<dict>
+		<key>Tepi</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.13766</real>
+			<key>State</key>
+			<string>None</string>
+			<key>Stations</key>
+			<array/>
+			<key>updated</key>
+			<string>20250119</string>
 		</dict>
 	</dict>
 	<key>Posse of Gyvatices</key>
@@ -24714,13 +24825,13 @@
 		<key>Lu Hsiensei A</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.120879</real>
+			<real>0.112705</real>
 			<key>State</key>
-			<string>None</string>
+			<string>Election</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250111</string>
+			<string>20250119</string>
 		</dict>
 		<key>Shokwus A</key>
 		<dict>
@@ -25843,13 +25954,13 @@
 		<key>Eotienses A</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.060999999999999999</real>
+			<real>0.14000000000000001</real>
 			<key>State</key>
-			<string>None</string>
+			<string>Election</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250102</string>
+			<string>20250119</string>
 		</dict>
 		<key>Santupik</key>
 		<dict>
@@ -26651,13 +26762,13 @@
 		<key>Veamit</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.079839999999999994</real>
+			<real>0.087823999999999999</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250105</string>
+			<string>20250119</string>
 		</dict>
 	</dict>
 	<key>Social Weti Progressive Party</key>
@@ -26751,13 +26862,13 @@
 		<key>Soniteru A</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.14471100000000001</real>
+			<real>0.14057800000000001</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250116</string>
+			<string>20250119</string>
 		</dict>
 	</dict>
 	<key>Soniteru Jet Fortune Partners</key>
@@ -26765,13 +26876,13 @@
 		<key>Soniteru A</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.15768499999999999</real>
+			<real>0.15653</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250116</string>
+			<string>20250119</string>
 		</dict>
 	</dict>
 	<key>Soniteru People's Co-operative</key>
@@ -26779,13 +26890,13 @@
 		<key>Soniteru A</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.070858000000000004</real>
+			<real>0.069791000000000006</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250116</string>
+			<string>20250119</string>
 		</dict>
 	</dict>
 	<key>Sovereign Marauders</key>
@@ -27335,6 +27446,48 @@
 			<array/>
 			<key>updated</key>
 			<string>20250109</string>
+		</dict>
+	</dict>
+	<key>Tepi Blue Dynamic Company</key>
+	<dict>
+		<key>Tepi</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.034415000000000001</real>
+			<key>State</key>
+			<string>None</string>
+			<key>Stations</key>
+			<array/>
+			<key>updated</key>
+			<string>20250119</string>
+		</dict>
+	</dict>
+	<key>Tepi Clan</key>
+	<dict>
+		<key>Tepi</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.030481999999999999</real>
+			<key>State</key>
+			<string>None</string>
+			<key>Stations</key>
+			<array/>
+			<key>updated</key>
+			<string>20250119</string>
+		</dict>
+	</dict>
+	<key>Tepi Services</key>
+	<dict>
+		<key>Tepi</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.076696</real>
+			<key>State</key>
+			<string>None</string>
+			<key>Stations</key>
+			<array/>
+			<key>updated</key>
+			<string>20250119</string>
 		</dict>
 	</dict>
 	<key>Tetekhe Inc</key>
@@ -29102,13 +29255,13 @@
 		<key>CF 464</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.062373999999999999</real>
+			<real>0.045907999999999997</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250111</string>
+			<string>20250119</string>
 		</dict>
 	</dict>
 	<key>United Euryale First</key>
@@ -29681,13 +29834,13 @@
 		<key>Veamit</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.070858000000000004</real>
+			<real>0.073852000000000001</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250105</string>
+			<string>20250119</string>
 		</dict>
 	</dict>
 	<key>Vequess Brotherhood</key>
@@ -30088,13 +30241,13 @@
 		<key>Veamit</key>
 		<dict>
 			<key>Influence</key>
-			<real>0.090817999999999996</real>
+			<real>0.086826</real>
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
 			<key>updated</key>
-			<string>20250105</string>
+			<string>20250119</string>
 		</dict>
 	</dict>
 	<key>Waventeno Gold Comms Holdings</key>
@@ -30758,6 +30911,20 @@
 			<array/>
 			<key>updated</key>
 			<string>20240918</string>
+		</dict>
+	</dict>
+	<key>Workers of Tepi Coalition</key>
+	<dict>
+		<key>Tepi</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.032447999999999998</real>
+			<key>State</key>
+			<string>None</string>
+			<key>Stations</key>
+			<array/>
+			<key>updated</key>
+			<string>20250119</string>
 		</dict>
 	</dict>
 	<key>Xbalamana Imperial Society</key>
