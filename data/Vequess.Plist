@@ -2,68 +2,94 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>20250101</key>
+	<key>20250119</key>
 	<dict>
-		<key>ELITE SPACE WINGS</key>
-		<dict>
-			<key>Active</key>
-			<string>Expansion</string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.24346100000000001</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>Expansion</string>
-		</dict>
-		<key>Friends of Kui Hsien</key>
+		<key>Facece Empire Party</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.023139</real>
+			<real>0.102719</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>G.O.M. Collective</key>
-		<dict>
-			<key>Active</key>
-			<string>Expansion</string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.67102600000000001</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>Expansion</string>
-		</dict>
-		<key>Kui Hsien General Ltd</key>
+		<key>Kraken Shield Specialists</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.029175</real>
+			<real>0.047330999999999998</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Kui Hsien Nobles</key>
+		<key>Lavigny's Legion</key>
+		<dict>
+			<key>Active</key>
+			<string>CivilLiberty</string>
+			<key>Happiness</key>
+			<string>Elated</string>
+			<key>Influence</key>
+			<real>0.64048300000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Boom</string>
+		</dict>
+		<key>Vequess Brotherhood</key>
+		<dict>
+			<key>Active</key>
+			<string>Bust</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.010070000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Bust</string>
+		</dict>
+		<key>Vequess Empire Pact</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.033198999999999999</real>
+			<real>0.068478999999999998</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Vequess Legal Industry</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.048337999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Vequess Patron's Principles</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.082577999999999999</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -74,38 +100,36 @@
 	<dict>
 		<key>ExpTarget</key>
 		<array>
-			<string>Eotienses A</string>
-			<string>Santupik</string>
-			<string>Pai Huldr A</string>
-			<string>Asphodel</string>
-			<string>CF 464</string>
 			<string>Miphifa</string>
-			<string>Vequess</string>
-			<string>Kadrusa A</string>
-			<string>CD-40 395 A</string>
 			<string>Alacagui A</string>
-			<string>Summerland</string>
+			<string>Pai Huldr A</string>
+			<string>Eotienses A</string>
+			<string>Asphodel</string>
+			<string>Kui Hsien A</string>
+			<string>Gender A</string>
+			<string>CF 464</string>
+			<string>Agartha</string>
 		</array>
 		<key>StarPos</key>
 		<array>
-			<real>45.15625</real>
-			<real>-101.46875</real>
-			<real>11.875</real>
+			<real>62.5625</real>
+			<real>-106</real>
+			<real>22.125</real>
 		</array>
 		<key>SysFaction</key>
-		<string>G.O.M. Collective</string>
+		<string>Lavigny's Legion</string>
 		<key>economy</key>
-		<string>Military</string>
+		<string>Industrial</string>
 		<key>economy2</key>
-		<string>High Tech</string>
+		<string>None</string>
 		<key>population</key>
-		<integer>90509</integer>
+		<integer>1199999</integer>
 		<key>security</key>
 		<string>Medium Security</string>
 		<key>system</key>
-		<string>Kui Hsien A</string>
+		<string>Vequess</string>
 		<key>updated</key>
-		<string>20250101</string>
+		<string>20250119</string>
 	</dict>
 </dict>
 </plist>
