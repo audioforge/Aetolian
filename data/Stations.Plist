@@ -10413,7 +10413,7 @@
 	<key>Kuchemann Horizons_Bolocara</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>977.79366000000005</real>
+		<real>977.68355299999996</real>
 		<key>starSystem</key>
 		<string>Bolocara</string>
 		<key>stationFaction</key>
@@ -12860,6 +12860,50 @@
 		<string>Coriolis</string>
 		<key>updated</key>
 		<string>20240705</string>
+	</dict>
+	<key>Naubakht Port_HIP 10483</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>1481.280209</real>
+		<key>starSystem</key>
+		<string>HIP 10483</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>LOST BOYS</string>
+		</dict>
+		<key>stationName</key>
+		<string>Naubakht Port</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>blackmarket</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Outpost</string>
+		<key>updated</key>
+		<string>20250119</string>
 	</dict>
 	<key>Naubakht Survey_Dangu</key>
 	<dict>
