@@ -8259,7 +8259,7 @@
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.53366800000000003</real>
+			<real>0.51706799999999997</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -8272,7 +8272,7 @@
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.01005</real>
+			<real>0.01004</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -8285,7 +8285,7 @@
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.01005</real>
+			<real>0.01004</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -8298,7 +8298,7 @@
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.026131000000000001</real>
+			<real>0.025100000000000001</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -8307,15 +8307,15 @@
 		<key>ELITE SPACE WINGS</key>
 		<dict>
 			<key>Active</key>
-			<string>Expansion</string>
+			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.13567799999999999</real>
+			<real>0.131526</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
-			<string>Expansion</string>
+			<string>None</string>
 		</dict>
 		<key>HIP 7386 Guardians of Tradition</key>
 		<dict>
@@ -8324,7 +8324,7 @@
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.070351999999999998</real>
+			<real>0.098393999999999995</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -8337,7 +8337,101 @@
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.21407000000000001</real>
+			<real>0.20783099999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
+	<key>20250122</key>
+	<dict>
+		<key>Aetolians</key>
+		<dict>
+			<key>Active</key>
+			<string>Expansion</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.51706799999999997</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Expansion</string>
+		</dict>
+		<key>Bolocara Bridge Corporation</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.01004</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Bolocara Clan</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.01004</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Bolocara allied</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.025100000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>ELITE SPACE WINGS</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.131526</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>HIP 7386 Guardians of Tradition</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.098393999999999995</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Reret Emperor's Grace</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.20783099999999999</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -8396,7 +8490,7 @@
 		<key>system</key>
 		<string>Bolocara</string>
 		<key>updated</key>
-		<string>20250121</string>
+		<string>20250122</string>
 	</dict>
 </dict>
 </plist>
