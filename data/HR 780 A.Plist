@@ -2,142 +2,134 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>20250102</key>
+	<key>20250122</key>
 	<dict>
-		<key>ELITE SPACE WINGS</key>
-		<dict>
-			<key>Active</key>
-			<string>Expansion</string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.73432799999999998</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>Expansion</string>
-		</dict>
-		<key>G.O.M. Collective</key>
-		<dict>
-			<key>Active</key>
-			<string>War</string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.090547000000000002</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>War</string>
-		</dict>
-		<key>Lombi Cartel</key>
+		<key>Galactic Trader Coalition</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.0099500000000000005</real>
+			<real>0.13300000000000001</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Lombi Focus</key>
+		<key>HR 780 Blue United Corporation</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.014925000000000001</real>
+			<real>0.073999999999999996</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Lombi Organisation</key>
+		<key>HR 780 Dragons</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.031841000000000001</real>
+			<real>0.017999999999999999</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Lombi Pride</key>
+		<key>Natural HR 780 Defence Force</key>
 		<dict>
 			<key>Active</key>
-			<string>Boom</string>
+			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.027861</real>
+			<real>0.17199999999999999</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
-			<string>Boom</string>
+			<string>None</string>
 		</dict>
-		<key>The White Templars</key>
+		<key>New HR 780 Focus</key>
 		<dict>
 			<key>Active</key>
-			<string>War</string>
+			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.090547000000000002</real>
+			<real>0.056000000000000001</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
-			<string>War</string>
+			<string>None</string>
+		</dict>
+		<key>Pequen Empire League</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.106</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>The Independent Light Wheel</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.441</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
 		</dict>
 	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
 		<array>
-			<string>Cockaigne</string>
-			<string>Akualanu A</string>
-			<string>Gender A</string>
-			<string>Delta Phoenicis</string>
-			<string>Ba Nari A</string>
-			<string>Duronese A</string>
-			<string>Mbetatika</string>
-			<string>Shambhala</string>
-			<string>Samen A</string>
-			<string>CF 464</string>
-			<string>Veamit</string>
-			<string>Pai Huldr A</string>
-			<string>Miphifa</string>
-			<string>Alacagui A</string>
-			<string>Mokowa</string>
-			<string>Asphodel</string>
-			<string>Annwn</string>
+			<string>Rugien A</string>
+			<string>Giabaing A</string>
+			<string>Yamatri</string>
+			<string>Holva A</string>
+			<string>Autrimpe A</string>
+			<string>Varri</string>
+			<string>Manthe</string>
+			<string>Jemen A</string>
+			<string>Gliese 105.2</string>
 		</array>
 		<key>StarPos</key>
 		<array>
-			<real>59.9375</real>
-			<real>-132.53125</real>
-			<real>1.78125</real>
+			<real>69.46875</real>
+			<real>-163.125</real>
+			<real>-32.75</real>
 		</array>
 		<key>SysFaction</key>
-		<string>ELITE SPACE WINGS</string>
+		<string>The Independent Light Wheel</string>
 		<key>economy</key>
 		<string>Industrial</string>
 		<key>economy2</key>
 		<string>Extraction</string>
 		<key>population</key>
-		<integer>8929918</integer>
+		<integer>9642569</integer>
 		<key>security</key>
 		<string>High Security</string>
 		<key>system</key>
-		<string>Lombi A</string>
+		<string>HR 780 A</string>
 		<key>updated</key>
-		<string>20250102</string>
+		<string>20250122</string>
 	</dict>
 </dict>
 </plist>
