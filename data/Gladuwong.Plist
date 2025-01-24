@@ -6027,7 +6027,7 @@
 		<key>Aetolians</key>
 		<dict>
 			<key>Active</key>
-			<string>Expansion</string>
+			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
@@ -6035,7 +6035,7 @@
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
-			<string>Expansion</string>
+			<string>None</string>
 		</dict>
 		<key>Aristocrats of Songloi</key>
 		<dict>
@@ -6104,8 +6104,14 @@
 		</dict>
 		<key>The Independent Light Wheel</key>
 		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
 			<key>Influence</key>
 			<real>0.18099999999999999</real>
+			<key>Pending</key>
+			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
@@ -6137,6 +6143,7 @@
 			<string>Aurgens A</string>
 			<string>Lusoneshas</string>
 			<string>Inherth A</string>
+			<string>HIP 11205</string>
 			<string>Dumni</string>
 			<string>Zhuang A</string>
 		</array>
