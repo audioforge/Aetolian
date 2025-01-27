@@ -3006,11 +3006,13 @@
 	<key>Bullialdus Gateway_HIP 8894</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>16.140115999999999</real>
+		<real>16.309097000000001</real>
 		<key>starSystem</key>
 		<string>HIP 8894</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>War</string>
 			<key>Name</key>
 			<string>Aetolians</string>
 		</dict>
@@ -3422,15 +3424,15 @@
 	<key>Cartier City_Xi Wangda</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>56.360230000000001</real>
+		<real>56.355843</real>
 		<key>starSystem</key>
 		<string>Xi Wangda</string>
 		<key>stationFaction</key>
 		<dict>
 			<key>FactionState</key>
-			<string>War</string>
+			<string>Outbreak</string>
 			<key>Name</key>
-			<string>Xi Wangda Power Corporation</string>
+			<string>Amanogawa Enlight</string>
 		</dict>
 		<key>stationName</key>
 		<string>Cartier City</string>
@@ -3438,6 +3440,7 @@
 		<array>
 			<string>dock</string>
 			<string>autodock</string>
+			<string>blackmarket</string>
 			<string>commodities</string>
 			<string>contacts</string>
 			<string>exploration</string>
@@ -3468,7 +3471,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20241121</string>
+		<string>20250126</string>
 	</dict>
 	<key>Cartier Hub_Karelitakas</key>
 	<dict>
@@ -8175,13 +8178,13 @@
 	<key>Herbig Station_Apurusia</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>44.285075999999997</real>
+		<real>44.648992999999997</real>
 		<key>starSystem</key>
 		<string>Apurusia</string>
 		<key>stationFaction</key>
 		<dict>
 			<key>FactionState</key>
-			<string>Expansion</string>
+			<string>Boom</string>
 			<key>Name</key>
 			<string>Aetolians</string>
 		</dict>
@@ -8222,7 +8225,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20250118</string>
+		<string>20250126</string>
 	</dict>
 	<key>Herndon's Exile_Bolocara</key>
 	<dict>
