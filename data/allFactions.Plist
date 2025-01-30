@@ -1365,20 +1365,6 @@
 			<string>20250125</string>
 		</dict>
 	</dict>
-	<key>Allied Kamadhenu Nationalists</key>
-	<dict>
-		<key>Kamadhenu</key>
-		<dict>
-			<key>Influence</key>
-			<real>0.075680999999999998</real>
-			<key>State</key>
-			<string>None</string>
-			<key>Stations</key>
-			<array/>
-			<key>updated</key>
-			<string>20250128</string>
-		</dict>
-	</dict>
 	<key>Allied LTT 17422 Liberty Party</key>
 	<dict>
 		<key>LTT 17422 A</key>
@@ -3360,20 +3346,6 @@
 			<array/>
 			<key>updated</key>
 			<string>20250102</string>
-		</dict>
-	</dict>
-	<key>Azimuth Biotech</key>
-	<dict>
-		<key>LFT 174</key>
-		<dict>
-			<key>Influence</key>
-			<real>0.081672999999999996</real>
-			<key>State</key>
-			<string>Election</string>
-			<key>Stations</key>
-			<array/>
-			<key>updated</key>
-			<string>20250128</string>
 		</dict>
 	</dict>
 	<key>Aztlan Imperial Society</key>
@@ -6062,22 +6034,6 @@
 			<string>20241121</string>
 		</dict>
 	</dict>
-	<key>Chapterhouse of Inquisition</key>
-	<dict>
-		<key>Kamadhenu</key>
-		<dict>
-			<key>Influence</key>
-			<real>0.53077700000000005</real>
-			<key>State</key>
-			<string>None</string>
-			<key>Stations</key>
-			<array>
-				<string>Shajn Market</string>
-			</array>
-			<key>updated</key>
-			<string>20250128</string>
-		</dict>
-	</dict>
 	<key>Chebaei Blue Fortune Company</key>
 	<dict>
 		<key>Chebaei</key>
@@ -7347,20 +7303,6 @@
 			<array/>
 			<key>updated</key>
 			<string>20241123</string>
-		</dict>
-	</dict>
-	<key>Defence Force of Amitrite</key>
-	<dict>
-		<key>Kamadhenu</key>
-		<dict>
-			<key>Influence</key>
-			<real>0.118063</real>
-			<key>State</key>
-			<string>Famine</string>
-			<key>Stations</key>
-			<array/>
-			<key>updated</key>
-			<string>20250128</string>
 		</dict>
 	</dict>
 	<key>Defence Force of Apurusia</key>
@@ -9120,19 +9062,6 @@
 			<key>updated</key>
 			<string>20240820</string>
 		</dict>
-		<key>Nanomam</key>
-		<dict>
-			<key>Influence</key>
-			<real>0.43172700000000003</real>
-			<key>State</key>
-			<string>None</string>
-			<key>Stations</key>
-			<array>
-				<string>Hahn Gateway</string>
-			</array>
-			<key>updated</key>
-			<string>20250128</string>
-		</dict>
 		<key>Wolf 359</key>
 		<dict>
 			<key>Influence</key>
@@ -10793,7 +10722,9 @@
 			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
-			<array/>
+			<array>
+				<string>Wallis Hub</string>
+			</array>
 			<key>updated</key>
 			<string>20241023</string>
 		</dict>
@@ -16001,20 +15932,6 @@
 			<string>20250105</string>
 		</dict>
 	</dict>
-	<key>Independent LHS 1197 Values Party</key>
-	<dict>
-		<key>LFT 174</key>
-		<dict>
-			<key>Influence</key>
-			<real>0.13744999999999999</real>
-			<key>State</key>
-			<string>None</string>
-			<key>Stations</key>
-			<array/>
-			<key>updated</key>
-			<string>20250128</string>
-		</dict>
-	</dict>
 	<key>Independent Muang Progressive Party</key>
 	<dict>
 		<key>Muang</key>
@@ -17402,62 +17319,6 @@
 			<string>20241215</string>
 		</dict>
 	</dict>
-	<key>Kamadhenu Citizens' Forum</key>
-	<dict>
-		<key>Kamadhenu</key>
-		<dict>
-			<key>Influence</key>
-			<real>0.087790000000000007</real>
-			<key>State</key>
-			<string>CivilWar</string>
-			<key>Stations</key>
-			<array/>
-			<key>updated</key>
-			<string>20250128</string>
-		</dict>
-	</dict>
-	<key>Kamadhenu Gold Drug Empire</key>
-	<dict>
-		<key>Kamadhenu</key>
-		<dict>
-			<key>Influence</key>
-			<real>0.023209</real>
-			<key>State</key>
-			<string>None</string>
-			<key>Stations</key>
-			<array/>
-			<key>updated</key>
-			<string>20250128</string>
-		</dict>
-	</dict>
-	<key>Kamadhenu Netcoms Corporation</key>
-	<dict>
-		<key>Kamadhenu</key>
-		<dict>
-			<key>Influence</key>
-			<real>0.087790000000000007</real>
-			<key>State</key>
-			<string>CivilWar</string>
-			<key>Stations</key>
-			<array/>
-			<key>updated</key>
-			<string>20250128</string>
-		</dict>
-	</dict>
-	<key>Kamadhenu Partners</key>
-	<dict>
-		<key>Kamadhenu</key>
-		<dict>
-			<key>Influence</key>
-			<real>0.076689999999999994</real>
-			<key>State</key>
-			<string>None</string>
-			<key>Stations</key>
-			<array/>
-			<key>updated</key>
-			<string>20250128</string>
-		</dict>
-	</dict>
 	<key>Kamitra Crimson United Ltd</key>
 	<dict>
 		<key>Kamitra A</key>
@@ -18637,48 +18498,6 @@
 			<array/>
 			<key>updated</key>
 			<string>20240626</string>
-		</dict>
-	</dict>
-	<key>LFT 174 Advanced Incorporated</key>
-	<dict>
-		<key>LFT 174</key>
-		<dict>
-			<key>Influence</key>
-			<real>0.081672999999999996</real>
-			<key>State</key>
-			<string>Election</string>
-			<key>Stations</key>
-			<array/>
-			<key>updated</key>
-			<string>20250128</string>
-		</dict>
-	</dict>
-	<key>LFT 174 Gold Organisation</key>
-	<dict>
-		<key>LFT 174</key>
-		<dict>
-			<key>Influence</key>
-			<real>0.023904000000000002</real>
-			<key>State</key>
-			<string>None</string>
-			<key>Stations</key>
-			<array/>
-			<key>updated</key>
-			<string>20250128</string>
-		</dict>
-	</dict>
-	<key>LFT 174 Nationalists</key>
-	<dict>
-		<key>LFT 174</key>
-		<dict>
-			<key>Influence</key>
-			<real>0.057769000000000001</real>
-			<key>State</key>
-			<string>None</string>
-			<key>Stations</key>
-			<array/>
-			<key>updated</key>
-			<string>20250128</string>
 		</dict>
 	</dict>
 	<key>LHS 1097 Blue Mob</key>
@@ -21748,20 +21567,6 @@
 			<string>20241215</string>
 		</dict>
 	</dict>
-	<key>Movement for Nanomam Future</key>
-	<dict>
-		<key>Nanomam</key>
-		<dict>
-			<key>Influence</key>
-			<real>0.078312999999999994</real>
-			<key>State</key>
-			<string>CivilWar</string>
-			<key>Stations</key>
-			<array/>
-			<key>updated</key>
-			<string>20250128</string>
-		</dict>
-	</dict>
 	<key>Movement for Raurubo Left Party</key>
 	<dict>
 		<key>Raurubo A</key>
@@ -22160,62 +21965,6 @@
 			<array/>
 			<key>updated</key>
 			<string>20250121</string>
-		</dict>
-	</dict>
-	<key>Nanomam Crimson Clan</key>
-	<dict>
-		<key>Nanomam</key>
-		<dict>
-			<key>Influence</key>
-			<real>0.012048</real>
-			<key>State</key>
-			<string>None</string>
-			<key>Stations</key>
-			<array/>
-			<key>updated</key>
-			<string>20250128</string>
-		</dict>
-	</dict>
-	<key>Nanomam Defence Party</key>
-	<dict>
-		<key>Nanomam</key>
-		<dict>
-			<key>Influence</key>
-			<real>0.037149000000000001</real>
-			<key>State</key>
-			<string>None</string>
-			<key>Stations</key>
-			<array/>
-			<key>updated</key>
-			<string>20250128</string>
-		</dict>
-	</dict>
-	<key>Nanomam Life Systems</key>
-	<dict>
-		<key>Nanomam</key>
-		<dict>
-			<key>Influence</key>
-			<real>0.078312999999999994</real>
-			<key>State</key>
-			<string>CivilWar</string>
-			<key>Stations</key>
-			<array/>
-			<key>updated</key>
-			<string>20250128</string>
-		</dict>
-	</dict>
-	<key>Nanomam Ltd</key>
-	<dict>
-		<key>Nanomam</key>
-		<dict>
-			<key>Influence</key>
-			<real>0.069277000000000005</real>
-			<key>State</key>
-			<string>None</string>
-			<key>Stations</key>
-			<array/>
-			<key>updated</key>
-			<string>20250128</string>
 		</dict>
 	</dict>
 	<key>Nationalists of HIP 6551</key>
@@ -23978,20 +23727,6 @@
 			<array/>
 			<key>updated</key>
 			<string>20250122</string>
-		</dict>
-	</dict>
-	<key>Origin Systems United</key>
-	<dict>
-		<key>LFT 174</key>
-		<dict>
-			<key>Influence</key>
-			<real>0.545817</real>
-			<key>State</key>
-			<string>None</string>
-			<key>Stations</key>
-			<array/>
-			<key>updated</key>
-			<string>20250128</string>
 		</dict>
 	</dict>
 	<key>Ovamalu Inc</key>
@@ -29634,20 +29369,6 @@
 			<string>20250116</string>
 		</dict>
 	</dict>
-	<key>Tollan Free</key>
-	<dict>
-		<key>Nanomam</key>
-		<dict>
-			<key>Influence</key>
-			<real>0.29317300000000002</real>
-			<key>State</key>
-			<string>Boom</string>
-			<key>Stations</key>
-			<array/>
-			<key>updated</key>
-			<string>20250128</string>
-		</dict>
-	</dict>
 	<key>Traditional Bayah League</key>
 	<dict>
 		<key>Bayah A</key>
@@ -30430,20 +30151,6 @@
 			<array/>
 			<key>updated</key>
 			<string>20240423</string>
-		</dict>
-	</dict>
-	<key>United LFT 174 Future</key>
-	<dict>
-		<key>LFT 174</key>
-		<dict>
-			<key>Influence</key>
-			<real>0.071712999999999999</real>
-			<key>State</key>
-			<string>None</string>
-			<key>Stations</key>
-			<array/>
-			<key>updated</key>
-			<string>20250128</string>
 		</dict>
 	</dict>
 	<key>United Lileni for Equality</key>
