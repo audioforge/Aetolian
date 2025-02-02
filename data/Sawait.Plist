@@ -2,132 +2,136 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>20250130</key>
+	<key>20250202</key>
 	<dict>
-		<key>Allied HIP 24157 Conservatives</key>
+		<key>Brestla Silver Vision Network</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.056794999999999998</real>
+			<real>0.074701000000000004</real>
+			<key>Pending</key>
+			<string>War - 0</string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Camorra of Sawait</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.02988</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Anum Empire Assembly</key>
+		<key>Sawait Citizens of Tradition</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.092291999999999999</real>
+			<real>0.186255</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Baedi Di Industries</key>
+		<key>Sawait Corp.</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.052738</real>
+			<real>0.092629000000000003</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Baedi Di Rats</key>
+		<key>Sawait Industries</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.024341000000000002</real>
+			<real>0.12748999999999999</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Chapterhouse of Inquisition</key>
+		<key>Sawait Progressive Party</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.453347</real>
+			<real>0.074701000000000004</real>
 			<key>Pending</key>
-			<string></string>
+			<string>War - 0</string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>HIP 26883 Empire Party</key>
+		<key>The Imperial Inquisition</key>
 		<dict>
 			<key>Active</key>
-			<string>Election</string>
+			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.160243</real>
+			<real>0.41434300000000002</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
-			<string>Election</string>
-		</dict>
-		<key>Kurians Dominion</key>
-		<dict>
-			<key>Active</key>
-			<string>Election</string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.160243</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>Election</string>
+			<string>Famine</string>
 		</dict>
 	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
 		<array>
-			<string>Sauraratec A</string>
+			<string>Yeng</string>
+			<string>Brestla A</string>
+			<string>Alina</string>
+			<string>Bastanien</string>
+			<string>Kartenes</string>
+			<string>Vasukili</string>
+			<string>Heilelang</string>
 			<string>Austa A</string>
-			<string>Kamadhenu</string>
-			<string>Adan</string>
+			<string>Yu Shun A</string>
+			<string>Akhvaroua</string>
 			<string>Itzam Crua</string>
-			<string>Phracani</string>
-			<string>Bakara A</string>
 		</array>
 		<key>StarPos</key>
 		<array>
-			<real>128.8125</real>
-			<real>-98.78125</real>
-			<real>-14.59375</real>
+			<real>156.375</real>
+			<real>-98.25</real>
+			<real>-31.125</real>
 		</array>
 		<key>SysFaction</key>
-		<string>Chapterhouse of Inquisition</string>
+		<string>The Imperial Inquisition</string>
 		<key>economy</key>
-		<string>High Tech</string>
+		<string>Terraforming</string>
 		<key>economy2</key>
-		<string>Extraction</string>
+		<string>Industrial</string>
 		<key>population</key>
-		<integer>9580</integer>
+		<integer>8049391</integer>
 		<key>security</key>
-		<string>Low Security</string>
+		<string>Medium Security</string>
 		<key>system</key>
-		<string>Baedi Di A</string>
+		<string>Sawait</string>
 		<key>updated</key>
-		<string>20250130</string>
+		<string>20250202</string>
 	</dict>
 </dict>
 </plist>

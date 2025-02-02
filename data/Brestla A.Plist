@@ -284,10 +284,114 @@
 			<string>CivilLiberty</string>
 		</dict>
 	</dict>
+	<key>20250202</key>
+	<dict>
+		<key>Brestla Gold Major &amp; Co</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.042210999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Brestla Nationalists</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.060302000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Brestla Silver Vision Network</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.078392000000000003</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Heilelang Patron's Principles</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.169849</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>League of Brestla Liberty Party</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.064322000000000004</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>The Imperial Inquisition</key>
+		<dict>
+			<key>Active</key>
+			<string>Boom</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.52663300000000002</real>
+			<key>Pending</key>
+			<string>CivilLiberty - 0</string>
+			<key>State</key>
+			<string>Boom</string>
+		</dict>
+		<key>Union of Brestla Resistance</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.058291000000000003</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
-		<array/>
+		<array>
+			<string>Kartenes</string>
+			<string>Bastanien</string>
+			<string>Yeng</string>
+			<string>Vasukili</string>
+			<string>Heilelang</string>
+			<string>Sawait</string>
+			<string>Akhvaroua</string>
+			<string>Yu Shun A</string>
+			<string>Alina</string>
+		</array>
 		<key>StarPos</key>
 		<array>
 			<real>159.46875</real>
@@ -307,7 +411,7 @@
 		<key>system</key>
 		<string>Brestla A</string>
 		<key>updated</key>
-		<string>20250130</string>
+		<string>20250202</string>
 	</dict>
 </dict>
 </plist>

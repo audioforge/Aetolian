@@ -161,6 +161,262 @@
 			<string>The Order of Mobius</string>
 		</dict>
 	</dict>
+	<key>Akhvaroua</key>
+	<dict>
+		<key>Factions</key>
+		<array>
+			<dict>
+				<key>Allegiance</key>
+				<string>Empire</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Corporate</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.098901000000000003</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Akhvaroua Blue Energy Limited</string>
+				<key>PendingStates</key>
+				<array>
+					<dict>
+						<key>State</key>
+						<string>Boom</string>
+						<key>Trend</key>
+						<integer>0</integer>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Independent</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Confederacy</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.16283700000000001</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Stars of Duval</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Independent</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Cooperative</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.082917000000000005</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Whitetip Operations</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Empire</string>
+				<key>FactionState</key>
+				<string>Famine</string>
+				<key>Government</key>
+				<string>Dictatorship</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.65534499999999996</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>The Imperial Inquisition</string>
+			</dict>
+		</array>
+		<key>PPstate</key>
+		<string>Exploited</string>
+		<key>StarPos</key>
+		<array>
+			<real>164.4375</real>
+			<real>-116.28125</real>
+			<real>-19.59375</real>
+		</array>
+		<key>sysFaction</key>
+		<dict>
+			<key>FactionState</key>
+			<string>Famine</string>
+			<key>Name</key>
+			<string>The Imperial Inquisition</string>
+		</dict>
+	</dict>
+	<key>Alina</key>
+	<dict>
+		<key>Factions</key>
+		<array>
+			<dict>
+				<key>ActiveStates</key>
+				<array>
+					<dict>
+						<key>State</key>
+						<string>Boom</string>
+					</dict>
+				</array>
+				<key>Allegiance</key>
+				<string>Empire</string>
+				<key>FactionState</key>
+				<string>Boom</string>
+				<key>Government</key>
+				<string>Patronage</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.090188000000000004</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Anum Empire Assembly</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Empire</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Patronage</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.19326099999999999</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Alina Guardians of Tradition</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Independent</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Corporate</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.047572000000000003</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Alina Creative Holdings</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Independent</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Democracy</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.10208100000000001</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Social Alina Resistance</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Independent</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Anarchy</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.0099109999999999997</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Alina Blue Boys</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Independent</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Dictatorship</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.104063</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Traditional Alina League</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Empire</string>
+				<key>FactionState</key>
+				<string>Boom</string>
+				<key>Government</key>
+				<string>Dictatorship</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.45292399999999999</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>The Imperial Inquisition</string>
+			</dict>
+		</array>
+		<key>PPstate</key>
+		<string>Exploited</string>
+		<key>StarPos</key>
+		<array>
+			<real>152.53125</real>
+			<real>-90.78125</real>
+			<real>-20.875</real>
+		</array>
+		<key>sysFaction</key>
+		<dict>
+			<key>FactionState</key>
+			<string>Boom</string>
+			<key>Name</key>
+			<string>The Imperial Inquisition</string>
+		</dict>
+	</dict>
 	<key>Amitrite A</key>
 	<dict>
 		<key>Factions</key>
@@ -431,6 +687,160 @@
 		<dict>
 			<key>Name</key>
 			<string>HIP 15644 Exchange</string>
+		</dict>
+	</dict>
+	<key>Austa A</key>
+	<dict>
+		<key>Factions</key>
+		<array>
+			<dict>
+				<key>ActiveStates</key>
+				<array>
+					<dict>
+						<key>State</key>
+						<string>CivilLiberty</string>
+					</dict>
+				</array>
+				<key>Allegiance</key>
+				<string>Empire</string>
+				<key>FactionState</key>
+				<string>CivilLiberty</string>
+				<key>Government</key>
+				<string>Patronage</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.43478299999999998</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>HIP 26883 Empire Party</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Empire</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Patronage</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.12944700000000001</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Anum Empire Assembly</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Empire</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Patronage</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.056323999999999999</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Austa Empire Party</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Independent</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Corporate</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.077075000000000005</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Austa Netcoms Group</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Independent</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Democracy</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.093873999999999999</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Revolutionary Austa Values Party</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Independent</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Anarchy</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.032608999999999999</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Austa Rats</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Empire</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Patronage</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.17588899999999999</real>
+				<key>MyReputation</key>
+				<real>2.23176</real>
+				<key>Name</key>
+				<string>Chapterhouse of Inquisition</string>
+			</dict>
+		</array>
+		<key>PPstate</key>
+		<string>Exploited</string>
+		<key>StarPos</key>
+		<array>
+			<real>138.59375</real>
+			<real>-100.15625</real>
+			<real>-19.59375</real>
+		</array>
+		<key>sysFaction</key>
+		<dict>
+			<key>FactionState</key>
+			<string>CivilLiberty</string>
+			<key>Name</key>
+			<string>HIP 26883 Empire Party</string>
 		</dict>
 	</dict>
 	<key>Baedi Di A</key>
@@ -886,6 +1296,167 @@
 			<string>Bakara Empire Party</string>
 		</dict>
 	</dict>
+	<key>Bastanien</key>
+	<dict>
+		<key>Factions</key>
+		<array>
+			<dict>
+				<key>Allegiance</key>
+				<string>Empire</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Patronage</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.20461399999999999</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>HIP 26883 Empire Party</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Empire</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Patronage</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.032096</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Bastanien Empire Assembly</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Independent</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Corporate</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.043129000000000001</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Bastanien Industry</string>
+			</dict>
+			<dict>
+				<key>ActiveStates</key>
+				<array>
+					<dict>
+						<key>State</key>
+						<string>Bust</string>
+					</dict>
+				</array>
+				<key>Allegiance</key>
+				<string>Independent</string>
+				<key>FactionState</key>
+				<string>Bust</string>
+				<key>Government</key>
+				<string>Anarchy</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.010030000000000001</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Family of Bastanien</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Independent</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Communism</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.011032999999999999</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Social Bastanien Unionists</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Independent</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Corporate</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.031092999999999999</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Bastanien Silver Transport Inc</string>
+			</dict>
+			<dict>
+				<key>ActiveStates</key>
+				<array>
+					<dict>
+						<key>State</key>
+						<string>CivilLiberty</string>
+					</dict>
+				</array>
+				<key>Allegiance</key>
+				<string>Empire</string>
+				<key>FactionState</key>
+				<string>CivilLiberty</string>
+				<key>Government</key>
+				<string>Dictatorship</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.66800400000000004</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>The Imperial Inquisition</string>
+			</dict>
+		</array>
+		<key>PPstate</key>
+		<string>Exploited</string>
+		<key>StarPos</key>
+		<array>
+			<real>161.25</real>
+			<real>-100.1875</real>
+			<real>-17.4375</real>
+		</array>
+		<key>sysFaction</key>
+		<dict>
+			<key>FactionState</key>
+			<string>CivilLiberty</string>
+			<key>Name</key>
+			<string>The Imperial Inquisition</string>
+		</dict>
+	</dict>
 	<key>Bragur</key>
 	<dict>
 		<key>Factions</key>
@@ -1047,24 +1618,17 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.065196000000000004</real>
+				<real>0.078392000000000003</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
 				<string>Brestla Silver Vision Network</string>
 			</dict>
 			<dict>
-				<key>ActiveStates</key>
-				<array>
-					<dict>
-						<key>State</key>
-						<string>Boom</string>
-					</dict>
-				</array>
 				<key>Allegiance</key>
 				<string>Empire</string>
 				<key>FactionState</key>
-				<string>Boom</string>
+				<string>None</string>
 				<key>Government</key>
 				<string>Patronage</string>
 				<key>Happiness</key>
@@ -1072,11 +1636,20 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.18956899999999999</real>
+				<real>0.169849</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
 				<string>Heilelang Patron's Principles</string>
+				<key>RecoveringStates</key>
+				<array>
+					<dict>
+						<key>State</key>
+						<string>Boom</string>
+						<key>Trend</key>
+						<integer>0</integer>
+					</dict>
+				</array>
 			</dict>
 			<dict>
 				<key>Allegiance</key>
@@ -1090,24 +1663,17 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.046137999999999998</real>
+				<real>0.064322000000000004</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
 				<string>League of Brestla Liberty Party</string>
 			</dict>
 			<dict>
-				<key>ActiveStates</key>
-				<array>
-					<dict>
-						<key>State</key>
-						<string>CivilLiberty</string>
-					</dict>
-				</array>
 				<key>Allegiance</key>
 				<string>Independent</string>
 				<key>FactionState</key>
-				<string>CivilLiberty</string>
+				<string>None</string>
 				<key>Government</key>
 				<string>Democracy</string>
 				<key>Happiness</key>
@@ -1115,11 +1681,20 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.042125999999999997</real>
+				<real>0.058291000000000003</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
 				<string>Union of Brestla Resistance</string>
+				<key>RecoveringStates</key>
+				<array>
+					<dict>
+						<key>State</key>
+						<string>CivilLiberty</string>
+						<key>Trend</key>
+						<integer>0</integer>
+					</dict>
+				</array>
 			</dict>
 			<dict>
 				<key>Allegiance</key>
@@ -1133,7 +1708,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.054162000000000002</real>
+				<real>0.060302000000000001</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -1151,7 +1726,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.042125999999999997</real>
+				<real>0.042210999999999999</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -1176,11 +1751,20 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.56068200000000001</real>
+				<real>0.52663300000000002</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
 				<string>The Imperial Inquisition</string>
+				<key>PendingStates</key>
+				<array>
+					<dict>
+						<key>State</key>
+						<string>CivilLiberty</string>
+						<key>Trend</key>
+						<integer>0</integer>
+					</dict>
+				</array>
 				<key>RecoveringStates</key>
 				<array>
 					<dict>
@@ -2282,6 +2866,201 @@
 			<string>Shield of the Empire</string>
 		</dict>
 	</dict>
+	<key>Heilelang</key>
+	<dict>
+		<key>Factions</key>
+		<array>
+			<dict>
+				<key>ActiveStates</key>
+				<array>
+					<dict>
+						<key>State</key>
+						<string>Election</string>
+					</dict>
+				</array>
+				<key>Allegiance</key>
+				<string>Empire</string>
+				<key>FactionState</key>
+				<string>Election</string>
+				<key>Government</key>
+				<string>Patronage</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.085000000000000006</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>HIP 26883 Empire Party</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Empire</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Patronage</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.13200000000000001</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Heilelang Patron's Principles</string>
+				<key>RecoveringStates</key>
+				<array>
+					<dict>
+						<key>State</key>
+						<string>PublicHoliday</string>
+						<key>Trend</key>
+						<integer>0</integer>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Independent</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Democracy</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.089999999999999997</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Heilelang for Equality</string>
+				<key>RecoveringStates</key>
+				<array>
+					<dict>
+						<key>State</key>
+						<string>CivilWar</string>
+						<key>Trend</key>
+						<integer>0</integer>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Independent</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Corporate</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.056000000000000001</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Heilelang Corp.</string>
+				<key>RecoveringStates</key>
+				<array>
+					<dict>
+						<key>State</key>
+						<string>CivilWar</string>
+						<key>Trend</key>
+						<integer>0</integer>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>ActiveStates</key>
+				<array>
+					<dict>
+						<key>State</key>
+						<string>Bust</string>
+					</dict>
+				</array>
+				<key>Allegiance</key>
+				<string>Independent</string>
+				<key>FactionState</key>
+				<string>Bust</string>
+				<key>Government</key>
+				<string>Anarchy</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.01</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Heilelang Blue Family</string>
+			</dict>
+			<dict>
+				<key>ActiveStates</key>
+				<array>
+					<dict>
+						<key>State</key>
+						<string>Election</string>
+					</dict>
+				</array>
+				<key>Allegiance</key>
+				<string>Independent</string>
+				<key>FactionState</key>
+				<string>Election</string>
+				<key>Government</key>
+				<string>Dictatorship</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.085000000000000006</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>New Heilelang Defence Force</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Empire</string>
+				<key>FactionState</key>
+				<string>Famine</string>
+				<key>Government</key>
+				<string>Dictatorship</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.54200000000000004</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>The Imperial Inquisition</string>
+			</dict>
+		</array>
+		<key>PPstate</key>
+		<string>Exploited</string>
+		<key>StarPos</key>
+		<array>
+			<real>166.25</real>
+			<real>-107.375</real>
+			<real>-17.40625</real>
+		</array>
+		<key>sysFaction</key>
+		<dict>
+			<key>FactionState</key>
+			<string>Famine</string>
+			<key>Name</key>
+			<string>The Imperial Inquisition</string>
+		</dict>
+	</dict>
 	<key>Hruntia</key>
 	<dict>
 		<key>Factions</key>
@@ -2934,6 +3713,160 @@
 		<dict>
 			<key>Name</key>
 			<string>LHS 199 Guardians of Tradition</string>
+		</dict>
+	</dict>
+	<key>Kartenes</key>
+	<dict>
+		<key>Factions</key>
+		<array>
+			<dict>
+				<key>Allegiance</key>
+				<string>Empire</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Patronage</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.12823100000000001</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>HIP 26883 Empire Party</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Empire</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Patronage</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.081511</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Kartenes Empire League</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Independent</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Corporate</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.054671999999999998</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Kartenes Silver System Services</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Independent</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Anarchy</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.0099399999999999992</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Brotherhood of Kartenes</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Independent</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Democracy</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.024851000000000002</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Movement for Kartenes Democrats</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Independent</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Dictatorship</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.050695999999999998</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Official Kartenes Flag</string>
+			</dict>
+			<dict>
+				<key>ActiveStates</key>
+				<array>
+					<dict>
+						<key>State</key>
+						<string>Boom</string>
+					</dict>
+				</array>
+				<key>Allegiance</key>
+				<string>Empire</string>
+				<key>FactionState</key>
+				<string>Boom</string>
+				<key>Government</key>
+				<string>Dictatorship</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.65009899999999998</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>The Imperial Inquisition</string>
+			</dict>
+		</array>
+		<key>PPstate</key>
+		<string>Exploited</string>
+		<key>StarPos</key>
+		<array>
+			<real>161.5</real>
+			<real>-104</real>
+			<real>-17.21875</real>
+		</array>
+		<key>sysFaction</key>
+		<dict>
+			<key>FactionState</key>
+			<string>Boom</string>
+			<key>Name</key>
+			<string>The Imperial Inquisition</string>
 		</dict>
 	</dict>
 	<key>LTT 1572</key>
@@ -4425,6 +5358,180 @@
 			<string>Chapterhouse of Inquisition</string>
 		</dict>
 	</dict>
+	<key>Sawait</key>
+	<dict>
+		<key>Factions</key>
+		<array>
+			<dict>
+				<key>Allegiance</key>
+				<string>Empire</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Corporate</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.074701000000000004</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Brestla Silver Vision Network</string>
+				<key>PendingStates</key>
+				<array>
+					<dict>
+						<key>State</key>
+						<string>War</string>
+						<key>Trend</key>
+						<integer>0</integer>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Empire</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Patronage</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.186255</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Sawait Citizens of Tradition</string>
+				<key>RecoveringStates</key>
+				<array>
+					<dict>
+						<key>State</key>
+						<string>PirateAttack</string>
+						<key>Trend</key>
+						<integer>0</integer>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Independent</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Corporate</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.092629000000000003</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Sawait Corp.</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Independent</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Democracy</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.074701000000000004</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Sawait Progressive Party</string>
+				<key>PendingStates</key>
+				<array>
+					<dict>
+						<key>State</key>
+						<string>War</string>
+						<key>Trend</key>
+						<integer>0</integer>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Independent</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Anarchy</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.02988</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Camorra of Sawait</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Independent</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Corporate</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.12748999999999999</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Sawait Industries</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Empire</string>
+				<key>FactionState</key>
+				<string>Famine</string>
+				<key>Government</key>
+				<string>Dictatorship</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.41434300000000002</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>The Imperial Inquisition</string>
+			</dict>
+		</array>
+		<key>PPstate</key>
+		<string>Exploited</string>
+		<key>StarPos</key>
+		<array>
+			<real>156.375</real>
+			<real>-98.25</real>
+			<real>-31.125</real>
+		</array>
+		<key>sysFaction</key>
+		<dict>
+			<key>FactionState</key>
+			<string>Famine</string>
+			<key>Name</key>
+			<string>The Imperial Inquisition</string>
+		</dict>
+	</dict>
 	<key>Shongastyak A</key>
 	<dict>
 		<key>Factions</key>
@@ -5479,6 +6586,147 @@
 			<string>EDA Kunti League</string>
 		</dict>
 	</dict>
+	<key>Vasukili</key>
+	<dict>
+		<key>Factions</key>
+		<array>
+			<dict>
+				<key>ActiveStates</key>
+				<array>
+					<dict>
+						<key>State</key>
+						<string>War</string>
+					</dict>
+				</array>
+				<key>Allegiance</key>
+				<string>Empire</string>
+				<key>FactionState</key>
+				<string>War</string>
+				<key>Government</key>
+				<string>Patronage</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.089999999999999997</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>HIP 26883 Empire Party</string>
+			</dict>
+			<dict>
+				<key>ActiveStates</key>
+				<array>
+					<dict>
+						<key>State</key>
+						<string>War</string>
+					</dict>
+				</array>
+				<key>Allegiance</key>
+				<string>Empire</string>
+				<key>FactionState</key>
+				<string>War</string>
+				<key>Government</key>
+				<string>Corporate</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.089999999999999997</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Vasukili Services</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Independent</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Anarchy</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.014999999999999999</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Vasukili Jet Drug Empire</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Independent</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Feudal</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.089999999999999997</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Vasukili Monarchy</string>
+			</dict>
+			<dict>
+				<key>ActiveStates</key>
+				<array>
+					<dict>
+						<key>State</key>
+						<string>Famine</string>
+					</dict>
+				</array>
+				<key>Allegiance</key>
+				<string>Empire</string>
+				<key>FactionState</key>
+				<string>Famine</string>
+				<key>Government</key>
+				<string>Dictatorship</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.71499999999999997</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>The Imperial Inquisition</string>
+				<key>RecoveringStates</key>
+				<array>
+					<dict>
+						<key>State</key>
+						<string>Blight</string>
+						<key>Trend</key>
+						<integer>0</integer>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>PPstate</key>
+		<string>Exploited</string>
+		<key>StarPos</key>
+		<array>
+			<real>166.03125</real>
+			<real>-101.15625</real>
+			<real>-18.28125</real>
+		</array>
+		<key>sysFaction</key>
+		<dict>
+			<key>FactionState</key>
+			<string>Famine</string>
+			<key>Name</key>
+			<string>The Imperial Inquisition</string>
+		</dict>
+	</dict>
 	<key>Wayutabal A</key>
 	<dict>
 		<key>Factions</key>
@@ -5622,6 +6870,349 @@
 		<dict>
 			<key>Name</key>
 			<string>Wayutabal Empire Pact</string>
+		</dict>
+	</dict>
+	<key>Yeng</key>
+	<dict>
+		<key>Factions</key>
+		<array>
+			<dict>
+				<key>ActiveStates</key>
+				<array>
+					<dict>
+						<key>State</key>
+						<string>Boom</string>
+					</dict>
+				</array>
+				<key>Allegiance</key>
+				<string>Empire</string>
+				<key>FactionState</key>
+				<string>Boom</string>
+				<key>Government</key>
+				<string>Patronage</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.72479800000000005</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>HIP 26883 Empire Party</string>
+			</dict>
+			<dict>
+				<key>ActiveStates</key>
+				<array>
+					<dict>
+						<key>State</key>
+						<string>PirateAttack</string>
+					</dict>
+				</array>
+				<key>Allegiance</key>
+				<string>Empire</string>
+				<key>FactionState</key>
+				<string>PirateAttack</string>
+				<key>Government</key>
+				<string>Dictatorship</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.025201999999999999</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Bureau of Yeng Front</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Independent</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Corporate</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.025201999999999999</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Yeng Electronics Incorporated</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Independent</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Democracy</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.03125</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>New Yeng Revolutionary Party</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Independent</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Anarchy</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.010081</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Raiders of Yeng</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Independent</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Corporate</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.038306</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Yeng Gold Allied Corporation</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Empire</string>
+				<key>FactionState</key>
+				<string>CivilLiberty</string>
+				<key>Government</key>
+				<string>Dictatorship</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.14516100000000001</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>The Imperial Inquisition</string>
+			</dict>
+		</array>
+		<key>PPstate</key>
+		<string>Exploited</string>
+		<key>StarPos</key>
+		<array>
+			<real>156.375</real>
+			<real>-98.625</real>
+			<real>-20.5</real>
+		</array>
+		<key>sysFaction</key>
+		<dict>
+			<key>FactionState</key>
+			<string>Boom</string>
+			<key>Name</key>
+			<string>HIP 26883 Empire Party</string>
+		</dict>
+	</dict>
+	<key>Yu Shun A</key>
+	<dict>
+		<key>Factions</key>
+		<array>
+			<dict>
+				<key>Allegiance</key>
+				<string>Empire</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Patronage</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.075847999999999999</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Yu Shun Imperial Society</string>
+			</dict>
+			<dict>
+				<key>ActiveStates</key>
+				<array>
+					<dict>
+						<key>State</key>
+						<string>War</string>
+					</dict>
+				</array>
+				<key>Allegiance</key>
+				<string>Empire</string>
+				<key>FactionState</key>
+				<string>War</string>
+				<key>Government</key>
+				<string>Patronage</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.13273499999999999</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Heilelang Patron's Principles</string>
+			</dict>
+			<dict>
+				<key>ActiveStates</key>
+				<array>
+					<dict>
+						<key>State</key>
+						<string>War</string>
+					</dict>
+				</array>
+				<key>Allegiance</key>
+				<string>Independent</string>
+				<key>FactionState</key>
+				<string>War</string>
+				<key>Government</key>
+				<string>Corporate</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.13273499999999999</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Yu Shun Galactic Industry</string>
+			</dict>
+			<dict>
+				<key>ActiveStates</key>
+				<array>
+					<dict>
+						<key>State</key>
+						<string>CivilWar</string>
+					</dict>
+				</array>
+				<key>Allegiance</key>
+				<string>Independent</string>
+				<key>FactionState</key>
+				<string>CivilWar</string>
+				<key>Government</key>
+				<string>Democracy</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.079839999999999994</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Values Party of Yu Shun</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Independent</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Anarchy</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.0099799999999999993</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Yu Shun Hand Gang</string>
+			</dict>
+			<dict>
+				<key>ActiveStates</key>
+				<array>
+					<dict>
+						<key>State</key>
+						<string>CivilWar</string>
+					</dict>
+				</array>
+				<key>Allegiance</key>
+				<string>Independent</string>
+				<key>FactionState</key>
+				<string>CivilWar</string>
+				<key>Government</key>
+				<string>Corporate</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.079839999999999994</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Yu Shun Purple Natural Corp</string>
+			</dict>
+			<dict>
+				<key>ActiveStates</key>
+				<array>
+					<dict>
+						<key>State</key>
+						<string>Boom</string>
+					</dict>
+				</array>
+				<key>Allegiance</key>
+				<string>Empire</string>
+				<key>FactionState</key>
+				<string>Boom</string>
+				<key>Government</key>
+				<string>Dictatorship</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.48902200000000001</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>The Imperial Inquisition</string>
+			</dict>
+		</array>
+		<key>PPstate</key>
+		<string>Exploited</string>
+		<key>StarPos</key>
+		<array>
+			<real>171.71875</real>
+			<real>-109.875</real>
+			<real>-20.71875</real>
+		</array>
+		<key>sysFaction</key>
+		<dict>
+			<key>FactionState</key>
+			<string>Boom</string>
+			<key>Name</key>
+			<string>The Imperial Inquisition</string>
 		</dict>
 	</dict>
 	<key>s Eridani</key>

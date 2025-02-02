@@ -2,21 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>20250130</key>
+	<key>20250202</key>
 	<dict>
-		<key>Allied HIP 24157 Conservatives</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.056794999999999998</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>None</string>
-		</dict>
 		<key>Anum Empire Assembly</key>
 		<dict>
 			<key>Active</key>
@@ -24,33 +11,46 @@
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.092291999999999999</real>
+			<real>0.12944700000000001</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Baedi Di Industries</key>
+		<key>Austa Empire Party</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.052738</real>
+			<real>0.056323999999999999</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Baedi Di Rats</key>
+		<key>Austa Netcoms Group</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.024341000000000002</real>
+			<real>0.077075000000000005</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Austa Rats</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.032608999999999999</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -63,7 +63,7 @@
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.453347</real>
+			<real>0.17588899999999999</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -72,62 +72,61 @@
 		<key>HIP 26883 Empire Party</key>
 		<dict>
 			<key>Active</key>
-			<string>Election</string>
+			<string>CivilLiberty</string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.160243</real>
+			<real>0.43478299999999998</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
-			<string>Election</string>
+			<string>CivilLiberty</string>
 		</dict>
-		<key>Kurians Dominion</key>
+		<key>Revolutionary Austa Values Party</key>
 		<dict>
 			<key>Active</key>
-			<string>Election</string>
+			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.160243</real>
+			<real>0.093873999999999999</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
-			<string>Election</string>
+			<string>None</string>
 		</dict>
 	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
 		<array>
-			<string>Sauraratec A</string>
-			<string>Austa A</string>
-			<string>Kamadhenu</string>
-			<string>Adan</string>
+			<string>Baedi Di A</string>
+			<string>Alina</string>
+			<string>Yeng</string>
 			<string>Itzam Crua</string>
-			<string>Phracani</string>
-			<string>Bakara A</string>
+			<string>Sauraratec A</string>
+			<string>Sawait</string>
 		</array>
 		<key>StarPos</key>
 		<array>
-			<real>128.8125</real>
-			<real>-98.78125</real>
-			<real>-14.59375</real>
+			<real>138.59375</real>
+			<real>-100.15625</real>
+			<real>-19.59375</real>
 		</array>
 		<key>SysFaction</key>
-		<string>Chapterhouse of Inquisition</string>
+		<string>HIP 26883 Empire Party</string>
 		<key>economy</key>
-		<string>High Tech</string>
+		<string>Industrial</string>
 		<key>economy2</key>
-		<string>Extraction</string>
+		<string>Refinery</string>
 		<key>population</key>
-		<integer>9580</integer>
+		<integer>5055906</integer>
 		<key>security</key>
-		<string>Low Security</string>
+		<string>Medium Security</string>
 		<key>system</key>
-		<string>Baedi Di A</string>
+		<string>Austa A</string>
 		<key>updated</key>
-		<string>20250130</string>
+		<string>20250202</string>
 	</dict>
 </dict>
 </plist>
