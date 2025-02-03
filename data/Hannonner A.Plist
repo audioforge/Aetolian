@@ -4,79 +4,66 @@
 <dict>
 	<key>20250202</key>
 	<dict>
-		<key>Bastanien Empire Assembly</key>
+		<key>Anum Empire Assembly</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.032096</real>
+			<real>0.34393600000000002</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Bastanien Industry</key>
+		<key>Hannonner Advanced Limited</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.043129000000000001</real>
+			<real>0.075547000000000003</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Bastanien Silver Transport Inc</key>
+		<key>Hannonner Blue Council</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.031092999999999999</real>
+			<real>0.012921999999999999</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Family of Bastanien</key>
-		<dict>
-			<key>Active</key>
-			<string>Bust</string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.010030000000000001</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>Bust</string>
-		</dict>
-		<key>HIP 26883 Empire Party</key>
+		<key>Hannonner Ltd</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.20461399999999999</real>
+			<real>0.083499000000000004</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Social Bastanien Unionists</key>
+		<key>Party of Hannonner</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.011032999999999999</real>
+			<real>0.10735599999999999</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -85,51 +72,62 @@
 		<key>The Imperial Inquisition</key>
 		<dict>
 			<key>Active</key>
-			<string>CivilLiberty</string>
+			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.66800400000000004</real>
+			<real>0.25944299999999998</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
-			<string>CivilLiberty</string>
+			<string>None</string>
+		</dict>
+		<key>United Hannonner Republic Party</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.117296</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
 		</dict>
 	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
 		<array>
-			<string>Kartenes</string>
-			<string>Brestla A</string>
-			<string>Vasukili</string>
-			<string>Yeng</string>
-			<string>Heilelang</string>
-			<string>Alina</string>
-			<string>Yu Shun A</string>
-			<string>Sawait</string>
-			<string>Akhvaroua</string>
-			<string>Hannonner A</string>
 			<string>Anum</string>
+			<string>Alina</string>
+			<string>Austa A</string>
+			<string>Yeng</string>
+			<string>Sawait</string>
+			<string>Bastanien</string>
+			<string>Brestla A</string>
+			<string>Baedi Di A</string>
+			<string>Kartenes</string>
 		</array>
 		<key>StarPos</key>
 		<array>
-			<real>161.25</real>
-			<real>-100.1875</real>
-			<real>-17.4375</real>
+			<real>145.65625</real>
+			<real>-90.96875</real>
+			<real>-19.96875</real>
 		</array>
 		<key>SysFaction</key>
-		<string>The Imperial Inquisition</string>
+		<string>Anum Empire Assembly</string>
 		<key>economy</key>
 		<string>Terraforming</string>
 		<key>economy2</key>
-		<string>Extraction</string>
+		<string>Colony</string>
 		<key>population</key>
-		<integer>265501</integer>
+		<integer>213211</integer>
 		<key>security</key>
-		<string>Low Security</string>
+		<string>Medium Security</string>
 		<key>system</key>
-		<string>Bastanien</string>
+		<string>Hannonner A</string>
 		<key>updated</key>
 		<string>20250202</string>
 	</dict>

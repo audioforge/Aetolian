@@ -4,79 +4,79 @@
 <dict>
 	<key>20250202</key>
 	<dict>
-		<key>Bastanien Empire Assembly</key>
+		<key>Anum Empire Assembly</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.032096</real>
+			<real>0.22933100000000001</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Bastanien Industry</key>
+		<key>Anum Order</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.043129000000000001</real>
+			<real>0.083660999999999999</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Bastanien Silver Transport Inc</key>
+		<key>Anum Pirates</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.031092999999999999</real>
+			<real>0.016732</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Family of Bastanien</key>
-		<dict>
-			<key>Active</key>
-			<string>Bust</string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.010030000000000001</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>Bust</string>
-		</dict>
-		<key>HIP 26883 Empire Party</key>
+		<key>Blue Rose Corporation</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.20461399999999999</real>
+			<real>0.11122</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Social Bastanien Unionists</key>
+		<key>Future of Anum</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.011032999999999999</real>
+			<real>0.068898000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Purple Creative Industry</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.010827</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -85,11 +85,11 @@
 		<key>The Imperial Inquisition</key>
 		<dict>
 			<key>Active</key>
-			<string>CivilLiberty</string>
+			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.66800400000000004</real>
+			<real>0.47933100000000001</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -100,36 +100,34 @@
 	<dict>
 		<key>ExpTarget</key>
 		<array>
-			<string>Kartenes</string>
-			<string>Brestla A</string>
-			<string>Vasukili</string>
-			<string>Yeng</string>
-			<string>Heilelang</string>
-			<string>Alina</string>
-			<string>Yu Shun A</string>
-			<string>Sawait</string>
-			<string>Akhvaroua</string>
 			<string>Hannonner A</string>
-			<string>Anum</string>
+			<string>Alina</string>
+			<string>Austa A</string>
+			<string>Yeng</string>
+			<string>Baedi Di A</string>
+			<string>Sawait</string>
+			<string>Bastanien</string>
+			<string>Brestla A</string>
+			<string>Kartenes</string>
 		</array>
 		<key>StarPos</key>
 		<array>
-			<real>161.25</real>
-			<real>-100.1875</real>
-			<real>-17.4375</real>
+			<real>143</real>
+			<real>-90.9375</real>
+			<real>-18.8125</real>
 		</array>
 		<key>SysFaction</key>
 		<string>The Imperial Inquisition</string>
 		<key>economy</key>
-		<string>Terraforming</string>
+		<string>High Tech</string>
 		<key>economy2</key>
-		<string>Extraction</string>
+		<string>Refinery</string>
 		<key>population</key>
-		<integer>265501</integer>
+		<integer>9821218</integer>
 		<key>security</key>
-		<string>Low Security</string>
+		<string>High Security</string>
 		<key>system</key>
-		<string>Bastanien</string>
+		<string>Anum</string>
 		<key>updated</key>
 		<string>20250202</string>
 	</dict>
