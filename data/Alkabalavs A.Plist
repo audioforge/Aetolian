@@ -2,110 +2,94 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>20250202</key>
-	<dict>
-		<key>Akhvaroua Blue Energy Limited</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.098901000000000003</real>
-			<key>Pending</key>
-			<string>Boom - 0</string>
-			<key>State</key>
-			<string>None</string>
-		</dict>
-		<key>Stars of Duval</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.16283700000000001</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>None</string>
-		</dict>
-		<key>The Imperial Inquisition</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.65534499999999996</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>Famine</string>
-		</dict>
-		<key>Whitetip Operations</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.082917000000000005</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>None</string>
-		</dict>
-	</dict>
 	<key>20250203</key>
 	<dict>
-		<key>Akhvaroua Blue Energy Limited</key>
+		<key>6th Interstellar Corps</key>
 		<dict>
 			<key>Active</key>
-			<string>Boom</string>
+			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.098901000000000003</real>
+			<real>0.5</real>
 			<key>Pending</key>
-			<string></string>
+			<string>Expansion - 0</string>
 			<key>State</key>
-			<string>Boom</string>
+			<string>None</string>
 		</dict>
-		<key>Stars of Duval</key>
+		<key>Alkabalavs Council</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.16283700000000001</real>
+			<real>0.052999999999999999</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>The Imperial Inquisition</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Elated</string>
-			<key>Influence</key>
-			<real>0.65534499999999996</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>Boom</string>
-		</dict>
-		<key>Whitetip Operations</key>
+		<key>Alkabalavs Incorporated</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.082917000000000005</real>
+			<real>0.058000000000000003</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>League of Alkabalavs Conservatives</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.070999999999999994</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Ngere Advanced Network</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.107</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Traditional Alkabalavs Freedom Party</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.16</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>United Alkabalavs Free</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.050999999999999997</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -115,36 +99,25 @@
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
-		<array>
-			<string>Heilelang</string>
-			<string>Yu Shun A</string>
-			<string>Kartenes</string>
-			<string>Brestla A</string>
-			<string>Vasukili</string>
-			<string>Bastanien</string>
-			<string>Kanagoto</string>
-			<string>Yeng</string>
-			<string>Kipgen A</string>
-			<string>Sawait</string>
-		</array>
+		<array/>
 		<key>StarPos</key>
 		<array>
-			<real>164.4375</real>
-			<real>-116.28125</real>
-			<real>-19.59375</real>
+			<real>104.46875</real>
+			<real>-117.53125</real>
+			<real>-47</real>
 		</array>
 		<key>SysFaction</key>
-		<string>The Imperial Inquisition</string>
+		<string>6th Interstellar Corps</string>
 		<key>economy</key>
-		<string>High Tech</string>
-		<key>economy2</key>
 		<string>Industrial</string>
+		<key>economy2</key>
+		<string>Extraction</string>
 		<key>population</key>
-		<integer>23792</integer>
+		<integer>11141369</integer>
 		<key>security</key>
-		<string>Low Security</string>
+		<string>High Security</string>
 		<key>system</key>
-		<string>Akhvaroua</string>
+		<string>Alkabalavs A</string>
 		<key>updated</key>
 		<string>20250203</string>
 	</dict>
