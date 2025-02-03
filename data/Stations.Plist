@@ -7089,6 +7089,54 @@
 		<key>updated</key>
 		<string>20241229</string>
 	</dict>
+	<key>Franklin Dock_Tenchu</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>3882.5477729999998</real>
+		<key>starSystem</key>
+		<string>Tenchu</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>Imperial Self Defense Force</string>
+		</dict>
+		<key>stationName</key>
+		<string>Franklin Dock</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>shipyard</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>shop</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Coriolis</string>
+		<key>updated</key>
+		<string>20250203</string>
+	</dict>
 	<key>Freas Stop_Mu Nialfi</key>
 	<dict>
 		<key>DistFromStarLS</key>
@@ -8974,7 +9022,7 @@
 	<key>Hirasawa Station_Niu Lang O</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>308.08999599999999</real>
+		<real>308.10472099999998</real>
 		<key>starSystem</key>
 		<string>Niu Lang O</string>
 		<key>stationFaction</key>
@@ -9017,7 +9065,7 @@
 		<key>stationType</key>
 		<string>Ocellus</string>
 		<key>updated</key>
-		<string>20250130</string>
+		<string>20250203</string>
 	</dict>
 	<key>Hiyya Orbital_Donglavs</key>
 	<dict>
@@ -22399,13 +22447,11 @@
 	<key>Vogel Station_Alina</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>359.570088</real>
+		<real>359.53223300000002</real>
 		<key>starSystem</key>
 		<string>Alina</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>Boom</string>
 			<key>Name</key>
 			<string>The Imperial Inquisition</string>
 		</dict>
@@ -22444,7 +22490,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20250202</string>
+		<string>20250203</string>
 	</dict>
 	<key>Wachmann Colony_Candiae</key>
 	<dict>

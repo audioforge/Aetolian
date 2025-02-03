@@ -2696,6 +2696,17 @@
 			<key>updated</key>
 			<string>20250202</string>
 		</dict>
+		<key>Anum</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.22933100000000001</real>
+			<key>State</key>
+			<string>None</string>
+			<key>Stations</key>
+			<array/>
+			<key>updated</key>
+			<string>20250202</string>
+		</dict>
 		<key>Austa A</key>
 		<dict>
 			<key>Influence</key>
@@ -2717,6 +2728,58 @@
 			<array/>
 			<key>updated</key>
 			<string>20250130</string>
+		</dict>
+		<key>Hannonner A</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.34393600000000002</real>
+			<key>State</key>
+			<string>None</string>
+			<key>Stations</key>
+			<array/>
+			<key>updated</key>
+			<string>20250202</string>
+		</dict>
+		<key>Kipgen A</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.19534399999999999</real>
+			<key>State</key>
+			<string>None</string>
+			<key>Stations</key>
+			<array>
+				<string>Anderson Stop</string>
+			</array>
+			<key>updated</key>
+			<string>20250202</string>
+		</dict>
+	</dict>
+	<key>Anum Order</key>
+	<dict>
+		<key>Anum</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.083660999999999999</real>
+			<key>State</key>
+			<string>None</string>
+			<key>Stations</key>
+			<array/>
+			<key>updated</key>
+			<string>20250202</string>
+		</dict>
+	</dict>
+	<key>Anum Pirates</key>
+	<dict>
+		<key>Anum</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.016732</real>
+			<key>State</key>
+			<string>None</string>
+			<key>Stations</key>
+			<array/>
+			<key>updated</key>
+			<string>20250202</string>
 		</dict>
 	</dict>
 	<key>Ao Kicho Emperor's Grace</key>
@@ -5052,6 +5115,20 @@
 			<array/>
 			<key>updated</key>
 			<string>20240223</string>
+		</dict>
+	</dict>
+	<key>Blue Rose Corporation</key>
+	<dict>
+		<key>Anum</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.11122</real>
+			<key>State</key>
+			<string>None</string>
+			<key>Stations</key>
+			<array/>
+			<key>updated</key>
+			<string>20250202</string>
 		</dict>
 	</dict>
 	<key>Blue Travel Corporation</key>
@@ -11636,6 +11713,20 @@
 			<string>20250105</string>
 		</dict>
 	</dict>
+	<key>Future of Anum</key>
+	<dict>
+		<key>Anum</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.068898000000000001</real>
+			<key>State</key>
+			<string>None</string>
+			<key>Stations</key>
+			<array/>
+			<key>updated</key>
+			<string>20250202</string>
+		</dict>
+	</dict>
 	<key>Future of Apurusia</key>
 	<dict>
 		<key>Apurusia A</key>
@@ -14671,6 +14762,17 @@
 			<key>Influence</key>
 			<real>0.12823100000000001</real>
 			<key>State</key>
+			<string>War</string>
+			<key>Stations</key>
+			<array/>
+			<key>updated</key>
+			<string>20250202</string>
+		</dict>
+		<key>Kipgen A</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.119433</real>
+			<key>State</key>
 			<string>None</string>
 			<key>Stations</key>
 			<array/>
@@ -17001,6 +17103,48 @@
 			<array/>
 			<key>updated</key>
 			<string>20240730</string>
+		</dict>
+	</dict>
+	<key>Hannonner Advanced Limited</key>
+	<dict>
+		<key>Hannonner A</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.075547000000000003</real>
+			<key>State</key>
+			<string>None</string>
+			<key>Stations</key>
+			<array/>
+			<key>updated</key>
+			<string>20250202</string>
+		</dict>
+	</dict>
+	<key>Hannonner Blue Council</key>
+	<dict>
+		<key>Hannonner A</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.012921999999999999</real>
+			<key>State</key>
+			<string>None</string>
+			<key>Stations</key>
+			<array/>
+			<key>updated</key>
+			<string>20250202</string>
+		</dict>
+	</dict>
+	<key>Hannonner Ltd</key>
+	<dict>
+		<key>Hannonner A</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.083499000000000004</real>
+			<key>State</key>
+			<string>None</string>
+			<key>Stations</key>
+			<array/>
+			<key>updated</key>
+			<string>20250202</string>
 		</dict>
 	</dict>
 	<key>Har Ibori Blue Major Company</key>
@@ -20826,6 +20970,34 @@
 			<string>20250103</string>
 		</dict>
 	</dict>
+	<key>Kipgen Empire League</key>
+	<dict>
+		<key>Kipgen A</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.058703999999999999</real>
+			<key>State</key>
+			<string>None</string>
+			<key>Stations</key>
+			<array/>
+			<key>updated</key>
+			<string>20250202</string>
+		</dict>
+	</dict>
+	<key>Kipgen United Partners</key>
+	<dict>
+		<key>Kipgen A</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.035424999999999998</real>
+			<key>State</key>
+			<string>None</string>
+			<key>Stations</key>
+			<array/>
+			<key>updated</key>
+			<string>20250202</string>
+		</dict>
+	</dict>
 	<key>Kites Central Solutions</key>
 	<dict>
 		<key>Dumni</key>
@@ -22621,6 +22793,20 @@
 			<array/>
 			<key>updated</key>
 			<string>20250118</string>
+		</dict>
+	</dict>
+	<key>Le Legion de EX99</key>
+	<dict>
+		<key>Kipgen A</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.084007999999999999</real>
+			<key>State</key>
+			<string>None</string>
+			<key>Stations</key>
+			<array/>
+			<key>updated</key>
+			<string>20250202</string>
 		</dict>
 	</dict>
 	<key>Leaders of Annwn</key>
@@ -28049,6 +28235,20 @@
 			<string>20250102</string>
 		</dict>
 	</dict>
+	<key>Party of Hannonner</key>
+	<dict>
+		<key>Hannonner A</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.10735599999999999</real>
+			<key>State</key>
+			<string>None</string>
+			<key>Stations</key>
+			<array/>
+			<key>updated</key>
+			<string>20250202</string>
+		</dict>
+	</dict>
 	<key>Party of Humatsu</key>
 	<dict>
 		<key>Humatsu A</key>
@@ -29263,6 +29463,20 @@
 			<array/>
 			<key>updated</key>
 			<string>20250118</string>
+		</dict>
+	</dict>
+	<key>Purple Creative Industry</key>
+	<dict>
+		<key>Anum</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.010827</real>
+			<key>State</key>
+			<string>None</string>
+			<key>Stations</key>
+			<array/>
+			<key>updated</key>
+			<string>20250202</string>
 		</dict>
 	</dict>
 	<key>Purple Energy Co</key>
@@ -31672,6 +31886,20 @@
 			<string>20240331</string>
 		</dict>
 	</dict>
+	<key>Silver Preeminent Association of Merchants</key>
+	<dict>
+		<key>Kipgen A</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.084007999999999999</real>
+			<key>State</key>
+			<string>None</string>
+			<key>Stations</key>
+			<array/>
+			<key>updated</key>
+			<string>20250202</string>
+		</dict>
+	</dict>
 	<key>Silver Public &amp; Co</key>
 	<dict>
 		<key>Zosian Tse</key>
@@ -33352,6 +33580,19 @@
 			<key>State</key>
 			<string>Boom</string>
 			<key>Stations</key>
+			<array>
+				<string>Vogel Station</string>
+			</array>
+			<key>updated</key>
+			<string>20250202</string>
+		</dict>
+		<key>Anum</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.47933100000000001</real>
+			<key>State</key>
+			<string>CivilLiberty</string>
+			<key>Stations</key>
 			<array/>
 			<key>updated</key>
 			<string>20250202</string>
@@ -33380,6 +33621,17 @@
 			<key>updated</key>
 			<string>20250202</string>
 		</dict>
+		<key>Hannonner A</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.25944299999999998</real>
+			<key>State</key>
+			<string>None</string>
+			<key>Stations</key>
+			<array/>
+			<key>updated</key>
+			<string>20250202</string>
+		</dict>
 		<key>Heilelang</key>
 		<dict>
 			<key>Influence</key>
@@ -33398,6 +33650,19 @@
 			<key>State</key>
 			<string>Boom</string>
 			<key>Stations</key>
+			<array>
+				<string>Parkinson Port</string>
+			</array>
+			<key>updated</key>
+			<string>20250202</string>
+		</dict>
+		<key>Kipgen A</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.42307699999999998</real>
+			<key>State</key>
+			<string>Boom</string>
+			<key>Stations</key>
 			<array/>
 			<key>updated</key>
 			<string>20250202</string>
@@ -33407,9 +33672,11 @@
 			<key>Influence</key>
 			<real>0.41434300000000002</real>
 			<key>State</key>
-			<string>Famine</string>
+			<string>Boom</string>
 			<key>Stations</key>
-			<array/>
+			<array>
+				<string>Carpenter Colony</string>
+			</array>
 			<key>updated</key>
 			<string>20250202</string>
 		</dict>
@@ -33442,7 +33709,9 @@
 			<key>State</key>
 			<string>Boom</string>
 			<key>Stations</key>
-			<array/>
+			<array>
+				<string>Argelander Ring</string>
+			</array>
 			<key>updated</key>
 			<string>20250202</string>
 		</dict>
@@ -35451,6 +35720,20 @@
 			<array/>
 			<key>updated</key>
 			<string>20250111</string>
+		</dict>
+	</dict>
+	<key>United Hannonner Republic Party</key>
+	<dict>
+		<key>Hannonner A</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.117296</real>
+			<key>State</key>
+			<string>None</string>
+			<key>Stations</key>
+			<array/>
+			<key>updated</key>
+			<string>20250202</string>
 		</dict>
 	</dict>
 	<key>United Kamitra Independents</key>
