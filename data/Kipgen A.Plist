@@ -11,59 +11,7 @@
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.12944700000000001</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>None</string>
-		</dict>
-		<key>Austa Empire Party</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.056323999999999999</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>None</string>
-		</dict>
-		<key>Austa Netcoms Group</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.077075000000000005</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>None</string>
-		</dict>
-		<key>Austa Rats</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.032608999999999999</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>None</string>
-		</dict>
-		<key>Chapterhouse of Inquisition</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.17588899999999999</real>
+			<real>0.19534399999999999</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -71,63 +19,113 @@
 		</dict>
 		<key>HIP 26883 Empire Party</key>
 		<dict>
-			<key>Active</key>
-			<string>CivilLiberty</string>
-			<key>Happiness</key>
-			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.43478299999999998</real>
-			<key>Pending</key>
-			<string></string>
+			<real>0.119433</real>
 			<key>State</key>
-			<string>CivilLiberty</string>
+			<string>None</string>
 		</dict>
-		<key>Revolutionary Austa Values Party</key>
+		<key>Kipgen Empire League</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.093873999999999999</real>
+			<real>0.058703999999999999</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
+		</dict>
+		<key>Kipgen United Partners</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.035424999999999998</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Le Legion de EX99</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.084007999999999999</real>
+			<key>Pending</key>
+			<string>War - 0</string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Silver Preeminent Association of Merchants</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.084007999999999999</real>
+			<key>Pending</key>
+			<string>War - 0</string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>The Imperial Inquisition</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.42307699999999998</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Boom</string>
 		</dict>
 	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
 		<array>
-			<string>Anum</string>
-			<string>Baedi Di A</string>
-			<string>Hannonner A</string>
-			<string>Alina</string>
-			<string>Kipgen A</string>
-			<string>Yeng</string>
-			<string>Itzam Crua</string>
-			<string>Sauraratec A</string>
 			<string>Sawait</string>
+			<string>Yeng</string>
+			<string>Brestla A</string>
+			<string>Austa A</string>
+			<string>Itzam Crua</string>
+			<string>Alina</string>
+			<string>Kartenes</string>
+			<string>Hannonner A</string>
+			<string>Bastanien</string>
+			<string>Anum</string>
+			<string>Akhvaroua</string>
+			<string>Vasukili</string>
+			<string>Heilelang</string>
 		</array>
 		<key>StarPos</key>
 		<array>
-			<real>138.59375</real>
-			<real>-100.15625</real>
-			<real>-19.59375</real>
+			<real>149</real>
+			<real>-105.96875</real>
+			<real>-31.9375</real>
 		</array>
 		<key>SysFaction</key>
-		<string>HIP 26883 Empire Party</string>
+		<string>The Imperial Inquisition</string>
 		<key>economy</key>
-		<string>Industrial</string>
+		<string>Extraction</string>
 		<key>economy2</key>
-		<string>Refinery</string>
+		<string>Agriculture</string>
 		<key>population</key>
-		<integer>5055906</integer>
+		<integer>23977</integer>
 		<key>security</key>
-		<string>Medium Security</string>
+		<string>Low Security</string>
 		<key>system</key>
-		<string>Austa A</string>
+		<string>Kipgen A</string>
 		<key>updated</key>
 		<string>20250202</string>
 	</dict>
