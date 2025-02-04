@@ -3235,6 +3235,52 @@
 		<key>updated</key>
 		<string>20250119</string>
 	</dict>
+	<key>Brouwer Dock_HIP 15644</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>2580.6138759999999</real>
+		<key>starSystem</key>
+		<string>HIP 15644</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>Union Cosmos</string>
+		</dict>
+		<key>stationName</key>
+		<string>Brouwer Dock</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>facilitator</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Outpost</string>
+		<key>updated</key>
+		<string>20250203</string>
+	</dict>
 	<key>Brunner Ring_Kholu</key>
 	<dict>
 		<key>DistFromStarLS</key>
@@ -6657,6 +6703,54 @@
 		<string>CraterOutpost</string>
 		<key>updated</key>
 		<string>20250130</string>
+	</dict>
+	<key>Faye Hub_Yenici</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>21.930354999999999</real>
+		<key>starSystem</key>
+		<string>Yenici</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>Yenici Patron's Principles</string>
+		</dict>
+		<key>stationName</key>
+		<string>Faye Hub</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>shipyard</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>shop</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Coriolis</string>
+		<key>updated</key>
+		<string>20250203</string>
 	</dict>
 	<key>Fedden City_Urcia</key>
 	<dict>
@@ -12642,6 +12736,54 @@
 		<string>Outpost</string>
 		<key>updated</key>
 		<string>20241008</string>
+	</dict>
+	<key>Lloyd Wright Terminal_Yenici</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>87.405878000000001</real>
+		<key>starSystem</key>
+		<string>Yenici</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>Yenici Patron's Principles</string>
+		</dict>
+		<key>stationName</key>
+		<string>Lloyd Wright Terminal</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>shipyard</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>shop</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Coriolis</string>
+		<key>updated</key>
+		<string>20250203</string>
 	</dict>
 	<key>Long Sight Base_Khun</key>
 	<dict>

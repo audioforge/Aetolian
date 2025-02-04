@@ -4,14 +4,14 @@
 <dict>
 	<key>20250203</key>
 	<dict>
-		<key>Crew of HIP 15644</key>
+		<key>Allied Lesovik Law Party</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.037365000000000002</real>
+			<real>0.14285700000000001</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -24,33 +24,59 @@
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.077678999999999998</real>
+			<real>0.098213999999999996</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Segontiaci Imperial Society</key>
+		<key>Independent Lesovik People's Party</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.046213999999999998</real>
+			<real>0.053571000000000001</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Silver Hunter Order</key>
+		<key>Lesovik Electronics Group</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.15142600000000001</real>
+			<real>0.055556000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Lesovik Gang</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.0099209999999999993</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Lesovik Jet Public Company</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.041667000000000003</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -63,33 +89,7 @@
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.23500499999999999</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>None</string>
-		</dict>
-		<key>Ti Wanjang Front</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.048181000000000002</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>None</string>
-		</dict>
-		<key>Union Cosmos</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.40412999999999999</real>
+			<real>0.59821400000000002</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -102,22 +102,22 @@
 		<array/>
 		<key>StarPos</key>
 		<array>
-			<real>120.21875</real>
-			<real>-132.46875</real>
-			<real>15</real>
+			<real>110.40625</real>
+			<real>-132.40625</real>
+			<real>7.1875</real>
 		</array>
 		<key>SysFaction</key>
-		<string>Union Cosmos</string>
+		<string>The 10th Legion</string>
 		<key>economy</key>
-		<string>Industrial</string>
+		<string>Extraction</string>
 		<key>economy2</key>
-		<string>High Tech</string>
+		<string>Refinery</string>
 		<key>population</key>
-		<integer>50217</integer>
+		<integer>204928</integer>
 		<key>security</key>
-		<string>Low Security</string>
+		<string>Medium Security</string>
 		<key>system</key>
-		<string>HIP 15644</string>
+		<string>Lesovik A</string>
 		<key>updated</key>
 		<string>20250203</string>
 	</dict>
