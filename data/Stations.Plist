@@ -5325,6 +5325,52 @@
 		<key>updated</key>
 		<string>20240806</string>
 	</dict>
+	<key>Denning Vision_Vodyanes</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>2524.6212890000002</real>
+		<key>starSystem</key>
+		<string>Vodyanes</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>Vodyanes Emperor's Grace</string>
+		</dict>
+		<key>stationName</key>
+		<string>Denning Vision</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Outpost</string>
+		<key>updated</key>
+		<string>20250203</string>
+	</dict>
 	<key>Dhawan Platform_Jemede</key>
 	<dict>
 		<key>DistFromStarLS</key>
@@ -5957,6 +6003,54 @@
 		<string>Orbis</string>
 		<key>updated</key>
 		<string>20250118</string>
+	</dict>
+	<key>Edwards Stop_Antai</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>773.411563</real>
+		<key>starSystem</key>
+		<string>Antai</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>FactionState</key>
+			<string>Expansion</string>
+			<key>Name</key>
+			<string>EDA Kunti League</string>
+		</dict>
+		<key>stationName</key>
+		<string>Edwards Stop</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>facilitator</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Outpost</string>
+		<key>updated</key>
+		<string>20250203</string>
 	</dict>
 	<key>Eisinga Colony_HIP 6807</key>
 	<dict>
@@ -18334,6 +18428,53 @@
 		<key>updated</key>
 		<string>20250203</string>
 	</dict>
+	<key>Szameit Landing_Anek Wango</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>12991.064108</real>
+		<key>starSystem</key>
+		<string>Anek Wango</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>FactionState</key>
+			<string>Expansion</string>
+			<key>Name</key>
+			<string>EDA Kunti League</string>
+		</dict>
+		<key>stationName</key>
+		<string>Szameit Landing</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Outpost</string>
+		<key>updated</key>
+		<string>20250203</string>
+	</dict>
 	<key>Szameit Settlement_Tepi</key>
 	<dict>
 		<key>DistFromStarLS</key>
@@ -22860,6 +23001,50 @@
 		<key>updated</key>
 		<string>20241222</string>
 	</dict>
+	<key>Velho Installation_LTT 2412</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>20319.929635</real>
+		<key>starSystem</key>
+		<string>LTT 2412</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>FactionState</key>
+			<string>Expansion</string>
+			<key>Name</key>
+			<string>EDA Kunti League</string>
+		</dict>
+		<key>stationName</key>
+		<string>Velho Installation</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>refuel</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>facilitator</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Outpost</string>
+		<key>updated</key>
+		<string>20250203</string>
+	</dict>
 	<key>Vogel Station_Alina</key>
 	<dict>
 		<key>DistFromStarLS</key>
@@ -23138,7 +23323,7 @@
 	<key>Walotsky Terminal_Arugh</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>93.157707000000002</real>
+		<real>93.183376999999993</real>
 		<key>starSystem</key>
 		<string>Arugh</string>
 		<key>stationFaction</key>
@@ -23181,7 +23366,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20250201</string>
+		<string>20250203</string>
 	</dict>
 	<key>Wang Ring_Ovamalu</key>
 	<dict>
