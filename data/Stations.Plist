@@ -17485,11 +17485,13 @@
 	<key>Reeves Refinery_Guarpulici</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>180.44117800000001</real>
+		<real>180.343728</real>
 		<key>starSystem</key>
 		<string>Guarpulici</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>PublicHoliday</string>
 			<key>Name</key>
 			<string>Canis Lupus Majoris</string>
 		</dict>
@@ -17526,7 +17528,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250205</string>
+		<string>20250210</string>
 	</dict>
 	<key>Rich Gateway_HIP 10123</key>
 	<dict>
@@ -24790,7 +24792,7 @@
 	<key>Walotsky Terminal_Arugh</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>93.087247000000005</real>
+		<real>93.090759000000006</real>
 		<key>starSystem</key>
 		<string>Arugh</string>
 		<key>stationFaction</key>
