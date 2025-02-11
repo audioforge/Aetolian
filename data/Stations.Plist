@@ -8936,6 +8936,55 @@
 		<key>updated</key>
 		<string>20240423</string>
 	</dict>
+	<key>Hanke-Woods Orbital_Ixbakald</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>3122.2924459999999</real>
+		<key>starSystem</key>
+		<string>Ixbakald</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>House of Saga</string>
+		</dict>
+		<key>stationName</key>
+		<string>Hanke-Woods Orbital</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>shipyard</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>materialtrader</string>
+			<string>stationMenu</string>
+			<string>shop</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Coriolis</string>
+		<key>updated</key>
+		<string>20250210</string>
+	</dict>
 	<key>Hansen Mines_Ao Kicho</key>
 	<dict>
 		<key>DistFromStarLS</key>
@@ -11260,7 +11309,7 @@
 	<key>Kanai Enterprise_Blido Piru</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>274.15074700000002</real>
+		<real>274.14451800000001</real>
 		<key>starSystem</key>
 		<string>Blido Piru</string>
 		<key>stationFaction</key>
@@ -16986,7 +17035,7 @@
 	<key>Pogson Gateway_Opet</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>226.243649</real>
+		<real>226.277467</real>
 		<key>starSystem</key>
 		<string>Opet</string>
 		<key>stationFaction</key>
