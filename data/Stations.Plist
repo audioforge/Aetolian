@@ -3574,7 +3574,7 @@
 	<key>Brouwer Dock_HIP 15644</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>2580.7430979999999</real>
+		<real>2580.5007209999999</real>
 		<key>starSystem</key>
 		<string>HIP 15644</string>
 		<key>stationFaction</key>
@@ -3617,7 +3617,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250211</string>
+		<string>20250212</string>
 	</dict>
 	<key>Brunner Ring_Kholu</key>
 	<dict>
@@ -6164,6 +6164,52 @@
 		<string>Outpost</string>
 		<key>updated</key>
 		<string>20240223</string>
+	</dict>
+	<key>Dornier Works_Nanatay</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>1004.061385</real>
+		<key>starSystem</key>
+		<string>Nanatay</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>FactionState</key>
+			<string>Election</string>
+			<key>Name</key>
+			<string>The 10th Legion</string>
+		</dict>
+		<key>stationName</key>
+		<string>Dornier Works</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>facilitator</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Outpost</string>
+		<key>updated</key>
+		<string>20250212</string>
 	</dict>
 	<key>Druillet Colony_Cozaanat</key>
 	<dict>
@@ -15209,6 +15255,54 @@
 		<key>updated</key>
 		<string>20250120</string>
 	</dict>
+	<key>Murakami Ring_Sauraratec</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>85680.395812999996</real>
+		<key>starSystem</key>
+		<string>Sauraratec</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>Chapterhouse of Inquisition</string>
+		</dict>
+		<key>stationName</key>
+		<string>Murakami Ring</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>shipyard</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>shop</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Coriolis</string>
+		<key>updated</key>
+		<string>20250212</string>
+	</dict>
 	<key>Murakami Terminal_Gliese 9043</key>
 	<dict>
 		<key>DistFromStarLS</key>
@@ -16194,7 +16288,7 @@
 	<key>Oren Gateway_Arugh</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>854.78416200000004</real>
+		<real>854.75903900000003</real>
 		<key>starSystem</key>
 		<string>Arugh</string>
 		<key>stationFaction</key>
@@ -16237,7 +16331,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20250205</string>
+		<string>20250212</string>
 	</dict>
 	<key>Oren Station_Gendens</key>
 	<dict>
@@ -25125,7 +25219,7 @@
 	<key>Walotsky Terminal_Arugh</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>93.070738000000006</real>
+		<real>93.176102999999998</real>
 		<key>starSystem</key>
 		<string>Arugh</string>
 		<key>stationFaction</key>
@@ -25168,7 +25262,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20250211</string>
+		<string>20250212</string>
 	</dict>
 	<key>Wang Ring_Ovamalu</key>
 	<dict>
@@ -26468,7 +26562,7 @@
 	<key>Zaschka Station_Sippi</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>727.22125400000004</real>
+		<real>724.68229699999995</real>
 		<key>starSystem</key>
 		<string>Sippi</string>
 		<key>stationFaction</key>
@@ -26511,7 +26605,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20250210</string>
+		<string>20250212</string>
 	</dict>
 	<key>Zwicky Orbital_HIP 3142</key>
 	<dict>
