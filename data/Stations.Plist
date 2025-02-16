@@ -5818,11 +5818,13 @@
 	<key>Delsanti Orbital_Teliadjali</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>499.79766899999998</real>
+		<real>499.77619499999997</real>
 		<key>starSystem</key>
 		<string>Teliadjali</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Expansion</string>
 			<key>Name</key>
 			<string>Silver Thrusters Inc</string>
 		</dict>
@@ -5861,7 +5863,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20250214</string>
+		<string>20250130</string>
 	</dict>
 	<key>Demolition Unlimited_Eurybia</key>
 	<dict>
@@ -18716,7 +18718,7 @@
 	<key>Roed Odegaard Port_Brestla</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>14.938673</real>
+		<real>14.923952</real>
 		<key>starSystem</key>
 		<string>Brestla</string>
 		<key>stationFaction</key>
@@ -18762,7 +18764,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20250204</string>
+		<string>20250203</string>
 	</dict>
 	<key>Roelofs Station_HR 394</key>
 	<dict>
@@ -19393,7 +19395,7 @@
 	<key>Shajn Market_Kamadhenu</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>454.57610299999999</real>
+		<real>454.757992</real>
 		<key>starSystem</key>
 		<string>Kamadhenu</string>
 		<key>stationFaction</key>
@@ -19436,7 +19438,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20250210</string>
+		<string>20250202</string>
 	</dict>
 	<key>Shaw Port_Kotigeni</key>
 	<dict>
@@ -25587,13 +25589,11 @@
 	<key>Walotsky Terminal_Arugh</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>93.147930000000002</real>
+		<real>93.157707000000002</real>
 		<key>starSystem</key>
 		<string>Arugh</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>War</string>
 			<key>Name</key>
 			<string>HIP 15644 Exchange</string>
 		</dict>
@@ -25632,7 +25632,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20250214</string>
+		<string>20250201</string>
 	</dict>
 	<key>Wang Ring_Ovamalu</key>
 	<dict>
