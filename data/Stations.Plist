@@ -1248,7 +1248,7 @@
 	<key>Apianus Dock_CD-62 136</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>139.19885199999999</real>
+		<real>138.89362700000001</real>
 		<key>starSystem</key>
 		<string>CD-62 136</string>
 		<key>stationFaction</key>
@@ -1291,7 +1291,7 @@
 		<key>stationType</key>
 		<string>Ocellus</string>
 		<key>updated</key>
-		<string>20250210</string>
+		<string>20250217</string>
 	</dict>
 	<key>Argelander Ring_Yu Shun</key>
 	<dict>
@@ -11958,6 +11958,54 @@
 		<key>updated</key>
 		<string>20241225</string>
 	</dict>
+	<key>Kelly Hub_Leucosi</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>98.491228000000007</real>
+		<key>starSystem</key>
+		<string>Leucosi</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>Leucosi Services</string>
+		</dict>
+		<key>stationName</key>
+		<string>Kelly Hub</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>shipyard</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>shop</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>CraterPort</string>
+		<key>updated</key>
+		<string>20250217</string>
+	</dict>
 	<key>Kelly Port_Pi Sculptoris</key>
 	<dict>
 		<key>DistFromStarLS</key>
@@ -19393,11 +19441,13 @@
 	<key>Shajn Market_Kamadhenu</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>454.57610299999999</real>
+		<real>454.76100100000002</real>
 		<key>starSystem</key>
 		<string>Kamadhenu</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>CivilLiberty</string>
 			<key>Name</key>
 			<string>Chapterhouse of Inquisition</string>
 		</dict>
@@ -19436,7 +19486,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20250210</string>
+		<string>20250217</string>
 	</dict>
 	<key>Shaw Port_Kotigeni</key>
 	<dict>
@@ -25587,7 +25637,7 @@
 	<key>Walotsky Terminal_Arugh</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>93.101155000000006</real>
+		<real>93.169023999999993</real>
 		<key>starSystem</key>
 		<string>Arugh</string>
 		<key>stationFaction</key>
@@ -25632,7 +25682,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20250216</string>
+		<string>20250217</string>
 	</dict>
 	<key>Wang Ring_Ovamalu</key>
 	<dict>
