@@ -4552,6 +4552,50 @@
 		<key>updated</key>
 		<string>20240704</string>
 	</dict>
+	<key>Cesar Janssen Vision_Birite</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>214.15476699999999</real>
+		<key>starSystem</key>
+		<string>Birite</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>United Imperial Loyalists</string>
+		</dict>
+		<key>stationName</key>
+		<string>Cesar Janssen Vision</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Outpost</string>
+		<key>updated</key>
+		<string>20250218</string>
+	</dict>
 	<key>Chandra Hub_Giabaing</key>
 	<dict>
 		<key>DistFromStarLS</key>
@@ -18485,7 +18529,7 @@
 	<key>Reamy Dock_Apathaam</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1635.20697</real>
+		<real>1635.1729929999999</real>
 		<key>starSystem</key>
 		<string>Apathaam</string>
 		<key>stationFaction</key>
@@ -19103,7 +19147,7 @@
 	<key>Roed Odegaard Port_Brestla</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>14.938673</real>
+		<real>14.938345999999999</real>
 		<key>starSystem</key>
 		<string>Brestla</string>
 		<key>stationFaction</key>
@@ -19149,7 +19193,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20250204</string>
+		<string>20250218</string>
 	</dict>
 	<key>Roelofs Station_HR 394</key>
 	<dict>
@@ -20932,6 +20976,56 @@
 		<string>Orbis</string>
 		<key>updated</key>
 		<string>20240930</string>
+	</dict>
+	<key>Suydam Orbital_Heilelang</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>43.542558999999997</real>
+		<key>starSystem</key>
+		<string>Heilelang</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>FactionState</key>
+			<string>Boom</string>
+			<key>Name</key>
+			<string>The Imperial Inquisition</string>
+		</dict>
+		<key>stationName</key>
+		<string>Suydam Orbital</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>shipyard</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>shop</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Coriolis</string>
+		<key>updated</key>
+		<string>20250218</string>
 	</dict>
 	<key>Sverdrup Arena_Pi Sculptoris</key>
 	<dict>
