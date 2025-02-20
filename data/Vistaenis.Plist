@@ -2,98 +2,98 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>20250128</key>
+	<key>20250129</key>
 	<dict>
-		<key>Earth Defense Fleet</key>
+		<key>Crew of Vistaenis</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.43172700000000003</real>
-			<key>Pending</key>
-			<string>Expansion - 0</string>
-			<key>State</key>
-			<string>None</string>
-		</dict>
-		<key>Movement for Nanomam Future</key>
-		<dict>
-			<key>Active</key>
-			<string>CivilWar</string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.078312999999999994</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>CivilWar</string>
-		</dict>
-		<key>Nanomam Crimson Clan</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.012048</real>
+			<real>0.013820000000000001</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Nanomam Defence Party</key>
+		<key>Devaku Crimson Vision Network</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.037149000000000001</real>
+			<real>0.042448</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Nanomam Life Systems</key>
-		<dict>
-			<key>Active</key>
-			<string>CivilWar</string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.078312999999999994</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>CivilWar</string>
-		</dict>
-		<key>Nanomam Ltd</key>
+		<key>The Order of Mobius</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.069277000000000005</real>
+			<real>0.47877599999999998</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Tollan Free</key>
+		<key>United Vistaenis Resistance</key>
 		<dict>
 			<key>Active</key>
-			<string>CivilLiberty</string>
+			<string></string>
 			<key>Happiness</key>
-			<string>Elated</string>
+			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.29317300000000002</real>
+			<real>0.113524</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
-			<string>Boom</string>
+			<string>None</string>
+		</dict>
+		<key>Vistaenis Empire Party</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.20138200000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Vistaenis Holdings</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.061204000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Vistaenis Incorporated</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.088844999999999993</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
 		</dict>
 	</dict>
 	<key>Z</key>
@@ -102,24 +102,24 @@
 		<array/>
 		<key>StarPos</key>
 		<array>
-			<real>-14.78125</real>
-			<real>19.65625</real>
-			<real>-15.25</real>
+			<real>102.5</real>
+			<real>-104.78125</real>
+			<real>28.65625</real>
 		</array>
 		<key>SysFaction</key>
-		<string>Earth Defense Fleet</string>
+		<string>The Order of Mobius</string>
 		<key>economy</key>
-		<string>Agriculture</string>
+		<string>Tourism</string>
 		<key>economy2</key>
-		<string>Military</string>
+		<string>Agriculture</string>
 		<key>population</key>
-		<integer>2121852318</integer>
+		<integer>5309711732</integer>
 		<key>security</key>
-		<string>High Security</string>
+		<string>Medium Security</string>
 		<key>system</key>
-		<string>Nanomam</string>
+		<string>Vistaenis</string>
 		<key>updated</key>
-		<string>20250128</string>
+		<string>20250129</string>
 	</dict>
 </dict>
 </plist>
