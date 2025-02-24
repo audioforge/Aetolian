@@ -2655,6 +2655,58 @@
 		<key>updated</key>
 		<string>20241003</string>
 	</dict>
+	<key>Bernoulli Vision_Caeritis</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>693.70111399999996</real>
+		<key>starSystem</key>
+		<string>Caeritis</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>FactionState</key>
+			<string>Boom</string>
+			<key>Name</key>
+			<string>Caeritis Purple Fortune Ind</string>
+		</dict>
+		<key>stationName</key>
+		<string>Bernoulli Vision</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>shipyard</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>materialtrader</string>
+			<string>techBroker</string>
+			<string>stationMenu</string>
+			<string>shop</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Coriolis</string>
+		<key>updated</key>
+		<string>20250223</string>
+	</dict>
 	<key>Bessel Terminal_Aholhyniai</key>
 	<dict>
 		<key>DistFromStarLS</key>
@@ -8634,6 +8686,54 @@
 		<string>Outpost</string>
 		<key>updated</key>
 		<string>20241209</string>
+	</dict>
+	<key>Galindo Port_Kairi</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>186.42011199999999</real>
+		<key>starSystem</key>
+		<string>Kairi</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>Kairi Empire League</string>
+		</dict>
+		<key>stationName</key>
+		<string>Galindo Port</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>shipyard</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>shop</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Coriolis</string>
+		<key>updated</key>
+		<string>20250223</string>
 	</dict>
 	<key>Gaughan Hub_HIP 26883</key>
 	<dict>
@@ -22944,6 +23044,44 @@
 		<key>updated</key>
 		<string>20240813</string>
 	</dict>
+	<key>THH-LHG_Kairi</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>65.928810999999996</real>
+		<key>starSystem</key>
+		<string>Kairi</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>FleetCarrier</string>
+		</dict>
+		<key>stationName</key>
+		<string>THH-LHG</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>shipyard</string>
+			<string>engineer</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>stationMenu</string>
+			<string>carriermanagement</string>
+			<string>carrierfuel</string>
+			<string>socialspace</string>
+		</array>
+		<key>stationType</key>
+		<string>FleetCarrier</string>
+		<key>updated</key>
+		<string>20250223</string>
+	</dict>
 	<key>THH-LHG_Kamadhenu</key>
 	<dict>
 		<key>DistFromStarLS</key>
@@ -27547,6 +27685,56 @@
 		<string>Coriolis</string>
 		<key>updated</key>
 		<string>20241120</string>
+	</dict>
+	<key>Wiener Dock_Kairi</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>65.973305999999994</real>
+		<key>starSystem</key>
+		<string>Kairi</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>FactionState</key>
+			<string>Boom</string>
+			<key>Name</key>
+			<string>The Order of The Black Lion</string>
+		</dict>
+		<key>stationName</key>
+		<string>Wiener Dock</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>shipyard</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>shop</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Coriolis</string>
+		<key>updated</key>
+		<string>20250223</string>
 	</dict>
 	<key>Wigura Colony_Zhuang</key>
 	<dict>
