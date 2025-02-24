@@ -2,104 +2,68 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>20250223</key>
-	<dict>
-		<key>Camorra of Shos</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.010070000000000001</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>None</string>
-		</dict>
-		<key>Friends of Shos</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.064450999999999994</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>None</string>
-		</dict>
-		<key>Project Echo</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.62739199999999995</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>None</string>
-		</dict>
-		<key>Ryders of the Void</key>
-		<dict>
-			<key>Influence</key>
-			<real>0.25176199999999999</real>
-			<key>State</key>
-			<string>Expansion</string>
-		</dict>
-		<key>Shos Holdings</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.046323999999999997</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>None</string>
-		</dict>
-	</dict>
 	<key>20250224</key>
 	<dict>
-		<key>Camorra of Shos</key>
+		<key>Freedom Party of HIP 36165</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.010070000000000001</real>
+			<real>0.062748999999999999</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Friends of Shos</key>
+		<key>HIP 36160  Protectorate</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.064450999999999994</real>
+			<real>0.062748999999999999</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Project Echo</key>
+		<key>HIP 36165 Crimson Brotherhood</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.62739199999999995</real>
+			<real>0.061753000000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>HIP 36165 Crimson Travel Ex</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.049800999999999998</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>New HIP 36165 Coalition</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.057769000000000001</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -112,24 +76,24 @@
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.25176199999999999</real>
+			<real>0.12748999999999999</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>Expansion</string>
 		</dict>
-		<key>Shos Holdings</key>
+		<key>Velli Major Partners</key>
 		<dict>
 			<key>Active</key>
-			<string></string>
+			<string>Boom</string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.046323999999999997</real>
+			<real>0.57768900000000001</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
-			<string>None</string>
+			<string>Boom</string>
 		</dict>
 	</dict>
 	<key>Z</key>
@@ -138,22 +102,22 @@
 		<array/>
 		<key>StarPos</key>
 		<array>
-			<real>125.4375</real>
-			<real>-21.09375</real>
-			<real>-42.3125</real>
+			<real>118.5</real>
+			<real>-17.9375</real>
+			<real>-48.71875</real>
 		</array>
 		<key>SysFaction</key>
-		<string>Project Echo</string>
+		<string>Velli Major Partners</string>
 		<key>economy</key>
-		<string>Refinery</string>
+		<string>Military</string>
 		<key>economy2</key>
 		<string>Extraction</string>
 		<key>population</key>
-		<integer>49025</integer>
+		<integer>115054</integer>
 		<key>security</key>
-		<string>Low Security</string>
+		<string>High Security</string>
 		<key>system</key>
-		<string>Shos</string>
+		<string>HIP 36165 A</string>
 		<key>updated</key>
 		<string>20250224</string>
 	</dict>
