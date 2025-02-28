@@ -1072,7 +1072,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.46977200000000002</real>
+				<real>0.45833299999999999</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -1090,7 +1090,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.22794800000000001</real>
+				<real>0.27579399999999998</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -1108,7 +1108,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.124876</real>
+				<real>0.102183</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -1126,7 +1126,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.0099109999999999997</real>
+				<real>0.015873000000000002</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -1144,7 +1144,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.037661</real>
+				<real>0.030754</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -1162,7 +1162,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.043608000000000001</real>
+				<real>0.046627000000000002</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -1180,7 +1180,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.086223999999999995</real>
+				<real>0.070437</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -4246,9 +4246,9 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.063809000000000005</real>
+				<real>0.067796999999999996</real>
 				<key>MyReputation</key>
-				<real>0.0</real>
+				<real>22.424999</real>
 				<key>Name</key>
 				<string>CD-62 136 Empire Consulate</string>
 			</dict>
@@ -4282,9 +4282,9 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.025922000000000001</real>
+				<real>0.038883000000000001</real>
 				<key>MyReputation</key>
-				<real>0.0</real>
+				<real>3.2999999999999998</real>
 				<key>Name</key>
 				<string>Revolutionary Party of CD-62 136</string>
 			</dict>
@@ -4300,7 +4300,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.040876999999999997</real>
+				<real>0.034895000000000002</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -4318,9 +4318,9 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.43868400000000002</real>
+				<real>0.45164500000000002</real>
 				<key>MyReputation</key>
-				<real>0.0</real>
+				<real>94.035004000000001</real>
 				<key>Name</key>
 				<string>Lavigny's Legion</string>
 			</dict>
@@ -4336,9 +4336,9 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.33001000000000003</real>
+				<real>0.305085</real>
 				<key>MyReputation</key>
-				<real>0.0</real>
+				<real>100</real>
 				<key>Name</key>
 				<string>The 10th Legion</string>
 			</dict>
@@ -4354,9 +4354,9 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.060817999999999997</real>
+				<real>0.061815000000000002</real>
 				<key>MyReputation</key>
-				<real>0.0</real>
+				<real>8.25</real>
 				<key>Name</key>
 				<string>Swedish Vikings</string>
 			</dict>
@@ -6333,7 +6333,7 @@
 				<key>Influence</key>
 				<real>0.076617000000000005</real>
 				<key>MyReputation</key>
-				<real>20.620000999999998</real>
+				<real>0.0</real>
 				<key>Name</key>
 				<string>Solar Transit Dynamics</string>
 			</dict>
@@ -6352,11 +6352,13 @@
 				<key>Government</key>
 				<string>Feudal</string>
 				<key>Happiness</key>
-				<string></string>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
 				<key>Influence</key>
 				<real>0.183085</real>
 				<key>MyReputation</key>
-				<real>34.112800999999997</real>
+				<real>0.0</real>
 				<key>Name</key>
 				<string>Ryders of the Void</string>
 			</dict>
@@ -7308,20 +7310,11 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.056224999999999997</real>
+				<real>0.051152999999999997</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
 				<string>Order of Gende</string>
-				<key>RecoveringStates</key>
-				<array>
-					<dict>
-						<key>State</key>
-						<string>Election</string>
-						<key>Trend</key>
-						<integer>0</integer>
-					</dict>
-				</array>
 			</dict>
 			<dict>
 				<key>Allegiance</key>
@@ -7335,7 +7328,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.048193</real>
+				<real>0.044131999999999998</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -7353,7 +7346,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.049196999999999998</real>
+				<real>0.087262000000000006</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -7371,7 +7364,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.01004</real>
+				<real>0.010030000000000001</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -7389,20 +7382,11 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.12650600000000001</real>
+				<real>0.13440299999999999</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
 				<string>Lavigny's Legion</string>
-				<key>RecoveringStates</key>
-				<array>
-					<dict>
-						<key>State</key>
-						<string>Election</string>
-						<key>Trend</key>
-						<integer>0</integer>
-					</dict>
-				</array>
 			</dict>
 			<dict>
 				<key>Allegiance</key>
@@ -7416,7 +7400,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.024095999999999999</real>
+				<real>0.022065999999999999</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -7434,7 +7418,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.68574299999999999</real>
+				<real>0.650953</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -8842,7 +8826,7 @@
 				<key>Influence</key>
 				<real>0.199601</real>
 				<key>MyReputation</key>
-				<real>12.279999999999999</real>
+				<real>2.9700000000000002</real>
 				<key>Name</key>
 				<string>Workers of HIP 21455 Free</string>
 			</dict>
@@ -10306,7 +10290,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.40643899999999999</real>
+				<real>0.41809000000000002</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -10324,7 +10308,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.13480900000000001</real>
+				<real>0.12964800000000001</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -10351,7 +10335,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.085513000000000006</real>
+				<real>0.084421999999999997</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -10369,7 +10353,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.062373999999999999</real>
+				<real>0.064322000000000004</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -10387,7 +10371,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.066397999999999999</real>
+				<real>0.060302000000000001</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -10405,7 +10389,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.081489000000000006</real>
+				<real>0.076382000000000005</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -10430,9 +10414,9 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.16297800000000001</real>
+				<real>0.16683400000000001</real>
 				<key>MyReputation</key>
-				<real>26.5228</real>
+				<real>0.0</real>
 				<key>Name</key>
 				<string>Ryders of the Void</string>
 			</dict>
@@ -11381,7 +11365,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.038075999999999999</real>
+				<real>0.039078000000000002</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -11399,7 +11383,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.164329</real>
+				<real>0.16733500000000001</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -11409,7 +11393,7 @@
 				<key>Allegiance</key>
 				<string>Independent</string>
 				<key>FactionState</key>
-				<string>None</string>
+				<string>Boom</string>
 				<key>Government</key>
 				<string>Patronage</string>
 				<key>Happiness</key>
@@ -11417,7 +11401,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.029058</real>
+				<real>0.03006</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -11435,7 +11419,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.070139999999999994</real>
+				<real>0.062123999999999999</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -11463,7 +11447,7 @@
 				<key>Allegiance</key>
 				<string>Independent</string>
 				<key>FactionState</key>
-				<string>None</string>
+				<string>Election</string>
 				<key>Government</key>
 				<string>Democracy</string>
 				<key>Happiness</key>
@@ -11471,9 +11455,9 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.440882</real>
+				<real>0.44990000000000002</real>
 				<key>MyReputation</key>
-				<real>20.620000999999998</real>
+				<real>0.0</real>
 				<key>Name</key>
 				<string>Solar Transit Dynamics</string>
 			</dict>
@@ -11492,11 +11476,13 @@
 				<key>Government</key>
 				<string>Feudal</string>
 				<key>Happiness</key>
-				<string></string>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.24749499999999999</real>
+				<real>0.241483</real>
 				<key>MyReputation</key>
-				<real>34.112800999999997</real>
+				<real>0.0</real>
 				<key>Name</key>
 				<string>Ryders of the Void</string>
 			</dict>
@@ -11511,6 +11497,8 @@
 		</array>
 		<key>sysFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Election</string>
 			<key>Name</key>
 			<string>Solar Transit Dynamics</string>
 		</dict>
@@ -12306,7 +12294,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.026026000000000001</real>
+				<real>0.028000000000000001</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -12324,7 +12312,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.046045999999999997</real>
+				<real>0.050000000000000003</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -12342,7 +12330,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.028028000000000001</real>
+				<real>0.021999999999999999</real>
 				<key>MyReputation</key>
 				<real>3.0099999999999998</real>
 				<key>Name</key>
@@ -12360,7 +12348,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.18718699999999999</real>
+				<real>0.182</real>
 				<key>MyReputation</key>
 				<real>18</real>
 				<key>Name</key>
@@ -12387,7 +12375,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.017017000000000001</real>
+				<real>0.02</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -12405,7 +12393,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.026026000000000001</real>
+				<real>0.024</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -12414,6 +12402,10 @@
 			<dict>
 				<key>ActiveStates</key>
 				<array>
+					<dict>
+						<key>State</key>
+						<string>CivilLiberty</string>
+					</dict>
 					<dict>
 						<key>State</key>
 						<string>Boom</string>
@@ -12426,24 +12418,15 @@
 				<key>Government</key>
 				<string>Feudal</string>
 				<key>Happiness</key>
-				<string>$Faction_HappinessBand2;</string>
+				<string>$Faction_HappinessBand1;</string>
 				<key>Happiness_Localised</key>
-				<string>Happy</string>
+				<string>Elated</string>
 				<key>Influence</key>
-				<real>0.66966999999999999</real>
+				<real>0.67400000000000004</real>
 				<key>MyReputation</key>
-				<real>4.125</real>
+				<real>0.0</real>
 				<key>Name</key>
 				<string>The Order of The Black Lion</string>
-				<key>RecoveringStates</key>
-				<array>
-					<dict>
-						<key>State</key>
-						<string>CivilLiberty</string>
-						<key>Trend</key>
-						<integer>0</integer>
-					</dict>
-				</array>
 			</dict>
 		</array>
 		<key>PPstate</key>
@@ -12478,39 +12461,24 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.12008099999999999</real>
+				<real>0.118063</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
 				<string>Kamadhenu Citizens' Forum</string>
-				<key>RecoveringStates</key>
-				<array>
-					<dict>
-						<key>State</key>
-						<string>InfrastructureFailure</string>
-						<key>Trend</key>
-						<integer>0</integer>
-					</dict>
-					<dict>
-						<key>State</key>
-						<string>CivilWar</string>
-						<key>Trend</key>
-						<integer>0</integer>
-					</dict>
-				</array>
 			</dict>
 			<dict>
 				<key>ActiveStates</key>
 				<array>
 					<dict>
 						<key>State</key>
-						<string>Famine</string>
+						<string>Bust</string>
 					</dict>
 				</array>
 				<key>Allegiance</key>
 				<string>Empire</string>
 				<key>FactionState</key>
-				<string>Famine</string>
+				<string>Bust</string>
 				<key>Government</key>
 				<string>Dictatorship</string>
 				<key>Happiness</key>
@@ -12518,27 +12486,18 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.122099</real>
+				<real>0.084763000000000005</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
 				<string>Defence Force of Amitrite</string>
-				<key>RecoveringStates</key>
-				<array>
-					<dict>
-						<key>State</key>
-						<string>Blight</string>
-						<key>Trend</key>
-						<integer>0</integer>
-					</dict>
-				</array>
 			</dict>
 			<dict>
 				<key>ActiveStates</key>
 				<array>
 					<dict>
 						<key>State</key>
-						<string>Famine</string>
+						<string>Bust</string>
 					</dict>
 					<dict>
 						<key>State</key>
@@ -12556,26 +12515,11 @@
 				<key>Happiness_Localised</key>
 				<string>Discontented</string>
 				<key>Influence</key>
-				<real>0.044400000000000002</real>
+				<real>0.081736000000000003</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
 				<string>Kamadhenu Netcoms Corporation</string>
-				<key>RecoveringStates</key>
-				<array>
-					<dict>
-						<key>State</key>
-						<string>Blight</string>
-						<key>Trend</key>
-						<integer>0</integer>
-					</dict>
-					<dict>
-						<key>State</key>
-						<string>CivilWar</string>
-						<key>Trend</key>
-						<integer>0</integer>
-					</dict>
-				</array>
 			</dict>
 			<dict>
 				<key>Allegiance</key>
@@ -12589,7 +12533,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.080726999999999993</real>
+				<real>0.051463000000000002</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -12607,7 +12551,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.024218</real>
+				<real>0.028254000000000001</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -12625,17 +12569,24 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.076689999999999994</real>
+				<real>0.066599000000000005</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
 				<string>Allied Kamadhenu Nationalists</string>
 			</dict>
 			<dict>
+				<key>ActiveStates</key>
+				<array>
+					<dict>
+						<key>State</key>
+						<string>CivilLiberty</string>
+					</dict>
+				</array>
 				<key>Allegiance</key>
 				<string>Empire</string>
 				<key>FactionState</key>
-				<string>None</string>
+				<string>CivilLiberty</string>
 				<key>Government</key>
 				<string>Patronage</string>
 				<key>Happiness</key>
@@ -12643,11 +12594,20 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.53178599999999998</real>
+				<real>0.56912200000000002</real>
 				<key>MyReputation</key>
-				<real>0.0</real>
+				<real>100</real>
 				<key>Name</key>
 				<string>Chapterhouse of Inquisition</string>
+				<key>PendingStates</key>
+				<array>
+					<dict>
+						<key>State</key>
+						<string>Boom</string>
+						<key>Trend</key>
+						<integer>0</integer>
+					</dict>
+				</array>
 			</dict>
 		</array>
 		<key>PPstate</key>
@@ -12660,6 +12620,8 @@
 		</array>
 		<key>sysFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>CivilLiberty</string>
 			<key>Name</key>
 			<string>Chapterhouse of Inquisition</string>
 		</dict>
@@ -13575,7 +13537,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.14171700000000001</real>
+				<real>0.15568899999999999</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -13611,7 +13573,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.052893999999999997</real>
+				<real>0.041916000000000002</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -13629,7 +13591,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.027944</real>
+				<real>0.028941999999999999</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -13639,7 +13601,7 @@
 				<key>Allegiance</key>
 				<string>Independent</string>
 				<key>FactionState</key>
-				<string>None</string>
+				<string>Election</string>
 				<key>Government</key>
 				<string>Democracy</string>
 				<key>Happiness</key>
@@ -13647,9 +13609,9 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.149701</real>
+				<real>0.14071900000000001</real>
 				<key>MyReputation</key>
-				<real>20.620000999999998</real>
+				<real>0.0</real>
 				<key>Name</key>
 				<string>Solar Transit Dynamics</string>
 			</dict>
@@ -13668,11 +13630,13 @@
 				<key>Government</key>
 				<string>Feudal</string>
 				<key>Happiness</key>
-				<string></string>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.453094</real>
+				<real>0.45708599999999999</real>
 				<key>MyReputation</key>
-				<real>34.112800999999997</real>
+				<real>0.0</real>
 				<key>Name</key>
 				<string>Ryders of the Void</string>
 			</dict>
@@ -13688,7 +13652,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.16467100000000001</real>
+				<real>0.16566900000000001</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -19068,9 +19032,9 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.42715599999999998</real>
+				<real>0.45024599999999998</real>
 				<key>MyReputation</key>
-				<real>0.0</real>
+				<real>45</real>
 				<key>Name</key>
 				<string>Ocairi Empire Group</string>
 			</dict>
@@ -19086,7 +19050,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.17641200000000001</real>
+				<real>0.18029600000000001</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -19104,7 +19068,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.121903</real>
+				<real>0.121182</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -19122,7 +19086,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.160555</real>
+				<real>0.141872</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -19140,7 +19104,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.031715</real>
+				<real>0.028570999999999999</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -19158,7 +19122,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.048563000000000002</real>
+				<real>0.047291</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -19176,7 +19140,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.033696999999999998</real>
+				<real>0.030542</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -20986,13 +20950,11 @@
 				<key>Government</key>
 				<string>Feudal</string>
 				<key>Happiness</key>
-				<string>$Faction_HappinessBand2;</string>
-				<key>Happiness_Localised</key>
-				<string>Happy</string>
+				<string></string>
 				<key>Influence</key>
 				<real>0.25176199999999999</real>
 				<key>MyReputation</key>
-				<real>20.582799999999999</real>
+				<real>6.3647600000000004</real>
 				<key>Name</key>
 				<string>Ryders of the Void</string>
 			</dict>
@@ -21922,7 +21884,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.081430000000000002</real>
+				<real>0.086395</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -21940,7 +21902,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.046672999999999999</real>
+				<real>0.049652000000000002</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -21967,7 +21929,7 @@
 				<key>Influence</key>
 				<real>0.113208</real>
 				<key>MyReputation</key>
-				<real>18</real>
+				<real>0.0</real>
 				<key>Name</key>
 				<string>Kairi Empire League</string>
 			</dict>
@@ -22008,7 +21970,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.0099299999999999996</real>
+				<real>0.014896</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -22026,7 +21988,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.195631</real>
+				<real>0.20655399999999999</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -22036,7 +21998,7 @@
 				<key>Allegiance</key>
 				<string>Independent</string>
 				<key>FactionState</key>
-				<string>None</string>
+				<string>War</string>
 				<key>Government</key>
 				<string>Democracy</string>
 				<key>Happiness</key>
@@ -22044,9 +22006,9 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.43992100000000001</real>
+				<real>0.41608699999999998</real>
 				<key>MyReputation</key>
-				<real>20.620000999999998</real>
+				<real>1</real>
 				<key>Name</key>
 				<string>Solar Transit Dynamics</string>
 			</dict>
@@ -22061,6 +22023,8 @@
 		</array>
 		<key>sysFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>War</string>
 			<key>Name</key>
 			<string>Solar Transit Dynamics</string>
 		</dict>
@@ -22681,7 +22645,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.026601</real>
+				<real>0.027585999999999999</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -22699,7 +22663,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.053201999999999999</real>
+				<real>0.052217</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -22748,15 +22712,22 @@
 				<key>Influence</key>
 				<real>0.25812800000000002</real>
 				<key>MyReputation</key>
-				<real>-6</real>
+				<real>-3</real>
 				<key>Name</key>
 				<string>Cordenses Energy Corp.</string>
 			</dict>
 			<dict>
+				<key>ActiveStates</key>
+				<array>
+					<dict>
+						<key>State</key>
+						<string>Election</string>
+					</dict>
+				</array>
 				<key>Allegiance</key>
 				<string>Independent</string>
 				<key>FactionState</key>
-				<string>None</string>
+				<string>Election</string>
 				<key>Government</key>
 				<string>Feudal</string>
 				<key>Happiness</key>
@@ -22764,20 +22735,11 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.236453</real>
+				<real>0.197044</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
 				<string>Uutagarama Monarchy</string>
-				<key>RecoveringStates</key>
-				<array>
-					<dict>
-						<key>State</key>
-						<string>Election</string>
-						<key>Trend</key>
-						<integer>0</integer>
-					</dict>
-				</array>
 			</dict>
 			<dict>
 				<key>ActiveStates</key>
@@ -22800,7 +22762,7 @@
 				<key>Influence</key>
 				<real>0.25812800000000002</real>
 				<key>MyReputation</key>
-				<real>20.620000999999998</real>
+				<real>0.0</real>
 				<key>Name</key>
 				<string>Solar Transit Dynamics</string>
 			</dict>
@@ -22811,11 +22773,15 @@
 						<key>State</key>
 						<string>Expansion</string>
 					</dict>
+					<dict>
+						<key>State</key>
+						<string>Election</string>
+					</dict>
 				</array>
 				<key>Allegiance</key>
 				<string>Independent</string>
 				<key>FactionState</key>
-				<string>Expansion</string>
+				<string>Election</string>
 				<key>Government</key>
 				<string>Feudal</string>
 				<key>Happiness</key>
@@ -22823,20 +22789,11 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.157635</real>
+				<real>0.197044</real>
 				<key>MyReputation</key>
-				<real>23.552799</real>
+				<real>0.0</real>
 				<key>Name</key>
 				<string>Ryders of the Void</string>
-				<key>RecoveringStates</key>
-				<array>
-					<dict>
-						<key>State</key>
-						<string>Election</string>
-						<key>Trend</key>
-						<integer>0</integer>
-					</dict>
-				</array>
 			</dict>
 		</array>
 		<key>PPstate</key>
@@ -22871,7 +22828,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.058881999999999997</real>
+				<real>0.060878000000000002</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -22889,7 +22846,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.069860000000000005</real>
+				<real>0.052893999999999997</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -22907,7 +22864,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.028941999999999999</real>
+				<real>0.021956</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -22925,7 +22882,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.059880000000000003</real>
+				<real>0.060878000000000002</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -22935,7 +22892,7 @@
 				<key>Allegiance</key>
 				<string>Independent</string>
 				<key>FactionState</key>
-				<string>War</string>
+				<string>Election</string>
 				<key>Government</key>
 				<string>Democracy</string>
 				<key>Happiness</key>
@@ -22943,9 +22900,9 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.51197599999999999</real>
+				<real>0.53792399999999996</real>
 				<key>MyReputation</key>
-				<real>20.620000999999998</real>
+				<real>0.0</real>
 				<key>Name</key>
 				<string>Solar Transit Dynamics</string>
 			</dict>
@@ -22968,9 +22925,9 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.110778</real>
+				<real>0.0998</real>
 				<key>MyReputation</key>
-				<real>23.552799</real>
+				<real>0.0</real>
 				<key>Name</key>
 				<string>Ryders of the Void</string>
 			</dict>
@@ -22986,7 +22943,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.15968099999999999</real>
+				<real>0.16566900000000001</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -23004,7 +22961,7 @@
 		<key>sysFaction</key>
 		<dict>
 			<key>FactionState</key>
-			<string>War</string>
+			<string>Election</string>
 			<key>Name</key>
 			<string>Solar Transit Dynamics</string>
 		</dict>
