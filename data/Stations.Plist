@@ -4481,6 +4481,51 @@
 		<key>updated</key>
 		<string>20250214</string>
 	</dict>
+	<key>Brule Mines_Inmutintien</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>71.163892000000004</real>
+		<key>starSystem</key>
+		<string>Inmutintien</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>House of Saga</string>
+		</dict>
+		<key>stationName</key>
+		<string>Brule Mines</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Outpost</string>
+		<key>updated</key>
+		<string>20250305</string>
+	</dict>
 	<key>Brunner Ring_Kholu</key>
 	<dict>
 		<key>DistFromStarLS</key>
@@ -4575,7 +4620,7 @@
 	<key>Bullialdus Gateway_HIP 8894</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>16.146239000000001</real>
+		<real>16.133167</real>
 		<key>starSystem</key>
 		<string>HIP 8894</string>
 		<key>stationFaction</key>
@@ -4621,7 +4666,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20250304</string>
+		<string>20250305</string>
 	</dict>
 	<key>Bulychev Beacon_Chebaei</key>
 	<dict>
@@ -6593,7 +6638,7 @@
 	<key>Cyrrhus Station_Tenchih</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>18069.966886999999</real>
+		<real>18068.590663999999</real>
 		<key>starSystem</key>
 		<string>Tenchih</string>
 		<key>stationFaction</key>
@@ -6636,7 +6681,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20250304</string>
+		<string>20250305</string>
 	</dict>
 	<key>Cyrrhus Works_Varri</key>
 	<dict>
@@ -9461,6 +9506,48 @@
 		<string>Outpost</string>
 		<key>updated</key>
 		<string>20250127</string>
+	</dict>
+	<key>Friedman Port_Tenchih</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>18057.197037000002</real>
+		<key>starSystem</key>
+		<string>Tenchih</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>Tenchih Imperial Society</string>
+		</dict>
+		<key>stationName</key>
+		<string>Friedman Port</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Outpost</string>
+		<key>updated</key>
+		<string>20250305</string>
 	</dict>
 	<key>Friedrich Peters Beacon_Nanapan</key>
 	<dict>
@@ -13860,7 +13947,7 @@
 	<key>Karachkina Orbital_Rishanha</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>2619.742792</real>
+		<real>2619.1196610000002</real>
 		<key>starSystem</key>
 		<string>Rishanha</string>
 		<key>stationFaction</key>
@@ -13904,7 +13991,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20250304</string>
+		<string>20250305</string>
 	</dict>
 	<key>Kaufmanis Port_Eotienses</key>
 	<dict>
@@ -22844,13 +22931,13 @@
 	<key>Shajn Market_Kamadhenu</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>454.980254</real>
+		<real>455.05810400000001</real>
 		<key>starSystem</key>
 		<string>Kamadhenu</string>
 		<key>stationFaction</key>
 		<dict>
 			<key>FactionState</key>
-			<string>Boom</string>
+			<string>Expansion</string>
 			<key>Name</key>
 			<string>Chapterhouse of Inquisition</string>
 		</dict>
@@ -22889,7 +22976,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20250304</string>
+		<string>20250305</string>
 	</dict>
 	<key>Sharman Platform_Djanharu</key>
 	<dict>
