@@ -179,12 +179,12 @@
               const response = await fetch('/data/'+system+'.Plist');
               sysString = await response.text();
               if (response.ok) {
-                //console.log('Promise resolved and HTTP status is successful');
+                console.log('Promise resolved and HTTP status is successful');
                 // ...do something with the response
                 document.getElementById("showresulthere").innerHTML = system + ' found';
                 
               } else {
-                //console.error('Promise resolved but HTTP status failed');
+                console.error('Promise resolved but HTTP status failed');
                 //document.getElementById("showresulthere").innerHTML = system + ' not found';
                 document.getElementById("showresulthere").innerHTML = 'Adjusting system name ...';
               
@@ -192,12 +192,12 @@
               sysString = await response2.text();
               
               if (response2.ok) {
-                //console.log('Promise resolved and HTTP status is successful');
+                console.log('Promise resolved and HTTP status is successful');
                 // ...do something with the response
                 document.getElementById("showresulthere").innerHTML = system + ' found';
                 
               } else {
-                //console.error('Promise resolved but HTTP status failed');
+                console.error('Promise resolved but HTTP status failed');
                 document.getElementById("showresulthere").innerHTML = system + ' not found';
               }
 
@@ -210,12 +210,12 @@
               sysString = await response2.text();
               
               if (response2.ok) {
-                //console.log('Promise resolved and HTTP status is successful');
+                console.log('Promise resolved and HTTP status is successful');
                 // ...do something with the response
                 document.getElementById("showresulthere").innerHTML = system + ' found';
                 
               } else {
-                //console.error('Promise resolved but HTTP status failed');
+                console.error('Promise resolved but HTTP status failed');
                 document.getElementById("showresulthere").innerHTML = system + ' not found';
               }
               
@@ -230,7 +230,7 @@
                document.getElementById("showresulthere").innerHTML = 'Data missing'; 
                dt.clear();
             }
-            //console.log(locDicts);
+            console.log(locDicts);
             
             var dataAr = [];
             var len = targetArray.length
@@ -238,7 +238,7 @@
             for (let i = 0; i < len; i++) {
                 var data = {};
                 // get target system
-                  var fetchStr = '/data/'+targetArray[i]+'.Plist';
+                  var fetchStr = 'https://aetolian.info/data/'+targetArray[i]+'.Plist';
                   //console.log(fetchStr);
                   const response = await fetch(fetchStr);
                   const sysString = await response.text();
