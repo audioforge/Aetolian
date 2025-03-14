@@ -188,7 +188,7 @@
                 //document.getElementById("showresulthere").innerHTML = system + ' not found';
                 document.getElementById("showresulthere").innerHTML = 'Adjusting system name ...';
               
-              const response2 = await fetch('/data/' + system +' A.Plist');
+              const response2 = await fetch('https://aetolian.info/data/' + system +' A.Plist');
               sysString = await response2.text();
               
               if (response2.ok) {
@@ -206,7 +206,7 @@
               console.error('Promise rejected');
               document.getElementById("showresulthere").innerHTML = 'Adjusting system name ...';
               
-              const response2 = await fetch('/data/' + system +' A.Plist');
+              const response2 = await fetch('https://aetolian.info/data/' + system +' A.Plist');
               sysString = await response2.text();
               
               if (response2.ok) {
