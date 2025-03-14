@@ -176,7 +176,7 @@
             //const response = await fetch('/data/'+system+'.Plist');
             var sysString;
             try {
-              const response = await fetch('/data/'+system+'.Plist');
+              const response = await fetch('https://aetolian.info/data/'+system+'.Plist');
               sysString = await response.text();
               if (response.ok) {
                 console.log('Promise resolved and HTTP status is successful');
@@ -239,7 +239,7 @@
                 var data = {};
                 // get target system
                   var fetchStr = 'https://aetolian.info/data/'+targetArray[i]+'.Plist';
-                  //console.log(fetchStr);
+                  console.log(fetchStr);
                   const response = await fetch(fetchStr);
                   const sysString = await response.text();
                   const targetDicts = PlistParser.parse(sysString);
@@ -279,7 +279,7 @@
                 data['population'] = popu;
                 data['updated'] = updated;
                 var sysFacDicts = factionInfo[sysFact];
-                //console.log (sysFacDicts);
+                console.log (sysFacDicts);
                 var inf = (sysFacDicts['Influence']*100).toFixed(1);
                 smallest = (smallest*100).toFixed(1);
                 data.main = sysFact + ': ' + inf; // + ' (' + lowestFac + ': ' + smallest + ')';
