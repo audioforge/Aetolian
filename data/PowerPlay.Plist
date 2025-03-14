@@ -9824,17 +9824,10 @@
 		<key>Factions</key>
 		<array>
 			<dict>
-				<key>ActiveStates</key>
-				<array>
-					<dict>
-						<key>State</key>
-						<string>War</string>
-					</dict>
-				</array>
 				<key>Allegiance</key>
 				<string>Independent</string>
 				<key>FactionState</key>
-				<string>War</string>
+				<string>None</string>
 				<key>Government</key>
 				<string>Democracy</string>
 				<key>Happiness</key>
@@ -9842,11 +9835,29 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.272727</real>
+				<real>0.30269699999999999</real>
 				<key>MyReputation</key>
 				<real>100</real>
 				<key>Name</key>
 				<string>Workers of HIP 21455 Free</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Independent</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Dictatorship</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.220779</real>
+				<key>MyReputation</key>
+				<real>-23.142700000000001</real>
+				<key>Name</key>
+				<string>Party of Yoru</string>
 			</dict>
 			<dict>
 				<key>ActiveStates</key>
@@ -9857,27 +9868,9 @@
 					</dict>
 				</array>
 				<key>Allegiance</key>
-				<string>Independent</string>
-				<key>FactionState</key>
-				<string>War</string>
-				<key>Government</key>
-				<string>Dictatorship</string>
-				<key>Happiness</key>
-				<string>$Faction_HappinessBand2;</string>
-				<key>Happiness_Localised</key>
-				<string>Happy</string>
-				<key>Influence</key>
-				<real>0.272727</real>
-				<key>MyReputation</key>
-				<real>-33.659999999999997</real>
-				<key>Name</key>
-				<string>Party of Yoru</string>
-			</dict>
-			<dict>
-				<key>Allegiance</key>
 				<string>Empire</string>
 				<key>FactionState</key>
-				<string>None</string>
+				<string>War</string>
 				<key>Government</key>
 				<string>Corporate</string>
 				<key>Happiness</key>
@@ -9885,9 +9878,9 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.084915000000000004</real>
+				<real>0.075924000000000005</real>
 				<key>MyReputation</key>
-				<real>0.0</real>
+				<real>14.85</real>
 				<key>Name</key>
 				<string>Mber Purple Universal Group</string>
 			</dict>
@@ -9903,9 +9896,9 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.099900000000000003</real>
+				<real>0.110889</real>
 				<key>MyReputation</key>
-				<real>0.0</real>
+				<real>7.4249999999999998</real>
 				<key>Name</key>
 				<string>HIP 21455 &amp; Co</string>
 			</dict>
@@ -9921,17 +9914,24 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.060939</real>
+				<real>0.057942</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
 				<string>Law Party of HIP 21455</string>
 			</dict>
 			<dict>
+				<key>ActiveStates</key>
+				<array>
+					<dict>
+						<key>State</key>
+						<string>War</string>
+					</dict>
+				</array>
 				<key>Allegiance</key>
 				<string>Independent</string>
 				<key>FactionState</key>
-				<string>None</string>
+				<string>War</string>
 				<key>Government</key>
 				<string>Anarchy</string>
 				<key>Happiness</key>
@@ -9939,7 +9939,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.056943000000000001</real>
+				<real>0.075924000000000005</real>
 				<key>MyReputation</key>
 				<real>3.2999999999999998</real>
 				<key>Name</key>
@@ -9957,9 +9957,9 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.15184800000000001</real>
+				<real>0.15584400000000001</real>
 				<key>MyReputation</key>
-				<real>0.0</real>
+				<real>8.25</real>
 				<key>Name</key>
 				<string>HIP 21455 Incorporated</string>
 			</dict>
@@ -9974,13 +9974,11 @@
 		</array>
 		<key>sysFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>War</string>
 			<key>Name</key>
-			<string>Party of Yoru</string>
+			<string>Workers of HIP 21455 Free</string>
 		</dict>
 		<key>updated</key>
-		<string>20250306</string>
+		<string>20250314</string>
 	</dict>
 	<key>HIP 22006</key>
 	<dict>
