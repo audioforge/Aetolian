@@ -11667,11 +11667,13 @@
 	<key>Hansteen Hub_Apisni</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>6139.9124220000003</real>
+		<real>5985.0979850000003</real>
 		<key>starSystem</key>
 		<string>Apisni</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>CivilWar</string>
 			<key>Name</key>
 			<string>Canis Lupus Majoris</string>
 		</dict>
@@ -11711,7 +11713,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20250225</string>
+		<string>20250317</string>
 	</dict>
 	<key>Hansteen Hub_Ingamba</key>
 	<dict>
@@ -12800,7 +12802,7 @@
 	<key>Hind Station_Ruhanga</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>2042.111285</real>
+		<real>2046.5119420000001</real>
 		<key>starSystem</key>
 		<string>Ruhanga</string>
 		<key>stationFaction</key>
@@ -12843,7 +12845,7 @@
 		<key>stationType</key>
 		<string>Ocellus</string>
 		<key>updated</key>
-		<string>20250310</string>
+		<string>20250317</string>
 	</dict>
 	<key>Hirasawa Station_Niu Lang O</key>
 	<dict>
@@ -25086,7 +25088,7 @@
 	<key>Stephan Terminal_Gugurun</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>133.15339700000001</real>
+		<real>133.118582</real>
 		<key>starSystem</key>
 		<string>Gugurun</string>
 		<key>stationFaction</key>
@@ -25130,7 +25132,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20250311</string>
+		<string>20250317</string>
 	</dict>
 	<key>Stevin Hub_Rishanha</key>
 	<dict>
@@ -29166,11 +29168,13 @@
 	<key>Tanaka Orbital_Apisni</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>648.53886</real>
+		<real>648.58216200000004</real>
 		<key>starSystem</key>
 		<string>Apisni</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>CivilWar</string>
 			<key>Name</key>
 			<string>Canis Lupus Majoris</string>
 		</dict>
@@ -29210,7 +29214,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20250316</string>
+		<string>20250317</string>
 	</dict>
 	<key>Tarter Port_Rugien</key>
 	<dict>
