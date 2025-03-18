@@ -7281,7 +7281,7 @@
 	<key>Delsanti Orbital_Teliadjali</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>499.79766899999998</real>
+		<real>499.28738700000002</real>
 		<key>starSystem</key>
 		<string>Teliadjali</string>
 		<key>stationFaction</key>
@@ -7324,7 +7324,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20250214</string>
+		<string>20250318</string>
 	</dict>
 	<key>Demolition Unlimited_Eurybia</key>
 	<dict>
@@ -17631,6 +17631,54 @@
 		<key>updated</key>
 		<string>20250306</string>
 	</dict>
+	<key>Mason Port_Aracenus</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>4065.167649</real>
+		<key>starSystem</key>
+		<string>Aracenus</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>Space Masons</string>
+		</dict>
+		<key>stationName</key>
+		<string>Mason Port</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>shipyard</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>shop</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Orbis</string>
+		<key>updated</key>
+		<string>20250318</string>
+	</dict>
 	<key>Mather Vision_Cemplangpa</key>
 	<dict>
 		<key>DistFromStarLS</key>
@@ -23973,7 +24021,7 @@
 	<key>Shajn Market_Kamadhenu</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>454.88918699999999</real>
+		<real>455.02334500000001</real>
 		<key>starSystem</key>
 		<string>Kamadhenu</string>
 		<key>stationFaction</key>
@@ -24016,7 +24064,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20250314</string>
+		<string>20250318</string>
 	</dict>
 	<key>Sharman Platform_Djanharu</key>
 	<dict>
@@ -25966,6 +26014,44 @@
 		<key>updated</key>
 		<string>20250221</string>
 	</dict>
+	<key>THH-LHG_Apisni</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>5985.0813230000003</real>
+		<key>starSystem</key>
+		<string>Apisni</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>FleetCarrier</string>
+		</dict>
+		<key>stationName</key>
+		<string>THH-LHG</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>shipyard</string>
+			<string>engineer</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>stationMenu</string>
+			<string>carriermanagement</string>
+			<string>carrierfuel</string>
+			<string>socialspace</string>
+		</array>
+		<key>stationType</key>
+		<string>FleetCarrier</string>
+		<key>updated</key>
+		<string>20250318</string>
+	</dict>
 	<key>THH-LHG_Apurusia</key>
 	<dict>
 		<key>DistFromStarLS</key>
@@ -26003,6 +26089,44 @@
 		<string>FleetCarrier</string>
 		<key>updated</key>
 		<string>20240819</string>
+	</dict>
+	<key>THH-LHG_Ba Xian</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>0.0</real>
+		<key>starSystem</key>
+		<string>Ba Xian</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>FleetCarrier</string>
+		</dict>
+		<key>stationName</key>
+		<string>THH-LHG</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>shipyard</string>
+			<string>engineer</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>stationMenu</string>
+			<string>carriermanagement</string>
+			<string>carrierfuel</string>
+			<string>socialspace</string>
+		</array>
+		<key>stationType</key>
+		<string>FleetCarrier</string>
+		<key>updated</key>
+		<string>20250318</string>
 	</dict>
 	<key>THH-LHG_Badbh</key>
 	<dict>
@@ -26805,7 +26929,7 @@
 	<key>THH-LHG_Kamadhenu</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>454.68010700000002</real>
+		<real>455.06598700000001</real>
 		<key>starSystem</key>
 		<string>Kamadhenu</string>
 		<key>stationFaction</key>
@@ -26838,7 +26962,7 @@
 		<key>stationType</key>
 		<string>FleetCarrier</string>
 		<key>updated</key>
-		<string>20250203</string>
+		<string>20250318</string>
 	</dict>
 	<key>THH-LHG_Khun</key>
 	<dict>
