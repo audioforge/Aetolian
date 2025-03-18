@@ -1964,11 +1964,93 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20250318</key>
+	<dict>
+		<key>Achreni Empire League</key>
+		<dict>
+			<key>Active</key>
+			<string>Boom</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.489209</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Boom</string>
+		</dict>
+		<key>Canis Lupus Majoris</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.34326800000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>CivilWar</string>
+		</dict>
+		<key>Guarpulici Clan</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.010277</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Guarpulici Energy Industries</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.040082</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Left Party of Guarpulici</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.069887000000000005</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Regulatory State of Guarpulici</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.047275999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
 		<array>
 			<string>Tarup</string>
+			<string>Kocha</string>
 			<string>Motia</string>
 			<string>Khepehueno</string>
 			<string>HIP 26985</string>
@@ -1991,7 +2073,7 @@
 			<real>52.8125</real>
 		</array>
 		<key>SysFaction</key>
-		<string>Canis Lupus Majoris</string>
+		<string>Achreni Empire League</string>
 		<key>economy</key>
 		<string>Military</string>
 		<key>economy2</key>
@@ -2003,7 +2085,7 @@
 		<key>system</key>
 		<string>Guarpulici</string>
 		<key>updated</key>
-		<string>20250313</string>
+		<string>20250318</string>
 	</dict>
 </dict>
 </plist>
