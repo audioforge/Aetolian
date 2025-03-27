@@ -7189,7 +7189,7 @@
 	<key>Dearden-Salter One_Calhuacan</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>393.02608099999998</real>
+		<real>393.66446400000001</real>
 		<key>starSystem</key>
 		<string>Calhuacan</string>
 		<key>stationFaction</key>
@@ -7232,7 +7232,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20250320</string>
+		<string>20250325</string>
 	</dict>
 	<key>Delporte Dock_Eotienses</key>
 	<dict>
@@ -26784,6 +26784,44 @@
 		<key>updated</key>
 		<string>20250123</string>
 	</dict>
+	<key>THH-LHG_Hidar</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>0.0</real>
+		<key>starSystem</key>
+		<string>Hidar</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>FleetCarrier</string>
+		</dict>
+		<key>stationName</key>
+		<string>THH-LHG</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>shipyard</string>
+			<string>engineer</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>stationMenu</string>
+			<string>carriermanagement</string>
+			<string>carrierfuel</string>
+			<string>socialspace</string>
+		</array>
+		<key>stationType</key>
+		<string>FleetCarrier</string>
+		<key>updated</key>
+		<string>20250325</string>
+	</dict>
 	<key>THH-LHG_Huruk</key>
 	<dict>
 		<key>DistFromStarLS</key>
@@ -27201,6 +27239,44 @@
 		<string>FleetCarrier</string>
 		<key>updated</key>
 		<string>20240717</string>
+	</dict>
+	<key>THH-LHG_Lidpar</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>0.0</real>
+		<key>starSystem</key>
+		<string>Lidpar</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>FleetCarrier</string>
+		</dict>
+		<key>stationName</key>
+		<string>THH-LHG</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>shipyard</string>
+			<string>engineer</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>stationMenu</string>
+			<string>carriermanagement</string>
+			<string>carrierfuel</string>
+			<string>socialspace</string>
+		</array>
+		<key>stationType</key>
+		<string>FleetCarrier</string>
+		<key>updated</key>
+		<string>20250325</string>
 	</dict>
 	<key>THH-LHG_Lie Zhi</key>
 	<dict>
