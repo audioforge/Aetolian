@@ -4,14 +4,14 @@
 <dict>
 	<key>20250408</key>
 	<dict>
-		<key>Crew of Hevernaku</key>
+		<key>Evangeline's Elite Expeditionary Force</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.041584000000000003</real>
+			<real>0.038038000000000002</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -24,114 +24,59 @@
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.74059399999999997</real>
+			<real>0.60060100000000005</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Hevernaku Bureau</key>
+		<key>Inarajajara Crimson Ring</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.091089000000000003</real>
+			<real>0.01001</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Hevernaku Comms Inc</key>
+		<key>Inarajajara Silver Natural Corp.</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.062376000000000001</real>
+			<real>0.15215200000000001</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Workers of Hevernaku Union Party</key>
+		<key>League of Inarajajara Order</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.064355999999999997</real>
+			<real>0.12012</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-	</dict>
-	<key>20250409</key>
-	<dict>
-		<key>Crew of Hevernaku</key>
+		<key>Revolutionary Party of Inarajajara</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.041584000000000003</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>None</string>
-		</dict>
-		<key>Guardians of Harmony</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.74059399999999997</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>None</string>
-		</dict>
-		<key>Hevernaku Bureau</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.091089000000000003</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>None</string>
-		</dict>
-		<key>Hevernaku Comms Inc</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.062376000000000001</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>None</string>
-		</dict>
-		<key>Workers of Hevernaku Union Party</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.064355999999999997</real>
+			<real>0.079078999999999997</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -141,25 +86,27 @@
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
-		<array/>
+		<array>
+			<string>Bletani</string>
+		</array>
 		<key>StarPos</key>
 		<array>
-			<real>-101.84375</real>
-			<real>-115.3125</real>
-			<real>-28.6875</real>
+			<real>-81.21875</real>
+			<real>-93.96875</real>
+			<real>-38.8125</real>
 		</array>
 		<key>SysFaction</key>
 		<string>Guardians of Harmony</string>
 		<key>economy</key>
 		<string>Industrial</string>
 		<key>economy2</key>
-		<string>Military</string>
+		<string>Refinery</string>
 		<key>population</key>
-		<integer>1892940</integer>
+		<integer>9698088</integer>
 		<key>security</key>
-		<string>Low Security</string>
+		<string>High Security</string>
 		<key>system</key>
-		<string>Hevernaku</string>
+		<string>Inarajajara A</string>
 		<key>updated</key>
 		<string>20250408</string>
 	</dict>
