@@ -10923,31 +10923,98 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20250410</key>
+	<dict>
+		<key>Aetolians</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.20858299999999999</real>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Gang of Pi Sculptoris</key>
+		<dict>
+			<key>Active</key>
+			<string>CivilWar</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.100798</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>CivilWar</string>
+		</dict>
+		<key>HIP 7304 Empire League</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.055888</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Left Party of Pi Sculptoris</key>
+		<dict>
+			<key>Active</key>
+			<string>CivilWar</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.100798</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>CivilWar</string>
+		</dict>
+		<key>Pi Sculptoris Allied Network</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.13273499999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Pi Sculptoris Citizen's Party</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.31936100000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Pi Sculptoris Partners</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.081836000000000006</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
-		<array>
-			<string>Belatus</string>
-			<string>HIP 6905</string>
-			<string>HIP 7304</string>
-			<string>Saranggura</string>
-			<string>Nanapan</string>
-			<string>Degardhi</string>
-			<string>HIP 6921</string>
-			<string>Brigual</string>
-			<string>HIP 8389</string>
-			<string>Chebaei</string>
-			<string>HIP 7526</string>
-			<string>Weti</string>
-			<string>Laksmi</string>
-			<string>HIP 7167</string>
-			<string>Boresti</string>
-			<string>Kolhou Wu</string>
-			<string>Almudjara</string>
-			<string>Kites</string>
-			<string>Dumni</string>
-			<string>Badbh</string>
-		</array>
+		<array/>
 		<key>StarPos</key>
 		<array>
 			<real>40.0625</real>
@@ -10955,7 +11022,7 @@
 			<real>-23.75</real>
 		</array>
 		<key>SysFaction</key>
-		<string>Aetolians</string>
+		<string>Pi Sculptoris Citizen's Party</string>
 		<key>economy</key>
 		<string>Refinery</string>
 		<key>economy2</key>
@@ -10963,11 +11030,11 @@
 		<key>population</key>
 		<integer>417520</integer>
 		<key>security</key>
-		<string>Low Security</string>
+		<string>Medium Security</string>
 		<key>system</key>
 		<string>Pi Sculptoris</string>
 		<key>updated</key>
-		<string>20250128</string>
+		<string>20250410</string>
 	</dict>
 </dict>
 </plist>

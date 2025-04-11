@@ -7240,28 +7240,104 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20250410</key>
+	<dict>
+		<key>Amanogawa Enlight</key>
+		<dict>
+			<key>Active</key>
+			<string>Election</string>
+			<key>Happiness</key>
+			<string>Elated</string>
+			<key>Influence</key>
+			<real>0.075301000000000007</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Election</string>
+		</dict>
+		<key>Belatus &amp; Co</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.023092000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Belatus Collective</key>
+		<dict>
+			<key>Active</key>
+			<string>Election</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.075301000000000007</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Election</string>
+		</dict>
+		<key>Belatus Gold Clan</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.01004</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>HIP 7304 Empire League</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.12851399999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>CivilWar</string>
+		</dict>
+		<key>Jolly Co-Operators</key>
+		<dict>
+			<key>Active</key>
+			<string>PirateAttack</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.57329300000000005</real>
+			<key>Pending</key>
+			<string>Expansion - 0</string>
+			<key>State</key>
+			<string>PirateAttack</string>
+		</dict>
+		<key>Kolhou Wu Systems</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.114458</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
-		<array>
-			<string>HIP 7304</string>
-			<string>HIP 6905</string>
-			<string>Pi Sculptoris</string>
-			<string>Chebaei</string>
-			<string>Degardhi</string>
-			<string>Brigual</string>
-			<string>Karwareti</string>
-			<string>Boresti</string>
-			<string>Kites</string>
-			<string>Kolhou Wu</string>
-			<string>HIP 6921</string>
-			<string>Neginn</string>
-			<string>Nanapan</string>
-			<string>Laksmi</string>
-			<string>Badbh</string>
-			<string>Dumni</string>
-			<string>Almudjara</string>
-		</array>
+		<array/>
 		<key>StarPos</key>
 		<array>
 			<real>29.96875</real>
@@ -7281,7 +7357,7 @@
 		<key>system</key>
 		<string>Belatus</string>
 		<key>updated</key>
-		<string>20250127</string>
+		<string>20250410</string>
 	</dict>
 </dict>
 </plist>

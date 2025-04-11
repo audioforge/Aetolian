@@ -12364,21 +12364,98 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20250410</key>
+	<dict>
+		<key>Aetolians</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.20655399999999999</real>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Ao Kicho Emperor's Grace</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.13902700000000001</real>
+			<key>Pending</key>
+			<string>War - 0</string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Citizen Party of HIP 6807</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.13902700000000001</real>
+			<key>Pending</key>
+			<string>War - 0</string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Drug Empire of HIP 6807</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.050645000000000003</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>HIP 6807 Gold Netcoms &amp; Co</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.080436999999999995</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>HIP 6807 Imperial Society</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.28897699999999998</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>HIP 6807 Power Holdings</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.095333000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
-		<array>
-			<string>Karwareti</string>
-			<string>Chebaei</string>
-			<string>Neginn</string>
-			<string>Dumni</string>
-			<string>Kalama</string>
-			<string>HIP 7304</string>
-			<string>Wayica</string>
-			<string>HR 394</string>
-			<string>Belatus</string>
-			<string>Kites</string>
-		</array>
+		<array/>
 		<key>StarPos</key>
 		<array>
 			<real>10.59375</real>
@@ -12386,7 +12463,7 @@
 			<real>-30.25</real>
 		</array>
 		<key>SysFaction</key>
-		<string>Aetolians</string>
+		<string>HIP 6807 Imperial Society</string>
 		<key>economy</key>
 		<string>Terraforming</string>
 		<key>economy2</key>
@@ -12394,11 +12471,11 @@
 		<key>population</key>
 		<integer>319485</integer>
 		<key>security</key>
-		<string>Low Security</string>
+		<string>Medium Security</string>
 		<key>system</key>
 		<string>HIP 6807 A</string>
 		<key>updated</key>
-		<string>20250127</string>
+		<string>20250410</string>
 	</dict>
 </dict>
 </plist>
