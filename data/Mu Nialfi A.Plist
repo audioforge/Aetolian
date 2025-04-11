@@ -16635,10 +16635,113 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20250411</key>
+	<dict>
+		<key>Aetolians</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.274451</real>
+			<key>State</key>
+			<string>Boom</string>
+		</dict>
+		<key>Degardhi Life &amp; Co</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.16467100000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Friends of Mu Nialfi</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.059880000000000003</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Mu Nialfi Gold Family</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.067863999999999994</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Mu Nialfi Gold Power Industry</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.071856000000000003</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Mu Nialfi Patron's Principles</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.086826</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Tewinicnii Vision Corporation</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.274451</real>
+			<key>Pending</key>
+			<string>War - 0</string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
-		<array/>
+		<array>
+			<string>Brigual</string>
+			<string>Kolhou Wu</string>
+			<string>Boresti</string>
+			<string>Kites</string>
+			<string>Degardhi</string>
+			<string>Laksmi</string>
+			<string>Badbh</string>
+			<string>Wayica</string>
+			<string>Belatus</string>
+			<string>Neginn</string>
+			<string>HIP 7304</string>
+			<string>Dumni</string>
+			<string>Pi Sculptoris</string>
+			<string>Aitvas</string>
+		</array>
 		<key>StarPos</key>
 		<array>
 			<real>32.8125</real>
@@ -16658,7 +16761,7 @@
 		<key>system</key>
 		<string>Mu Nialfi A</string>
 		<key>updated</key>
-		<string>20250410</string>
+		<string>20250411</string>
 	</dict>
 </dict>
 </plist>

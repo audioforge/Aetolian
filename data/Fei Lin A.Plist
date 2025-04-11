@@ -6482,10 +6482,121 @@
 			<string>CivilWar</string>
 		</dict>
 	</dict>
+	<key>20250411</key>
+	<dict>
+		<key>Amanogawa Enlight</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Elated</string>
+			<key>Influence</key>
+			<real>0.34599999999999997</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Election</string>
+		</dict>
+		<key>Blue Galactic Incorporated</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.186</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Degardhi Life &amp; Co</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.20499999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Fei Lin Crimson Family</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.019</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Fei Lin Empire Assembly</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.096000000000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Fei Lin Life Incorporated</key>
+		<dict>
+			<key>Active</key>
+			<string>CivilWar</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.073999999999999996</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>CivilWar</string>
+		</dict>
+		<key>Fei Lin Unionists</key>
+		<dict>
+			<key>Active</key>
+			<string>CivilWar</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.073999999999999996</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>CivilWar</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
-		<array/>
+		<array>
+			<string>Chebaei</string>
+			<string>HIP 7304</string>
+			<string>Karwareti</string>
+			<string>Belatus</string>
+			<string>HIP 6905</string>
+			<string>Pi Sculptoris</string>
+			<string>Neginn</string>
+			<string>Degardhi</string>
+			<string>Nanapan</string>
+			<string>Brigual</string>
+			<string>Dumni</string>
+			<string>Kalama</string>
+			<string>HIP 6921</string>
+			<string>Boresti</string>
+			<string>Almudjara</string>
+			<string>Kolhou Wu</string>
+		</array>
 		<key>StarPos</key>
 		<array>
 			<real>21.375</real>
@@ -6505,7 +6616,7 @@
 		<key>system</key>
 		<string>Fei Lin A</string>
 		<key>updated</key>
-		<string>20250410</string>
+		<string>20250411</string>
 	</dict>
 </dict>
 </plist>

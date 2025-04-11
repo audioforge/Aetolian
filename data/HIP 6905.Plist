@@ -4114,10 +4114,117 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20250411</key>
+	<dict>
+		<key>HIP 6905 Crimson Camorra</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.032967000000000003</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>HIP 6905 Justice Party</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.044955000000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>HIP 6905 Partners</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.17382600000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>HIP 7304 Empire League</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.13386600000000001</real>
+			<key>Pending</key>
+			<string>Boom - 0</string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Independent HIP 6905 Values Party</key>
+		<dict>
+			<key>Active</key>
+			<string>Election</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.099900000000000003</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Election</string>
+		</dict>
+		<key>Jolly Co-Operators</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.41458499999999998</real>
+			<key>Pending</key>
+			<string>Expansion - 0</string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Unionists of HIP 6905</key>
+		<dict>
+			<key>Active</key>
+			<string>Election</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.099900000000000003</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Election</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
-		<array/>
+		<array>
+			<string>Belatus</string>
+			<string>Pi Sculptoris</string>
+			<string>HIP 7304</string>
+			<string>HIP 6921</string>
+			<string>Nanapan</string>
+			<string>Chebaei</string>
+			<string>Weti</string>
+			<string>HIP 7167</string>
+			<string>HIP 7526</string>
+			<string>Saranggura</string>
+			<string>Karwareti</string>
+			<string>Almudjara</string>
+		</array>
 		<key>StarPos</key>
 		<array>
 			<real>33.28125</real>
@@ -4137,7 +4244,7 @@
 		<key>system</key>
 		<string>HIP 6905</string>
 		<key>updated</key>
-		<string>20250204</string>
+		<string>20250411</string>
 	</dict>
 </dict>
 </plist>
