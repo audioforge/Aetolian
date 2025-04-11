@@ -1224,10 +1224,117 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20250411</key>
+	<dict>
+		<key>Clan of Namba</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.031808999999999997</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Movement for Namba Green Party</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.082504999999999995</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Namba Allied Commodities</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.043737999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Namba Electronics Incorporated</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.11332</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Namba Imperial Society</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.057653999999999997</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Night Wolves Corporation</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.61033800000000005</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Reshero Flag</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.060636000000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
-		<array/>
+		<array>
+			<string>Ten Samba</string>
+			<string>Ditae</string>
+			<string>Reshero</string>
+			<string>Clota</string>
+			<string>Chunza</string>
+			<string>Lwali</string>
+			<string>HIP 3125</string>
+			<string>Rabatha</string>
+			<string>HIP 4072</string>
+			<string>Xi Wangar</string>
+			<string>Blang Tzu</string>
+			<string>Lei Ching</string>
+		</array>
 		<key>StarPos</key>
 		<array>
 			<real>-5.125</real>
@@ -1247,7 +1354,7 @@
 		<key>system</key>
 		<string>Namba A</string>
 		<key>updated</key>
-		<string>20250410</string>
+		<string>20250411</string>
 	</dict>
 </dict>
 </plist>
