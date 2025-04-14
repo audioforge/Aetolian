@@ -381,7 +381,7 @@
 	<key>Addams Hub_Ibormbu</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>31.080787999999998</real>
+		<real>31.040406999999998</real>
 		<key>starSystem</key>
 		<string>Ibormbu</string>
 		<key>stationFaction</key>
@@ -420,7 +420,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250109</string>
+		<string>20250413</string>
 	</dict>
 	<key>Adelman Palace_Xuanebuth</key>
 	<dict>
@@ -10023,13 +10023,13 @@
 	<key>Freas Stop_Mu Nialfi</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>34.546481999999997</real>
+		<real>34.569529000000003</real>
 		<key>starSystem</key>
 		<string>Mu Nialfi</string>
 		<key>stationFaction</key>
 		<dict>
 			<key>FactionState</key>
-			<string>Boom</string>
+			<string>War</string>
 			<key>Name</key>
 			<string>Aetolians</string>
 		</dict>
@@ -10067,7 +10067,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250410</string>
+		<string>20250413</string>
 	</dict>
 	<key>Friedman Port_Tenchih</key>
 	<dict>
@@ -15281,7 +15281,7 @@
 	<key>Kibalchich Hangar_Gungo</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1271.2047930000001</real>
+		<real>1272.3448109999999</real>
 		<key>starSystem</key>
 		<string>Gungo</string>
 		<key>stationFaction</key>
@@ -15321,7 +15321,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250412</string>
+		<string>20250413</string>
 	</dict>
 	<key>Kier Enterprise_HIP 21455</key>
 	<dict>
@@ -15468,13 +15468,15 @@
 	<key>Kirby Vision_HR 394</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1141.7498410000001</real>
+		<real>1143.1575800000001</real>
 		<key>starSystem</key>
 		<string>HR 394</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>CivilUnrest</string>
 			<key>Name</key>
-			<string>HR 394 Patron's Principles</string>
+			<string>Ao Kicho Emperor's Grace</string>
 		</dict>
 		<key>stationName</key>
 		<string>Kirby Vision</string>
@@ -15482,6 +15484,7 @@
 		<array>
 			<string>dock</string>
 			<string>autodock</string>
+			<string>blackmarket</string>
 			<string>commodities</string>
 			<string>contacts</string>
 			<string>exploration</string>
@@ -15511,7 +15514,7 @@
 		<key>stationType</key>
 		<string>Ocellus</string>
 		<key>updated</key>
-		<string>20250113</string>
+		<string>20250413</string>
 	</dict>
 	<key>Kirk Port_Epoma</key>
 	<dict>
@@ -16575,13 +16578,11 @@
 	<key>Lambert Ring_Reshero</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>296.38563900000003</real>
+		<real>294.21406100000002</real>
 		<key>starSystem</key>
 		<string>Reshero</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>Election</string>
 			<key>Name</key>
 			<string>Aetolians</string>
 		</dict>
@@ -16621,7 +16622,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20250412</string>
+		<string>20250413</string>
 	</dict>
 	<key>Laming Vision_Zvaithhogg</key>
 	<dict>
@@ -27834,7 +27835,7 @@
 	<key>THH-LHG_Mu Nialfi</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1306.250738</real>
+		<real>653.82563800000003</real>
 		<key>starSystem</key>
 		<string>Mu Nialfi</string>
 		<key>stationFaction</key>
@@ -27867,7 +27868,7 @@
 		<key>stationType</key>
 		<string>FleetCarrier</string>
 		<key>updated</key>
-		<string>20250106</string>
+		<string>20250413</string>
 	</dict>
 	<key>THH-LHG_Neginn</key>
 	<dict>
