@@ -3850,29 +3850,111 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20250415</key>
+	<dict>
+		<key>Audhenu Empire Party</key>
+		<dict>
+			<key>Active</key>
+			<string>Election</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.154309</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Election</string>
+		</dict>
+		<key>Audhenu Galactic Group</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.24649299999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Audhenu People's Party</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.14729500000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Jormungand Empire Group</key>
+		<dict>
+			<key>Active</key>
+			<string>Election</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.13927899999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Election</string>
+		</dict>
+		<key>Natural HIP 12167 Defence Party</key>
+		<dict>
+			<key>Active</key>
+			<string>Election</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.154309</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Election</string>
+		</dict>
+		<key>Official Partii Nationalists</key>
+		<dict>
+			<key>Active</key>
+			<string>Election</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.13927899999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Election</string>
+		</dict>
+		<key>Pirates of Audhenu</key>
+		<dict>
+			<key>Active</key>
+			<string>Bust</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.019037999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Bust</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
 		<array>
 			<string>Sibianoe</string>
-			<string>Nyikas A</string>
-			<string>Humatsu A</string>
+			<string>HIP 12167</string>
 			<string>Caleket</string>
-			<string>Pemeno A</string>
-			<string>Bolocas A</string>
-			<string>HIP 12425 A</string>
 			<string>Partii</string>
 			<string>HIP 10012</string>
-			<string>Anja A</string>
-			<string>Bayah A</string>
-			<string>Cantiaci A</string>
 			<string>HIP 10579</string>
-			<string>Waventeno A</string>
-			<string>Kureinji A</string>
 			<string>HIP 11305</string>
-			<string>Hiradha A</string>
-			<string>Inherth A</string>
-			<string>Chih Hiner A</string>
 			<string>Prana</string>
 			<string>Dumni</string>
 		</array>
@@ -3883,7 +3965,7 @@
 			<real>-59.46875</real>
 		</array>
 		<key>SysFaction</key>
-		<string>Audhenu Empire Party</string>
+		<string>Audhenu Galactic Group</string>
 		<key>economy</key>
 		<string>Terraforming</string>
 		<key>economy2</key>
@@ -3895,7 +3977,7 @@
 		<key>system</key>
 		<string>Audhenu</string>
 		<key>updated</key>
-		<string>20241107</string>
+		<string>20250415</string>
 	</dict>
 </dict>
 </plist>

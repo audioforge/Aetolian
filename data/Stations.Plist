@@ -5508,7 +5508,7 @@
 	<key>Cartier City_Xi Wangda</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>56.429806999999997</real>
+		<real>56.443382</real>
 		<key>starSystem</key>
 		<string>Xi Wangda</string>
 		<key>stationFaction</key>
@@ -5553,7 +5553,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20250413</string>
+		<string>20250415</string>
 	</dict>
 	<key>Cartier Dock_Motia</key>
 	<dict>
@@ -5882,7 +5882,7 @@
 	<key>Chawla Holdings_HIP 4310</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>91.784880000000001</real>
+		<real>91.803858000000005</real>
 		<key>starSystem</key>
 		<string>HIP 4310</string>
 		<key>stationFaction</key>
@@ -5918,7 +5918,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250414</string>
+		<string>20250415</string>
 	</dict>
 	<key>Cheranovsky City_Ngurii</key>
 	<dict>
@@ -9776,7 +9776,7 @@
 	<key>Fox Holdings_Kalvaitu</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1784.2331549999999</real>
+		<real>1767.345789</real>
 		<key>starSystem</key>
 		<string>Kalvaitu</string>
 		<key>stationFaction</key>
@@ -9820,7 +9820,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20241215</string>
+		<string>20250415</string>
 	</dict>
 	<key>Fox Station_HIP 23824</key>
 	<dict>
@@ -10907,6 +10907,49 @@
 		<string>Outpost</string>
 		<key>updated</key>
 		<string>20250224</string>
+	</dict>
+	<key>Gorey Terminal_Mac Cha</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>897.81459500000005</real>
+		<key>starSystem</key>
+		<string>Mac Cha</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>Defence Party of Mac Cha</string>
+		</dict>
+		<key>stationName</key>
+		<string>Gorey Terminal</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>repair</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Outpost</string>
+		<key>updated</key>
+		<string>20250415</string>
 	</dict>
 	<key>Gorgani Orbital_Cemplangpa</key>
 	<dict>
@@ -13956,7 +13999,7 @@
 	<key>Impey Ring_Sibianoe</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>15.337795</real>
+		<real>15.352492</real>
 		<key>starSystem</key>
 		<string>Sibianoe</string>
 		<key>stationFaction</key>
@@ -14001,7 +14044,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20250410</string>
+		<string>20250416</string>
 	</dict>
 	<key>Isaev Port_HIP 23824</key>
 	<dict>
@@ -16656,7 +16699,7 @@
 	<key>Lambert Ring_Reshero</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>296.12624799999998</real>
+		<real>295.17631299999999</real>
 		<key>starSystem</key>
 		<string>Reshero</string>
 		<key>stationFaction</key>
@@ -25136,7 +25179,7 @@
 	<key>Sitterly Landing_HIP 10579</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>2838.81493</real>
+		<real>2841.9564620000001</real>
 		<key>starSystem</key>
 		<string>HIP 10579</string>
 		<key>stationFaction</key>
@@ -25176,7 +25219,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20241031</string>
+		<string>20250415</string>
 	</dict>
 	<key>Sitterly Platform_Hajara</key>
 	<dict>
@@ -27955,7 +27998,7 @@
 	<key>THH-LHG_Mu Nialfi</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>653.07340399999998</real>
+		<real>653.50923999999998</real>
 		<key>starSystem</key>
 		<string>Mu Nialfi</string>
 		<key>stationFaction</key>
@@ -27988,7 +28031,7 @@
 		<key>stationType</key>
 		<string>FleetCarrier</string>
 		<key>updated</key>
-		<string>20250415</string>
+		<string>20250416</string>
 	</dict>
 	<key>THH-LHG_Neginn</key>
 	<dict>
@@ -30795,7 +30838,7 @@
 	<key>Tikhonravov Mine_Bolocas</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>3829.0003470000001</real>
+		<real>3902.1526050000002</real>
 		<key>starSystem</key>
 		<string>Bolocas</string>
 		<key>stationFaction</key>
@@ -30837,7 +30880,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20240829</string>
+		<string>20250415</string>
 	</dict>
 	<key>Tikhonravov Port_HIP 12167</key>
 	<dict>
@@ -32219,6 +32262,50 @@
 		<string>Coriolis</string>
 		<key>updated</key>
 		<string>20241117</string>
+	</dict>
+	<key>Watanabe Dock_Widjabihiko</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>1818.8877440000001</real>
+		<key>starSystem</key>
+		<string>Widjabihiko</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>Widjabihiko Creative Holdings</string>
+		</dict>
+		<key>stationName</key>
+		<string>Watanabe Dock</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Outpost</string>
+		<key>updated</key>
+		<string>20250415</string>
 	</dict>
 	<key>Watson Vision_Namba</key>
 	<dict>
