@@ -2,6 +2,153 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>32 c Piscium</key>
+	<dict>
+		<key>Factions</key>
+		<array>
+			<dict>
+				<key>Allegiance</key>
+				<string>Federation</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Democracy</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.068862000000000007</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Progressive Party of 32 c Piscium</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Independent</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Dictatorship</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.043912</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Justice Party of 32 c Piscium</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Independent</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Corporate</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.045907999999999997</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>32 c Piscium Interstellar</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Independent</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Anarchy</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.016965999999999998</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Brothers of 32 c Piscium</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Independent</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Dictatorship</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.037923999999999999</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Yapelici Freedom Party</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Independent</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Corporate</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.68662699999999999</real>
+				<key>MyReputation</key>
+				<real>100</real>
+				<key>Name</key>
+				<string>Night Wolves Corporation</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Independent</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Communism</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.0998</real>
+				<key>MyReputation</key>
+				<real>43.025199999999998</real>
+				<key>Name</key>
+				<string>Guardians of Harmony</string>
+			</dict>
+		</array>
+		<key>PPstate</key>
+		<string>Controlled</string>
+		<key>StarPos</key>
+		<array>
+			<real>-71.3125</real>
+			<real>-95.34375</real>
+			<real>-17.71875</real>
+		</array>
+		<key>sysFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>Night Wolves Corporation</string>
+		</dict>
+		<key>updated</key>
+		<string>20250425</string>
+	</dict>
 	<key>Achreni</key>
 	<dict>
 		<key>Factions</key>
@@ -19662,6 +19809,153 @@
 			<string>Union Cosmos</string>
 		</dict>
 	</dict>
+	<key>Milcenu</key>
+	<dict>
+		<key>Factions</key>
+		<array>
+			<dict>
+				<key>Allegiance</key>
+				<string>Federation</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Confederacy</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.032000000000000001</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Workers of Milcenu Coalition</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Federation</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Corporate</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.094</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Ariga Network</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Independent</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Corporate</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.047</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Milcenu Ltd</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Independent</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Anarchy</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.058000000000000003</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Milcenu Blue Rats</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Independent</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Feudal</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.043999999999999997</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Dukes of Milcenu</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Independent</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Corporate</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.60099999999999998</real>
+				<key>MyReputation</key>
+				<real>100</real>
+				<key>Name</key>
+				<string>Night Wolves Corporation</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Federation</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Democracy</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.124</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Evangeline's Elite Expeditionary Force</string>
+			</dict>
+		</array>
+		<key>PPstate</key>
+		<string>Controlled</string>
+		<key>StarPos</key>
+		<array>
+			<real>-83.96875</real>
+			<real>-103.375</real>
+			<real>-19.46875</real>
+		</array>
+		<key>sysFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>Night Wolves Corporation</string>
+		</dict>
+		<key>updated</key>
+		<string>20250425</string>
+	</dict>
 	<key>Minjanh</key>
 	<dict>
 		<key>Factions</key>
@@ -21410,6 +21704,153 @@
 			<key>Name</key>
 			<string>The 10th Legion</string>
 		</dict>
+	</dict>
+	<key>Nanggalis</key>
+	<dict>
+		<key>Factions</key>
+		<array>
+			<dict>
+				<key>Allegiance</key>
+				<string>Federation</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Corporate</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.060939</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Nanggalis Commodities</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Independent</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Anarchy</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.0099900000000000006</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Gang of Nanggalis</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Independent</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Cooperative</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.024975000000000001</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Nanggalis Shared</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Independent</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Cooperative</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.124875</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Friends of Shontii</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Independent</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Corporate</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.63936099999999996</real>
+				<key>MyReputation</key>
+				<real>100</real>
+				<key>Name</key>
+				<string>Night Wolves Corporation</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Independent</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Dictatorship</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.084915000000000004</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Dominion of HIP 223</string>
+			</dict>
+			<dict>
+				<key>Allegiance</key>
+				<string>Independent</string>
+				<key>FactionState</key>
+				<string>None</string>
+				<key>Government</key>
+				<string>Corporate</string>
+				<key>Happiness</key>
+				<string>$Faction_HappinessBand2;</string>
+				<key>Happiness_Localised</key>
+				<string>Happy</string>
+				<key>Influence</key>
+				<real>0.054945000000000001</real>
+				<key>MyReputation</key>
+				<real>0.0</real>
+				<key>Name</key>
+				<string>Naratones Jet Public Ltd</string>
+			</dict>
+		</array>
+		<key>PPstate</key>
+		<string>Exploited</string>
+		<key>StarPos</key>
+		<array>
+			<real>-58.90625</real>
+			<real>-116.5625</real>
+			<real>-19.8125</real>
+		</array>
+		<key>sysFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>Night Wolves Corporation</string>
+		</dict>
+		<key>updated</key>
+		<string>20250425</string>
 	</dict>
 	<key>Narakapani</key>
 	<dict>
@@ -23384,7 +23825,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.041708000000000002</real>
+				<real>0.044686999999999998</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -23402,7 +23843,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.154916</real>
+				<real>0.121152</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -23420,7 +23861,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.098311999999999997</real>
+				<real>0.059582999999999997</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -23438,7 +23879,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.047666</real>
+				<real>0.099305000000000004</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -23456,7 +23897,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.58788499999999999</real>
+				<real>0.61966200000000005</real>
 				<key>MyReputation</key>
 				<real>43.025199999999998</real>
 				<key>Name</key>
@@ -23474,7 +23915,7 @@
 				<key>Happiness_Localised</key>
 				<string>Happy</string>
 				<key>Influence</key>
-				<real>0.069513000000000005</real>
+				<real>0.055611000000000001</real>
 				<key>MyReputation</key>
 				<real>0.0</real>
 				<key>Name</key>
@@ -23495,7 +23936,7 @@
 			<string>Guardians of Harmony</string>
 		</dict>
 		<key>updated</key>
-		<string>20250409</string>
+		<string>20250425</string>
 	</dict>
 	<key>Quamte A</key>
 	<dict>
