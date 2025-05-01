@@ -24024,10 +24024,17 @@
 				<string>Posse of Polevnic</string>
 			</dict>
 			<dict>
+				<key>ActiveStates</key>
+				<array>
+					<dict>
+						<key>State</key>
+						<string>Expansion</string>
+					</dict>
+				</array>
 				<key>Allegiance</key>
 				<string>Independent</string>
 				<key>FactionState</key>
-				<string>None</string>
+				<string>Expansion</string>
 				<key>Government</key>
 				<string>Communism</string>
 				<key>Happiness</key>
@@ -24040,15 +24047,6 @@
 				<real>43.025199999999998</real>
 				<key>Name</key>
 				<string>Guardians of Harmony</string>
-				<key>PendingStates</key>
-				<array>
-					<dict>
-						<key>State</key>
-						<string>Expansion</string>
-						<key>Trend</key>
-						<integer>0</integer>
-					</dict>
-				</array>
 			</dict>
 			<dict>
 				<key>Allegiance</key>
@@ -24079,11 +24077,13 @@
 		</array>
 		<key>sysFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Expansion</string>
 			<key>Name</key>
 			<string>Guardians of Harmony</string>
 		</dict>
 		<key>updated</key>
-		<string>20250430</string>
+		<string>20250501</string>
 	</dict>
 	<key>Quamte A</key>
 	<dict>
@@ -27515,7 +27515,7 @@
 			<string>Night Wolves Corporation</string>
 		</dict>
 		<key>updated</key>
-		<string>20250430</string>
+		<string>20250501</string>
 	</dict>
 	<key>Trumuye</key>
 	<dict>
