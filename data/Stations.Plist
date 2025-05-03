@@ -5602,7 +5602,7 @@
 	<key>Cartier Dock_Motia</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>448.63617299999999</real>
+		<real>448.69092799999999</real>
 		<key>starSystem</key>
 		<string>Motia</string>
 		<key>stationFaction</key>
@@ -5646,7 +5646,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20250308</string>
+		<string>20250317</string>
 	</dict>
 	<key>Cartier Hub_Karelitakas</key>
 	<dict>
@@ -8642,7 +8642,7 @@
 	<key>Ernst Port_Amenta</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>236.98512299999999</real>
+		<real>236.89990399999999</real>
 		<key>starSystem</key>
 		<string>Amenta</string>
 		<key>stationFaction</key>
@@ -8685,7 +8685,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20250308</string>
+		<string>20250309</string>
 	</dict>
 	<key>Esclangon Platform_HIP 6758</key>
 	<dict>
@@ -10777,7 +10777,7 @@
 	<key>Glushko Orbital_Pini</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>171039.09407200001</real>
+		<real>170990.05773500001</real>
 		<key>starSystem</key>
 		<string>Pini</string>
 		<key>stationFaction</key>
@@ -10820,7 +10820,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20250307</string>
+		<string>20250315</string>
 	</dict>
 	<key>Goldreich Ring_Ovamalu</key>
 	<dict>
@@ -13304,7 +13304,7 @@
 	<key>Hind Station_Ruhanga</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>2040.9942490000001</real>
+		<real>2046.5119420000001</real>
 		<key>starSystem</key>
 		<string>Ruhanga</string>
 		<key>stationFaction</key>
@@ -13347,7 +13347,7 @@
 		<key>stationType</key>
 		<string>Ocellus</string>
 		<key>updated</key>
-		<string>20250308</string>
+		<string>20250317</string>
 	</dict>
 	<key>Hirasawa Station_Niu Lang O</key>
 	<dict>
@@ -15588,7 +15588,7 @@
 	<key>Kier Enterprise_HIP 21455</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>2640.9529200000002</real>
+		<real>2641.087794</real>
 		<key>starSystem</key>
 		<string>HIP 21455</string>
 		<key>stationFaction</key>
@@ -15632,7 +15632,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20250308</string>
+		<string>20250309</string>
 	</dict>
 	<key>King Terminal_Lie Zhi</key>
 	<dict>
@@ -17545,7 +17545,7 @@
 	<key>Lloyd Wright Park_Meduwang</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1547.9045840000001</real>
+		<real>1546.212728</real>
 		<key>starSystem</key>
 		<string>Meduwang</string>
 		<key>stationFaction</key>
@@ -17585,7 +17585,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250308</string>
+		<string>20250312</string>
 	</dict>
 	<key>Lloyd Wright Terminal_Yenici</key>
 	<dict>
@@ -19963,7 +19963,7 @@
 	<key>Naboth Dock_HIP 23824</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>5879.3268799999996</real>
+		<real>5854.7115530000001</real>
 		<key>starSystem</key>
 		<string>HIP 23824</string>
 		<key>stationFaction</key>
@@ -20003,7 +20003,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250307</string>
+		<string>20250309</string>
 	</dict>
 	<key>Naboth Gateway_Iboraga</key>
 	<dict>
@@ -21190,11 +21190,13 @@
 	<key>Oosterhoff Terminal_Ngane</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>2487.2537179999999</real>
+		<real>2490.2896449999998</real>
 		<key>starSystem</key>
 		<string>Ngane</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Boom</string>
 			<key>Name</key>
 			<string>Naebisulfr Autocracy</string>
 		</dict>
@@ -21233,7 +21235,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20250307</string>
+		<string>20250310</string>
 	</dict>
 	<key>Orbik Ring_Gliese 58</key>
 	<dict>
@@ -23336,11 +23338,13 @@
 	<key>Reeves Refinery_Guarpulici</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>180.27563599999999</real>
+		<real>180.38382899999999</real>
 		<key>starSystem</key>
 		<string>Guarpulici</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>War</string>
 			<key>Name</key>
 			<string>Canis Lupus Majoris</string>
 		</dict>
@@ -23376,7 +23380,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250308</string>
+		<string>20250310</string>
 	</dict>
 	<key>Regiomontanus Holdings_Lidar</key>
 	<dict>
@@ -24850,13 +24854,11 @@
 	<key>Shajn Market_Kamadhenu</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>455.09787499999999</real>
+		<real>455.280328</real>
 		<key>starSystem</key>
 		<string>Kamadhenu</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>Expansion</string>
 			<key>Name</key>
 			<string>Chapterhouse of Inquisition</string>
 		</dict>
@@ -24895,7 +24897,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20250308</string>
+		<string>20250405</string>
 	</dict>
 	<key>Sharman Platform_Djanharu</key>
 	<dict>
@@ -30521,11 +30523,13 @@
 	<key>Tanaka Orbital_Apisni</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>648.84519599999999</real>
+		<real>648.58216200000004</real>
 		<key>starSystem</key>
 		<string>Apisni</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>CivilWar</string>
 			<key>Name</key>
 			<string>Canis Lupus Majoris</string>
 		</dict>
@@ -30565,7 +30569,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20250308</string>
+		<string>20250317</string>
 	</dict>
 	<key>Tanner Settlement_Polevnic</key>
 	<dict>
@@ -33607,7 +33611,7 @@
 	<key>Wrangell Bastion_Inmutintien</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1429.119725</real>
+		<real>1315.5075240000001</real>
 		<key>starSystem</key>
 		<string>Inmutintien</string>
 		<key>stationFaction</key>
@@ -33650,7 +33654,7 @@
 		<key>stationType</key>
 		<string>CraterPort</string>
 		<key>updated</key>
-		<string>20250303</string>
+		<string>20250315</string>
 	</dict>
 	<key>Yakovlev Platform_Blang Tzu</key>
 	<dict>
