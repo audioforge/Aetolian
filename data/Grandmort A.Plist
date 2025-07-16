@@ -44,11 +44,54 @@
 			<string>CivilWar</string>
 		</dict>
 	</dict>
+	<key>20250716</key>
+	<dict>
+		<key>Deep Space Mining Agency</key>
+		<dict>
+			<key>Active</key>
+			<string>Expansion</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.552284</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Expansion</string>
+		</dict>
+		<key>Oromecani Bridge Corporation</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.20913699999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Traditional Zang Tangma Constitution Party</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.23857900000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
 		<array>
 			<string>Zang Tangma</string>
+			<string>HIP 62809</string>
 			<string>Sochet</string>
 		</array>
 		<key>StarPos</key>
@@ -70,7 +113,7 @@
 		<key>system</key>
 		<string>Grandmort A</string>
 		<key>updated</key>
-		<string>20250715</string>
+		<string>20250716</string>
 	</dict>
 </dict>
 </plist>

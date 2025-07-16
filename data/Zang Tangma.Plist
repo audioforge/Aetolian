@@ -70,10 +70,79 @@
 			<string>CivilWar</string>
 		</dict>
 	</dict>
+	<key>20250716</key>
+	<dict>
+		<key>Deep Space Mining Agency</key>
+		<dict>
+			<key>Active</key>
+			<string>Expansion</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.52847200000000005</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Expansion</string>
+		</dict>
+		<key>Partnership of Zang Tangma</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.14585400000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Traditional Zang Tangma Constitution Party</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.068931000000000006</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Zang Tangma Blue Legal Group</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.049950000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Zang Tangma Crimson Brotherhood</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.206793</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
 		<array>
+			<string>HIP 62809</string>
 			<string>Sochet</string>
 		</array>
 		<key>StarPos</key>
@@ -95,7 +164,7 @@
 		<key>system</key>
 		<string>Zang Tangma</string>
 		<key>updated</key>
-		<string>20250715</string>
+		<string>20250716</string>
 	</dict>
 </dict>
 </plist>

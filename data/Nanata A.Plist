@@ -4,14 +4,14 @@
 <dict>
 	<key>20250716</key>
 	<dict>
-		<key>Autocracy of Shakal</key>
+		<key>Barons of Nanata</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.056000000000000001</real>
+			<real>0.41666700000000001</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -24,46 +24,59 @@
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.254</real>
+			<real>0.101406</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Confederation of Kagutine</key>
+		<key>Jet State &amp; Co</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.055</real>
+			<real>0.075301000000000007</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Partnership of Zang Tangma</key>
+		<key>Nanata Confederation</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.44900000000000001</real>
+			<real>0.13855400000000001</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Shakal Crimson Transport Dev</key>
+		<key>Nanata Crimson Rats</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.067000000000000004</real>
+			<real>0.01004</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Noatin Crimson United Corp</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.16265099999999999</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -76,20 +89,7 @@
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.062</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>None</string>
-		</dict>
-		<key>Shakal Silver Family</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.057000000000000002</real>
+			<real>0.095381999999999995</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -100,31 +100,32 @@
 	<dict>
 		<key>ExpTarget</key>
 		<array>
-			<string>Usdian</string>
 			<string>Sochet</string>
+			<string>Usdian</string>
 			<string>HIP 62809</string>
+			<string>HIP 70098</string>
+			<string>HIP 67205</string>
 			<string>HR 5349</string>
 			<string>Zang Tangma</string>
-			<string>HIP 70098</string>
 		</array>
 		<key>StarPos</key>
 		<array>
-			<real>114.15625</real>
-			<real>9</real>
-			<real>90.15625</real>
+			<real>120.28125</real>
+			<real>1.78125</real>
+			<real>89.59375</real>
 		</array>
 		<key>SysFaction</key>
-		<string>Partnership of Zang Tangma</string>
+		<string>Barons of Nanata</string>
 		<key>economy</key>
-		<string>Industrial</string>
-		<key>economy2</key>
 		<string>Refinery</string>
+		<key>economy2</key>
+		<string>None</string>
 		<key>population</key>
-		<integer>33542111</integer>
+		<integer>13460</integer>
 		<key>security</key>
-		<string>High Security</string>
+		<string>Low Security</string>
 		<key>system</key>
-		<string>Shakal A</string>
+		<string>Nanata A</string>
 		<key>updated</key>
 		<string>20250716</string>
 	</dict>

@@ -4,127 +4,125 @@
 <dict>
 	<key>20250716</key>
 	<dict>
-		<key>Autocracy of Shakal</key>
+		<key>Anduliga Empire Group</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.056000000000000001</real>
+			<real>0.052578</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Confederacy of Diviriks</key>
+		<key>Deep Space Mining Agency</key>
+		<dict>
+			<key>Active</key>
+			<string>War</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.187058</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>War</string>
+		</dict>
+		<key>Imperial Enforcement Division</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.254</real>
+			<real>0.31850400000000001</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Confederation of Kagutine</key>
+		<key>Karaikda Galactic Partners</key>
+		<dict>
+			<key>Active</key>
+			<string>CivilUnrest</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.010111</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>CivilUnrest</string>
+		</dict>
+		<key>Karaikda Nobles</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.055</real>
+			<real>0.097068000000000002</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Partnership of Zang Tangma</key>
+		<key>Kukas Patron's Principles</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.44900000000000001</real>
+			<real>0.14762400000000001</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Shakal Crimson Transport Dev</key>
+		<key>New Karaikda Democrats</key>
 		<dict>
 			<key>Active</key>
-			<string></string>
+			<string>War</string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.067000000000000004</real>
+			<real>0.187058</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
-			<string>None</string>
-		</dict>
-		<key>Shakal Progressive Party</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.062</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>None</string>
-		</dict>
-		<key>Shakal Silver Family</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.057000000000000002</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>None</string>
+			<string>War</string>
 		</dict>
 	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
 		<array>
-			<string>Usdian</string>
-			<string>Sochet</string>
-			<string>HIP 62809</string>
-			<string>HR 5349</string>
 			<string>Zang Tangma</string>
-			<string>HIP 70098</string>
+			<string>HIP 62809</string>
+			<string>Sochet</string>
+			<string>HIP 67205</string>
 		</array>
 		<key>StarPos</key>
 		<array>
-			<real>114.15625</real>
-			<real>9</real>
-			<real>90.15625</real>
+			<real>133.71875</real>
+			<real>0.09375</real>
+			<real>82.75</real>
 		</array>
 		<key>SysFaction</key>
-		<string>Partnership of Zang Tangma</string>
+		<string>Imperial Enforcement Division</string>
 		<key>economy</key>
-		<string>Industrial</string>
+		<string>Extraction</string>
 		<key>economy2</key>
 		<string>Refinery</string>
 		<key>population</key>
-		<integer>33542111</integer>
+		<integer>149387</integer>
 		<key>security</key>
-		<string>High Security</string>
+		<string>Medium Security</string>
 		<key>system</key>
-		<string>Shakal A</string>
+		<string>Karaikda A</string>
 		<key>updated</key>
 		<string>20250716</string>
 	</dict>
