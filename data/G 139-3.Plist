@@ -190,8 +190,107 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20250521</key>
+	<dict>
+		<key>Allied G 139-3 Defence Party</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.044670000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Elite Fleet Republican Consortium</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.11065999999999999</real>
+			<key>Pending</key>
+			<string>Expansion - 0</string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>G 139-3 &amp; Co</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.031472</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>G 139-3 Mob</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.010152</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>G 139-3 Vision &amp; Co</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.029441999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Liberals of G 139-3</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.028426</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Nobles of Dagr</key>
+		<dict>
+			<key>Active</key>
+			<string>Expansion</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.74517800000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Expansion</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
+		<key>ExpTarget</key>
+		<array>
+			<string>Wolf 636</string>
+			<string>WISE 1741+2553</string>
+		</array>
 		<key>StarPos</key>
 		<array>
 			<real>-19.90625</real>
@@ -199,7 +298,7 @@
 			<real>30.25</real>
 		</array>
 		<key>SysFaction</key>
-		<string>G 139-3 Vision &amp; Co</string>
+		<string>Nobles of Dagr</string>
 		<key>economy</key>
 		<string>Refinery</string>
 		<key>economy2</key>
@@ -211,7 +310,7 @@
 		<key>system</key>
 		<string>G 139-3</string>
 		<key>updated</key>
-		<string>20240730</string>
+		<string>20250521</string>
 	</dict>
 </dict>
 </plist>

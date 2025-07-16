@@ -2,6 +2,21 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>19 Phi-2 Ceti</key>
+	<dict>
+		<key>name</key>
+		<string>Chargaff Point</string>
+		<key>starPos</key>
+		<array>
+			<real>-12.3125</real>
+			<real>-49.21875</real>
+			<real>-8.28125</real>
+		</array>
+		<key>type</key>
+		<string>CraterOutpost</string>
+		<key>updated</key>
+		<string>20250521</string>
+	</dict>
 	<key>38 Arietis</key>
 	<dict>
 		<key>name</key>
@@ -62,6 +77,36 @@
 		<key>updated</key>
 		<string>20250114</string>
 	</dict>
+	<key>Andecavi</key>
+	<dict>
+		<key>name</key>
+		<string>Kumiho Sky</string>
+		<key>starPos</key>
+		<array>
+			<real>39.84375</real>
+			<real>42.15625</real>
+			<real>-125.34375</real>
+		</array>
+		<key>type</key>
+		<string>MegaShip</string>
+		<key>updated</key>
+		<string>20250526</string>
+	</dict>
+	<key>Anima</key>
+	<dict>
+		<key>name</key>
+		<string>Cowper Dock</string>
+		<key>starPos</key>
+		<array>
+			<real>57.65625</real>
+			<real>-61.1875</real>
+			<real>-36.53125</real>
+		</array>
+		<key>type</key>
+		<string>Coriolis</string>
+		<key>updated</key>
+		<string>20250703</string>
+	</dict>
 	<key>Antai</key>
 	<dict>
 		<key>name</key>
@@ -107,8 +152,38 @@
 		<key>updated</key>
 		<string>20250224</string>
 	</dict>
-	<key>Arque</key>
+	<key>Arietis Sector RD-T b3-0</key>
+	<dict>
+		<key>name</key>
+		<string>Edison Gateway</string>
+		<key>starPos</key>
+		<array>
+			<real>-102.28125</real>
+			<real>-140.84375</real>
+			<real>-144.5</real>
+		</array>
+		<key>type</key>
+		<string>Coriolis</string>
+		<key>updated</key>
+		<string>20250608</string>
+	</dict>
+	<key>Arietis Sector VD-T b3-2</key>
 	<dict/>
+	<key>Arque</key>
+	<dict>
+		<key>name</key>
+		<string>Abel Laboratory</string>
+		<key>starPos</key>
+		<array>
+			<real>66.5</real>
+			<real>38.0625</real>
+			<real>61.125</real>
+		</array>
+		<key>type</key>
+		<string>CraterPort</string>
+		<key>updated</key>
+		<string>20250520</string>
+	</dict>
 	<key>Aurgens</key>
 	<dict>
 		<key>name</key>
@@ -289,21 +364,6 @@
 		<key>updated</key>
 		<string>20241104</string>
 	</dict>
-	<key>Calhuacan</key>
-	<dict>
-		<key>name</key>
-		<string>Dearden-Salter One</string>
-		<key>starPos</key>
-		<array>
-			<real>69.65625</real>
-			<real>-79.34375</real>
-			<real>3.125</real>
-		</array>
-		<key>type</key>
-		<string>Coriolis</string>
-		<key>updated</key>
-		<string>20250326</string>
-	</dict>
 	<key>Cantiaci</key>
 	<dict>
 		<key>name</key>
@@ -347,12 +407,12 @@
 		<key>type</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250314</string>
+		<string>20250310</string>
 	</dict>
 	<key>Chebaei</key>
 	<dict>
 		<key>name</key>
-		<string>Milne Enterprise</string>
+		<string>Bulychev Beacon</string>
 		<key>starPos</key>
 		<array>
 			<real>21.375</real>
@@ -360,9 +420,9 @@
 			<real>-22.53125</real>
 		</array>
 		<key>type</key>
-		<string>Outpost</string>
+		<string>CraterOutpost</string>
 		<key>updated</key>
-		<string>20250411</string>
+		<string>20250108</string>
 	</dict>
 	<key>Col 285 Sector VS-D a28-4</key>
 	<dict>
@@ -378,6 +438,51 @@
 		<string>CraterOutpost</string>
 		<key>updated</key>
 		<string>20250225</string>
+	</dict>
+	<key>Core Sys Sector GW-N a6-3</key>
+	<dict>
+		<key>name</key>
+		<string>Ostwald Vision</string>
+		<key>starPos</key>
+		<array>
+			<real>10.28125</real>
+			<real>-38.09375</real>
+			<real>16.40625</real>
+		</array>
+		<key>type</key>
+		<string>Outpost</string>
+		<key>updated</key>
+		<string>20250521</string>
+	</dict>
+	<key>Core Sys Sector VO-R a4-0</key>
+	<dict>
+		<key>name</key>
+		<string>Huxley Vision</string>
+		<key>starPos</key>
+		<array>
+			<real>0.125</real>
+			<real>-31.15625</real>
+			<real>-4.65625</real>
+		</array>
+		<key>type</key>
+		<string>Orbis</string>
+		<key>updated</key>
+		<string>20250521</string>
+	</dict>
+	<key>Core Sys Sector XJ-R a4-0</key>
+	<dict>
+		<key>name</key>
+		<string>Shaikh Survey</string>
+		<key>starPos</key>
+		<array>
+			<real>2.0625</real>
+			<real>-40.25</real>
+			<real>-3.3125</real>
+		</array>
+		<key>type</key>
+		<string>Outpost</string>
+		<key>updated</key>
+		<string>20250521</string>
 	</dict>
 	<key>Dauruma</key>
 	<dict>
@@ -469,6 +574,21 @@
 		<key>updated</key>
 		<string>20240806</string>
 	</dict>
+	<key>Fujin</key>
+	<dict>
+		<key>name</key>
+		<string>Futen Spaceport</string>
+		<key>starPos</key>
+		<array>
+			<real>-6.03125</real>
+			<real>-30.375</real>
+			<real>-59.03125</real>
+		</array>
+		<key>type</key>
+		<string>Coriolis</string>
+		<key>updated</key>
+		<string>20250516</string>
+	</dict>
 	<key>Gladuwong</key>
 	<dict>
 		<key>name</key>
@@ -483,6 +603,21 @@
 		<string>Outpost</string>
 		<key>updated</key>
 		<string>20250122</string>
+	</dict>
+	<key>Gun</key>
+	<dict>
+		<key>name</key>
+		<string>Gotlieb Refinery</string>
+		<key>starPos</key>
+		<array>
+			<real>-13.8125</real>
+			<real>-42.625</real>
+			<real>7.96875</real>
+		</array>
+		<key>type</key>
+		<string>Outpost</string>
+		<key>updated</key>
+		<string>20250521</string>
 	</dict>
 	<key>Gungo</key>
 	<dict>
@@ -559,6 +694,51 @@
 		<key>updated</key>
 		<string>20250214</string>
 	</dict>
+	<key>HIP 20728</key>
+	<dict>
+		<key>name</key>
+		<string>Binney Terminal</string>
+		<key>starPos</key>
+		<array>
+			<real>-88.75</real>
+			<real>-115.4375</real>
+			<real>-489.25</real>
+		</array>
+		<key>type</key>
+		<string>SurfaceStation</string>
+		<key>updated</key>
+		<string>20250604</string>
+	</dict>
+	<key>HIP 22684</key>
+	<dict>
+		<key>name</key>
+		<string>Bramah Vision</string>
+		<key>starPos</key>
+		<array>
+			<real>4.5625</real>
+			<real>-69.4375</real>
+			<real>-271.1875</real>
+		</array>
+		<key>type</key>
+		<string>Coriolis</string>
+		<key>updated</key>
+		<string>20250528</string>
+	</dict>
+	<key>HIP 28192</key>
+	<dict>
+		<key>name</key>
+		<string>Camm's Pride</string>
+		<key>starPos</key>
+		<array>
+			<real>287.875</real>
+			<real>-122.34375</real>
+			<real>-652.0625</real>
+		</array>
+		<key>type</key>
+		<string>SurfaceStation</string>
+		<key>updated</key>
+		<string>20250527</string>
+	</dict>
 	<key>HIP 3125</key>
 	<dict>
 		<key>name</key>
@@ -589,10 +769,25 @@
 		<key>updated</key>
 		<string>20250411</string>
 	</dict>
+	<key>HIP 60845</key>
+	<dict>
+		<key>name</key>
+		<string>Vaucanson Enterprise</string>
+		<key>starPos</key>
+		<array>
+			<real>135.875</real>
+			<real>2</real>
+			<real>80.1875</real>
+		</array>
+		<key>type</key>
+		<string>Outpost</string>
+		<key>updated</key>
+		<string>20250715</string>
+	</dict>
 	<key>HIP 6990</key>
 	<dict>
 		<key>name</key>
-		<string>Littrow Oasis</string>
+		<string>Banno Landing</string>
 		<key>starPos</key>
 		<array>
 			<real>4.1875</real>
@@ -607,7 +802,7 @@
 	<key>HIP 7386</key>
 	<dict>
 		<key>name</key>
-		<string>Grushin's Claim</string>
+		<string>Henry Depot</string>
 		<key>starPos</key>
 		<array>
 			<real>32.84375</real>
@@ -617,12 +812,12 @@
 		<key>type</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20241014</string>
+		<string>20250127</string>
 	</dict>
 	<key>HIP 9252</key>
 	<dict>
 		<key>name</key>
-		<string>Dean Camp</string>
+		<string>Anderson Works</string>
 		<key>starPos</key>
 		<array>
 			<real>33.5625</real>
@@ -632,7 +827,7 @@
 		<key>type</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250116</string>
+		<string>20250118</string>
 	</dict>
 	<key>HR 3007</key>
 	<dict>
@@ -692,7 +887,7 @@
 		<key>type</key>
 		<string>Ocellus</string>
 		<key>updated</key>
-		<string>20250408</string>
+		<string>20250409</string>
 	</dict>
 	<key>Hiradha</key>
 	<dict>
@@ -724,6 +919,38 @@
 		<key>updated</key>
 		<string>20250105</string>
 	</dict>
+	<key>Hyades Sector CQ-Y d75</key>
+	<dict>
+		<key>name</key>
+		<string>Franke Vision</string>
+		<key>starPos</key>
+		<array>
+			<real>20.65625</real>
+			<real>-84.1875</real>
+			<real>-244.9375</real>
+		</array>
+		<key>type</key>
+		<string>SurfaceStation</string>
+		<key>updated</key>
+		<string>20250530</string>
+	</dict>
+	<key>Hyades Sector CV-Y c19</key>
+	<dict>
+		<key>name</key>
+		<string>Peoples Reach</string>
+		<key>starPos</key>
+		<array>
+			<real>23.6875</real>
+			<real>-81.3125</real>
+			<real>-231.28125</real>
+		</array>
+		<key>type</key>
+		<string>Outpost</string>
+		<key>updated</key>
+		<string>20250527</string>
+	</dict>
+	<key>Hyades Sector HR-W d1-59</key>
+	<dict/>
 	<key>Ithertrudhr</key>
 	<dict>
 		<key>name</key>
@@ -757,7 +984,7 @@
 	<key>Karwareti</key>
 	<dict>
 		<key>name</key>
-		<string>Cantor Horizons</string>
+		<string>Mil's Inheritance</string>
 		<key>starPos</key>
 		<array>
 			<real>18.25</real>
@@ -765,9 +992,9 @@
 			<real>-20.625</real>
 		</array>
 		<key>type</key>
-		<string>CraterOutpost</string>
+		<string>Outpost</string>
 		<key>updated</key>
-		<string>20241003</string>
+		<string>20250410</string>
 	</dict>
 	<key>Kaukhe</key>
 	<dict>
@@ -782,7 +1009,7 @@
 		<key>type</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20250224</string>
+		<string>20250315</string>
 	</dict>
 	<key>Khepehueno</key>
 	<dict>
@@ -891,6 +1118,21 @@
 		<key>updated</key>
 		<string>20250227</string>
 	</dict>
+	<key>LFT 1</key>
+	<dict>
+		<key>name</key>
+		<string>Margulies Freeport</string>
+		<key>starPos</key>
+		<array>
+			<real>0.65625</real>
+			<real>-42.34375</real>
+			<real>9.46875</real>
+		</array>
+		<key>type</key>
+		<string>Outpost</string>
+		<key>updated</key>
+		<string>20250521</string>
+	</dict>
 	<key>LTT 2412</key>
 	<dict>
 		<key>name</key>
@@ -906,6 +1148,36 @@
 		<key>updated</key>
 		<string>20250203</string>
 	</dict>
+	<key>LTT 9587</key>
+	<dict>
+		<key>name</key>
+		<string>Sm1tty's Shack</string>
+		<key>starPos</key>
+		<array>
+			<real>-12.84375</real>
+			<real>-39.3125</real>
+			<real>7.84375</real>
+		</array>
+		<key>type</key>
+		<string>Coriolis</string>
+		<key>updated</key>
+		<string>20250521</string>
+	</dict>
+	<key>LTT 9634</key>
+	<dict>
+		<key>name</key>
+		<string>Huxley Horizons</string>
+		<key>starPos</key>
+		<array>
+			<real>-14.8125</real>
+			<real>-45.71875</real>
+			<real>7.90625</real>
+		</array>
+		<key>type</key>
+		<string>Outpost</string>
+		<key>updated</key>
+		<string>20250521</string>
+	</dict>
 	<key>Laksmi</key>
 	<dict>
 		<key>name</key>
@@ -920,6 +1192,21 @@
 		<string>CraterOutpost</string>
 		<key>updated</key>
 		<string>20240925</string>
+	</dict>
+	<key>Lalande 21185</key>
+	<dict>
+		<key>name</key>
+		<string>Beveridge Enterprise</string>
+		<key>starPos</key>
+		<array>
+			<real>0.3125</real>
+			<real>7.5625</real>
+			<real>-3.375</real>
+		</array>
+		<key>type</key>
+		<string>Orbis</string>
+		<key>updated</key>
+		<string>20250522</string>
 	</dict>
 	<key>Lei Ching</key>
 	<dict>
@@ -954,7 +1241,7 @@
 	<key>Lidar</key>
 	<dict>
 		<key>name</key>
-		<string>Hind City</string>
+		<string>Aikin Hub</string>
 		<key>starPos</key>
 		<array>
 			<real>116.84375</real>
@@ -962,9 +1249,9 @@
 			<real>114.71875</real>
 		</array>
 		<key>type</key>
-		<string>Outpost</string>
+		<string>CraterOutpost</string>
 		<key>updated</key>
-		<string>20250213</string>
+		<string>20250214</string>
 	</dict>
 	<key>Lie Zhi</key>
 	<dict>
@@ -979,7 +1266,22 @@
 		<key>type</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250313</string>
+		<string>20250307</string>
+	</dict>
+	<key>Loki Tan</key>
+	<dict>
+		<key>name</key>
+		<string>Worden City</string>
+		<key>starPos</key>
+		<array>
+			<real>32.375</real>
+			<real>28.34375</real>
+			<real>-109.375</real>
+		</array>
+		<key>type</key>
+		<string>Ocellus</string>
+		<key>updated</key>
+		<string>20250622</string>
 	</dict>
 	<key>Lu Hsiensei</key>
 	<dict>
@@ -1029,7 +1331,7 @@
 	<key>Madri</key>
 	<dict>
 		<key>name</key>
-		<string>Firsoff Colony</string>
+		<string>Miyasaka Station</string>
 		<key>starPos</key>
 		<array>
 			<real>-0.59375</real>
@@ -1039,7 +1341,7 @@
 		<key>type</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20241222</string>
+		<string>20241226</string>
 	</dict>
 	<key>Mainani</key>
 	<dict>
@@ -1059,7 +1361,7 @@
 	<key>Maritou</key>
 	<dict>
 		<key>name</key>
-		<string>Harvia Mines</string>
+		<string>Fan Survey</string>
 		<key>starPos</key>
 		<array>
 			<real>-3.34375</real>
@@ -1069,7 +1371,7 @@
 		<key>type</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20241122</string>
+		<string>20241202</string>
 	</dict>
 	<key>Mbetatika</key>
 	<dict>
@@ -1085,6 +1387,21 @@
 		<string>Outpost</string>
 		<key>updated</key>
 		<string>20250101</string>
+	</dict>
+	<key>Mukulcana</key>
+	<dict>
+		<key>name</key>
+		<string>Ross Outpost</string>
+		<key>starPos</key>
+		<array>
+			<real>19.28125</real>
+			<real>28.3125</real>
+			<real>-137.15625</real>
+		</array>
+		<key>type</key>
+		<string>Outpost</string>
+		<key>updated</key>
+		<string>20250715</string>
 	</dict>
 	<key>Nanatay</key>
 	<dict>
@@ -1114,7 +1431,7 @@
 		<key>type</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250501</string>
+		<string>20250503</string>
 	</dict>
 	<key>Nguni</key>
 	<dict>
@@ -1174,7 +1491,7 @@
 		<key>type</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250314</string>
+		<string>20250306</string>
 	</dict>
 	<key>Njokujinun</key>
 	<dict>
@@ -1221,6 +1538,8 @@
 		<key>updated</key>
 		<string>20240812</string>
 	</dict>
+	<key>PANEL</key>
+	<dict/>
 	<key>Pauish</key>
 	<dict>
 		<key>name</key>
@@ -1250,6 +1569,21 @@
 		<string>Outpost</string>
 		<key>updated</key>
 		<string>20241019</string>
+	</dict>
+	<key>San</key>
+	<dict>
+		<key>name</key>
+		<string>Selous Horizons</string>
+		<key>starPos</key>
+		<array>
+			<real>-96.0625</real>
+			<real>-24.6875</real>
+			<real>-175.28125</real>
+		</array>
+		<key>type</key>
+		<string>Coriolis</string>
+		<key>updated</key>
+		<string>20250702</string>
 	</dict>
 	<key>Santupik</key>
 	<dict>
@@ -1296,6 +1630,21 @@
 		<key>updated</key>
 		<string>20250225</string>
 	</dict>
+	<key>Sochet</key>
+	<dict>
+		<key>name</key>
+		<string>Yolen's Progress</string>
+		<key>starPos</key>
+		<array>
+			<real>126.34375</real>
+			<real>0.125</real>
+			<real>101.03125</real>
+		</array>
+		<key>type</key>
+		<string>Outpost</string>
+		<key>updated</key>
+		<string>20250716</string>
+	</dict>
 	<key>Songloi</key>
 	<dict>
 		<key>name</key>
@@ -1310,6 +1659,21 @@
 		<string>Outpost</string>
 		<key>updated</key>
 		<string>20250119</string>
+	</dict>
+	<key>Synuefe QW-N c9-9</key>
+	<dict>
+		<key>name</key>
+		<string>Reamy City</string>
+		<key>starPos</key>
+		<array>
+			<real>281.75</real>
+			<real>-131.65625</real>
+			<real>-642.5</real>
+		</array>
+		<key>type</key>
+		<string>SurfaceStation</string>
+		<key>updated</key>
+		<string>20250527</string>
 	</dict>
 	<key>Targamu</key>
 	<dict>
@@ -1341,6 +1705,21 @@
 		<key>updated</key>
 		<string>20250225</string>
 	</dict>
+	<key>Taurus Dark Region GR-V b2-0</key>
+	<dict>
+		<key>name</key>
+		<string>Hartley Vista</string>
+		<key>starPos</key>
+		<array>
+			<real>-84.625</real>
+			<real>-103.1875</real>
+			<real>-482.0625</real>
+		</array>
+		<key>type</key>
+		<string>Outpost</string>
+		<key>updated</key>
+		<string>20250603</string>
+	</dict>
 	<key>Ten Samba</key>
 	<dict>
 		<key>name</key>
@@ -1354,7 +1733,7 @@
 		<key>type</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250430</string>
+		<string>20250428</string>
 	</dict>
 	<key>Uutagarama</key>
 	<dict>
@@ -1384,7 +1763,7 @@
 		<key>type</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20250224</string>
+		<string>20250301</string>
 	</dict>
 	<key>Vadimui</key>
 	<dict>
@@ -1415,6 +1794,21 @@
 		<string>Outpost</string>
 		<key>updated</key>
 		<string>20250102</string>
+	</dict>
+	<key>WISE 1741+2553</key>
+	<dict>
+		<key>name</key>
+		<string>Haldeman Prospect</string>
+		<key>starPos</key>
+		<array>
+			<real>-12.40625</real>
+			<real>7.90625</real>
+			<real>10.34375</real>
+		</array>
+		<key>type</key>
+		<string>Outpost</string>
+		<key>updated</key>
+		<string>20250612</string>
 	</dict>
 	<key>Waangamici</key>
 	<dict>
@@ -1539,7 +1933,7 @@
 	<key>Xuanebuth</key>
 	<dict>
 		<key>name</key>
-		<string>Shoujing Oasis</string>
+		<string>Adelman Palace</string>
 		<key>starPos</key>
 		<array>
 			<real>114.59375</real>
@@ -1565,6 +1959,21 @@
 		<string>Orbis</string>
 		<key>updated</key>
 		<string>20240331</string>
+	</dict>
+	<key>Zang Tangma</key>
+	<dict>
+		<key>name</key>
+		<string>Johnson Terminal</string>
+		<key>starPos</key>
+		<array>
+			<real>133.6875</real>
+			<real>16.9375</real>
+			<real>84.625</real>
+		</array>
+		<key>type</key>
+		<string>Coriolis</string>
+		<key>updated</key>
+		<string>20250716</string>
 	</dict>
 </dict>
 </plist>

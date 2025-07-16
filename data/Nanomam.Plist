@@ -96,11 +96,107 @@
 			<string>Boom</string>
 		</dict>
 	</dict>
+	<key>20250524</key>
+	<dict>
+		<key>Earth Defense Fleet</key>
+		<dict>
+			<key>Active</key>
+			<string>CivilLiberty</string>
+			<key>Happiness</key>
+			<string>Elated</string>
+			<key>Influence</key>
+			<real>0.55732800000000005</real>
+			<key>Pending</key>
+			<string>Expansion - 0</string>
+			<key>State</key>
+			<string>Boom</string>
+		</dict>
+		<key>Movement for Nanomam Future</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.025922000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Nanomam Crimson Clan</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.0099699999999999997</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Nanomam Defence Party</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.023928000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Nanomam Life Systems</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.025922000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Nanomam Ltd</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.0099699999999999997</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Tollan Free</key>
+		<dict>
+			<key>Active</key>
+			<string>Expansion</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.34695900000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Expansion</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
 		<array>
+			<string>WISE 1506+7027</string>
 			<string>Wolf 359</string>
+			<string>Sol</string>
 		</array>
 		<key>StarPos</key>
 		<array>
@@ -113,7 +209,7 @@
 		<key>economy</key>
 		<string>Agriculture</string>
 		<key>economy2</key>
-		<string>Military</string>
+		<string>High Tech</string>
 		<key>population</key>
 		<integer>2121852318</integer>
 		<key>security</key>
@@ -121,7 +217,7 @@
 		<key>system</key>
 		<string>Nanomam</string>
 		<key>updated</key>
-		<string>20250128</string>
+		<string>20250524</string>
 	</dict>
 </dict>
 </plist>

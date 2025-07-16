@@ -90,29 +90,111 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20250523</key>
+	<dict>
+		<key>Drug Empire of Kadrusa</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.0099109999999999997</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>G.O.M. Collective</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.73736400000000002</real>
+			<key>Pending</key>
+			<string>Expansion - 0</string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Justice Party of Kadrusa</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.030723</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Kadrusa Gold Life Services</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.021804</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Kadrusa Jet Society</key>
+		<dict>
+			<key>Active</key>
+			<string>Blight</string>
+			<key>Happiness</key>
+			<string>Content</string>
+			<key>Influence</key>
+			<real>0.0099109999999999997</real>
+			<key>Pending</key>
+			<string>Bust - 0</string>
+			<key>State</key>
+			<string>Blight</string>
+		</dict>
+		<key>Kadrusa Left Party</key>
+		<dict>
+			<key>Active</key>
+			<string>War</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.095144000000000006</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>War</string>
+		</dict>
+		<key>The Praetorian Vigil</key>
+		<dict>
+			<key>Active</key>
+			<string>War</string>
+			<key>Happiness</key>
+			<string>Content</string>
+			<key>Influence</key>
+			<real>0.095144000000000006</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>War</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
 		<array>
-			<string>CD-40 395 A</string>
 			<string>LP 940-115</string>
 			<string>Summerland</string>
-			<string>Ba Nari A</string>
 			<string>CF 464</string>
-			<string>Veamit</string>
-			<string>Siddha A</string>
-			<string>Asphodel</string>
-			<string>Pai Huldr A</string>
 			<string>Mbetatika</string>
 			<string>Shambhala</string>
 			<string>Santupik</string>
-			<string>Eotienses A</string>
-			<string>Ketsauts A</string>
-			<string>Kui Hsien A</string>
 			<string>Delta Phoenicis</string>
-			<string>Waangamici A</string>
-			<string>Byeri A</string>
-			<string>LEHPM 1902</string>
 		</array>
 		<key>StarPos</key>
 		<array>
@@ -121,7 +203,7 @@
 			<real>-1.34375</real>
 		</array>
 		<key>SysFaction</key>
-		<string>ELITE SPACE WINGS</string>
+		<string>G.O.M. Collective</string>
 		<key>economy</key>
 		<string>Industrial</string>
 		<key>economy2</key>
@@ -133,7 +215,7 @@
 		<key>system</key>
 		<string>Kadrusa A</string>
 		<key>updated</key>
-		<string>20241231</string>
+		<string>20250523</string>
 	</dict>
 </dict>
 </plist>

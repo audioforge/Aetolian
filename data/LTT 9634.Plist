@@ -4,26 +4,94 @@
 <dict>
 	<key>20240626</key>
 	<dict/>
+	<key>20250521</key>
+	<dict>
+		<key>C.O.N.T.R.A.I.L</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.59540499999999996</real>
+			<key>Pending</key>
+			<string>Expansion - 0</string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Hoko Mob</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.069930000000000006</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Hoko Vision Corp.</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.19880100000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>LP 932-12 Dynamic Inc</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.13586400000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
+		<key>ExpTarget</key>
+		<array>
+			<string>Core Sys Sector AQ-P a5-1</string>
+			<string>Gun</string>
+			<string>LTT 9587</string>
+			<string>LFT 1</string>
+			<string>Core Sys Sector XJ-R a4-0</string>
+			<string>Ursitoare</string>
+			<string>Core Sys Sector VO-R a4-0</string>
+			<string>LTT 377</string>
+		</array>
 		<key>StarPos</key>
 		<array>
 			<real>-14.8125</real>
 			<real>-45.71875</real>
 			<real>7.90625</real>
 		</array>
+		<key>SysFaction</key>
+		<string>C.O.N.T.R.A.I.L</string>
 		<key>economy</key>
-		<string>None</string>
+		<string>Service</string>
 		<key>economy2</key>
 		<string>None</string>
 		<key>population</key>
-		<integer>0</integer>
+		<integer>22590</integer>
 		<key>security</key>
-		<string>Anarchy</string>
+		<string>Low Security</string>
 		<key>system</key>
 		<string>LTT 9634</string>
 		<key>updated</key>
-		<string>20240626</string>
+		<string>20250521</string>
 	</dict>
 </dict>
 </plist>

@@ -96,8 +96,115 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20250521</key>
+	<dict>
+		<key>EG Union</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.84084099999999995</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>LHS 142 Commodities</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.056056000000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>LHS 142 Hand Gang</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.017017000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>LHS 142 Party</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.016015999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>LHS 142 United Solutions</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.021021000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Progressive Party of LHS 142</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.027026999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Wolf Heart Industries</key>
+		<dict>
+			<key>Active</key>
+			<string>CivilUnrest</string>
+			<key>Happiness</key>
+			<string>Content</string>
+			<key>Influence</key>
+			<real>0.022022</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>CivilUnrest</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
+		<key>ExpTarget</key>
+		<array>
+			<string>Ursitoare</string>
+			<string>LFT 174</string>
+			<string>LTT 377</string>
+			<string>Core Sys Sector XJ-R a4-0</string>
+			<string>LHS 1387</string>
+			<string>Mbooni</string>
+			<string>Core Sys Sector AQ-P a5-1</string>
+			<string>LTT 9634</string>
+			<string>Gun</string>
+			<string>LTT 9587</string>
+		</array>
 		<key>StarPos</key>
 		<array>
 			<real>1.21875</real>
@@ -105,7 +212,7 @@
 			<real>-11.34375</real>
 		</array>
 		<key>SysFaction</key>
-		<string>LHS 142 Commodities</string>
+		<string>EG Union</string>
 		<key>economy</key>
 		<string>Agriculture</string>
 		<key>economy2</key>
@@ -117,7 +224,7 @@
 		<key>system</key>
 		<string>LHS 142 A</string>
 		<key>updated</key>
-		<string>20240821</string>
+		<string>20250521</string>
 	</dict>
 </dict>
 </plist>
