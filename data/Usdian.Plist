@@ -4,53 +4,14 @@
 <dict>
 	<key>20250716</key>
 	<dict>
-		<key>Armenia Corporation</key>
-		<dict>
-			<key>Active</key>
-			<string>Election</string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.201789</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>Election</string>
-		</dict>
-		<key>Attacates Empire Group</key>
+		<key>Co-op of Karamo</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.353877</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>None</string>
-		</dict>
-		<key>Deep Space Mining Agency</key>
-		<dict>
-			<key>Active</key>
-			<string>Election</string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.201789</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>Election</string>
-		</dict>
-		<key>Family of Sochet</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.010933999999999999</real>
+			<real>0.047808999999999997</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -63,33 +24,72 @@
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.096421000000000007</real>
+			<real>0.14840600000000001</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Noblemen of Sochet</key>
+		<key>Necromonger Empire</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.124254</real>
+			<real>0.090636999999999995</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Unified Sochet</key>
+		<key>Othe Coordinated</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.010933999999999999</real>
+			<real>0.055777</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Usdian Interstellar</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.059761000000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Usdian Purple Brotherhood</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.01494</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Usdian Shared</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.58266899999999999</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -101,29 +101,27 @@
 		<key>ExpTarget</key>
 		<array>
 			<string>HR 5349</string>
-			<string>Usdian</string>
-			<string>HIP 67205</string>
+			<string>Sochet</string>
 			<string>HIP 70098</string>
-			<string>Zang Tangma</string>
 		</array>
 		<key>StarPos</key>
 		<array>
-			<real>126.34375</real>
-			<real>0.125</real>
-			<real>101.03125</real>
+			<real>111.0625</real>
+			<real>8.25</real>
+			<real>98.84375</real>
 		</array>
 		<key>SysFaction</key>
-		<string>Deep Space Mining Agency</string>
+		<string>Usdian Shared</string>
 		<key>economy</key>
-		<string>Agriculture</string>
+		<string>Military</string>
 		<key>economy2</key>
-		<string>Extraction</string>
+		<string>Industrial</string>
 		<key>population</key>
-		<integer>18465</integer>
+		<integer>50245</integer>
 		<key>security</key>
-		<string>Low Security</string>
+		<string>Medium Security</string>
 		<key>system</key>
-		<string>Sochet</string>
+		<string>Usdian</string>
 		<key>updated</key>
 		<string>20250716</string>
 	</dict>
