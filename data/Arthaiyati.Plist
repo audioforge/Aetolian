@@ -2,81 +2,88 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>20250716</key>
+	<key>20250717</key>
 	<dict>
-		<key>Deep Space Mining Agency</key>
+		<key>Armenia Corporation</key>
 		<dict>
 			<key>Active</key>
-			<string>Expansion</string>
+			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.63</real>
+			<real>0.16352800000000001</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
-			<string>Expansion</string>
+			<string>Election</string>
 		</dict>
-		<key>Friends of Kina</key>
+		<key>Arthaiyati Fortune Industries</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.012999999999999999</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>None</string>
-		</dict>
-		<key>Kina Blue Rats</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.01</real>
+			<real>0.025767999999999999</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Kina Purple Universal Systems</key>
+		<key>Arthaiyati Industries</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.068000000000000005</real>
+			<real>0.12586700000000001</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Labour of HIP 62809</key>
+		<key>Confederacy of Diviriks</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.035000000000000003</real>
+			<real>0.58870199999999995</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Partnership of Zang Tangma</key>
+		<key>Dominion of Arthaiyati</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.24399999999999999</real>
+			<real>0.066402000000000003</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Pirates of Arthaiyati</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.012884</real>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>United Arthaiyati Revolutionary Party</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.016847999999999998</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -87,32 +94,34 @@
 	<dict>
 		<key>ExpTarget</key>
 		<array>
-			<string>Zang Tangma</string>
-			<string>HIP 62809</string>
-			<string>HIP 63862</string>
+			<string>Usdian</string>
+			<string>Gucuman</string>
+			<string>HR 5349</string>
 			<string>Sochet</string>
-			<string>Arthaiyati</string>
+			<string>HIP 70098</string>
+			<string>HIP 62809</string>
+			<string>Zang Tangma</string>
 		</array>
 		<key>StarPos</key>
 		<array>
-			<real>137.21875</real>
-			<real>18.125</real>
-			<real>87.375</real>
+			<real>117.5</real>
+			<real>8.0625</real>
+			<real>104.03125</real>
 		</array>
 		<key>SysFaction</key>
-		<string>Deep Space Mining Agency</string>
+		<string>Confederacy of Diviriks</string>
 		<key>economy</key>
-		<string>Colony</string>
+		<string>Industrial</string>
 		<key>economy2</key>
-		<string>Refinery</string>
+		<string>Extraction</string>
 		<key>population</key>
-		<integer>30497</integer>
+		<integer>5492638</integer>
 		<key>security</key>
-		<string>Low Security</string>
+		<string>Medium Security</string>
 		<key>system</key>
-		<string>Kina</string>
+		<string>Arthaiyati</string>
 		<key>updated</key>
-		<string>20250716</string>
+		<string>20250717</string>
 	</dict>
 </dict>
 </plist>

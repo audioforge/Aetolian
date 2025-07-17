@@ -2,8 +2,15 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>20250716</key>
+	<key>20250717</key>
 	<dict>
+		<key>Armenia Corporation</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.19639300000000001</real>
+			<key>State</key>
+			<string>None</string>
+		</dict>
 		<key>Deep Space Mining Agency</key>
 		<dict>
 			<key>Active</key>
@@ -11,72 +18,33 @@
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.63</real>
+			<real>0.62725399999999998</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>Expansion</string>
 		</dict>
-		<key>Friends of Kina</key>
+		<key>Imperial Enforcement Division</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.012999999999999999</real>
+			<real>0.066131999999999996</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Kina Blue Rats</key>
+		<key>Oromecani Bridge Corporation</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.01</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>None</string>
-		</dict>
-		<key>Kina Purple Universal Systems</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.068000000000000005</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>None</string>
-		</dict>
-		<key>Labour of HIP 62809</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.035000000000000003</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>None</string>
-		</dict>
-		<key>Partnership of Zang Tangma</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.24399999999999999</real>
+			<real>0.11022</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -89,30 +57,28 @@
 		<array>
 			<string>Zang Tangma</string>
 			<string>HIP 62809</string>
-			<string>HIP 63862</string>
 			<string>Sochet</string>
-			<string>Arthaiyati</string>
 		</array>
 		<key>StarPos</key>
 		<array>
-			<real>137.21875</real>
-			<real>18.125</real>
-			<real>87.375</real>
+			<real>139.96875</real>
+			<real>7.1875</real>
+			<real>94.375</real>
 		</array>
 		<key>SysFaction</key>
 		<string>Deep Space Mining Agency</string>
 		<key>economy</key>
 		<string>Colony</string>
 		<key>economy2</key>
-		<string>Refinery</string>
+		<string>Industrial</string>
 		<key>population</key>
-		<integer>30497</integer>
+		<integer>29191</integer>
 		<key>security</key>
 		<string>Low Security</string>
 		<key>system</key>
-		<string>Kina</string>
+		<string>HIP 63205 A</string>
 		<key>updated</key>
-		<string>20250716</string>
+		<string>20250717</string>
 	</dict>
 </dict>
 </plist>
