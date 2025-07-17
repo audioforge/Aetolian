@@ -4917,6 +4917,55 @@
 		<key>updated</key>
 		<string>20250110</string>
 	</dict>
+	<key>Boodt Depot_Kotiga</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>2305.8273690000001</real>
+		<key>starSystem</key>
+		<string>Kotiga</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>Kotiga Values Party</string>
+		</dict>
+		<key>stationName</key>
+		<string>Boodt Depot</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>blackmarket</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>shipyard</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>shop</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>CraterPort</string>
+		<key>updated</key>
+		<string>20250717</string>
+	</dict>
 	<key>Borisenko Gateway_19 Phi-2 Ceti</key>
 	<dict>
 		<key>DistFromStarLS</key>
@@ -17988,6 +18037,45 @@
 		<key>updated</key>
 		<string>20240925</string>
 	</dict>
+	<key>Hurston Dock_Yukpeng</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>1176.0344279999999</real>
+		<key>starSystem</key>
+		<string>Yukpeng</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>United Yukpeng Conservatives</string>
+		</dict>
+		<key>stationName</key>
+		<string>Hurston Dock</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Outpost</string>
+		<key>updated</key>
+		<string>20250717</string>
+	</dict>
 	<key>Huxley Horizons_LTT 9634</key>
 	<dict>
 		<key>DistFromStarLS</key>
@@ -18822,7 +18910,7 @@
 	<key>Johnson Terminal_Zang Tangma</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>23.190488999999999</real>
+		<real>23.211395</real>
 		<key>starSystem</key>
 		<string>Zang Tangma</string>
 		<key>stationFaction</key>
