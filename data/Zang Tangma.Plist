@@ -200,6 +200,142 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20250720</key>
+	<dict>
+		<key>Deep Space Mining Agency</key>
+		<dict>
+			<key>Active</key>
+			<string>War</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.35129700000000003</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>War</string>
+		</dict>
+		<key>Partnership of Zang Tangma</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.11976000000000001</real>
+			<key>Pending</key>
+			<string>CivilWar - 0</string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Traditional Zang Tangma Constitution Party</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.11976000000000001</real>
+			<key>Pending</key>
+			<string>CivilWar - 0</string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Zang Tangma Blue Legal Group</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.057883999999999998</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Zang Tangma Crimson Brotherhood</key>
+		<dict>
+			<key>Active</key>
+			<string>War</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.35129700000000003</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>War</string>
+		</dict>
+	</dict>
+	<key>20250807</key>
+	<dict>
+		<key>Deep Space Mining Agency</key>
+		<dict>
+			<key>Active</key>
+			<string>Retreat</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.0099900000000000006</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Retreat</string>
+		</dict>
+		<key>Partnership of Zang Tangma</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.16383600000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Traditional Zang Tangma Constitution Party</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.055944000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Zang Tangma Blue Legal Group</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.0099900000000000006</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Zang Tangma Crimson Brotherhood</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.76024000000000003</real>
+			<key>Pending</key>
+			<string>Boom - 0</string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
@@ -216,7 +352,7 @@
 			<real>84.625</real>
 		</array>
 		<key>SysFaction</key>
-		<string>Deep Space Mining Agency</string>
+		<string>Zang Tangma Crimson Brotherhood</string>
 		<key>economy</key>
 		<string>Industrial</string>
 		<key>economy2</key>
@@ -224,11 +360,11 @@
 		<key>population</key>
 		<integer>3577197</integer>
 		<key>security</key>
-		<string>Low Security</string>
+		<string>Anarchy</string>
 		<key>system</key>
 		<string>Zang Tangma</string>
 		<key>updated</key>
-		<string>20250717</string>
+		<string>20250807</string>
 	</dict>
 </dict>
 </plist>

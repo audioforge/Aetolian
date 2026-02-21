@@ -96,10 +96,79 @@
 			<string>CivilWar</string>
 		</dict>
 	</dict>
+	<key>20250809</key>
+	<dict>
+		<key>Alliance Rapid-reaction Corps</key>
+		<dict>
+			<key>Active</key>
+			<string>Boom</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.60392199999999996</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Boom</string>
+		</dict>
+		<key>Arque Blue Posse</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.057842999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Arque Commodities</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.091175999999999993</real>
+			<key>Pending</key>
+			<string>CivilWar - 0</string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Federal Reclamation Co</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.15588199999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Uniting Arque</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.091175999999999993</real>
+			<key>Pending</key>
+			<string>CivilWar - 0</string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
 		<array>
+			<string>Leesti</string>
 			<string>Lave</string>
 		</array>
 		<key>StarPos</key>
@@ -121,7 +190,7 @@
 		<key>system</key>
 		<string>Arque</string>
 		<key>updated</key>
-		<string>20250520</string>
+		<string>20250809</string>
 	</dict>
 </dict>
 </plist>
