@@ -4988,10 +4988,102 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20260221</key>
+	<dict>
+		<key>Allied HIP 8758 Bureau</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.20999999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Badbh Corp.</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.17000000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Badbh Partnership</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.017999999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>HIP 8444 Comms Solutions</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.156</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Mainani Empire Party</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.19500000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Nationals of HIP 6108</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.251</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
-		<array/>
+		<array>
+			<string>Wayica</string>
+			<string>Boresti</string>
+			<string>Brigual</string>
+			<string>Kolhou Wu</string>
+			<string>Kites</string>
+			<string>Neginn</string>
+			<string>Degardhi</string>
+			<string>HIP 7304</string>
+			<string>Belatus</string>
+			<string>Pi Sculptoris</string>
+		</array>
 		<key>StarPos</key>
 		<array>
 			<real>22.46875</real>
@@ -5011,7 +5103,7 @@
 		<key>system</key>
 		<string>Badbh</string>
 		<key>updated</key>
-		<string>20250117</string>
+		<string>20260221</string>
 	</dict>
 </dict>
 </plist>
