@@ -1979,6 +1979,49 @@
 		<key>updated</key>
 		<string>20250217</string>
 	</dict>
+	<key>Appel City_Njordr</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>1032.515527</real>
+		<key>starSystem</key>
+		<string>Njordr</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>Achelous Smart Industry Corp</string>
+		</dict>
+		<key>stationName</key>
+		<string>Appel City</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Outpost</string>
+		<key>updated</key>
+		<string>20260216</string>
+	</dict>
 	<key>Argelander Ring_Yu Shun</key>
 	<dict>
 		<key>DistFromStarLS</key>
@@ -7268,13 +7311,13 @@
 	<key>Celsius Station_HIP 7304</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>225.39389499999999</real>
+		<real>225.25020000000001</real>
 		<key>starSystem</key>
 		<string>HIP 7304</string>
 		<key>stationFaction</key>
 		<dict>
 			<key>Name</key>
-			<string>Aetolians</string>
+			<string>Amanogawa Enlight</string>
 		</dict>
 		<key>stationName</key>
 		<string>Celsius Station</string>
@@ -7312,7 +7355,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20250502</string>
+		<string>20260216</string>
 	</dict>
 	<key>Cerulli Station_Almudjara</key>
 	<dict>
@@ -9347,11 +9390,13 @@
 	<key>Delporte Vision_Neginn</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>6.2355349999999996</real>
+		<real>6.2253239999999996</real>
 		<key>starSystem</key>
 		<string>Neginn</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Boom</string>
 			<key>Name</key>
 			<string>Aetolians</string>
 		</dict>
@@ -9387,7 +9432,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250503</string>
+		<string>20260221</string>
 	</dict>
 	<key>Delsanti Orbital_Teliadjali</key>
 	<dict>
@@ -39330,7 +39375,7 @@
 	<key>THH-LHG_Gato</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>0.0</real>
+		<real>58.445748000000002</real>
 		<key>starSystem</key>
 		<string>Gato</string>
 		<key>stationFaction</key>
@@ -39363,7 +39408,7 @@
 		<key>stationType</key>
 		<string>FleetCarrier</string>
 		<key>updated</key>
-		<string>20250822</string>
+		<string>20260216</string>
 	</dict>
 	<key>THH-LHG_Gladuwong</key>
 	<dict>
@@ -41572,7 +41617,7 @@
 	<key>THH-LHG_Neginn</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>2249.8621950000002</real>
+		<real>6.2113659999999999</real>
 		<key>starSystem</key>
 		<string>Neginn</string>
 		<key>stationFaction</key>
@@ -41605,7 +41650,7 @@
 		<key>stationType</key>
 		<string>FleetCarrier</string>
 		<key>updated</key>
-		<string>20250505</string>
+		<string>20260221</string>
 	</dict>
 	<key>THH-LHG_Nuenets</key>
 	<dict>
