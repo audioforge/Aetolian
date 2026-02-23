@@ -27198,7 +27198,7 @@
 	<key>Nyberg Vision_Njokujinun</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>7.8974700000000002</real>
+		<real>7.8954319999999996</real>
 		<key>starSystem</key>
 		<string>Njokujinun</string>
 		<key>stationFaction</key>
@@ -27242,7 +27242,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20240918</string>
+		<string>20260223</string>
 	</dict>
 	<key>Nye Port_Cavins</key>
 	<dict>
@@ -41617,7 +41617,7 @@
 	<key>THH-LHG_Neginn</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>6.21136</real>
+		<real>6.2113680000000002</real>
 		<key>starSystem</key>
 		<string>Neginn</string>
 		<key>stationFaction</key>
@@ -41650,7 +41650,45 @@
 		<key>stationType</key>
 		<string>FleetCarrier</string>
 		<key>updated</key>
-		<string>20260222</string>
+		<string>20260223</string>
+	</dict>
+	<key>THH-LHG_Njokujinun</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>7.892512</real>
+		<key>starSystem</key>
+		<string>Njokujinun</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>FleetCarrier</string>
+		</dict>
+		<key>stationName</key>
+		<string>THH-LHG</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>shipyard</string>
+			<string>engineer</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>stationMenu</string>
+			<string>carriermanagement</string>
+			<string>carrierfuel</string>
+			<string>socialspace</string>
+		</array>
+		<key>stationType</key>
+		<string>FleetCarrier</string>
+		<key>updated</key>
+		<string>20260223</string>
 	</dict>
 	<key>THH-LHG_Nuenets</key>
 	<dict>
