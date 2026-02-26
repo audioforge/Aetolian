@@ -9390,7 +9390,7 @@
 	<key>Delporte Vision_Neginn</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>6.2234550000000004</real>
+		<real>6.1973900000000004</real>
 		<key>starSystem</key>
 		<string>Neginn</string>
 		<key>stationFaction</key>
@@ -9432,7 +9432,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260222</string>
+		<string>20260225</string>
 	</dict>
 	<key>Delsanti Orbital_Teliadjali</key>
 	<dict>
@@ -41617,7 +41617,7 @@
 	<key>THH-LHG_Neginn</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>6.2113649999999998</real>
+		<real>0.0</real>
 		<key>starSystem</key>
 		<string>Neginn</string>
 		<key>stationFaction</key>
@@ -41650,7 +41650,7 @@
 		<key>stationType</key>
 		<string>FleetCarrier</string>
 		<key>updated</key>
-		<string>20260223</string>
+		<string>20260225</string>
 	</dict>
 	<key>THH-LHG_Njokujinun</key>
 	<dict>
@@ -44804,7 +44804,7 @@
 	<key>THH-LHG_Synuefe NL-N c23-4</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1654.7583030000001</real>
+		<real>1734.0499970000001</real>
 		<key>starSystem</key>
 		<string>Synuefe NL-N c23-4</string>
 		<key>stationFaction</key>
@@ -44837,7 +44837,45 @@
 		<key>stationType</key>
 		<string>FleetCarrier</string>
 		<key>updated</key>
-		<string>20250130</string>
+		<string>20260223</string>
+	</dict>
+	<key>THH-LHG_Synuefe VY-Q c21-11</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>0.0</real>
+		<key>starSystem</key>
+		<string>Synuefe VY-Q c21-11</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>FleetCarrier</string>
+		</dict>
+		<key>stationName</key>
+		<string>THH-LHG</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>shipyard</string>
+			<string>engineer</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>stationMenu</string>
+			<string>carriermanagement</string>
+			<string>carrierfuel</string>
+			<string>socialspace</string>
+		</array>
+		<key>stationType</key>
+		<string>FleetCarrier</string>
+		<key>updated</key>
+		<string>20260223</string>
 	</dict>
 	<key>THH-LHG_Thaileia OF-T b37-12</key>
 	<dict>
@@ -45143,6 +45181,44 @@
 		<key>updated</key>
 		<string>20250810</string>
 	</dict>
+	<key>THH-LHG_Wregoe DE-V b43-9</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>0.0</real>
+		<key>starSystem</key>
+		<string>Wregoe DE-V b43-9</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>FleetCarrier</string>
+		</dict>
+		<key>stationName</key>
+		<string>THH-LHG</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>shipyard</string>
+			<string>engineer</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>stationMenu</string>
+			<string>carriermanagement</string>
+			<string>carrierfuel</string>
+			<string>socialspace</string>
+		</array>
+		<key>stationType</key>
+		<string>FleetCarrier</string>
+		<key>updated</key>
+		<string>20260223</string>
+	</dict>
 	<key>THH-LHG_Wregoe JH-U c3-2</key>
 	<dict>
 		<key>DistFromStarLS</key>
@@ -45256,6 +45332,44 @@
 		<string>FleetCarrier</string>
 		<key>updated</key>
 		<string>20250107</string>
+	</dict>
+	<key>THH-LHG_Zandu</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>0.0</real>
+		<key>starSystem</key>
+		<string>Zandu</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>FleetCarrier</string>
+		</dict>
+		<key>stationName</key>
+		<string>THH-LHG</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>shipyard</string>
+			<string>engineer</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>stationMenu</string>
+			<string>carriermanagement</string>
+			<string>carrierfuel</string>
+			<string>socialspace</string>
+		</array>
+		<key>stationType</key>
+		<string>FleetCarrier</string>
+		<key>updated</key>
+		<string>20260224</string>
 	</dict>
 	<key>THH-LHG_Zuni CA-A c71</key>
 	<dict>
