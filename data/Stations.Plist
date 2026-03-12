@@ -3857,13 +3857,11 @@
 	<key>Bartini Enterprise_CF 464</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>522.71287800000005</real>
+		<real>523.01456599999995</real>
 		<key>starSystem</key>
 		<string>CF 464</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>Expansion</string>
 			<key>Name</key>
 			<string>ELITE SPACE WINGS</string>
 		</dict>
@@ -3902,7 +3900,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20250119</string>
+		<string>20260311</string>
 	</dict>
 	<key>Bauman Port_Kaukhe</key>
 	<dict>
@@ -14490,6 +14488,56 @@
 		<key>updated</key>
 		<string>20250203</string>
 	</dict>
+	<key>Gent Vision_CD-41 568</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>2473.4852700000001</real>
+		<key>starSystem</key>
+		<string>CD-41 568</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>FactionState</key>
+			<string>Boom</string>
+			<key>Name</key>
+			<string>Darkwater Authority</string>
+		</dict>
+		<key>stationName</key>
+		<string>Gent Vision</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>shipyard</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>shop</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Coriolis</string>
+		<key>updated</key>
+		<string>20260311</string>
+	</dict>
 	<key>Gernhardt Station_Kausalya</key>
 	<dict>
 		<key>DistFromStarLS</key>
@@ -16907,13 +16955,13 @@
 	<key>Helffrich Outpost_Santupik</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>512.50045499999999</real>
+		<real>510.97277800000001</real>
 		<key>starSystem</key>
 		<string>Santupik</string>
 		<key>stationFaction</key>
 		<dict>
 			<key>FactionState</key>
-			<string>War</string>
+			<string>Boom</string>
 			<key>Name</key>
 			<string>G.O.M. Collective</string>
 		</dict>
@@ -16950,7 +16998,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250102</string>
+		<string>20260311</string>
 	</dict>
 	<key>Helin Dock_Njiri</key>
 	<dict>
@@ -17619,15 +17667,13 @@
 	<key>Hickam Holdings_Degardhi</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>3289.2301240000002</real>
+		<real>3248.8877440000001</real>
 		<key>starSystem</key>
 		<string>Degardhi</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>Boom</string>
 			<key>Name</key>
-			<string>Aetolians</string>
+			<string>Dumni Jet Public Inc</string>
 		</dict>
 		<key>stationName</key>
 		<string>Hickam Holdings</string>
@@ -17635,7 +17681,6 @@
 		<array>
 			<string>dock</string>
 			<string>autodock</string>
-			<string>blackmarket</string>
 			<string>commodities</string>
 			<string>contacts</string>
 			<string>exploration</string>
@@ -17660,7 +17705,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250112</string>
+		<string>20260304</string>
 	</dict>
 	<key>Hill Ring_Lalande 4268</key>
 	<dict>
@@ -20249,6 +20294,52 @@
 		<string>Coriolis</string>
 		<key>updated</key>
 		<string>20250414</string>
+	</dict>
+	<key>Kempf Refinery_Mahei</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>339.71976100000001</real>
+		<key>starSystem</key>
+		<string>Mahei</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>G.O.M. Collective</string>
+		</dict>
+		<key>stationName</key>
+		<string>Kempf Refinery</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>facilitator</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Outpost</string>
+		<key>updated</key>
+		<string>20260305</string>
 	</dict>
 	<key>Kemurdzhian Enterprise_Kanagoto</key>
 	<dict>
@@ -25243,13 +25334,11 @@
 	<key>Millosevich Colony_Belatus</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>351.02123599999999</real>
+		<real>351.17040100000003</real>
 		<key>starSystem</key>
 		<string>Belatus</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>PirateAttack</string>
 			<key>Name</key>
 			<string>Jolly Co-Operators</string>
 		</dict>
@@ -25286,18 +25375,18 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250410</string>
+		<string>20260305</string>
 	</dict>
 	<key>Milne Enterprise_Chebaei</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>52.393056999999999</real>
+		<real>52.395173999999997</real>
 		<key>starSystem</key>
 		<string>Chebaei</string>
 		<key>stationFaction</key>
 		<dict>
 			<key>Name</key>
-			<string>Hand Gang of Chebaei</string>
+			<string>Justice Party of Chebaei</string>
 		</dict>
 		<key>stationName</key>
 		<string>Milne Enterprise</string>
@@ -25305,7 +25394,6 @@
 		<array>
 			<string>dock</string>
 			<string>autodock</string>
-			<string>blackmarket</string>
 			<string>commodities</string>
 			<string>contacts</string>
 			<string>exploration</string>
@@ -25317,10 +25405,10 @@
 			<string>tuning</string>
 			<string>engineer</string>
 			<string>missionsgenerated</string>
-			<string>facilitator</string>
 			<string>flightcontroller</string>
 			<string>stationoperations</string>
 			<string>powerplay</string>
+			<string>searchrescue</string>
 			<string>stationMenu</string>
 			<string>socialspace</string>
 			<string>bartender</string>
@@ -25332,7 +25420,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250501</string>
+		<string>20260305</string>
 	</dict>
 	<key>Miyasaka Port_HIP 8830</key>
 	<dict>
@@ -28650,15 +28738,13 @@
 	<key>Parkinson Dock_Eotienses</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>41.598759000000001</real>
+		<real>41.768424000000003</real>
 		<key>starSystem</key>
 		<string>Eotienses</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>PublicHoliday</string>
 			<key>Name</key>
-			<string>Eotienses Citizens' Forum</string>
+			<string>Royal Privateers</string>
 		</dict>
 		<key>stationName</key>
 		<string>Parkinson Dock</string>
@@ -28695,7 +28781,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20250119</string>
+		<string>20260311</string>
 	</dict>
 	<key>Parkinson Port_Kartenes</key>
 	<dict>
@@ -30149,6 +30235,51 @@
 		<string>FleetCarrier</string>
 		<key>updated</key>
 		<string>20241107</string>
+	</dict>
+	<key>Qureshi Dock_CD-37 641</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>2293.2815869999999</real>
+		<key>starSystem</key>
+		<string>CD-37 641</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>FactionState</key>
+			<string>War</string>
+			<key>Name</key>
+			<string>G.O.M. Collective</string>
+		</dict>
+		<key>stationName</key>
+		<string>Qureshi Dock</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Outpost</string>
+		<key>updated</key>
+		<string>20260311</string>
 	</dict>
 	<key>Qwent Research Base_Sirius</key>
 	<dict>
@@ -34320,15 +34451,13 @@
 	<key>Sudworth Port_Brigual</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>345.82353799999999</real>
+		<real>345.86451399999999</real>
 		<key>starSystem</key>
 		<string>Brigual</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>Boom</string>
 			<key>Name</key>
-			<string>Aetolians</string>
+			<string>Achenar Trading and Mining</string>
 		</dict>
 		<key>stationName</key>
 		<string>Sudworth Port</string>
@@ -34336,7 +34465,6 @@
 		<array>
 			<string>dock</string>
 			<string>autodock</string>
-			<string>blackmarket</string>
 			<string>commodities</string>
 			<string>contacts</string>
 			<string>exploration</string>
@@ -34362,7 +34490,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250410</string>
+		<string>20260305</string>
 	</dict>
 	<key>Sugie Works_Nyan</key>
 	<dict>
@@ -35233,7 +35361,7 @@
 	<key>THH-LHG_Belatus</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>0.0</real>
+		<real>351.19664699999998</real>
 		<key>starSystem</key>
 		<string>Belatus</string>
 		<key>stationFaction</key>
@@ -35266,7 +35394,7 @@
 		<key>stationType</key>
 		<string>FleetCarrier</string>
 		<key>updated</key>
-		<string>20240731</string>
+		<string>20260305</string>
 	</dict>
 	<key>THH-LHG_Blae Hypue IE-D a94-1</key>
 	<dict>
@@ -37053,6 +37181,44 @@
 		<string>FleetCarrier</string>
 		<key>updated</key>
 		<string>20250708</string>
+	</dict>
+	<key>THH-LHG_CD-41 568</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>0.0</real>
+		<key>starSystem</key>
+		<string>CD-41 568</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>FleetCarrier</string>
+		</dict>
+		<key>stationName</key>
+		<string>THH-LHG</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>shipyard</string>
+			<string>engineer</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>stationMenu</string>
+			<string>carriermanagement</string>
+			<string>carrierfuel</string>
+			<string>socialspace</string>
+		</array>
+		<key>stationType</key>
+		<string>FleetCarrier</string>
+		<key>updated</key>
+		<string>20260227</string>
 	</dict>
 	<key>THH-LHG_Caleket</key>
 	<dict>
@@ -41617,7 +41783,7 @@
 	<key>THH-LHG_Neginn</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>0.0</real>
+		<real>2249.7462529999998</real>
 		<key>starSystem</key>
 		<string>Neginn</string>
 		<key>stationFaction</key>
@@ -41650,7 +41816,7 @@
 		<key>stationType</key>
 		<string>FleetCarrier</string>
 		<key>updated</key>
-		<string>20260225</string>
+		<string>20260311</string>
 	</dict>
 	<key>THH-LHG_Njokujinun</key>
 	<dict>
@@ -43432,6 +43598,44 @@
 		<string>FleetCarrier</string>
 		<key>updated</key>
 		<string>20240821</string>
+	</dict>
+	<key>THH-LHG_Santupik</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>760.97081700000001</real>
+		<key>starSystem</key>
+		<string>Santupik</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>FleetCarrier</string>
+		</dict>
+		<key>stationName</key>
+		<string>THH-LHG</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>shipyard</string>
+			<string>engineer</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>stationMenu</string>
+			<string>carriermanagement</string>
+			<string>carrierfuel</string>
+			<string>socialspace</string>
+		</array>
+		<key>stationType</key>
+		<string>FleetCarrier</string>
+		<key>updated</key>
+		<string>20260311</string>
 	</dict>
 	<key>THH-LHG_Shrogaei AZ-H c23-2414</key>
 	<dict>
