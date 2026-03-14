@@ -7779,13 +7779,13 @@
 	<key>Chertovsky Arena_Kites</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>995.95125700000006</real>
+		<real>994.67114800000002</real>
 		<key>starSystem</key>
 		<string>Kites</string>
 		<key>stationFaction</key>
 		<dict>
 			<key>Name</key>
-			<string>Kites Central Solutions</string>
+			<string>Dumni Jet Public Inc</string>
 		</dict>
 		<key>stationName</key>
 		<string>Chertovsky Arena</string>
@@ -7819,7 +7819,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250502</string>
+		<string>20260313</string>
 	</dict>
 	<key>Chretien Terminal_Ross 444</key>
 	<dict>
@@ -9436,13 +9436,11 @@
 	<key>Delporte Vision_Neginn</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>6.1973900000000004</real>
+		<real>6.1818340000000003</real>
 		<key>starSystem</key>
 		<string>Neginn</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>Boom</string>
 			<key>Name</key>
 			<string>Aetolians</string>
 		</dict>
@@ -9478,7 +9476,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260225</string>
+		<string>20260313</string>
 	</dict>
 	<key>Delsanti Orbital_Teliadjali</key>
 	<dict>
@@ -14539,7 +14537,7 @@
 	<key>Gent Vision_CD-41 568</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>2472.9232769999999</real>
+		<real>2473.2955139999999</real>
 		<key>starSystem</key>
 		<string>CD-41 568</string>
 		<key>stationFaction</key>
@@ -14582,7 +14580,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260312</string>
+		<string>20260313</string>
 	</dict>
 	<key>Gernhardt Station_Kausalya</key>
 	<dict>
@@ -17001,7 +16999,7 @@
 	<key>Helffrich Outpost_Santupik</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>511.020352</real>
+		<real>511.78513400000003</real>
 		<key>starSystem</key>
 		<string>Santupik</string>
 		<key>stationFaction</key>
@@ -17044,7 +17042,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260312</string>
+		<string>20260313</string>
 	</dict>
 	<key>Helin Dock_Njiri</key>
 	<dict>
@@ -21374,6 +21372,56 @@
 		<string>Outpost</string>
 		<key>updated</key>
 		<string>20250114</string>
+	</dict>
+	<key>Kowal Dock_Mictlan</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>28.104927</real>
+		<key>starSystem</key>
+		<string>Mictlan</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>FactionState</key>
+			<string>War</string>
+			<key>Name</key>
+			<string>G.O.M. Collective</string>
+		</dict>
+		<key>stationName</key>
+		<string>Kowal Dock</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>shipyard</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>shop</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Ocellus</string>
+		<key>updated</key>
+		<string>20260313</string>
 	</dict>
 	<key>Kraft Survey_Hiradha</key>
 	<dict>
@@ -40912,7 +40960,7 @@
 	<key>THH-LHG_Kites</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>0.0</real>
+		<real>1264.655683</real>
 		<key>starSystem</key>
 		<string>Kites</string>
 		<key>stationFaction</key>
@@ -40945,7 +40993,7 @@
 		<key>stationType</key>
 		<string>FleetCarrier</string>
 		<key>updated</key>
-		<string>20250106</string>
+		<string>20260313</string>
 	</dict>
 	<key>THH-LHG_Koli Discii</key>
 	<dict>
@@ -41976,7 +42024,7 @@
 	<key>THH-LHG_Neginn</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>2249.7462529999998</real>
+		<real>6.2113670000000001</real>
 		<key>starSystem</key>
 		<string>Neginn</string>
 		<key>stationFaction</key>
@@ -42009,7 +42057,7 @@
 		<key>stationType</key>
 		<string>FleetCarrier</string>
 		<key>updated</key>
-		<string>20260311</string>
+		<string>20260313</string>
 	</dict>
 	<key>THH-LHG_Njokujinun</key>
 	<dict>
@@ -43795,7 +43843,7 @@
 	<key>THH-LHG_Santupik</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>760.96833000000004</real>
+		<real>511.38555400000001</real>
 		<key>starSystem</key>
 		<string>Santupik</string>
 		<key>stationFaction</key>
@@ -43828,7 +43876,7 @@
 		<key>stationType</key>
 		<string>FleetCarrier</string>
 		<key>updated</key>
-		<string>20260312</string>
+		<string>20260313</string>
 	</dict>
 	<key>THH-LHG_Shrogaei AZ-H c23-2414</key>
 	<dict>
