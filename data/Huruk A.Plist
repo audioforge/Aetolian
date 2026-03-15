@@ -1600,10 +1600,119 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20260314</key>
+	<dict>
+		<key>Dragons of Huruk</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.044909999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Huruk Citizens' Forum</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.198603</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Huruk Co</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.086826</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Huruk PLC</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.097804000000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Independent Huruk Union Party</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.14271500000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Krine Blue Transport PLC</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.045907999999999997</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Red Slug Trading Company</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.38323400000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
-		<array/>
+		<array>
+			<string>HIP 6847</string>
+			<string>49 Ceti</string>
+			<string>Krine</string>
+			<string>Maritou</string>
+			<string>HR 394</string>
+			<string>HIP 5651 A</string>
+			<string>Ao Kicho A</string>
+			<string>HIP 6990 A</string>
+			<string>Apurineph A</string>
+			<string>Alyuta A</string>
+			<string>Wallu A</string>
+			<string>Widjabihiko A</string>
+			<string>Waila</string>
+			<string>HIP 6807 A</string>
+		</array>
 		<key>StarPos</key>
 		<array>
 			<real>-4.78125</real>
@@ -1623,7 +1732,7 @@
 		<key>system</key>
 		<string>Huruk A</string>
 		<key>updated</key>
-		<string>20250105</string>
+		<string>20260314</string>
 	</dict>
 </dict>
 </plist>
