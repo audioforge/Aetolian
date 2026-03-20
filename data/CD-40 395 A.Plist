@@ -96,10 +96,124 @@
 			<string>War</string>
 		</dict>
 	</dict>
+	<key>20260319</key>
+	<dict>
+		<key>CD-40 395 Crew</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.0099600000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>CD-40 395 Empire League</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.01494</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>CD-40 395 Imperial Society</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.051792999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>CD-40 395 Independents</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.0099600000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>CD-40 395 Life Solutions</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.017927999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>ELITE SPACE WINGS</key>
+		<dict>
+			<key>Active</key>
+			<string>Expansion</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.77988000000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Expansion</string>
+		</dict>
+		<key>G.O.M. Collective</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.115538</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
-		<array/>
+		<array>
+			<string>Kadrusa A</string>
+			<string>Summerland</string>
+			<string>LP 940-115</string>
+			<string>CD-37 641</string>
+			<string>HR 494 A</string>
+			<string>Themiscrya</string>
+			<string>Siddha A</string>
+			<string>CF 464</string>
+			<string>Persephone</string>
+			<string>Pai Huldr A</string>
+			<string>Mbetatika</string>
+			<string>Santupik</string>
+			<string>Waangamici A</string>
+			<string>Shambhala</string>
+			<string>Eotienses A</string>
+			<string>Kui Hsien A</string>
+			<string>Byeri A</string>
+			<string>Delta Phoenicis</string>
+			<string>NLTT 8653</string>
+		</array>
 		<key>StarPos</key>
 		<array>
 			<real>34</real>
@@ -119,7 +233,7 @@
 		<key>system</key>
 		<string>CD-40 395 A</string>
 		<key>updated</key>
-		<string>20250102</string>
+		<string>20260319</string>
 	</dict>
 </dict>
 </plist>

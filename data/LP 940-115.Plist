@@ -96,10 +96,121 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20260319</key>
+	<dict>
+		<key>Darkwater Authority</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.046489000000000003</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>ELITE SPACE WINGS</key>
+		<dict>
+			<key>Active</key>
+			<string>Expansion</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.62215600000000004</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Expansion</string>
+		</dict>
+		<key>LP 940-115 Brothers</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.059346999999999997</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>LP 940-115 Citizens' Forum</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.057369000000000003</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>LP 940-115 Interstellar</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.058358</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>LP 940-115 Progressive Party</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.11276</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>League of LP 940-115 Defence Party</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.043520999999999997</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
-		<array/>
+		<array>
+			<string>CD-40 395 A</string>
+			<string>Kadrusa A</string>
+			<string>CD-37 641</string>
+			<string>HR 494 A</string>
+			<string>Themiscrya</string>
+			<string>Summerland</string>
+			<string>Siddha A</string>
+			<string>CF 464</string>
+			<string>Shambhala</string>
+			<string>Byeri A</string>
+			<string>Persephone</string>
+			<string>Santupik</string>
+			<string>NLTT 8653</string>
+			<string>Pai Huldr A</string>
+			<string>Waangamici A</string>
+			<string>Eotienses A</string>
+		</array>
 		<key>StarPos</key>
 		<array>
 			<real>35.21875</real>
@@ -119,7 +230,7 @@
 		<key>system</key>
 		<string>LP 940-115</string>
 		<key>updated</key>
-		<string>20250102</string>
+		<string>20260319</string>
 	</dict>
 </dict>
 </plist>

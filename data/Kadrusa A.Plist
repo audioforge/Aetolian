@@ -184,17 +184,123 @@
 			<string>War</string>
 		</dict>
 	</dict>
+	<key>20260319</key>
+	<dict>
+		<key>Drug Empire of Kadrusa</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.0098329999999999997</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>ELITE SPACE WINGS</key>
+		<dict>
+			<key>Active</key>
+			<string>Expansion</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.67158300000000004</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Expansion</string>
+		</dict>
+		<key>G.O.M. Collective</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.029499000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Justice Party of Kadrusa</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.074730000000000005</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Kadrusa Gold Life Services</key>
+		<dict>
+			<key>Active</key>
+			<string>CivilWar</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.10226200000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>CivilWar</string>
+		</dict>
+		<key>Kadrusa Jet Society</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.0098329999999999997</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Kadrusa Left Party</key>
+		<dict>
+			<key>Active</key>
+			<string>CivilWar</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.10226200000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>CivilWar</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
 		<array>
+			<string>CD-40 395 A</string>
 			<string>LP 940-115</string>
 			<string>Summerland</string>
+			<string>HR 494 A</string>
 			<string>CF 464</string>
+			<string>Themiscrya</string>
+			<string>CD-37 641</string>
+			<string>Siddha A</string>
+			<string>Pai Huldr A</string>
+			<string>Persephone</string>
 			<string>Mbetatika</string>
 			<string>Shambhala</string>
 			<string>Santupik</string>
+			<string>Eotienses A</string>
+			<string>Kui Hsien A</string>
 			<string>Delta Phoenicis</string>
+			<string>Waangamici A</string>
+			<string>NLTT 8653</string>
+			<string>Byeri A</string>
 		</array>
 		<key>StarPos</key>
 		<array>
@@ -203,7 +309,7 @@
 			<real>-1.34375</real>
 		</array>
 		<key>SysFaction</key>
-		<string>G.O.M. Collective</string>
+		<string>ELITE SPACE WINGS</string>
 		<key>economy</key>
 		<string>Industrial</string>
 		<key>economy2</key>
@@ -215,7 +321,7 @@
 		<key>system</key>
 		<string>Kadrusa A</string>
 		<key>updated</key>
-		<string>20250523</string>
+		<string>20260319</string>
 	</dict>
 </dict>
 </plist>
