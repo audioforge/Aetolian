@@ -70,10 +70,123 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20260320</key>
+	<dict>
+		<key>Ancient Astronauts</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.113772</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>ELITE SPACE WINGS</key>
+		<dict>
+			<key>Active</key>
+			<string>Expansion</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.31437100000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Expansion</string>
+		</dict>
+		<key>Friends of Kui Hsien</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.07485</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>G.O.M. Collective</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.19461100000000001</real>
+			<key>Pending</key>
+			<string>Expansion - 0</string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Kui Hsien General Ltd</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.050897999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Kui Hsien Nobles</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.014970000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Royal Privateers</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.23652699999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
-		<array/>
+		<array>
+			<string>Eotienses A</string>
+			<string>Santupik</string>
+			<string>LTT 911</string>
+			<string>Mictlan</string>
+			<string>Mahei</string>
+			<string>Persephone</string>
+			<string>Pai Huldr A</string>
+			<string>Quivira A</string>
+			<string>CF 464</string>
+			<string>Miphifa</string>
+			<string>CD-41 568</string>
+			<string>Themiscrya</string>
+			<string>Kadrusa A</string>
+			<string>CD-40 395 A</string>
+			<string>Alacagui A</string>
+			<string>Summerland</string>
+			<string>CD-37 641</string>
+			<string>LTT 982</string>
+		</array>
 		<key>StarPos</key>
 		<array>
 			<real>45.15625</real>
@@ -81,7 +194,7 @@
 			<real>11.875</real>
 		</array>
 		<key>SysFaction</key>
-		<string>G.O.M. Collective</string>
+		<string>ELITE SPACE WINGS</string>
 		<key>economy</key>
 		<string>Military</string>
 		<key>economy2</key>
@@ -93,7 +206,7 @@
 		<key>system</key>
 		<string>Kui Hsien A</string>
 		<key>updated</key>
-		<string>20250101</string>
+		<string>20260320</string>
 	</dict>
 </dict>
 </plist>
