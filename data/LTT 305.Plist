@@ -2,94 +2,94 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>20260312</key>
+	<key>20260322</key>
 	<dict>
-		<key>Bureau of LP 941-16 Front</key>
+		<key>First Imperial Fleet</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.085000000000000006</real>
+			<real>0.64606200000000003</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Eotienses Citizens' Forum</key>
+		<key>G.O.M. Collective</key>
+		<dict>
+			<key>Active</key>
+			<string>CivilUnrest</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.131605</real>
+			<key>Pending</key>
+			<string>Expansion - 0</string>
+			<key>State</key>
+			<string>CivilUnrest</string>
+		</dict>
+		<key>LTT 305 &amp; Co</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.088999999999999996</real>
+			<real>0.011964000000000001</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>LTT 982 Family</key>
+		<key>LTT 305 Camorra</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.010999999999999999</real>
+			<real>0.0099699999999999997</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>LTT 982 Party</key>
+		<key>LTT 305 Dominion</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.112</real>
+			<real>0.061815000000000002</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>LTT 982 State Holdings</key>
+		<key>LTT 305 Electronics Network</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.068000000000000005</real>
+			<real>0.088733999999999993</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Official LTT 982 Autocracy</key>
+		<key>Republic Party of LTT 305</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.088999999999999996</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>None</string>
-		</dict>
-		<key>Verne Partners LLP</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.54600000000000004</real>
+			<real>0.049849999999999998</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -100,35 +100,29 @@
 	<dict>
 		<key>ExpTarget</key>
 		<array>
-			<string>HR 706</string>
-			<string>LEHPM 1902</string>
-			<string>CD-41 568</string>
-			<string>Mahei</string>
+			<string>Sugrivik</string>
 			<string>LTT 911</string>
-			<string>Persephone</string>
-			<string>NLTT 8653</string>
-			<string>Kui Hsien A</string>
 		</array>
 		<key>StarPos</key>
 		<array>
-			<real>25.1875</real>
-			<real>-85.40625</real>
-			<real>-5.5</real>
+			<real>27.6875</real>
+			<real>-75.28125</real>
+			<real>21.8125</real>
 		</array>
 		<key>SysFaction</key>
-		<string>Verne Partners LLP</string>
+		<string>First Imperial Fleet</string>
 		<key>economy</key>
-		<string>Refinery</string>
+		<string>Extraction</string>
 		<key>economy2</key>
-		<string>Industrial</string>
+		<string>Agriculture</string>
 		<key>population</key>
-		<integer>3932617</integer>
+		<integer>317420</integer>
 		<key>security</key>
-		<string>High Security</string>
+		<string>Medium Security</string>
 		<key>system</key>
-		<string>LTT 982</string>
+		<string>LTT 305</string>
 		<key>updated</key>
-		<string>20260312</string>
+		<string>20260322</string>
 	</dict>
 </dict>
 </plist>
