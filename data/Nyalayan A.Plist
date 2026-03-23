@@ -3186,10 +3186,132 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20260322</key>
+	<dict>
+		<key>Amanogawa Enlight</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.42955700000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Nyalayan Crimson Dragons</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.025616</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Nyalayan Imperial Society</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.117241</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Nyalayan Power &amp; Co</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.096551999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Nyalayan Silver Transport Org</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.050245999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Reret Emperor's Grace</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.195074</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Traditional Nyalayan Front</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.085713999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
-		<array/>
+		<array>
+			<string>Jemede</string>
+			<string>Nespel</string>
+			<string>Dyin A</string>
+			<string>HIP 7386 A</string>
+			<string>Cemplangpa A</string>
+			<string>Bolocara</string>
+			<string>Muang</string>
+			<string>Caspataya A</string>
+			<string>Guan Wango A</string>
+			<string>Bolowari A</string>
+			<string>Candiae A</string>
+			<string>Songloi</string>
+			<string>Rishanha</string>
+			<string>Dyaus A</string>
+			<string>HIP 6854</string>
+			<string>HIP 5184 A</string>
+			<string>Crom Dubh</string>
+			<string>Gliese 9043 A</string>
+			<string>Ovamalu A</string>
+			<string>Nyan</string>
+			<string>Ix Tub Tun</string>
+			<string>Yokusu A</string>
+			<string>HIP 8894</string>
+			<string>Soniteru A</string>
+			<string>Guttors A</string>
+			<string>Mayapok A</string>
+			<string>Rabatha</string>
+		</array>
 		<key>StarPos</key>
 		<array>
 			<real>29.71875</real>
@@ -3209,7 +3331,7 @@
 		<key>system</key>
 		<string>Nyalayan A</string>
 		<key>updated</key>
-		<string>20250121</string>
+		<string>20260322</string>
 	</dict>
 </dict>
 </plist>

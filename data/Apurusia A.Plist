@@ -10816,13 +10816,98 @@
 			<string>War</string>
 		</dict>
 	</dict>
+	<key>20260322</key>
+	<dict>
+		<key>Allied Apurusia Nationalists</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.085486999999999994</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Amanogawa Enlight</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.157058</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Apurusia Legal Industries</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.14512900000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Defence Force of Apurusia</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.073558999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Future of Apurusia</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.116302</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Gungo General Exchange</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.42246499999999998</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
 		<array>
+			<string>Mokoi A</string>
+			<string>Dangu A</string>
 			<string>HIP 6854</string>
 			<string>Gungo</string>
+			<string>Alyuta A</string>
 			<string>Ix Tub Tun</string>
+			<string>HIP 6990 A</string>
 			<string>Madri</string>
 			<string>Nyan</string>
 			<string>Songloi</string>
@@ -10831,14 +10916,25 @@
 			<string>Reshero</string>
 			<string>Rabatha</string>
 			<string>Muang</string>
+			<string>Yaso Kondi A</string>
 			<string>Zosian Tse</string>
+			<string>Apurineph A</string>
 			<string>Rishanha</string>
+			<string>Ausermoduro A</string>
+			<string>Gliese 9043 A</string>
 			<string>Lwali</string>
+			<string>Cemplangpa A</string>
 			<string>Ditae</string>
 			<string>HIP 4072</string>
 			<string>Krine</string>
+			<string>Yokusu A</string>
 			<string>Nespel</string>
 			<string>Jemede</string>
+			<string>HIP 5651 A</string>
+			<string>Bolowari A</string>
+			<string>Namba A</string>
+			<string>Ibormbu A</string>
+			<string>Sui Xianoan A</string>
 		</array>
 		<key>StarPos</key>
 		<array>
@@ -10847,7 +10943,7 @@
 			<real>-20.28125</real>
 		</array>
 		<key>SysFaction</key>
-		<string>Aetolians</string>
+		<string>Gungo General Exchange</string>
 		<key>economy</key>
 		<string>Extraction</string>
 		<key>economy2</key>
@@ -10859,7 +10955,7 @@
 		<key>system</key>
 		<string>Apurusia A</string>
 		<key>updated</key>
-		<string>20250504</string>
+		<string>20260322</string>
 	</dict>
 </dict>
 </plist>
