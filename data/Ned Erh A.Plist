@@ -2,94 +2,94 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>20260322</key>
+	<key>20260325</key>
 	<dict>
-		<key>Democrats of Macu Kuang</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.12979399999999999</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>None</string>
-		</dict>
 		<key>G.O.M. Collective</key>
 		<dict>
 			<key>Active</key>
-			<string></string>
+			<string>Expansion</string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.50737500000000002</real>
+			<real>0.37400800000000001</real>
 			<key>Pending</key>
-			<string>Expansion - 0</string>
+			<string></string>
 			<key>State</key>
-			<string>None</string>
+			<string>Expansion</string>
 		</dict>
-		<key>Macu Kuang Advanced Group</key>
+		<key>Monarchy of Ned Erh</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.068830000000000002</real>
+			<real>0.12599199999999999</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Macu Kuang Gold Advanced Comms</key>
+		<key>Ned Erh PLC</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.067847000000000005</real>
+			<real>0.106151</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Marquis du Macu Kuang</key>
+		<key>Ned Erh Silver State Group</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.058014000000000003</real>
+			<real>0.065476000000000006</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Nu Kuni Jet Life Incorporated</key>
+		<key>Syndicate of Ned Erh</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.141593</real>
+			<real>0.119048</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Raiders of Macu Kuang</key>
+		<key>UICLI</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.026549</real>
+			<real>0.067460000000000006</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>United Ned Erh Confederation</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.14186499999999999</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -100,35 +100,35 @@
 	<dict>
 		<key>ExpTarget</key>
 		<array>
-			<string>LTT 982</string>
 			<string>Pemeowa</string>
-			<string>LTT 911</string>
-			<string>Persephone</string>
-			<string>Wongkho</string>
-			<string>CD-41 568</string>
-			<string>Mahei</string>
-			<string>Themiscrya</string>
+			<string>Julung A</string>
+			<string>Pyemmairre A</string>
+			<string>Tamar</string>
+			<string>Siddha A</string>
+			<string>HIP 3142 A</string>
+			<string>LEHPM 1902</string>
+			<string>Gliese 58 A</string>
 		</array>
 		<key>StarPos</key>
 		<array>
-			<real>21.59375</real>
-			<real>-88.34375</real>
-			<real>8.75</real>
+			<real>6.34375</real>
+			<real>-111.65625</real>
+			<real>0.4375</real>
 		</array>
 		<key>SysFaction</key>
 		<string>G.O.M. Collective</string>
 		<key>economy</key>
-		<string>Military</string>
+		<string>Refinery</string>
 		<key>economy2</key>
-		<string>Agriculture</string>
+		<string>Colony</string>
 		<key>population</key>
-		<integer>91906</integer>
+		<integer>84902</integer>
 		<key>security</key>
-		<string>Medium Security</string>
+		<string>Low Security</string>
 		<key>system</key>
-		<string>Macu Kuang</string>
+		<string>Ned Erh A</string>
 		<key>updated</key>
-		<string>20260322</string>
+		<string>20260325</string>
 	</dict>
 </dict>
 </plist>
