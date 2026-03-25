@@ -96,10 +96,127 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20260324</key>
+	<dict>
+		<key>51TH Massilia Corporation</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.087437000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Asphodel Crimson Posse</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.053266000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Asphodel Flag</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.029145999999999998</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Asphodel Partners</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.155779</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Asphodel Unionists</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.101508</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>CF 464 Natural Partners</key>
+		<dict>
+			<key>Active</key>
+			<string>Boom</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.112563</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Boom</string>
+		</dict>
+		<key>Eotienses Citizens' Forum</key>
+		<dict>
+			<key>Active</key>
+			<string>Boom</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.46030199999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Boom</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
-		<array/>
+		<array>
+			<string>CF 464</string>
+			<string>Pai Huldr A</string>
+			<string>Miphifa</string>
+			<string>Gender A</string>
+			<string>Delta Phoenicis</string>
+			<string>Eotienses A</string>
+			<string>Mbetatika</string>
+			<string>Alacagui A</string>
+			<string>Kui Hsien A</string>
+			<string>Kadrusa A</string>
+			<string>Quivira A</string>
+			<string>CD-40 395 A</string>
+			<string>Santupik</string>
+			<string>Persephone</string>
+			<string>Summerland</string>
+			<string>Lombi A</string>
+			<string>Cockaigne</string>
+			<string>Themiscrya</string>
+			<string>Mahei</string>
+			<string>HR 494 A</string>
+			<string>CD-41 568</string>
+			<string>Meliontit</string>
+		</array>
 		<key>StarPos</key>
 		<array>
 			<real>48.03125</real>
@@ -107,7 +224,7 @@
 			<real>12.9375</real>
 		</array>
 		<key>SysFaction</key>
-		<string>51TH Massilia Corporation</string>
+		<string>Eotienses Citizens' Forum</string>
 		<key>economy</key>
 		<string>Industrial</string>
 		<key>economy2</key>
@@ -119,7 +236,7 @@
 		<key>system</key>
 		<string>Asphodel</string>
 		<key>updated</key>
-		<string>20250101</string>
+		<string>20260324</string>
 	</dict>
 </dict>
 </plist>

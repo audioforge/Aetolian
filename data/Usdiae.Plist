@@ -2,94 +2,94 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>20260322</key>
+	<key>20260324</key>
 	<dict>
-		<key>Kured Empire Group</key>
+		<key>Defence Party of Usdiae</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.15337999999999999</real>
+			<real>0.085884000000000002</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>People's Wongkho Free</key>
+		<key>ELITE SPACE WINGS</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.052471999999999998</real>
+			<real>0.64955600000000002</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Royal Privateers</key>
+		<key>Party of Sieganga</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.50050499999999998</real>
+			<real>0.055280999999999997</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Wongkho Blue Allied Limited</key>
+		<key>Usdiae Council</key>
+		<dict>
+			<key>Active</key>
+			<string>Bust</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.0098720000000000006</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Bust</string>
+		</dict>
+		<key>Usdiae Dynamic Systems</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.106963</real>
+			<real>0.030602000000000001</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Wongkho Jet Electronics Industry</key>
+		<key>Usdiae Labour Union</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.059535999999999999</real>
+			<real>0.051332999999999997</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Wongkho Patron's Principles</key>
+		<key>Usdiae State Organisation</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.067608000000000001</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>None</string>
-		</dict>
-		<key>Wongkho Silver Rats</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.059535999999999999</real>
+			<real>0.11747299999999999</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -100,43 +100,46 @@
 	<dict>
 		<key>ExpTarget</key>
 		<array>
-			<string>Persephone</string>
-			<string>Quivira A</string>
-			<string>Tamar</string>
-			<string>Kui Hsien A</string>
-			<string>Pemeowa</string>
-			<string>Summerland</string>
-			<string>LTT 911</string>
-			<string>Siddha A</string>
-			<string>Asphodel</string>
-			<string>CD-40 395 A</string>
-			<string>Eotienses A</string>
-			<string>Mahei</string>
-			<string>Santupik</string>
-			<string>Kadrusa A</string>
-			<string>CF 464</string>
-			<string>Mictlan</string>
+			<string>Karelitakas</string>
+			<string>HIP 7817 A</string>
+			<string>Guttors A</string>
+			<string>Macat</string>
+			<string>Pastara A</string>
+			<string>Byeri A</string>
+			<string>Wichaimi A</string>
+			<string>Kholu</string>
+			<string>HR 494 A</string>
+			<string>Bolowari A</string>
+			<string>Shambhala</string>
+			<string>Crom Dubh</string>
+			<string>Ovamalu A</string>
+			<string>Soniteru A</string>
+			<string>Zosian Tse</string>
+			<string>Jemen A</string>
+			<string>Warlaworka A</string>
+			<string>Gliese 9043 A</string>
+			<string>HIP 9141 A</string>
 		</array>
 		<key>StarPos</key>
 		<array>
-			<real>31.21875</real>
-			<real>-107.625</real>
-			<real>14.28125</real>
+			<real>31.3125</real>
+			<real>-142.0625</real>
+			<real>-19.03125</real>
 		</array>
 		<key>SysFaction</key>
-		<string>Royal Privateers</string>
+		<string>ELITE SPACE WINGS</string>
 		<key>economy</key>
-		<string>Extraction</string>
+		<string>Industrial</string>
 		<key>economy2</key>
-		<string>Refinery</string>
+		<string>Military</string>
 		<key>population</key>
-		<integer>500271</integer>
+		<integer>3248497</integer>
 		<key>security</key>
 		<string>Medium Security</string>
 		<key>system</key>
-		<string>Wongkho</string>
+		<string>Usdiae</string>
 		<key>updated</key>
-		<string>20260322</string>
+		<string>20260324</string>
 	</dict>
 </dict>
 </plist>
