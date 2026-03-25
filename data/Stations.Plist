@@ -7585,7 +7585,7 @@
 	<key>Celsius Station_HIP 7304</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>225.25020000000001</real>
+		<real>225.20554000000001</real>
 		<key>starSystem</key>
 		<string>HIP 7304</string>
 		<key>stationFaction</key>
@@ -7629,7 +7629,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260216</string>
+		<string>20260324</string>
 	</dict>
 	<key>Cerulli Station_Almudjara</key>
 	<dict>
@@ -8050,13 +8050,15 @@
 	<key>Chertovsky Arena_Kites</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>994.67575199999999</real>
+		<real>994.68774900000005</real>
 		<key>starSystem</key>
 		<string>Kites</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Expansion</string>
 			<key>Name</key>
-			<string>Dumni Jet Public Inc</string>
+			<string>Aetolians</string>
 		</dict>
 		<key>stationName</key>
 		<string>Chertovsky Arena</string>
@@ -8064,6 +8066,7 @@
 		<array>
 			<string>dock</string>
 			<string>autodock</string>
+			<string>blackmarket</string>
 			<string>commodities</string>
 			<string>contacts</string>
 			<string>exploration</string>
@@ -8090,7 +8093,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260319</string>
+		<string>20260324</string>
 	</dict>
 	<key>Chretien Terminal_Ross 444</key>
 	<dict>
@@ -35792,7 +35795,7 @@
 	<key>Sudworth Port_Brigual</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>345.86451399999999</real>
+		<real>345.77239300000002</real>
 		<key>starSystem</key>
 		<string>Brigual</string>
 		<key>stationFaction</key>
@@ -35831,7 +35834,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260305</string>
+		<string>20260324</string>
 	</dict>
 	<key>Sugie Works_Nyan</key>
 	<dict>
@@ -43162,7 +43165,7 @@
 	<key>THH-LHG_Neginn</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>6.2113709999999998</real>
+		<real>6.2113690000000004</real>
 		<key>starSystem</key>
 		<string>Neginn</string>
 		<key>stationFaction</key>
