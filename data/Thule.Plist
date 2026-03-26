@@ -4,86 +4,92 @@
 <dict>
 	<key>20260325</key>
 	<dict>
-		<key>Allied Khruvandji Regulatory State</key>
+		<key>Achilles Corporation</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.094</real>
+			<real>0.032835999999999997</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>G.O.M. Collective</key>
-		<dict>
-			<key>Influence</key>
-			<real>0.64100000000000001</real>
-			<key>State</key>
-			<string>Expansion</string>
-		</dict>
-		<key>Integrated Julung</key>
+		<key>ELITE SPACE WINGS</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.036999999999999998</real>
+			<real>0.43582100000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Drought</string>
+		</dict>
+		<key>Independents of Thule</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.078606999999999996</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Julung Crimson Electronics Net</key>
+		<key>LTT 542 Justice Party</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.023</real>
+			<real>0.090547000000000002</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Julung Purple Vision Corporation</key>
+		<key>Thule Boys</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.062</real>
+			<real>0.054725999999999997</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Julung Society</key>
+		<key>Thule Empire League</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.024</real>
+			<real>0.208955</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Marquis du Julung</key>
+		<key>Thule Industries</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.11899999999999999</real>
+			<real>0.098506999999999997</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -94,34 +100,38 @@
 	<dict>
 		<key>ExpTarget</key>
 		<array>
-			<string>Pyemmairre A</string>
-			<string>HIP 3142 A</string>
-			<string>Ned Erh A</string>
-			<string>LHS 1097</string>
-			<string>Pemeowa</string>
-			<string>Tamar</string>
+			<string>Summerland</string>
 			<string>Waangamici A</string>
-			<string>Tlakakaltan A</string>
-			<string>Siddha A</string>
+			<string>CD-40 395 A</string>
+			<string>HR 494 A</string>
+			<string>HIP 3142 A</string>
+			<string>Tamar</string>
+			<string>Kadrusa A</string>
+			<string>Mbetatika</string>
+			<string>Quivira A</string>
+			<string>CF 464</string>
+			<string>LP 940-115</string>
+			<string>Xi Wangar</string>
+			<string>CD-37 641</string>
 		</array>
 		<key>StarPos</key>
 		<array>
-			<real>4.65625</real>
-			<real>-122.375</real>
-			<real>9.5625</real>
+			<real>27.65625</real>
+			<real>-131.75</real>
+			<real>9.46875</real>
 		</array>
 		<key>SysFaction</key>
-		<string>G.O.M. Collective</string>
+		<string>ELITE SPACE WINGS</string>
 		<key>economy</key>
-		<string>Refinery</string>
+		<string>Service</string>
 		<key>economy2</key>
-		<string>Extraction</string>
+		<string>Refinery</string>
 		<key>population</key>
-		<integer>105811</integer>
+		<integer>75000000</integer>
 		<key>security</key>
 		<string>Medium Security</string>
 		<key>system</key>
-		<string>Julung A</string>
+		<string>Thule</string>
 		<key>updated</key>
 		<string>20260325</string>
 	</dict>
