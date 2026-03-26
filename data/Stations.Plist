@@ -3214,7 +3214,7 @@
 	<key>Bamford's Station_Themiscrya</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>616.24374999999998</real>
+		<real>616.20140400000003</real>
 		<key>starSystem</key>
 		<string>Themiscrya</string>
 		<key>stationFaction</key>
@@ -3259,7 +3259,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260316</string>
+		<string>20260323</string>
 	</dict>
 	<key>Ban Enterprise_Goller</key>
 	<dict>
@@ -14947,11 +14947,13 @@
 	<key>Gent Vision_CD-41 568</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>2473.2187869999998</real>
+		<real>2473.624871</real>
 		<key>starSystem</key>
 		<string>CD-41 568</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Boom</string>
 			<key>Name</key>
 			<string>Darkwater Authority</string>
 		</dict>
@@ -14990,7 +14992,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260319</string>
+		<string>20260323</string>
 	</dict>
 	<key>Gernhardt Station_Kausalya</key>
 	<dict>
@@ -15357,13 +15359,11 @@
 	<key>Godel Dock_Quivira</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>23.755058999999999</real>
+		<real>23.617270999999999</real>
 		<key>starSystem</key>
 		<string>Quivira</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>Expansion</string>
 			<key>Name</key>
 			<string>ELITE SPACE WINGS</string>
 		</dict>
@@ -15403,7 +15403,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260320</string>
+		<string>20260323</string>
 	</dict>
 	<key>Godel Plant_Noatin</key>
 	<dict>
@@ -21204,7 +21204,7 @@
 	<key>Kempf Refinery_Mahei</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>339.71976100000001</real>
+		<real>339.69812300000001</real>
 		<key>starSystem</key>
 		<string>Mahei</string>
 		<key>stationFaction</key>
@@ -21245,7 +21245,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260305</string>
+		<string>20260322</string>
 	</dict>
 	<key>Kemurdzhian Enterprise_Kanagoto</key>
 	<dict>
