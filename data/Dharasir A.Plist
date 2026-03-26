@@ -2,16 +2,55 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>20260322</key>
+	<key>20260326</key>
 	<dict>
-		<key>Democrats of Macu Kuang</key>
+		<key>CD-28 18350 Patrons of Law</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.12979399999999999</real>
+			<real>0.13758699999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Dharasir Citizens of Tradition</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.065803</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Dharasir Solutions</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.120638</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Dharasir allied</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.061815000000000002</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -20,76 +59,37 @@
 		<key>G.O.M. Collective</key>
 		<dict>
 			<key>Active</key>
-			<string></string>
+			<string>Expansion</string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.50737500000000002</real>
+			<real>0.37886300000000001</real>
 			<key>Pending</key>
-			<string>Expansion - 0</string>
+			<string></string>
 			<key>State</key>
-			<string>None</string>
+			<string>Expansion</string>
 		</dict>
-		<key>Macu Kuang Advanced Group</key>
+		<key>Kokowar Empire Group</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.068830000000000002</real>
+			<real>0.112662</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Macu Kuang Gold Advanced Comms</key>
+		<key>Wongkho Patron's Principles</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.067847000000000005</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>None</string>
-		</dict>
-		<key>Marquis du Macu Kuang</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.058014000000000003</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>None</string>
-		</dict>
-		<key>Nu Kuni Jet Life Incorporated</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.141593</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>None</string>
-		</dict>
-		<key>Raiders of Macu Kuang</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.026549</real>
+			<real>0.122632</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -100,36 +100,37 @@
 	<dict>
 		<key>ExpTarget</key>
 		<array>
-			<string>LTT 982</string>
-			<string>Pemeowa</string>
-			<string>LTT 911</string>
-			<string>Persephone</string>
 			<string>Wongkho</string>
+			<string>Pemeowa</string>
 			<string>LHS 1097</string>
-			<string>CD-41 568</string>
-			<string>Mahei</string>
-			<string>Themiscrya</string>
+			<string>Persephone</string>
+			<string>Tamar</string>
+			<string>LTT 911</string>
+			<string>Quivira A</string>
+			<string>Ned Erh A</string>
+			<string>CD-40 395 A</string>
+			<string>Kadrusa A</string>
 		</array>
 		<key>StarPos</key>
 		<array>
-			<real>21.59375</real>
-			<real>-88.34375</real>
-			<real>8.75</real>
+			<real>21.15625</real>
+			<real>-100.90625</real>
+			<real>18.09375</real>
 		</array>
 		<key>SysFaction</key>
 		<string>G.O.M. Collective</string>
 		<key>economy</key>
-		<string>Military</string>
+		<string>Extraction</string>
 		<key>economy2</key>
-		<string>Agriculture</string>
+		<string>Refinery</string>
 		<key>population</key>
-		<integer>91906</integer>
+		<integer>64191</integer>
 		<key>security</key>
 		<string>Medium Security</string>
 		<key>system</key>
-		<string>Macu Kuang</string>
+		<string>Dharasir A</string>
 		<key>updated</key>
-		<string>20260322</string>
+		<string>20260326</string>
 	</dict>
 </dict>
 </plist>
