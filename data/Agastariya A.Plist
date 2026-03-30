@@ -2,16 +2,68 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>20260322</key>
+	<key>20260330</key>
 	<dict>
-		<key>Democrats of Macu Kuang</key>
+		<key>Agastariya Blue Brotherhood</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.12979399999999999</real>
+			<real>0.025845</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Agastariya Galactic Co</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.13320100000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Agastariya Vision Group</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.077535000000000007</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Ancient Astronauts</key>
+		<dict>
+			<key>Active</key>
+			<string>War</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.15904599999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>War</string>
+		</dict>
+		<key>ELITE SPACE WINGS</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.418489</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -19,77 +71,19 @@
 		</dict>
 		<key>G.O.M. Collective</key>
 		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.50737500000000002</real>
-			<key>Pending</key>
-			<string>Expansion - 0</string>
+			<real>0.15904599999999999</real>
 			<key>State</key>
-			<string>None</string>
+			<string>War</string>
 		</dict>
-		<key>Macu Kuang Advanced Group</key>
+		<key>Union of Agastariya People's Party</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.068830000000000002</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>None</string>
-		</dict>
-		<key>Macu Kuang Gold Advanced Comms</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.067847000000000005</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>None</string>
-		</dict>
-		<key>Marquis du Macu Kuang</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.058014000000000003</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>None</string>
-		</dict>
-		<key>Nu Kuni Jet Life Incorporated</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.141593</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>None</string>
-		</dict>
-		<key>Raiders of Macu Kuang</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.026549</real>
+			<real>0.026838999999999998</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -100,39 +94,46 @@
 	<dict>
 		<key>ExpTarget</key>
 		<array>
-			<string>LTT 982</string>
-			<string>Dharasir A</string>
-			<string>Pemeowa</string>
-			<string>LTT 911</string>
-			<string>Persephone</string>
-			<string>NLTT 5871</string>
 			<string>Wongkho</string>
-			<string>Agastariya A</string>
-			<string>LHS 1097</string>
-			<string>CD-41 568</string>
+			<string>Persephone</string>
+			<string>Kui Hsien A</string>
+			<string>Dharasir A</string>
+			<string>LTT 911</string>
+			<string>Quivira A</string>
+			<string>Eotienses A</string>
+			<string>Asphodel</string>
+			<string>Santupik</string>
 			<string>Mahei</string>
-			<string>Themiscrya</string>
+			<string>Tamar</string>
+			<string>NLTT 5871</string>
+			<string>Pemeowa</string>
+			<string>Summerland</string>
+			<string>CF 464</string>
+			<string>Pai Huldr A</string>
+			<string>CD-40 395 A</string>
+			<string>Mictlan</string>
+			<string>Kadrusa A</string>
 		</array>
 		<key>StarPos</key>
 		<array>
-			<real>21.59375</real>
-			<real>-88.34375</real>
-			<real>8.75</real>
+			<real>34.625</real>
+			<real>-104.84375</real>
+			<real>16.15625</real>
 		</array>
 		<key>SysFaction</key>
-		<string>G.O.M. Collective</string>
+		<string>ELITE SPACE WINGS</string>
 		<key>economy</key>
-		<string>Military</string>
+		<string>Industrial</string>
 		<key>economy2</key>
-		<string>Agriculture</string>
+		<string>Military</string>
 		<key>population</key>
-		<integer>91906</integer>
+		<integer>5042010</integer>
 		<key>security</key>
 		<string>Medium Security</string>
 		<key>system</key>
-		<string>Macu Kuang</string>
+		<string>Agastariya A</string>
 		<key>updated</key>
-		<string>20260322</string>
+		<string>20260330</string>
 	</dict>
 </dict>
 </plist>
