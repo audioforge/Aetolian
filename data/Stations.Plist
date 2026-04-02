@@ -6291,6 +6291,54 @@
 		<key>updated</key>
 		<string>20250110</string>
 	</dict>
+	<key>Brill Station_Kareco</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>552.779224</real>
+		<key>starSystem</key>
+		<string>Kareco</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>Imperial Self Defense Force</string>
+		</dict>
+		<key>stationName</key>
+		<string>Brill Station</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>shipyard</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>shop</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Coriolis</string>
+		<key>updated</key>
+		<string>20260402</string>
+	</dict>
 	<key>Broderick Terminal_Pastara</key>
 	<dict>
 		<key>DistFromStarLS</key>
@@ -30149,13 +30197,13 @@
 	<key>Otomo Market_Siddha</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>142.85208499999999</real>
+		<real>142.80722700000001</real>
 		<key>starSystem</key>
 		<string>Siddha</string>
 		<key>stationFaction</key>
 		<dict>
 			<key>FactionState</key>
-			<string>Boom</string>
+			<string>Election</string>
 			<key>Name</key>
 			<string>Siddha Vision PLC</string>
 		</dict>
@@ -30194,7 +30242,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20260401</string>
+		<string>20260402</string>
 	</dict>
 	<key>Ottley's Landing_Cockaigne</key>
 	<dict>
@@ -35712,6 +35760,54 @@
 		<string>Outpost</string>
 		<key>updated</key>
 		<string>20241029</string>
+	</dict>
+	<key>Skjellerup Terminal_Ininohima</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>320.86683499999998</real>
+		<key>starSystem</key>
+		<string>Ininohima</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>Ininohima Guardians of Tradition</string>
+		</dict>
+		<key>stationName</key>
+		<string>Skjellerup Terminal</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>shipyard</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>shop</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Ocellus</string>
+		<key>updated</key>
+		<string>20260402</string>
 	</dict>
 	<key>Slade Observatory_Col 285 Sector VS-D a28-4</key>
 	<dict>
