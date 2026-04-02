@@ -4596,10 +4596,124 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20260402</key>
+	<dict>
+		<key>Ajoku Industries</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.18118100000000001</real>
+			<key>Pending</key>
+			<string>Election - 0</string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Boresti Blue United Corporation</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.18118100000000001</real>
+			<key>Pending</key>
+			<string>Election - 0</string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Boresti Jet Brotherhood</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.031031</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Boresti Nobles</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.11311300000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>HIP 8444 Comms Solutions</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.104104</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Kolhou Wu Systems</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.26526499999999997</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>United Tau Sculptoris Order</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.124124</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
-		<array/>
+		<array>
+			<string>Kolhou Wu</string>
+			<string>Brigual</string>
+			<string>Laksmi</string>
+			<string>Mu Nialfi A</string>
+			<string>Tau Sculptoris A</string>
+			<string>HIP 9252 A</string>
+			<string>Badbh</string>
+			<string>HIP 7823 A</string>
+			<string>HIP 8758 A</string>
+			<string>Degardhi</string>
+			<string>Belatus</string>
+			<string>Kites</string>
+			<string>HIP 7304</string>
+			<string>Pi Sculptoris</string>
+			<string>Wayica</string>
+			<string>Saranggura</string>
+			<string>Fei Lin A</string>
+			<string>Chebaei</string>
+			<string>Yinegafo A</string>
+		</array>
 		<key>StarPos</key>
 		<array>
 			<real>36.0625</real>
@@ -4619,7 +4733,7 @@
 		<key>system</key>
 		<string>Boresti</string>
 		<key>updated</key>
-		<string>20250118</string>
+		<string>20260402</string>
 	</dict>
 </dict>
 </plist>

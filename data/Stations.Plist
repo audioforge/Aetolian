@@ -3312,7 +3312,7 @@
 	<key>Bamford's Station_Themiscrya</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>616.24418600000001</real>
+		<real>616.26293299999998</real>
 		<key>starSystem</key>
 		<string>Themiscrya</string>
 		<key>stationFaction</key>
@@ -3357,7 +3357,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260325</string>
+		<string>20260402</string>
 	</dict>
 	<key>Ban Enterprise_Goller</key>
 	<dict>
@@ -3505,7 +3505,7 @@
 	<key>Baracchi Port_Boresti</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>79.808283000000003</real>
+		<real>79.739151000000007</real>
 		<key>starSystem</key>
 		<string>Boresti</string>
 		<key>stationFaction</key>
@@ -3546,7 +3546,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250118</string>
+		<string>20260402</string>
 	</dict>
 	<key>Baraniecki Ring_Taueret</key>
 	<dict>
@@ -4807,11 +4807,13 @@
 	<key>Blaauw Orbital_Siddha</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>38.106034000000001</real>
+		<real>38.170547999999997</real>
 		<key>starSystem</key>
 		<string>Siddha</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Election</string>
 			<key>Name</key>
 			<string>ELITE SPACE WINGS</string>
 		</dict>
@@ -4850,7 +4852,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20260331</string>
+		<string>20260402</string>
 	</dict>
 	<key>Blaauw Prospect_Zvaithhogg</key>
 	<dict>
@@ -10097,7 +10099,7 @@
 	<key>Delporte Vision_Neginn</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>6.2313749999999999</real>
+		<real>6.1841679999999997</real>
 		<key>starSystem</key>
 		<string>Neginn</string>
 		<key>stationFaction</key>
@@ -10137,7 +10139,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260401</string>
+		<string>20260402</string>
 	</dict>
 	<key>Delsanti Orbital_Teliadjali</key>
 	<dict>
@@ -10268,6 +10270,49 @@
 		<string>Outpost</string>
 		<key>updated</key>
 		<string>20250203</string>
+	</dict>
+	<key>Denton Platform_CD-36 874</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>1817.5618549999999</real>
+		<key>starSystem</key>
+		<string>CD-36 874</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>Imperial Self Defense Force</string>
+		</dict>
+		<key>stationName</key>
+		<string>Denton Platform</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Outpost</string>
+		<key>updated</key>
+		<string>20260402</string>
 	</dict>
 	<key>Dhawan Platform_Jemede</key>
 	<dict>
@@ -15284,7 +15329,7 @@
 	<key>Gent Vision_CD-41 568</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>2473.179807</real>
+		<real>2473.9672310000001</real>
 		<key>starSystem</key>
 		<string>CD-41 568</string>
 		<key>stationFaction</key>
@@ -15329,7 +15374,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260324</string>
+		<string>20260402</string>
 	</dict>
 	<key>Gernhardt Station_Kausalya</key>
 	<dict>
@@ -15696,7 +15741,7 @@
 	<key>Godel Dock_Quivira</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>23.618815000000001</real>
+		<real>23.781022</real>
 		<key>starSystem</key>
 		<string>Quivira</string>
 		<key>stationFaction</key>
@@ -15742,7 +15787,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260325</string>
+		<string>20260402</string>
 	</dict>
 	<key>Godel Plant_Noatin</key>
 	<dict>
@@ -17468,13 +17513,11 @@
 	<key>Harawi Terminal_HIP 6905</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>352.07246800000001</real>
+		<real>352.12994600000002</real>
 		<key>starSystem</key>
 		<string>HIP 6905</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>Expansion</string>
 			<key>Name</key>
 			<string>Jolly Co-Operators</string>
 		</dict>
@@ -17507,7 +17550,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20241103</string>
+		<string>20260402</string>
 	</dict>
 	<key>Harding Orbital_Tlakakaltan</key>
 	<dict>
@@ -17561,7 +17604,7 @@
 	<key>Hariot Station_Wongkho</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>236.72170199999999</real>
+		<real>236.74691999999999</real>
 		<key>starSystem</key>
 		<string>Wongkho</string>
 		<key>stationFaction</key>
@@ -17600,7 +17643,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260401</string>
+		<string>20260402</string>
 	</dict>
 	<key>Hartley Vista_Taurus Dark Region GR-V b2-0</key>
 	<dict>
@@ -24658,7 +24701,7 @@
 	<key>Lomonosov Hub_LEHPM 1902</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>829.08708999999999</real>
+		<real>842.567407</real>
 		<key>starSystem</key>
 		<string>LEHPM 1902</string>
 		<key>stationFaction</key>
@@ -24701,7 +24744,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260320</string>
+		<string>20260402</string>
 	</dict>
 	<key>Lomonosov Landing_Tucanae Sector UT-Z b5</key>
 	<dict>
@@ -25073,13 +25116,13 @@
 	<key>Ludwig Struve Hub_Siddha</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>21.512611</real>
+		<real>21.384058</real>
 		<key>starSystem</key>
 		<string>Siddha</string>
 		<key>stationFaction</key>
 		<dict>
 			<key>FactionState</key>
-			<string>Drought</string>
+			<string>Election</string>
 			<key>Name</key>
 			<string>ELITE SPACE WINGS</string>
 		</dict>
@@ -25119,7 +25162,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20260326</string>
+		<string>20260402</string>
 	</dict>
 	<key>Lundmark Terminal_Ekono</key>
 	<dict>
@@ -26714,13 +26757,11 @@
 	<key>Merritt Dock_CD-40 395</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>2536.8554909999998</real>
+		<real>2532.3947149999999</real>
 		<key>starSystem</key>
 		<string>CD-40 395</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>Election</string>
 			<key>Name</key>
 			<string>G.O.M. Collective</string>
 		</dict>
@@ -26756,7 +26797,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260330</string>
+		<string>20260402</string>
 	</dict>
 	<key>Merritt Port_Nespel</key>
 	<dict>
@@ -27136,7 +27177,7 @@
 	<key>Millosevich Colony_Belatus</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>351.28842900000001</real>
+		<real>351.31503800000002</real>
 		<key>starSystem</key>
 		<string>Belatus</string>
 		<key>stationFaction</key>
@@ -27177,7 +27218,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260401</string>
+		<string>20260402</string>
 	</dict>
 	<key>Millosevich Colony_Julung</key>
 	<dict>
@@ -30197,7 +30238,7 @@
 	<key>Otomo Market_Siddha</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>142.80722700000001</real>
+		<real>142.71780699999999</real>
 		<key>starSystem</key>
 		<string>Siddha</string>
 		<key>stationFaction</key>
@@ -31687,7 +31728,7 @@
 	<key>Polyakov Hangar_Ned Erh</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>67.467787999999999</real>
+		<real>67.428424000000007</real>
 		<key>starSystem</key>
 		<string>Ned Erh</string>
 		<key>stationFaction</key>
@@ -31726,7 +31767,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260330</string>
+		<string>20260402</string>
 	</dict>
 	<key>Pons Orbital_Bembo</key>
 	<dict>
@@ -35764,7 +35805,7 @@
 	<key>Skjellerup Terminal_Ininohima</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>320.86683499999998</real>
+		<real>320.935543</real>
 		<key>starSystem</key>
 		<string>Ininohima</string>
 		<key>stationFaction</key>
@@ -35902,7 +35943,7 @@
 	<key>Slipher Vision_Kadrusa</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>102.68503699999999</real>
+		<real>102.77374399999999</real>
 		<key>starSystem</key>
 		<string>Kadrusa</string>
 		<key>stationFaction</key>
@@ -35947,7 +35988,7 @@
 		<key>stationType</key>
 		<string>Ocellus</string>
 		<key>updated</key>
-		<string>20260330</string>
+		<string>20260402</string>
 	</dict>
 	<key>Sm1tty's Shack_LTT 9587</key>
 	<dict>
@@ -36564,11 +36605,13 @@
 	<key>Stone Colony_Fei Lin</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>2520.7879090000001</real>
+		<real>2792.631151</real>
 		<key>starSystem</key>
 		<string>Fei Lin</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Election</string>
 			<key>Name</key>
 			<string>Amanogawa Enlight</string>
 		</dict>
@@ -36601,7 +36644,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20241105</string>
+		<string>20260402</string>
 	</dict>
 	<key>Stronghold Carrier_Cubeo</key>
 	<dict>
@@ -44266,7 +44309,7 @@
 	<key>THH-LHG_Neginn</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>2249.739795</real>
+		<real>6.2113639999999997</real>
 		<key>starSystem</key>
 		<string>Neginn</string>
 		<key>stationFaction</key>
@@ -46503,7 +46546,7 @@
 	<key>THH-LHG_Siddha</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1616.8914219999999</real>
+		<real>21.473818000000001</real>
 		<key>starSystem</key>
 		<string>Siddha</string>
 		<key>stationFaction</key>
@@ -46536,7 +46579,7 @@
 		<key>stationType</key>
 		<string>FleetCarrier</string>
 		<key>updated</key>
-		<string>20260320</string>
+		<string>20260402</string>
 	</dict>
 	<key>THH-LHG_Skaudou KG-A c3-59</key>
 	<dict>
