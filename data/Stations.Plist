@@ -968,13 +968,13 @@
 	<key>Albategnius Dock_HIP 7823</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1790.3307070000001</real>
+		<real>2010.78773</real>
 		<key>starSystem</key>
 		<string>HIP 7823</string>
 		<key>stationFaction</key>
 		<dict>
 			<key>Name</key>
-			<string>Aetolians</string>
+			<string>Kolhou Wu Systems</string>
 		</dict>
 		<key>stationName</key>
 		<string>Albategnius Dock</string>
@@ -982,7 +982,6 @@
 		<array>
 			<string>dock</string>
 			<string>autodock</string>
-			<string>blackmarket</string>
 			<string>commodities</string>
 			<string>contacts</string>
 			<string>exploration</string>
@@ -1008,7 +1007,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250410</string>
+		<string>20260401</string>
 	</dict>
 	<key>Albitzky Outpost_Laksmi</key>
 	<dict>
@@ -8340,11 +8339,13 @@
 	<key>Chertovsky Arena_Kites</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>994.62303699999995</real>
+		<real>994.62425399999995</real>
 		<key>starSystem</key>
 		<string>Kites</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Boom</string>
 			<key>Name</key>
 			<string>Aetolians</string>
 		</dict>
@@ -8381,7 +8382,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260330</string>
+		<string>20260401</string>
 	</dict>
 	<key>Chretien Terminal_Ross 444</key>
 	<dict>
@@ -13335,7 +13336,7 @@
 	<key>Freas Stop_Mu Nialfi</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>34.623685999999999</real>
+		<real>34.624563000000002</real>
 		<key>starSystem</key>
 		<string>Mu Nialfi</string>
 		<key>stationFaction</key>
@@ -27087,7 +27088,7 @@
 	<key>Millosevich Colony_Belatus</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>351.26714199999998</real>
+		<real>351.28842900000001</real>
 		<key>starSystem</key>
 		<string>Belatus</string>
 		<key>stationFaction</key>
@@ -27587,13 +27588,13 @@
 	<key>Mukai Enterprise_Degardhi</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>4467.3080870000003</real>
+		<real>4467.7581090000003</real>
 		<key>starSystem</key>
 		<string>Degardhi</string>
 		<key>stationFaction</key>
 		<dict>
 			<key>FactionState</key>
-			<string>CivilUnrest</string>
+			<string>Election</string>
 			<key>Name</key>
 			<string>Degardhi Life &amp; Co</string>
 		</dict>
@@ -27603,7 +27604,6 @@
 		<array>
 			<string>dock</string>
 			<string>autodock</string>
-			<string>blackmarket</string>
 			<string>commodities</string>
 			<string>contacts</string>
 			<string>exploration</string>
@@ -27629,7 +27629,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260324</string>
+		<string>20260401</string>
 	</dict>
 	<key>Mukai Gateway_LP 282-7</key>
 	<dict>
@@ -44170,7 +44170,7 @@
 	<key>THH-LHG_Neginn</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>2249.7398979999998</real>
+		<real>2249.739795</real>
 		<key>starSystem</key>
 		<string>Neginn</string>
 		<key>stationFaction</key>
@@ -44203,7 +44203,7 @@
 		<key>stationType</key>
 		<string>FleetCarrier</string>
 		<key>updated</key>
-		<string>20260401</string>
+		<string>20260402</string>
 	</dict>
 	<key>THH-LHG_Njokujinun</key>
 	<dict>
