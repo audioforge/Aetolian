@@ -6991,7 +6991,7 @@
 	<key>Burke Beacon_Pemeowa</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1110.8849230000001</real>
+		<real>1110.9341910000001</real>
 		<key>starSystem</key>
 		<string>Pemeowa</string>
 		<key>stationFaction</key>
@@ -7032,7 +7032,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260404</string>
+		<string>20260405</string>
 	</dict>
 	<key>Burnham City_Nespel</key>
 	<dict>
@@ -7829,13 +7829,11 @@
 	<key>Carver Hub_Ned Erh</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>92.997245000000007</real>
+		<real>93.029171000000005</real>
 		<key>starSystem</key>
 		<string>Ned Erh</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>CivilWar</string>
 			<key>Name</key>
 			<string>Ned Erh PLC</string>
 		</dict>
@@ -7871,7 +7869,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260331</string>
+		<string>20260405</string>
 	</dict>
 	<key>Caselberg Freeport_Coqualki</key>
 	<dict>
@@ -13741,7 +13739,7 @@
 	<key>Froud Hub_CD-37 641</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>368.84218499999997</real>
+		<real>368.80003399999998</real>
 		<key>starSystem</key>
 		<string>CD-37 641</string>
 		<key>stationFaction</key>
@@ -13786,7 +13784,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20260404</string>
+		<string>20260405</string>
 	</dict>
 	<key>Fuca Dock_Apura</key>
 	<dict>
@@ -15875,13 +15873,11 @@
 	<key>Godel Dock_Quivira</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>23.781022</real>
+		<real>23.726109000000001</real>
 		<key>starSystem</key>
 		<string>Quivira</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>Election</string>
 			<key>Name</key>
 			<string>ELITE SPACE WINGS</string>
 		</dict>
@@ -15921,7 +15917,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260402</string>
+		<string>20260405</string>
 	</dict>
 	<key>Godel Plant_Noatin</key>
 	<dict>
@@ -18678,13 +18674,13 @@
 	<key>Herschel Installation_Julung</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>153.069806</real>
+		<real>155.69191499999999</real>
 		<key>starSystem</key>
 		<string>Julung</string>
 		<key>stationFaction</key>
 		<dict>
 			<key>FactionState</key>
-			<string>Expansion</string>
+			<string>War</string>
 			<key>Name</key>
 			<string>G.O.M. Collective</string>
 		</dict>
@@ -18716,7 +18712,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260327</string>
+		<string>20260405</string>
 	</dict>
 	<key>Hertzsprung Terminal_Yaso Kondi</key>
 	<dict>
@@ -22508,7 +22504,7 @@
 	<key>Konscak Depot_CD-36 874</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1783.2397000000001</real>
+		<real>1782.6340680000001</real>
 		<key>starSystem</key>
 		<string>CD-36 874</string>
 		<key>stationFaction</key>
@@ -22548,7 +22544,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260404</string>
+		<string>20260405</string>
 	</dict>
 	<key>Korlevic Gateway_Mokoi</key>
 	<dict>
@@ -23150,6 +23146,52 @@
 		<string>Coriolis</string>
 		<key>updated</key>
 		<string>20250314</string>
+	</dict>
+	<key>Kuipers Orbital_Marowalan</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>3353.5225690000002</real>
+		<key>starSystem</key>
+		<string>Marowalan</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>FactionState</key>
+			<string>War</string>
+			<key>Name</key>
+			<string>G.O.M. Collective</string>
+		</dict>
+		<key>stationName</key>
+		<string>Kuipers Orbital</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Outpost</string>
+		<key>updated</key>
+		<string>20260405</string>
 	</dict>
 	<key>Kulin Station_HIP 7526</key>
 	<dict>
@@ -24830,11 +24872,13 @@
 	<key>Lombardelli's Legacy_Persephone</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>308.126644</real>
+		<real>307.978475</real>
 		<key>starSystem</key>
 		<string>Persephone</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>War</string>
 			<key>Name</key>
 			<string>G.O.M. Collective</string>
 		</dict>
@@ -24873,7 +24917,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260403</string>
+		<string>20260405</string>
 	</dict>
 	<key>Lomonosov Hub_LEHPM 1902</key>
 	<dict>
@@ -32581,13 +32625,13 @@
 	<key>Qureshi Dock_CD-37 641</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>2301.4933820000001</real>
+		<real>2303.8128310000002</real>
 		<key>starSystem</key>
 		<string>CD-37 641</string>
 		<key>stationFaction</key>
 		<dict>
 			<key>FactionState</key>
-			<string>Election</string>
+			<string>War</string>
 			<key>Name</key>
 			<string>G.O.M. Collective</string>
 		</dict>
@@ -32621,7 +32665,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260330</string>
+		<string>20260405</string>
 	</dict>
 	<key>Qwent Research Base_Sirius</key>
 	<dict>
@@ -35838,13 +35882,13 @@
 	<key>Siddha Port_Siddha</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>38.251846999999998</real>
+		<real>38.192393000000003</real>
 		<key>starSystem</key>
 		<string>Siddha</string>
 		<key>stationFaction</key>
 		<dict>
 			<key>FactionState</key>
-			<string>Boom</string>
+			<string>Election</string>
 			<key>Name</key>
 			<string>Siddha Vision PLC</string>
 		</dict>
@@ -35880,7 +35924,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260330</string>
+		<string>20260405</string>
 	</dict>
 	<key>Sikorsky Hub_Mbaza</key>
 	<dict>
@@ -36298,7 +36342,7 @@
 	<key>Slipher Vision_Kadrusa</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>102.77374399999999</real>
+		<real>102.75705499999999</real>
 		<key>starSystem</key>
 		<string>Kadrusa</string>
 		<key>stationFaction</key>
@@ -36343,7 +36387,7 @@
 		<key>stationType</key>
 		<string>Ocellus</string>
 		<key>updated</key>
-		<string>20260402</string>
+		<string>20260405</string>
 	</dict>
 	<key>Sm1tty's Shack_LTT 9587</key>
 	<dict>
@@ -50194,11 +50238,13 @@
 	<key>Tanner Enterprise_LHS 1097</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1930.9147599999999</real>
+		<real>1931.2062759999999</real>
 		<key>starSystem</key>
 		<string>LHS 1097</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>War</string>
 			<key>Name</key>
 			<string>G.O.M. Collective</string>
 		</dict>
@@ -50233,7 +50279,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260404</string>
+		<string>20260405</string>
 	</dict>
 	<key>Tanner Settlement_Polevnic</key>
 	<dict>
@@ -54867,13 +54913,13 @@
 	<key>Youll City_Tamar</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1689.9151730000001</real>
+		<real>1689.9391450000001</real>
 		<key>starSystem</key>
 		<string>Tamar</string>
 		<key>stationFaction</key>
 		<dict>
 			<key>FactionState</key>
-			<string>CivilUnrest</string>
+			<string>War</string>
 			<key>Name</key>
 			<string>G.O.M. Collective</string>
 		</dict>
@@ -54907,7 +54953,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260322</string>
+		<string>20260405</string>
 	</dict>
 	<key>Youll Hub_Ngadji</key>
 	<dict>
