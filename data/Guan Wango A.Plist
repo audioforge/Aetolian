@@ -660,10 +660,127 @@
 			<string>Expansion</string>
 		</dict>
 	</dict>
+	<key>20260408</key>
+	<dict>
+		<key>Guan Wango Empire League</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.094302999999999998</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Guan Wango PLC</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.10019599999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Guan Wango United Services</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.18664</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Independent Guan Wango Green Party</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.10609</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Partnership of Guan Wango</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.053045000000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Tetone Patron's Principles</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.14341799999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>The Winged Hussars</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.31630599999999998</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
-		<array/>
+		<array>
+			<string>Caspataya A</string>
+			<string>Dyaus A</string>
+			<string>Dyin A</string>
+			<string>Candiae A</string>
+			<string>HIP 5184 A</string>
+			<string>Nyalayan A</string>
+			<string>Almudjara</string>
+			<string>HIP 7386 A</string>
+			<string>Bolocara</string>
+			<string>Jemede</string>
+			<string>Nespel</string>
+			<string>Lusoneshas</string>
+			<string>Mayapok A</string>
+			<string>HIP 6011 A</string>
+			<string>Cemplangpa A</string>
+			<string>Hajara A</string>
+			<string>Varri</string>
+			<string>Yokusu A</string>
+			<string>Ovamalu A</string>
+			<string>Zhuang A</string>
+			<string>Aurgens A</string>
+			<string>Songloi</string>
+		</array>
 		<key>StarPos</key>
 		<array>
 			<real>40.9375</real>
@@ -683,7 +800,7 @@
 		<key>system</key>
 		<string>Guan Wango A</string>
 		<key>updated</key>
-		<string>20250114</string>
+		<string>20260408</string>
 	</dict>
 </dict>
 </plist>
