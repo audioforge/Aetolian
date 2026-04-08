@@ -5352,7 +5352,7 @@
 	<key>Bonestell Dock_Dharasir</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>6921.949893</real>
+		<real>6922.1243930000001</real>
 		<key>starSystem</key>
 		<string>Dharasir</string>
 		<key>stationFaction</key>
@@ -8925,6 +8925,8 @@
 		<string>Khruvandji</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Expansion</string>
 			<key>Name</key>
 			<string>G.O.M. Collective</string>
 		</dict>
@@ -8963,7 +8965,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260404</string>
+		<string>20260408</string>
 	</dict>
 	<key>Consolmagno Mines_Blang Tzu</key>
 	<dict>
@@ -23709,7 +23711,7 @@
 	<key>Lagrange City_CD-37 641</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>923.89108199999998</real>
+		<real>923.97573</real>
 		<key>starSystem</key>
 		<string>CD-37 641</string>
 		<key>stationFaction</key>
@@ -32849,13 +32851,13 @@
 	<key>Qureshi Dock_CD-37 641</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>2303.8128310000002</real>
+		<real>2305.184029</real>
 		<key>starSystem</key>
 		<string>CD-37 641</string>
 		<key>stationFaction</key>
 		<dict>
 			<key>FactionState</key>
-			<string>War</string>
+			<string>Expansion</string>
 			<key>Name</key>
 			<string>G.O.M. Collective</string>
 		</dict>
@@ -32889,7 +32891,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260405</string>
+		<string>20260408</string>
 	</dict>
 	<key>Qwent Research Base_Sirius</key>
 	<dict>
@@ -55503,7 +55505,7 @@
 	<key>Youll City_Tamar</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1689.952779</real>
+		<real>1689.908062</real>
 		<key>starSystem</key>
 		<string>Tamar</string>
 		<key>stationFaction</key>
