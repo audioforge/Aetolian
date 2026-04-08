@@ -1609,7 +1609,7 @@
 	<key>Amnuel Dock_LHS 1097</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>2312.7085489999999</real>
+		<real>2312.575335</real>
 		<key>starSystem</key>
 		<string>LHS 1097</string>
 		<key>stationFaction</key>
@@ -7038,7 +7038,7 @@
 	<key>Burke Beacon_Pemeowa</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1111.0200090000001</real>
+		<real>1111.136</real>
 		<key>starSystem</key>
 		<string>Pemeowa</string>
 		<key>stationFaction</key>
@@ -11725,7 +11725,7 @@
 	<key>Ernst Refinery_Othel</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>39.444898000000002</real>
+		<real>39.366281999999998</real>
 		<key>starSystem</key>
 		<string>Othel</string>
 		<key>stationFaction</key>
@@ -23238,6 +23238,56 @@
 		<string>Outpost</string>
 		<key>updated</key>
 		<string>20260321</string>
+	</dict>
+	<key>Kuchner Vision_Kured</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>6.3327590000000002</real>
+		<key>starSystem</key>
+		<string>Kured</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>FactionState</key>
+			<string>Expansion</string>
+			<key>Name</key>
+			<string>G.O.M. Collective</string>
+		</dict>
+		<key>stationName</key>
+		<string>Kuchner Vision</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>shipyard</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>shop</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Coriolis</string>
+		<key>updated</key>
+		<string>20260408</string>
 	</dict>
 	<key>Kuiper Gateway_Paesans</key>
 	<dict>
@@ -50681,6 +50731,50 @@
 		<key>updated</key>
 		<string>20250317</string>
 	</dict>
+	<key>Tange Terminal_Kured</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>9.223312</real>
+		<key>starSystem</key>
+		<string>Kured</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>FactionState</key>
+			<string>Expansion</string>
+			<key>Name</key>
+			<string>G.O.M. Collective</string>
+		</dict>
+		<key>stationName</key>
+		<string>Tange Terminal</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Outpost</string>
+		<key>updated</key>
+		<string>20260408</string>
+	</dict>
 	<key>Tanner Enterprise_LHS 1097</key>
 	<dict>
 		<key>DistFromStarLS</key>
@@ -52666,6 +52760,56 @@
 		<string>Outpost</string>
 		<key>updated</key>
 		<string>20241222</string>
+	</dict>
+	<key>Valz Installation_Othel</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>21.458307999999999</real>
+		<key>starSystem</key>
+		<string>Othel</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>FactionState</key>
+			<string>Expansion</string>
+			<key>Name</key>
+			<string>G.O.M. Collective</string>
+		</dict>
+		<key>stationName</key>
+		<string>Valz Installation</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>shipyard</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>shop</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Ocellus</string>
+		<key>updated</key>
+		<string>20260408</string>
 	</dict>
 	<key>Valz Survey_NLTT 5871</key>
 	<dict>

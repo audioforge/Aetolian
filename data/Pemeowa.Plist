@@ -804,8 +804,14 @@
 	<dict>
 		<key>ELITE SPACE WINGS</key>
 		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
 			<key>Influence</key>
 			<real>0.053862</real>
+			<key>Pending</key>
+			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
@@ -863,14 +869,8 @@
 		</dict>
 		<key>Siddha Vision PLC</key>
 		<dict>
-			<key>Active</key>
-			<string>Boom</string>
-			<key>Happiness</key>
-			<string>Happy</string>
 			<key>Influence</key>
 			<real>0.53251999999999999</real>
-			<key>Pending</key>
-			<string></string>
 			<key>State</key>
 			<string>Boom</string>
 		</dict>
@@ -890,9 +890,11 @@
 			<string>Persephone</string>
 			<string>Wongkho</string>
 			<string>Khruvandji A</string>
+			<string>Apam Napat</string>
 			<string>NLTT 5871</string>
 			<string>Quivira A</string>
 			<string>CD-37 641</string>
+			<string>BPM 590</string>
 			<string>Julung A</string>
 			<string>Summerland</string>
 			<string>Agastariya A</string>
