@@ -1609,11 +1609,13 @@
 	<key>Amnuel Dock_LHS 1097</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>2312.9987449999999</real>
+		<real>2312.7085489999999</real>
 		<key>starSystem</key>
 		<string>LHS 1097</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Expansion</string>
 			<key>Name</key>
 			<string>G.O.M. Collective</string>
 		</dict>
@@ -1649,7 +1651,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260331</string>
+		<string>20260408</string>
 	</dict>
 	<key>Anastase Perrotin Mines_Waventeno</key>
 	<dict>
@@ -5347,6 +5349,51 @@
 		<key>updated</key>
 		<string>20241011</string>
 	</dict>
+	<key>Bonestell Dock_Dharasir</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>6921.949893</real>
+		<key>starSystem</key>
+		<string>Dharasir</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>FactionState</key>
+			<string>Expansion</string>
+			<key>Name</key>
+			<string>G.O.M. Collective</string>
+		</dict>
+		<key>stationName</key>
+		<string>Bonestell Dock</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Outpost</string>
+		<key>updated</key>
+		<string>20260408</string>
+	</dict>
 	<key>Bonestell Vision_HIP 6011</key>
 	<dict>
 		<key>DistFromStarLS</key>
@@ -7592,11 +7639,13 @@
 	<key>Carter City_Marowalan</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1850.084192</real>
+		<real>1846.7882199999999</real>
 		<key>starSystem</key>
 		<string>Marowalan</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Expansion</string>
 			<key>Name</key>
 			<string>G.O.M. Collective</string>
 		</dict>
@@ -7636,7 +7685,7 @@
 		<key>stationType</key>
 		<string>Ocellus</string>
 		<key>updated</key>
-		<string>20260401</string>
+		<string>20260408</string>
 	</dict>
 	<key>Cartier City_Xi Wangda</key>
 	<dict>
@@ -11676,11 +11725,13 @@
 	<key>Ernst Refinery_Othel</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>39.348353000000003</real>
+		<real>39.444898000000002</real>
 		<key>starSystem</key>
 		<string>Othel</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Expansion</string>
 			<key>Name</key>
 			<string>G.O.M. Collective</string>
 		</dict>
@@ -11714,7 +11765,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260404</string>
+		<string>20260408</string>
 	</dict>
 	<key>Esclangon Platform_HIP 6758</key>
 	<dict>
@@ -13126,6 +13177,56 @@
 		<string>Orbis</string>
 		<key>updated</key>
 		<string>20260403</string>
+	</dict>
+	<key>Foster Vision_BPM 590</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>803.40229099999999</real>
+		<key>starSystem</key>
+		<string>BPM 590</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>FactionState</key>
+			<string>Expansion</string>
+			<key>Name</key>
+			<string>G.O.M. Collective</string>
+		</dict>
+		<key>stationName</key>
+		<string>Foster Vision</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>shipyard</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>shop</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Coriolis</string>
+		<key>updated</key>
+		<string>20260408</string>
 	</dict>
 	<key>Fox Holdings_Kalvaitu</key>
 	<dict>
@@ -23558,11 +23659,13 @@
 	<key>Lagrange City_CD-37 641</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>924.00806799999998</real>
+		<real>923.89108199999998</real>
 		<key>starSystem</key>
 		<string>CD-37 641</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Expansion</string>
 			<key>Name</key>
 			<string>G.O.M. Collective</string>
 		</dict>
@@ -23601,7 +23704,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260331</string>
+		<string>20260408</string>
 	</dict>
 	<key>Lalande Beacon_Nguni</key>
 	<dict>
@@ -24118,6 +24221,47 @@
 		<string>Outpost</string>
 		<key>updated</key>
 		<string>20260331</string>
+	</dict>
+	<key>Langley Hub_Apam Napat</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>16.859947999999999</real>
+		<key>starSystem</key>
+		<string>Apam Napat</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>Verne Partners LLP</string>
+		</dict>
+		<key>stationName</key>
+		<string>Langley Hub</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>repair</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Outpost</string>
+		<key>updated</key>
+		<string>20260408</string>
 	</dict>
 	<key>Langley Point_Mbetatika</key>
 	<dict>
@@ -55215,13 +55359,13 @@
 	<key>Youll City_Tamar</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1689.9391450000001</real>
+		<real>1689.952779</real>
 		<key>starSystem</key>
 		<string>Tamar</string>
 		<key>stationFaction</key>
 		<dict>
 			<key>FactionState</key>
-			<string>War</string>
+			<string>Expansion</string>
 			<key>Name</key>
 			<string>G.O.M. Collective</string>
 		</dict>
@@ -55255,7 +55399,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260405</string>
+		<string>20260408</string>
 	</dict>
 	<key>Youll Hub_Ngadji</key>
 	<dict>
