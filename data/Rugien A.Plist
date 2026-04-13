@@ -378,10 +378,124 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20260413</key>
+	<dict>
+		<key>Independents of Rugien</key>
+		<dict>
+			<key>Active</key>
+			<string>CivilWar</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.074775999999999995</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>CivilWar</string>
+		</dict>
+		<key>Pequen Empire League</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.49152499999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Rugien Constitution Party</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.159521</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Rugien Creative Partners</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.123629</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Rugien Flag</key>
+		<dict>
+			<key>Active</key>
+			<string>CivilWar</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.074775999999999995</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>CivilWar</string>
+		</dict>
+		<key>Syndicate of Rugien</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.012961</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Varri Crimson Travel Inc</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.062812000000000007</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
-		<array/>
+		<array>
+			<string>Bratabha A</string>
+			<string>Popolof A</string>
+			<string>HIP 10123</string>
+			<string>Varri</string>
+			<string>Holva A</string>
+			<string>Giabaing A</string>
+			<string>Hajara A</string>
+			<string>HIP 8894</string>
+			<string>Mayapok A</string>
+			<string>Chih Hiner A</string>
+			<string>Lusoneshas</string>
+			<string>Bembo</string>
+			<string>Autrimpe A</string>
+			<string>Tjialim</string>
+			<string>Cozaanat A</string>
+			<string>Soniteru A</string>
+			<string>Yab Yum</string>
+			<string>Ovamalu A</string>
+			<string>HIP 11305</string>
+		</array>
 		<key>StarPos</key>
 		<array>
 			<real>60.9375</real>
@@ -401,7 +515,7 @@
 		<key>system</key>
 		<string>Rugien A</string>
 		<key>updated</key>
-		<string>20250107</string>
+		<string>20260413</string>
 	</dict>
 </dict>
 </plist>
