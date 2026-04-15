@@ -190,10 +190,113 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20260414</key>
+	<dict>
+		<key>Acorn Freelancers Corporate Faction</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.061876</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Allied Crom Dubh Liberty Party</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.151697</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Bureau of Crom Dubh</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.127745</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Crom Dubh Silver Allied Services</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.097804000000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>ELITE SPACE WINGS</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.550898</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Pirates of Crom Dubh</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.0099799999999999993</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
-		<array/>
+		<array>
+			<string>Bolowari A</string>
+			<string>HIP 6551</string>
+			<string>Cemplangpa A</string>
+			<string>Yab Yum</string>
+			<string>Ovamalu A</string>
+			<string>Guttors A</string>
+			<string>Jemede</string>
+			<string>Nyalayan A</string>
+			<string>HIP 7386 A</string>
+			<string>Nespel</string>
+			<string>Lusoneshas</string>
+			<string>Usdiae</string>
+			<string>Amsitia</string>
+			<string>Karelitakas</string>
+			<string>HIP 7817 A</string>
+			<string>Songloi</string>
+			<string>Waangamici A</string>
+			<string>Muang</string>
+			<string>Pastara A</string>
+			<string>Autrimpe A</string>
+			<string>HIP 6854</string>
+		</array>
 		<key>StarPos</key>
 		<array>
 			<real>36.6875</real>
@@ -213,7 +316,7 @@
 		<key>system</key>
 		<string>Crom Dubh</string>
 		<key>updated</key>
-		<string>20250113</string>
+		<string>20260414</string>
 	</dict>
 </dict>
 </plist>

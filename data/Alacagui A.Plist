@@ -83,10 +83,103 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20260413</key>
+	<dict>
+		<key>Alacagui Holdings</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.068297999999999998</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Alacagui Resistance</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.053006999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Cartel of Alacagui</key>
+		<dict>
+			<key>Active</key>
+			<string>Bust</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.031600000000000003</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Bust</string>
+		</dict>
+		<key>ELITE SPACE WINGS</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.073394000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>G.O.M. Collective</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.71661600000000003</real>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Regulatory State of Alacagui</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.057084999999999997</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
-		<array/>
+		<array>
+			<string>Miphifa</string>
+			<string>Gender A</string>
+			<string>Liabeze</string>
+			<string>Delta Phoenicis</string>
+			<string>Pai Huldr A</string>
+			<string>Asphodel</string>
+			<string>Cemiess</string>
+			<string>CF 464</string>
+			<string>Taevaisa</string>
+			<string>Lombi A</string>
+			<string>Cockaigne</string>
+			<string>Mbetatika</string>
+			<string>Eotienses A</string>
+			<string>Exioce</string>
+			<string>Kui Hsien A</string>
+			<string>Meliontit</string>
+			<string>Santupik</string>
+		</array>
 		<key>StarPos</key>
 		<array>
 			<real>63.65625</real>
@@ -106,7 +199,7 @@
 		<key>system</key>
 		<string>Alacagui A</string>
 		<key>updated</key>
-		<string>20250102</string>
+		<string>20260413</string>
 	</dict>
 </dict>
 </plist>

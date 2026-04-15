@@ -190,10 +190,119 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20260413</key>
+	<dict>
+		<key>Delta Phoenicis Empire League</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.068724999999999994</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Delta Phoenicis Limited</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.059761000000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Delta Phoenicis Pirates</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.099601999999999996</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>ELITE SPACE WINGS</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.38844600000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Nova Paresa</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.134462</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Union of Delta Phoenicis Revolutionary Party</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.036852999999999997</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>United German Commanders</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.21215100000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
-		<array/>
+		<array>
+			<string>Mbetatika</string>
+			<string>Gender A</string>
+			<string>Lombi A</string>
+			<string>Asphodel</string>
+			<string>CF 464</string>
+			<string>Alacagui A</string>
+			<string>Miphifa</string>
+			<string>Pai Huldr A</string>
+			<string>Cockaigne</string>
+			<string>Meliontit</string>
+			<string>Urcia</string>
+			<string>Kadrusa A</string>
+			<string>Samen A</string>
+			<string>CD-40 395 A</string>
+		</array>
 		<key>StarPos</key>
 		<array>
 			<real>53.90625</real>
@@ -201,7 +310,7 @@
 			<real>14.65625</real>
 		</array>
 		<key>SysFaction</key>
-		<string>United German Commanders</string>
+		<string>ELITE SPACE WINGS</string>
 		<key>economy</key>
 		<string>High Tech</string>
 		<key>economy2</key>
@@ -213,7 +322,7 @@
 		<key>system</key>
 		<string>Delta Phoenicis</string>
 		<key>updated</key>
-		<string>20250101</string>
+		<string>20260413</string>
 	</dict>
 </dict>
 </plist>
