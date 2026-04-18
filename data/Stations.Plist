@@ -2307,7 +2307,7 @@
 	<key>Arnason Gateway_LHS 1097</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1367.4493629999999</real>
+		<real>1367.4370249999999</real>
 		<key>starSystem</key>
 		<string>LHS 1097</string>
 		<key>stationFaction</key>
@@ -2350,7 +2350,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260414</string>
+		<string>20260417</string>
 	</dict>
 	<key>Arnold Orbital_HIP 23824</key>
 	<dict>
@@ -3498,7 +3498,7 @@
 	<key>Bamford's Station_Themiscrya</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>616.12160600000004</real>
+		<real>616.23123799999996</real>
 		<key>starSystem</key>
 		<string>Themiscrya</string>
 		<key>stationFaction</key>
@@ -3527,6 +3527,7 @@
 			<string>tuning</string>
 			<string>engineer</string>
 			<string>missionsgenerated</string>
+			<string>facilitator</string>
 			<string>flightcontroller</string>
 			<string>stationoperations</string>
 			<string>powerplay</string>
@@ -3543,7 +3544,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260404</string>
+		<string>20260417</string>
 	</dict>
 	<key>Ban Enterprise_Goller</key>
 	<dict>
@@ -3691,7 +3692,7 @@
 	<key>Baracchi Port_Boresti</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>79.736320000000006</real>
+		<real>79.745626999999999</real>
 		<key>starSystem</key>
 		<string>Boresti</string>
 		<key>stationFaction</key>
@@ -3732,7 +3733,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260414</string>
+		<string>20260416</string>
 	</dict>
 	<key>Baraniecki Ring_Taueret</key>
 	<dict>
@@ -8157,7 +8158,7 @@
 	<key>Celsius Station_HIP 7304</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>225.30841000000001</real>
+		<real>225.23997800000001</real>
 		<key>starSystem</key>
 		<string>HIP 7304</string>
 		<key>stationFaction</key>
@@ -8201,7 +8202,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260414</string>
+		<string>20260418</string>
 	</dict>
 	<key>Cerulli Station_Almudjara</key>
 	<dict>
@@ -8622,13 +8623,13 @@
 	<key>Chertovsky Arena_Kites</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>994.67881799999998</real>
+		<real>994.68193499999995</real>
 		<key>starSystem</key>
 		<string>Kites</string>
 		<key>stationFaction</key>
 		<dict>
 			<key>FactionState</key>
-			<string>Expansion</string>
+			<string>Boom</string>
 			<key>Name</key>
 			<string>Aetolians</string>
 		</dict>
@@ -8665,7 +8666,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260413</string>
+		<string>20260416</string>
 	</dict>
 	<key>Chretien Terminal_Ross 444</key>
 	<dict>
@@ -10187,7 +10188,7 @@
 	<key>Dean Camp_HIP 9252</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>2680.3055949999998</real>
+		<real>2667.9938320000001</real>
 		<key>starSystem</key>
 		<string>HIP 9252</string>
 		<key>stationFaction</key>
@@ -10226,7 +10227,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260415</string>
+		<string>20260416</string>
 	</dict>
 	<key>Dearden-Salter One_Calhuacan</key>
 	<dict>
@@ -10369,7 +10370,7 @@
 	<key>Delporte Vision_Neginn</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>6.2357430000000003</real>
+		<real>6.2409350000000003</real>
 		<key>starSystem</key>
 		<string>Neginn</string>
 		<key>stationFaction</key>
@@ -10409,7 +10410,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260415</string>
+		<string>20260418</string>
 	</dict>
 	<key>Delsanti Orbital_Teliadjali</key>
 	<dict>
@@ -10768,13 +10769,11 @@
 	<key>DiFate Landing_Mu Nialfi</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>18.651062</real>
+		<real>18.659213999999999</real>
 		<key>starSystem</key>
 		<string>Mu Nialfi</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>Drought</string>
 			<key>Name</key>
 			<string>Degardhi Life &amp; Co</string>
 		</dict>
@@ -10808,7 +10807,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260415</string>
+		<string>20260418</string>
 	</dict>
 	<key>Dillon Survey_49 Ceti</key>
 	<dict>
@@ -12848,7 +12847,7 @@
 	<key>Firsoff Orbital_HIP 8758</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>2584.1410580000002</real>
+		<real>2583.670028</real>
 		<key>starSystem</key>
 		<string>HIP 8758</string>
 		<key>stationFaction</key>
@@ -12892,7 +12891,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260415</string>
+		<string>20260416</string>
 	</dict>
 	<key>Flagg Landing_Wongkho</key>
 	<dict>
@@ -13935,7 +13934,7 @@
 	<key>Freas Stop_Mu Nialfi</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>34.623682000000002</real>
+		<real>34.497577999999997</real>
 		<key>starSystem</key>
 		<string>Mu Nialfi</string>
 		<key>stationFaction</key>
@@ -13975,7 +13974,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260415</string>
+		<string>20260418</string>
 	</dict>
 	<key>Friedman Port_Tenchih</key>
 	<dict>
@@ -30740,7 +30739,7 @@
 	<key>Oikawa Stop_Badbh</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>387.517359</real>
+		<real>387.62668100000002</real>
 		<key>starSystem</key>
 		<string>Badbh</string>
 		<key>stationFaction</key>
@@ -30783,7 +30782,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260415</string>
+		<string>20260418</string>
 	</dict>
 	<key>Onyx Bastion_Santy</key>
 	<dict>
@@ -38410,13 +38409,13 @@
 	<key>Sudworth Port_Brigual</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>345.81627500000002</real>
+		<real>345.74589400000002</real>
 		<key>starSystem</key>
 		<string>Brigual</string>
 		<key>stationFaction</key>
 		<dict>
 			<key>FactionState</key>
-			<string>Outbreak</string>
+			<string>Boom</string>
 			<key>Name</key>
 			<string>Achenar Trading and Mining</string>
 		</dict>
@@ -38451,7 +38450,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260415</string>
+		<string>20260418</string>
 	</dict>
 	<key>Sugie Works_Nyan</key>
 	<dict>
@@ -40467,7 +40466,7 @@
 	<key>THH-LHG_Brigual</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>345.79633899999999</real>
+		<real>345.79382700000002</real>
 		<key>starSystem</key>
 		<string>Brigual</string>
 		<key>stationFaction</key>
@@ -40500,7 +40499,7 @@
 		<key>stationType</key>
 		<string>FleetCarrier</string>
 		<key>updated</key>
-		<string>20260415</string>
+		<string>20260417</string>
 	</dict>
 	<key>THH-LHG_Byeia Ain DA-U b30-136</key>
 	<dict>
@@ -43735,7 +43734,7 @@
 	<key>THH-LHG_Gladuwong</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>369.83557500000001</real>
+		<real>369.83507400000002</real>
 		<key>starSystem</key>
 		<string>Gladuwong</string>
 		<key>stationFaction</key>
@@ -43768,7 +43767,7 @@
 		<key>stationType</key>
 		<string>FleetCarrier</string>
 		<key>updated</key>
-		<string>20260415</string>
+		<string>20260416</string>
 	</dict>
 	<key>THH-LHG_Graea Hypue CD-R a72-0</key>
 	<dict>
@@ -45179,7 +45178,7 @@
 	<key>THH-LHG_LHS 1097</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1366.4614160000001</real>
+		<real>1367.203683</real>
 		<key>starSystem</key>
 		<string>LHS 1097</string>
 		<key>stationFaction</key>
@@ -45212,7 +45211,7 @@
 		<key>stationType</key>
 		<string>FleetCarrier</string>
 		<key>updated</key>
-		<string>20260413</string>
+		<string>20260417</string>
 	</dict>
 	<key>THH-LHG_Laksak</key>
 	<dict>
@@ -45863,7 +45862,7 @@
 	<key>THH-LHG_Mu Nialfi</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>18.722577000000001</real>
+		<real>18.7226</real>
 		<key>starSystem</key>
 		<string>Mu Nialfi</string>
 		<key>stationFaction</key>
@@ -45896,7 +45895,7 @@
 		<key>stationType</key>
 		<string>FleetCarrier</string>
 		<key>updated</key>
-		<string>20260415</string>
+		<string>20260418</string>
 	</dict>
 	<key>THH-LHG_Muang</key>
 	<dict>
@@ -46167,7 +46166,7 @@
 	<key>THH-LHG_Neginn</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>2249.735799</real>
+		<real>2249.7351979999999</real>
 		<key>starSystem</key>
 		<string>Neginn</string>
 		<key>stationFaction</key>
@@ -46200,7 +46199,7 @@
 		<key>stationType</key>
 		<string>FleetCarrier</string>
 		<key>updated</key>
-		<string>20260415</string>
+		<string>20260417</string>
 	</dict>
 	<key>THH-LHG_Njokujinun</key>
 	<dict>
@@ -49658,7 +49657,7 @@
 	<key>THH-LHG_Themiscrya</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>0.0</real>
+		<real>616.271345</real>
 		<key>starSystem</key>
 		<string>Themiscrya</string>
 		<key>stationFaction</key>
@@ -49691,7 +49690,7 @@
 		<key>stationType</key>
 		<string>FleetCarrier</string>
 		<key>updated</key>
-		<string>20260324</string>
+		<string>20260417</string>
 	</dict>
 	<key>THH-LHG_Tjialim</key>
 	<dict>
