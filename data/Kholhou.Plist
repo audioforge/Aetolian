@@ -96,19 +96,119 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20260420</key>
+	<dict>
+		<key>Kholhou Electronics Company</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.027189999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Kholhou Empire League</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.051360000000000003</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Kholhou Gold Brotherhood</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.010070000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Kholhou Systems</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.051360000000000003</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>New Muang Defence Force</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.64753300000000003</real>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>People's Kholhou Liberals</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.037261000000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>The Winged Hussars</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.17522699999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
 		<array>
 			<string>Muang</string>
+			<string>Amsitia</string>
+			<string>Yaso Kondi A</string>
 			<string>Nespel</string>
 			<string>Ix Tub Tun</string>
 			<string>Jemede</string>
 			<string>Gungo</string>
+			<string>Punta A</string>
+			<string>Nyalayan A</string>
+			<string>Gliese 9043 A</string>
+			<string>Candiae A</string>
+			<string>Cemplangpa A</string>
+			<string>HIP 5184 A</string>
 			<string>Madri</string>
+			<string>Dangu A</string>
 			<string>Reshero</string>
+			<string>HIP 7386 A</string>
+			<string>Zhuang A</string>
 			<string>Kalama</string>
 			<string>Bolocara</string>
+			<string>Bolowari A</string>
 		</array>
 		<key>StarPos</key>
 		<array>
@@ -117,7 +217,7 @@
 			<real>1.9375</real>
 		</array>
 		<key>SysFaction</key>
-		<string>The Winged Hussars</string>
+		<string>New Muang Defence Force</string>
 		<key>economy</key>
 		<string>Tourism</string>
 		<key>economy2</key>
@@ -129,7 +229,7 @@
 		<key>system</key>
 		<string>Kholhou</string>
 		<key>updated</key>
-		<string>20250127</string>
+		<string>20260420</string>
 	</dict>
 </dict>
 </plist>
