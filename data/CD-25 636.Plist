@@ -2,94 +2,94 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>20260418</key>
+	<key>20260420</key>
 	<dict>
-		<key>Artemis Corporation</key>
-		<dict>
-			<key>Active</key>
-			<string>Expansion</string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.51434199999999997</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>Expansion</string>
-		</dict>
-		<key>Darkwater Authority</key>
+		<key>CD-25 636 Camorra</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.131553</real>
+			<real>0.037511999999999997</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Dukes of Potriambunn</key>
+		<key>CD-25 636 Citizens' Forum</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.15825900000000001</real>
+			<real>0.076011999999999996</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>LHS 1391 Blue Organisation</key>
+		<key>CD-25 636 Industries</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.026706000000000001</real>
+			<real>0.051332999999999997</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>LHS 1391 Democrats</key>
+		<key>CD-25 636 Progressive Party</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.064293000000000003</real>
+			<real>0.026654000000000001</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>LHS 1391 Group</key>
+		<key>Conservatives of CD-25 636</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.044510000000000001</real>
+			<real>0.053307</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>LHS 1391 Patron's Principles</key>
+		<key>Imperial Self Defense Force</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.060336000000000001</real>
+			<real>0.63573500000000005</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>UICLI</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.119447</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -100,42 +100,42 @@
 	<dict>
 		<key>ExpTarget</key>
 		<array>
-			<string>CD-36 874</string>
-			<string>Kareco</string>
 			<string>Ininohima</string>
-			<string>LEHPM 1902</string>
-			<string>NLTT 8653</string>
-			<string>HR 706</string>
-			<string>CD-41 568</string>
-			<string>Chimechilo A</string>
-			<string>Khonsa</string>
-			<string>CD-37 641</string>
-			<string>Themiscrya</string>
-			<string>LTT 982</string>
+			<string>Kareco</string>
 			<string>HIP 7018</string>
-			<string>LP 940-115</string>
-			<string>Arexack</string>
+			<string>Utgaroar</string>
+			<string>LEHPM 1902</string>
+			<string>Tepi</string>
+			<string>Ned Erh A</string>
+			<string>Warlaworka A</string>
+			<string>HDS 123</string>
+			<string>BPM 590</string>
+			<string>Lu Hsiensei A</string>
+			<string>Siddha A</string>
+			<string>HIP 8830 A</string>
+			<string>Khonsa</string>
+			<string>Apam Napat</string>
 		</array>
 		<key>StarPos</key>
 		<array>
-			<real>27.9375</real>
-			<real>-100.15625</real>
-			<real>-24.75</real>
+			<real>7</real>
+			<real>-107</real>
+			<real>-17.96875</real>
 		</array>
 		<key>SysFaction</key>
-		<string>Artemis Corporation</string>
+		<string>Imperial Self Defense Force</string>
 		<key>economy</key>
-		<string>Military</string>
+		<string>Industrial</string>
 		<key>economy2</key>
-		<string>Refinery</string>
+		<string>Extraction</string>
 		<key>population</key>
-		<integer>234812</integer>
+		<integer>7756769</integer>
 		<key>security</key>
 		<string>Medium Security</string>
 		<key>system</key>
-		<string>LHS 1391</string>
+		<string>CD-25 636</string>
 		<key>updated</key>
-		<string>20260418</string>
+		<string>20260420</string>
 	</dict>
 </dict>
 </plist>

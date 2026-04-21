@@ -2,94 +2,81 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>20260418</key>
+	<key>20260420</key>
 	<dict>
-		<key>Artemis Corporation</key>
+		<key>G.O.M. Collective</key>
 		<dict>
 			<key>Active</key>
 			<string>Expansion</string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.51434199999999997</real>
+			<real>0.56646799999999997</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>Expansion</string>
 		</dict>
-		<key>Darkwater Authority</key>
+		<key>Liberals of Utgaroar</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.131553</real>
+			<real>0.055556000000000001</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Dukes of Potriambunn</key>
+		<key>Silver Vision Company</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.15825900000000001</real>
+			<real>0.058532000000000001</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>LHS 1391 Blue Organisation</key>
+		<key>Utgaroar Gold Society</key>
+		<dict>
+			<key>Active</key>
+			<string>Bust</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.011905000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Bust</string>
+		</dict>
+		<key>Utgaroar Left Party</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.026706000000000001</real>
+			<real>0.042659000000000002</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>LHS 1391 Democrats</key>
+		<key>Verne Partners LLP</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.064293000000000003</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>None</string>
-		</dict>
-		<key>LHS 1391 Group</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.044510000000000001</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>None</string>
-		</dict>
-		<key>LHS 1391 Patron's Principles</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.060336000000000001</real>
+			<real>0.26488099999999998</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -100,42 +87,41 @@
 	<dict>
 		<key>ExpTarget</key>
 		<array>
-			<string>CD-36 874</string>
-			<string>Kareco</string>
-			<string>Ininohima</string>
-			<string>LEHPM 1902</string>
-			<string>NLTT 8653</string>
-			<string>HR 706</string>
-			<string>CD-41 568</string>
-			<string>Chimechilo A</string>
-			<string>Khonsa</string>
-			<string>CD-37 641</string>
-			<string>Themiscrya</string>
-			<string>LTT 982</string>
+			<string>BPM 590</string>
+			<string>HDS 123</string>
+			<string>Ned Erh A</string>
+			<string>CD-25 636</string>
+			<string>Apam Napat</string>
+			<string>Othel</string>
+			<string>Marowalan</string>
+			<string>LHS 1097</string>
+			<string>Pemeowa</string>
 			<string>HIP 7018</string>
-			<string>LP 940-115</string>
-			<string>Arexack</string>
+			<string>Kured A</string>
+			<string>Julung A</string>
+			<string>Khruvandji A</string>
+			<string>Tepi</string>
 		</array>
 		<key>StarPos</key>
 		<array>
-			<real>27.9375</real>
-			<real>-100.15625</real>
-			<real>-24.75</real>
+			<real>-0.15625</real>
+			<real>-102.75</real>
+			<real>-5.5625</real>
 		</array>
 		<key>SysFaction</key>
-		<string>Artemis Corporation</string>
+		<string>G.O.M. Collective</string>
 		<key>economy</key>
-		<string>Military</string>
+		<string>Agriculture</string>
 		<key>economy2</key>
-		<string>Refinery</string>
+		<string>None</string>
 		<key>population</key>
-		<integer>234812</integer>
+		<integer>1500000</integer>
 		<key>security</key>
-		<string>Medium Security</string>
+		<string>Low Security</string>
 		<key>system</key>
-		<string>LHS 1391</string>
+		<string>Utgaroar</string>
 		<key>updated</key>
-		<string>20260418</string>
+		<string>20260420</string>
 	</dict>
 </dict>
 </plist>

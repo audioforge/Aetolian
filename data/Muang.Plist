@@ -2232,22 +2232,120 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20260420</key>
+	<dict>
+		<key>ELITE SPACE WINGS</key>
+		<dict>
+			<key>Active</key>
+			<string>Boom</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.65936300000000003</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Boom</string>
+		</dict>
+		<key>Independent Muang Progressive Party</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.072708999999999996</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Muang Blue Creative Corporation</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.063744999999999996</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Muang Constitution Party</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.025895999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Muang Gold Posse</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.0099600000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>New Muang Defence Force</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.168327</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
 		<array>
+			<string>Amsitia</string>
 			<string>Nespel</string>
 			<string>Jemede</string>
+			<string>Yaso Kondi A</string>
 			<string>Ix Tub Tun</string>
+			<string>Cemplangpa A</string>
+			<string>Nyalayan A</string>
+			<string>Gliese 9043 A</string>
 			<string>Gungo</string>
 			<string>HIP 6854</string>
+			<string>HIP 6551</string>
+			<string>Dyin A</string>
+			<string>HIP 7386 A</string>
+			<string>Dangu A</string>
+			<string>Apurusia A</string>
+			<string>Bolowari A</string>
+			<string>Mokoi A</string>
 			<string>Madri</string>
 			<string>Songloi</string>
+			<string>Punta A</string>
 			<string>Nyan</string>
+			<string>Candiae A</string>
 			<string>Bolocara</string>
 			<string>Ditae</string>
 			<string>Reshero</string>
+			<string>HIP 5184 A</string>
 			<string>Ten Samba</string>
+			<string>Ibormbu A</string>
+			<string>Yokusu A</string>
 			<string>Crom Dubh</string>
 			<string>Rabatha</string>
 		</array>
@@ -2258,7 +2356,7 @@
 			<real>-3.46875</real>
 		</array>
 		<key>SysFaction</key>
-		<string>The Winged Hussars</string>
+		<string>ELITE SPACE WINGS</string>
 		<key>economy</key>
 		<string>Extraction</string>
 		<key>economy2</key>
@@ -2270,7 +2368,7 @@
 		<key>system</key>
 		<string>Muang</string>
 		<key>updated</key>
-		<string>20250812</string>
+		<string>20260420</string>
 	</dict>
 </dict>
 </plist>
