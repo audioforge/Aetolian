@@ -2,88 +2,94 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>20260421</key>
+	<key>20260422</key>
 	<dict>
-		<key>Dominion of HIP 7396</key>
+		<key>Dukes of Potriambunn</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.183085</real>
+			<real>0.046627000000000002</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>East India Company</key>
-		<dict>
-			<key>Influence</key>
-			<real>0.15820899999999999</real>
-			<key>State</key>
-			<string>None</string>
-		</dict>
-		<key>HIP 7396 Life Solutions</key>
+		<key>Ininohima Guardians of Tradition</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.100498</real>
+			<real>0.42361100000000002</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>HIP 7396 Progressive Party</key>
+		<key>Iota-2 Fornacis Industries</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.033831</real>
+			<real>0.147817</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>League of HIP 7396</key>
+		<key>Lords of CD-36 874</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.062687000000000007</real>
+			<real>0.121032</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Official Cayura League</key>
+		<key>New Potriambunn Resistance</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.059700999999999997</real>
+			<real>0.045635000000000002</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Radius Group Inc</key>
+		<key>Potriambunn Holdings</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.40199000000000001</real>
+			<real>0.175595</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Potriambunn Jet Clan</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.039683000000000003</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -94,46 +100,46 @@
 	<dict>
 		<key>ExpTarget</key>
 		<array>
-			<string>Tepi</string>
-			<string>Lu Hsiensei A</string>
-			<string>Warlaworka A</string>
-			<string>HIP 8830 A</string>
-			<string>Gaunab A</string>
-			<string>Plentauri A</string>
-			<string>CD-25 636</string>
-			<string>Kassimshipa</string>
-			<string>HIP 9141 A</string>
-			<string>HIP 7018</string>
-			<string>Gliese 58 A</string>
-			<string>Khonsa</string>
-			<string>Betse Eyo A</string>
-			<string>Kareco</string>
-			<string>Byeri A</string>
-			<string>Targamu A</string>
-			<string>Lileni A</string>
-			<string>Ininohima</string>
+			<string>LHS 1391</string>
+			<string>CD-36 874</string>
+			<string>LP 941-16 A</string>
 			<string>LEHPM 1902</string>
+			<string>HR 706</string>
+			<string>NLTT 8653</string>
+			<string>Ininohima</string>
+			<string>CD-41 568</string>
+			<string>Kareco</string>
+			<string>NLTT 5871</string>
+			<string>Chimechilo A</string>
+			<string>Themiscrya</string>
+			<string>LTT 982</string>
+			<string>CD-37 641</string>
+			<string>Siddha A</string>
+			<string>Morai A</string>
+			<string>Mahei</string>
+			<string>Arexack</string>
+			<string>Khonsa</string>
 		</array>
 		<key>StarPos</key>
 		<array>
-			<real>2.28125</real>
-			<real>-119.3125</real>
-			<real>-25.78125</real>
+			<real>31.125</real>
+			<real>-97.5</real>
+			<real>-20.0625</real>
 		</array>
 		<key>SysFaction</key>
-		<string>Radius Group Inc</string>
+		<string>Ininohima Guardians of Tradition</string>
 		<key>economy</key>
-		<string>Industrial</string>
+		<string>Agriculture</string>
 		<key>economy2</key>
-		<string>Refinery</string>
+		<string>Extraction</string>
 		<key>population</key>
-		<integer>11967367</integer>
+		<integer>91935</integer>
 		<key>security</key>
-		<string>High Security</string>
+		<string>Medium Security</string>
 		<key>system</key>
-		<string>HIP 7396 A</string>
+		<string>Potriambunn</string>
 		<key>updated</key>
-		<string>20260421</string>
+		<string>20260422</string>
 	</dict>
 </dict>
 </plist>
