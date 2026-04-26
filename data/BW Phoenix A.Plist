@@ -2,81 +2,88 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>20260420</key>
+	<key>20260423</key>
 	<dict>
+		<key>51TH Massilia Corporation</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.037110999999999998</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>BW Phoenix Legal Interstellar</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.045135000000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>BW Phoenix People's Co-operative</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.021062999999999998</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
 		<key>G.O.M. Collective</key>
 		<dict>
-			<key>Active</key>
-			<string>Expansion</string>
-			<key>Happiness</key>
-			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.56646799999999997</real>
-			<key>Pending</key>
-			<string></string>
+			<real>0.20561699999999999</real>
 			<key>State</key>
 			<string>Expansion</string>
 		</dict>
-		<key>Liberals of Utgaroar</key>
+		<key>Giltine Network</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.055556000000000001</real>
+			<real>0.11334</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Silver Vision Company</key>
+		<key>Imperial Navy Australia</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.058532000000000001</real>
+			<real>0.127382</real>
 			<key>Pending</key>
-			<string></string>
+			<string>Expansion - 0</string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Utgaroar Gold Society</key>
-		<dict>
-			<key>Active</key>
-			<string>Bust</string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.011905000000000001</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>Bust</string>
-		</dict>
-		<key>Utgaroar Left Party</key>
+		<key>Prismatic Knights</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.042659000000000002</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>None</string>
-		</dict>
-		<key>Verne Partners LLP</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.26488099999999998</real>
+			<real>0.450351</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -87,43 +94,42 @@
 	<dict>
 		<key>ExpTarget</key>
 		<array>
-			<string>BPM 590</string>
-			<string>HDS 123</string>
-			<string>Ned Erh A</string>
-			<string>Chao Wu A</string>
-			<string>CD-25 636</string>
-			<string>Apam Napat</string>
-			<string>Gaunab A</string>
-			<string>Othel</string>
-			<string>Marowalan</string>
-			<string>LHS 1097</string>
-			<string>Pemeowa</string>
-			<string>HIP 7018</string>
-			<string>Kured A</string>
-			<string>Julung A</string>
-			<string>Khruvandji A</string>
-			<string>Tepi</string>
+			<string>Erlik A</string>
+			<string>Asphodel</string>
+			<string>Delta Phoenicis</string>
+			<string>Alacagui A</string>
+			<string>Mbetatika</string>
+			<string>Miphifa</string>
+			<string>Gender A</string>
+			<string>Agastariya A</string>
+			<string>Cemiess</string>
+			<string>Wongkho</string>
+			<string>Kui Hsien A</string>
+			<string>Gondul A</string>
+			<string>Thule</string>
+			<string>Hemaskas A</string>
+			<string>Persephone</string>
 		</array>
 		<key>StarPos</key>
 		<array>
-			<real>-0.15625</real>
-			<real>-102.75</real>
-			<real>-5.5625</real>
+			<real>47.59375</real>
+			<real>-120.59375</real>
+			<real>27.53125</real>
 		</array>
 		<key>SysFaction</key>
-		<string>G.O.M. Collective</string>
+		<string>Prismatic Knights</string>
 		<key>economy</key>
-		<string>Agriculture</string>
+		<string>Extraction</string>
 		<key>economy2</key>
 		<string>None</string>
 		<key>population</key>
-		<integer>1500000</integer>
+		<integer>3176</integer>
 		<key>security</key>
 		<string>Low Security</string>
 		<key>system</key>
-		<string>Utgaroar</string>
+		<string>BW Phoenix A</string>
 		<key>updated</key>
-		<string>20260420</string>
+		<string>20260423</string>
 	</dict>
 </dict>
 </plist>

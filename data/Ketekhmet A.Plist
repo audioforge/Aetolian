@@ -190,12 +190,124 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20260423</key>
+	<dict>
+		<key>CD-25 636 Citizens' Forum</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.089089000000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Guardians of Tranquillity</key>
+		<dict>
+			<key>Active</key>
+			<string>Expansion</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.116116</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Expansion</string>
+		</dict>
+		<key>Ketekhmet Legal Co</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.039038999999999997</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Ketekhmet Monarchy</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.039038999999999997</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Ketekhmet Purple Camorra</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.01001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>League of Ketekhmet</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.205205</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>UICLI</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.501502</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
 		<array>
+			<string>CD-25 636</string>
+			<string>Gaunab A</string>
+			<string>Kareco</string>
+			<string>Lani A</string>
+			<string>Ininohima</string>
+			<string>LEHPM 1902</string>
+			<string>LHS 1391</string>
+			<string>HIP 7396 A</string>
+			<string>Chao Wu A</string>
+			<string>HIP 7018</string>
+			<string>Utgaroar</string>
 			<string>Khonsa</string>
+			<string>Lu Hsiensei A</string>
 			<string>Tepi</string>
+			<string>Kassimshipa</string>
+			<string>Chimechilo A</string>
+			<string>LP 941-16 A</string>
+			<string>Siddha A</string>
+			<string>CD-37 641</string>
+			<string>LTT 982</string>
 		</array>
 		<key>StarPos</key>
 		<array>
@@ -204,7 +316,7 @@
 			<real>-23.4375</real>
 		</array>
 		<key>SysFaction</key>
-		<string>Guardians of Tranquillity</string>
+		<string>UICLI</string>
 		<key>economy</key>
 		<string>Colony</string>
 		<key>economy2</key>
@@ -216,7 +328,7 @@
 		<key>system</key>
 		<string>Ketekhmet A</string>
 		<key>updated</key>
-		<string>20250516</string>
+		<string>20260423</string>
 	</dict>
 </dict>
 </plist>
