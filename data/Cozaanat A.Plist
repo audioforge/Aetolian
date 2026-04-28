@@ -936,10 +936,126 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20260425</key>
+	<dict>
+		<key>Bembo Empire Consulate</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.167659</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Cozaanat Gold Rats</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.072420999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Cozaanat Gold Travel Company</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.047619000000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>HIP 8894 Citizens of Tradition</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.100198</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Holva Industries</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.047619000000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>The Independent Light Wheel</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.34920600000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Unified Cozaanat</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.215278</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
-		<array/>
+		<array>
+			<string>Ngadji A</string>
+			<string>Bembo</string>
+			<string>Ithertrudhr A</string>
+			<string>HIP 10123</string>
+			<string>Gladuwong</string>
+			<string>Hajara A</string>
+			<string>Mayapok A</string>
+			<string>Aurgens A</string>
+			<string>Popolof A</string>
+			<string>Holva A</string>
+			<string>HIP 8894</string>
+			<string>Bratabha A</string>
+			<string>Naura Mol</string>
+			<string>Rugien A</string>
+			<string>HIP 10012</string>
+			<string>Pauish</string>
+			<string>Degardhi</string>
+			<string>Sibianoe</string>
+			<string>HIP 10973</string>
+			<string>Varri</string>
+			<string>Bolocara</string>
+		</array>
 		<key>StarPos</key>
 		<array>
 			<real>51.1875</real>
@@ -959,7 +1075,7 @@
 		<key>system</key>
 		<string>Cozaanat A</string>
 		<key>updated</key>
-		<string>20250119</string>
+		<string>20260425</string>
 	</dict>
 </dict>
 </plist>

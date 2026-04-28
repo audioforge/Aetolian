@@ -2,94 +2,88 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>20260419</key>
+	<key>20260427</key>
 	<dict>
-		<key>Bureau of CD-54 471 Regulatory State</key>
+		<key>East India Company</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.14752499999999999</real>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Kenna Camorra</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.0998</real>
+			<real>0.09604</real>
+			<key>Pending</key>
+			<string>CivilWar - 0</string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Kenna Industry</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.012871</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>CD-54 471 Blue Mob</key>
+		<key>Kenna Nationals</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.031935999999999999</real>
+			<real>0.09604</real>
+			<key>Pending</key>
+			<string>CivilWar - 0</string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Kenna Netcoms Group</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.060395999999999998</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>CD-54 471 Exchange</key>
+		<key>Movement for Kenna for Equality</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.11976000000000001</real>
+			<real>0.067326999999999998</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Crew of CD-54 471</key>
+		<key>UICLI</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.018962</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>None</string>
-		</dict>
-		<key>G.O.M. Collective</key>
-		<dict>
-			<key>Active</key>
-			<string>Expansion</string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.54790399999999995</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>Expansion</string>
-		</dict>
-		<key>L.Y.S Corp.</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.095808000000000004</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>None</string>
-		</dict>
-		<key>People's CD-54 471 Labour Union</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.085828000000000002</real>
+			<real>0.51980199999999999</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -100,41 +94,39 @@
 	<dict>
 		<key>ExpTarget</key>
 		<array>
-			<string>Chapsugaibo</string>
-			<string>Kataning</string>
-			<string>LTT 911</string>
-			<string>Arexack</string>
-			<string>Mictlan</string>
-			<string>CD-52 187</string>
-			<string>Mahei</string>
-			<string>LTT 1509 A</string>
-			<string>Morai A</string>
-			<string>Nahuatl A</string>
-			<string>HR 706</string>
-			<string>CD-41 568</string>
-			<string>NLTT 5871</string>
-			<string>Sugrivik</string>
+			<string>Utgaroar</string>
+			<string>BPM 590</string>
+			<string>HDS 123</string>
+			<string>Chao Wu A</string>
+			<string>CD-25 636</string>
+			<string>Gaunab A</string>
+			<string>Ned Erh A</string>
+			<string>Apam Napat</string>
+			<string>Othel</string>
+			<string>HIP 7396 A</string>
+			<string>HIP 7018</string>
+			<string>Dheneb A</string>
 		</array>
 		<key>StarPos</key>
 		<array>
-			<real>46.90625</real>
-			<real>-80.5</real>
-			<real>6.9375</real>
+			<real>-5.5</real>
+			<real>-100.53125</real>
+			<real>-10.15625</real>
 		</array>
 		<key>SysFaction</key>
-		<string>G.O.M. Collective</string>
+		<string>UICLI</string>
 		<key>economy</key>
 		<string>Industrial</string>
 		<key>economy2</key>
-		<string>Industrial</string>
+		<string>Military</string>
 		<key>population</key>
-		<integer>200000</integer>
+		<integer>6214184</integer>
 		<key>security</key>
-		<string>Low Security</string>
+		<string>Medium Security</string>
 		<key>system</key>
-		<string>CD-54 471</string>
+		<string>Kenna</string>
 		<key>updated</key>
-		<string>20260419</string>
+		<string>20260427</string>
 	</dict>
 </dict>
 </plist>
