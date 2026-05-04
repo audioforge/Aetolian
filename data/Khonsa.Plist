@@ -96,10 +96,118 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20260503</key>
+	<dict>
+		<key>BFNF Solutions</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.514486</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Clan of Khonsa</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.0099900000000000006</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Gliese 76 Guardians of Tradition</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.039960000000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Khonsa Co-op</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.089910000000000004</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Khonsa General Co</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.17582400000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Khonsa Nobles</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.055944000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>League of Byeri First</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.113886</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
-		<array/>
+		<array>
+			<string>Devane</string>
+			<string>HIP 8830 A</string>
+			<string>Lu Hsiensei A</string>
+			<string>HIP 9141 A</string>
+			<string>Kareco</string>
+			<string>Warlaworka A</string>
+			<string>HIP 7396 A</string>
+			<string>LHS 1391</string>
+			<string>Lani A</string>
+			<string>Gaunab A</string>
+			<string>CD-25 636</string>
+			<string>CD-36 874</string>
+			<string>Byeri A</string>
+		</array>
 		<key>StarPos</key>
 		<array>
 			<real>20</real>
@@ -119,7 +227,7 @@
 		<key>system</key>
 		<string>Khonsa</string>
 		<key>updated</key>
-		<string>20250119</string>
+		<string>20260503</string>
 	</dict>
 </dict>
 </plist>
