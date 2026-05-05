@@ -96,10 +96,104 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20260504</key>
+	<dict>
+		<key>BFNF Solutions</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.64024400000000004</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Galactic Rangers</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.14837400000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>HIP 11131 &amp; Co</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.088414999999999994</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>HIP 11131 Coordinated</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.024389999999999998</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>HIP 11131 Pro-Independent League</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.057926999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>HIP 11954 Nobles</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.040649999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
-		<array/>
+		<array>
+			<string>HIP 12119</string>
+			<string>Uzumo</string>
+			<string>Devane</string>
+			<string>Khonsa</string>
+			<string>Kareco</string>
+			<string>CD-36 874</string>
+			<string>LHS 1391</string>
+			<string>NLTT 8653</string>
+			<string>HIP 7018</string>
+			<string>Byeri A</string>
+			<string>Ininohima</string>
+			<string>LEHPM 1902</string>
+		</array>
 		<key>StarPos</key>
 		<array>
 			<real>32.15625</real>
@@ -119,7 +213,7 @@
 		<key>system</key>
 		<string>HIP 11131 A</string>
 		<key>updated</key>
-		<string>20250111</string>
+		<string>20260504</string>
 	</dict>
 </dict>
 </plist>

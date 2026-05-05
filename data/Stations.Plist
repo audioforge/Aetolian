@@ -5727,6 +5727,51 @@
 		<key>updated</key>
 		<string>20240806</string>
 	</dict>
+	<key>Bohme Station_Uzumo</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>7.1987949999999996</real>
+		<key>starSystem</key>
+		<string>Uzumo</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>BFNF Solutions</string>
+		</dict>
+		<key>stationName</key>
+		<string>Bohme Station</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>facilitator</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Outpost</string>
+		<key>updated</key>
+		<string>20260504</string>
+	</dict>
 	<key>Bohrmann City_Nukama</key>
 	<dict>
 		<key>DistFromStarLS</key>
@@ -10921,7 +10966,7 @@
 	<key>Davies City_Devane</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1690.3048980000001</real>
+		<real>1690.768828</real>
 		<key>starSystem</key>
 		<string>Devane</string>
 		<key>stationFaction</key>
@@ -28301,7 +28346,7 @@
 	<key>Lomonosov Hub_LEHPM 1902</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>825.98828400000002</real>
+		<real>826.14276500000005</real>
 		<key>starSystem</key>
 		<string>LEHPM 1902</string>
 		<key>stationFaction</key>
@@ -39195,6 +39240,50 @@
 		<string>Outpost</string>
 		<key>updated</key>
 		<string>20250227</string>
+	</dict>
+	<key>Sawyer Beacon_HIP 11131</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>1534.725854</real>
+		<key>starSystem</key>
+		<string>HIP 11131</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>BFNF Solutions</string>
+		</dict>
+		<key>stationName</key>
+		<string>Sawyer Beacon</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>facilitator</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Outpost</string>
+		<key>updated</key>
+		<string>20260504</string>
 	</dict>
 	<key>Schaumasse Hub_Tinigua</key>
 	<dict>
@@ -57583,6 +57672,50 @@
 		<string>Coriolis</string>
 		<key>updated</key>
 		<string>20250105</string>
+	</dict>
+	<key>Turner Terminal_HIP 12119</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>8069.1592280000004</real>
+		<key>starSystem</key>
+		<string>HIP 12119</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>Domoth Empire Party</string>
+		</dict>
+		<key>stationName</key>
+		<string>Turner Terminal</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Outpost</string>
+		<key>updated</key>
+		<string>20260504</string>
 	</dict>
 	<key>Underwood Platform_Lalande 38451</key>
 	<dict>
