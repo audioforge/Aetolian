@@ -1194,25 +1194,113 @@
 			<string>None</string>
 		</dict>
 	</dict>
-	<key>20260506</key>
+	<key>20260505</key>
 	<dict>
 		<key>ELITE SPACE WINGS</key>
 		<dict>
-			<key>Active</key>
-			<string>Retreat</string>
-			<key>Happiness</key>
-			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.065373000000000001</real>
-			<key>Pending</key>
-			<string></string>
+			<real>0.11799999999999999</real>
 			<key>State</key>
 			<string>Retreat</string>
 		</dict>
 		<key>East India Company</key>
 		<dict>
+			<key>Active</key>
+			<string>Boom</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.46800000000000003</real>
+			<key>Pending</key>
+			<string>Expansion - 0</string>
+			<key>State</key>
+			<string>Boom</string>
+		</dict>
+		<key>LEHPM 1902 Council</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.057000000000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>LEHPM 1902 Patron's Principles</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.049000000000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>LEHPM 1902 Purple Power Dev</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.070000000000000007</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>People's LEHPM 1902 Resistance</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.107</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Verne Partners LLP</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.13100000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
+	<key>20260506</key>
+	<dict>
+		<key>ELITE SPACE WINGS</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.065373000000000001</real>
+			<key>State</key>
+			<string>Retreat</string>
+		</dict>
+		<key>East India Company</key>
+		<dict>
+			<key>Active</key>
+			<string>Boom</string>
+			<key>Happiness</key>
+			<string>Happy</string>
 			<key>Influence</key>
 			<real>0.52400400000000003</real>
+			<key>Pending</key>
+			<string>Expansion - 0</string>
 			<key>State</key>
 			<string>Boom</string>
 		</dict>
@@ -1339,7 +1427,7 @@
 		<key>system</key>
 		<string>LEHPM 1902</string>
 		<key>updated</key>
-		<string>20260423</string>
+		<string>20260506</string>
 	</dict>
 </dict>
 </plist>
