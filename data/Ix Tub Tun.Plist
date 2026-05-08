@@ -2158,22 +2158,131 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20260507</key>
+	<dict>
+		<key>Amanogawa Enlight</key>
+		<dict>
+			<key>Active</key>
+			<string>CivilUnrest</string>
+			<key>Happiness</key>
+			<string>Discontented</string>
+			<key>Influence</key>
+			<real>0.41341299999999997</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>CivilUnrest</string>
+		</dict>
+		<key>Defence Force of Apurusia</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.164164</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Drug Empire of Ix Tub Tun</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.017017000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Gungo General Exchange</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.145145</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Ix Tub Tun Limited</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.047046999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Ix Tub Tun Union Party</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.12012</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Liberty Party of Ix Tub Tun</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.093092999999999995</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
 		<array>
 			<string>Gungo</string>
+			<string>Apurusia A</string>
+			<string>Mokoi A</string>
 			<string>HIP 6854</string>
 			<string>Madri</string>
+			<string>Dangu A</string>
 			<string>Muang</string>
 			<string>Nyan</string>
+			<string>Yaso Kondi A</string>
+			<string>Kholhou</string>
+			<string>Amsitia</string>
+			<string>Alyuta A</string>
+			<string>Yokusu A</string>
 			<string>Nespel</string>
 			<string>Kalama</string>
 			<string>Jemede</string>
 			<string>Rishanha</string>
 			<string>Songloi</string>
+			<string>Cemplangpa A</string>
+			<string>HIP 6990 A</string>
+			<string>Nyalayan A</string>
+			<string>Gliese 9043 A</string>
 			<string>Reshero</string>
+			<string>Zhuang A</string>
 			<string>Maritou</string>
+			<string>Bolowari A</string>
+			<string>HIP 5651 A</string>
 			<string>Zosian Tse</string>
 		</array>
 		<key>StarPos</key>
@@ -2195,7 +2304,7 @@
 		<key>system</key>
 		<string>Ix Tub Tun</string>
 		<key>updated</key>
-		<string>20250411</string>
+		<string>20260507</string>
 	</dict>
 </dict>
 </plist>

@@ -660,10 +660,131 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20260507</key>
+	<dict>
+		<key>Ba Nari Brothers</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.0099010000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Ba Nari Corp.</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.062376000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Ba Nari Stakeholders</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.029703</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Barons of Ba Nari</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.083168000000000006</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Blue Allied Systems</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.025742999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>ELITE SPACE WINGS</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.51287099999999997</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>G.O.M. Collective</key>
+		<dict>
+			<key>Active</key>
+			<string>Expansion</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.27623799999999998</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Expansion</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
-		<array/>
+		<array>
+			<string>CF 464</string>
+			<string>Kadrusa A</string>
+			<string>Mbetatika</string>
+			<string>HR 494 A</string>
+			<string>CD-40 395 A</string>
+			<string>Gender A</string>
+			<string>Asphodel</string>
+			<string>Pai Huldr A</string>
+			<string>Tengri</string>
+			<string>Shambhala</string>
+			<string>Lombi A</string>
+			<string>Delta Phoenicis</string>
+			<string>Cockaigne</string>
+			<string>LP 940-115</string>
+			<string>Akualanu A</string>
+			<string>Summerland</string>
+			<string>Quivira A</string>
+			<string>Hemaskas A</string>
+			<string>Thule</string>
+			<string>Miphifa</string>
+			<string>Themiscrya</string>
+			<string>Fawaol</string>
+			<string>Alacagui A</string>
+			<string>CD-37 641</string>
+			<string>Hruntia</string>
+			<string>Wongkho</string>
+		</array>
 		<key>StarPos</key>
 		<array>
 			<real>46.1875</real>
@@ -683,7 +804,7 @@
 		<key>system</key>
 		<string>Ba Nari A</string>
 		<key>updated</key>
-		<string>20250119</string>
+		<string>20260507</string>
 	</dict>
 </dict>
 </plist>

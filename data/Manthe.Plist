@@ -190,10 +190,95 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20260506</key>
+	<dict>
+		<key>6th Interstellar Corps</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.17019000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>ELITE SPACE WINGS</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.66701900000000003</real>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Manthe Boys</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.013742000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Manthe Life Co</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.010571000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Natural Manthe Liberty Party</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.010571000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Shonso Empire Pact</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.12790699999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
-		<array/>
+		<array>
+			<string>Autrimpe A</string>
+			<string>Giabaing A</string>
+			<string>Mentintei A</string>
+			<string>Jemen A</string>
+			<string>Yab Yum</string>
+			<string>Shambhala</string>
+			<string>Tjialim</string>
+			<string>Tengri</string>
+			<string>Zvaithhogg</string>
+		</array>
 		<key>StarPos</key>
 		<array>
 			<real>63.78125</real>
@@ -213,7 +298,7 @@
 		<key>system</key>
 		<string>Manthe</string>
 		<key>updated</key>
-		<string>20250105</string>
+		<string>20260506</string>
 	</dict>
 </dict>
 </plist>
