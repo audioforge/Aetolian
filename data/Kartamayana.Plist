@@ -2,90 +2,90 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>20260501</key>
+	<key>20260513</key>
 	<dict>
-		<key>Brotherhood of Quamta</key>
+		<key>Hyperborea Bureau</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.038651999999999999</real>
+			<real>0.037999999999999999</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Delta Phoenicis Empire League</key>
+		<key>Independent Kartamayana Progressive Party</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.216055</real>
+			<real>0.021999999999999999</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>ELITE SPACE WINGS</key>
+		<key>Kartamayana Fortune Services</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.53914799999999996</real>
+			<real>0.052999999999999999</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>G.O.M. Collective</key>
-		<dict>
-			<key>Influence</key>
-			<real>0.054509000000000002</real>
-			<key>State</key>
-			<string>None</string>
-		</dict>
-		<key>Quamta Limited</key>
+		<key>Kartamayana Gold Gang</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.090188000000000004</real>
+			<real>0.01</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Quamta Noblement</key>
+		<key>Kartamayana Patrons of Law</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.051535999999999998</real>
+			<real>0.126</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Quamta Stakeholders</key>
+		<key>Liu Di Imperial Society</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.0099109999999999997</real>
+			<real>0.043999999999999997</real>
 			<key>Pending</key>
 			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>United German Commanders</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.70699999999999996</real>
 			<key>State</key>
 			<string>None</string>
 		</dict>
@@ -94,47 +94,42 @@
 	<dict>
 		<key>ExpTarget</key>
 		<array>
-			<string>Tengri</string>
-			<string>Mbetatika</string>
-			<string>Veamit</string>
-			<string>Hemaskas A</string>
-			<string>Shambhala</string>
-			<string>HR 494 A</string>
-			<string>Crom Dubh</string>
-			<string>Lombi A</string>
+			<string>Paras</string>
 			<string>Delta Phoenicis</string>
-			<string>Thule</string>
-			<string>Kadrusa A</string>
-			<string>CF 464</string>
-			<string>Cockaigne</string>
-			<string>Urcia</string>
-			<string>CD-40 395 A</string>
+			<string>Erlik A</string>
+			<string>Mbetatika</string>
+			<string>LTT 874</string>
+			<string>Cibola</string>
+			<string>Lombi A</string>
 			<string>Kharpulo</string>
+			<string>Zelacanto A</string>
+			<string>Urcia</string>
 			<string>Gender A</string>
-			<string>LP 940-115</string>
-			<string>Summerland</string>
-			<string>Yab Yum</string>
+			<string>Akualanu A</string>
+			<string>CD-44 224</string>
+			<string>Cockaigne</string>
+			<string>Ba Nari A</string>
 		</array>
 		<key>StarPos</key>
 		<array>
-			<real>43.5</real>
-			<real>-139.34375</real>
-			<real>1.59375</real>
+			<real>57.0625</real>
+			<real>-143.25</real>
+			<real>18</real>
 		</array>
 		<key>SysFaction</key>
-		<string>ELITE SPACE WINGS</string>
+		<string>United German Commanders</string>
 		<key>economy</key>
-		<string>Extraction</string>
+		<string>Refinery</string>
 		<key>economy2</key>
-		<string>Agriculture</string>
+		<string>Extraction</string>
 		<key>population</key>
-		<integer>171618</integer>
+		<integer>206934</integer>
 		<key>security</key>
 		<string>Medium Security</string>
 		<key>system</key>
-		<string>Quamta</string>
+		<string>Kartamayana</string>
 		<key>updated</key>
-		<string>20260501</string>
+		<string>20260513</string>
 	</dict>
 </dict>
 </plist>
