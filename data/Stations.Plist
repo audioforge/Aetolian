@@ -1062,7 +1062,7 @@
 	<key>Al-Khujandi Enterprise_Muang</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>31.774327</real>
+		<real>31.691621000000001</real>
 		<key>starSystem</key>
 		<string>Muang</string>
 		<key>stationFaction</key>
@@ -1106,7 +1106,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260513</string>
+		<string>20260514</string>
 	</dict>
 	<key>Albategnius Dock_HIP 7823</key>
 	<dict>
@@ -3487,7 +3487,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260506</string>
+		<string>20260514</string>
 	</dict>
 	<key>Bahcall Refinery_Yu Shou</key>
 	<dict>
@@ -25786,7 +25786,7 @@
 	<key>Kohoutek Mines_Jemede</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>576.399541</real>
+		<real>574.58326</real>
 		<key>starSystem</key>
 		<string>Jemede</string>
 		<key>stationFaction</key>
@@ -25824,7 +25824,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250101</string>
+		<string>20260514</string>
 	</dict>
 	<key>Kojima Station_HIP 7304</key>
 	<dict>
@@ -63268,6 +63268,53 @@
 		<string>Coriolis</string>
 		<key>updated</key>
 		<string>20260323</string>
+	</dict>
+	<key>van den Bergh Hub_Domoth</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>22.805357000000001</real>
+		<key>starSystem</key>
+		<string>Domoth</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>HIP 9774 Patron's Principles</string>
+		</dict>
+		<key>stationName</key>
+		<string>van den Bergh Hub</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>shipyard</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Coriolis</string>
+		<key>updated</key>
+		<string>20260514</string>
 	</dict>
 	<key>van den Hove Port_Kehpera</key>
 	<dict>
