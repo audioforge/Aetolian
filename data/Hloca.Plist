@@ -2,94 +2,94 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>20260513</key>
+	<key>20260515</key>
 	<dict>
-		<key>Achenar Immortals</key>
+		<key>Amanogawa Enlight</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.25392199999999998</real>
+			<real>0.046092000000000001</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Hyperborea Bureau</key>
+		<key>Co-operative of Hloca</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.117647</real>
+			<real>0.056112000000000002</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Movement for Paras Free</key>
+		<key>ELITE SPACE WINGS</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.066667000000000004</real>
+			<real>0.60420799999999997</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Paras Constitution Party</key>
+		<key>Hloca Empire Party</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.047058999999999997</real>
+			<real>0.082164000000000001</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Paras Corporation</key>
+		<key>Hloca Partnership</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.060783999999999998</real>
+			<real>0.010019999999999999</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>United German Commanders</key>
+		<key>Hloca Silver General Partners</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.41470600000000002</real>
+			<real>0.085169999999999996</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>United Paras Defence Party</key>
+		<key>The Winged Hussars</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.039216000000000001</real>
+			<real>0.116232</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -100,43 +100,49 @@
 	<dict>
 		<key>ExpTarget</key>
 		<array>
-			<string>Kartamayana</string>
-			<string>Delta Phoenicis</string>
-			<string>Erlik A</string>
-			<string>LTT 874</string>
-			<string>Mbetatika</string>
-			<string>Kharpulo</string>
-			<string>Avalon</string>
-			<string>Cibola</string>
-			<string>CD-44 224</string>
-			<string>Eseasa A</string>
-			<string>Lombi A</string>
-			<string>Zelacanto A</string>
-			<string>Gender A</string>
-			<string>Akualanu A</string>
-			<string>Giltine A</string>
-			<string>Ba Nari A</string>
+			<string>Kholhou</string>
+			<string>Muang</string>
+			<string>Amsitia</string>
+			<string>Yaso Kondi A</string>
+			<string>Nespel</string>
+			<string>Jemede</string>
+			<string>Candiae A</string>
+			<string>HIP 5184 A</string>
+			<string>Nyalayan A</string>
+			<string>Ix Tub Tun</string>
+			<string>Dyin A</string>
+			<string>Gungo</string>
+			<string>Cemplangpa A</string>
+			<string>Punta A</string>
+			<string>Gliese 9043 A</string>
+			<string>Reret A</string>
+			<string>Madri</string>
+			<string>HIP 7386 A</string>
+			<string>Zhuang A</string>
+			<string>HIP 6011 A</string>
+			<string>Kalama</string>
+			<string>Reshero</string>
 		</array>
 		<key>StarPos</key>
 		<array>
-			<real>56.5</real>
-			<real>-143.875</real>
-			<real>20.75</real>
+			<real>16.625</real>
+			<real>-179.53125</real>
+			<real>3.375</real>
 		</array>
 		<key>SysFaction</key>
-		<string>United German Commanders</string>
+		<string>ELITE SPACE WINGS</string>
 		<key>economy</key>
-		<string>Industrial</string>
-		<key>economy2</key>
 		<string>Extraction</string>
+		<key>economy2</key>
+		<string>Industrial</string>
 		<key>population</key>
-		<integer>16264571</integer>
+		<integer>144512</integer>
 		<key>security</key>
-		<string>High Security</string>
+		<string>Medium Security</string>
 		<key>system</key>
-		<string>Paras</string>
+		<string>Hloca</string>
 		<key>updated</key>
-		<string>20260513</string>
+		<string>20260515</string>
 	</dict>
 </dict>
 </plist>
