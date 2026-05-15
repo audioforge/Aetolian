@@ -96,10 +96,124 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20260514</key>
+	<dict>
+		<key>Coffin Dodgers Inc.</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.083000000000000004</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Cornae Patrons of Law</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.091999999999999998</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Holva Industries</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.14099999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Holva Unionists</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.126</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Official Holva Regulatory State</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.10299999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Raiders of Holva</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.080000000000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>The Independent Light Wheel</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.375</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
-		<array/>
+		<array>
+			<string>Chih Hiner A</string>
+			<string>Bratabha A</string>
+			<string>Pequen A</string>
+			<string>Rugien A</string>
+			<string>HIP 11305</string>
+			<string>Tjialim</string>
+			<string>Bembo</string>
+			<string>Giabaing A</string>
+			<string>HIP 10123</string>
+			<string>Cozaanat A</string>
+			<string>Anja A</string>
+			<string>Popolof A</string>
+			<string>Humatsu A</string>
+			<string>Jemen A</string>
+			<string>Gladuwong</string>
+			<string>HIP 8894</string>
+			<string>Soniteru A</string>
+			<string>Autrimpe A</string>
+			<string>Audhenu</string>
+		</array>
 		<key>StarPos</key>
 		<array>
 			<real>58.6875</real>
@@ -119,7 +233,7 @@
 		<key>system</key>
 		<string>Holva A</string>
 		<key>updated</key>
-		<string>20250122</string>
+		<string>20260514</string>
 	</dict>
 </dict>
 </plist>

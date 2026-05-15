@@ -2,94 +2,94 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>20260513</key>
+	<key>20260514</key>
 	<dict>
-		<key>LTT 518 Company</key>
+		<key>51TH Massilia Corporation</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.112537</real>
+			<real>0.37040699999999999</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>LTT 518 Constitution Party</key>
+		<key>Allied Herthans Front</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.060217</real>
+			<real>0.114201</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>LTT 518 Justice Party</key>
+		<key>G.O.M. Collective</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.12734500000000001</real>
+			<real>0.17477699999999999</real>
+			<key>Pending</key>
+			<string>Expansion - 0</string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Movement for Smethells 173 Republic Party</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.059582999999999997</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>LTT 518 Raiders</key>
+		<key>Smethells 173 Allied Services</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.0098720000000000006</real>
+			<real>0.095333000000000001</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Movement for Cernunnos for Equality</key>
+		<key>Smethells 173 Empire Party</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.0385</real>
+			<real>0.14895700000000001</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Revolutionary LTT 518 Resistance</key>
+		<key>Smethells 173 Ring</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.035538</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>None</string>
-		</dict>
-		<key>United German Commanders</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.61599199999999998</real>
+			<real>0.036742999999999998</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -100,30 +100,42 @@
 	<dict>
 		<key>ExpTarget</key>
 		<array>
-			<string>CD-44 224</string>
-			<string>Kharpulo</string>
-			<string>Eseasa A</string>
+			<string>BW Phoenix A</string>
+			<string>Giltine A</string>
+			<string>Erlik A</string>
+			<string>Avalon</string>
+			<string>BV Phoenicis</string>
+			<string>Wuru A</string>
+			<string>Asphodel</string>
+			<string>Delta Phoenicis</string>
+			<string>Mbetatika</string>
+			<string>Agastariya A</string>
+			<string>Alacagui A</string>
+			<string>Vequess</string>
+			<string>Wongkho</string>
+			<string>Miphifa</string>
+			<string>Kui Hsien A</string>
 		</array>
 		<key>StarPos</key>
 		<array>
-			<real>52</real>
-			<real>-164.5625</real>
-			<real>29.9375</real>
+			<real>44.59375</real>
+			<real>-120.03125</real>
+			<real>30.46875</real>
 		</array>
 		<key>SysFaction</key>
-		<string>United German Commanders</string>
+		<string>51TH Massilia Corporation</string>
 		<key>economy</key>
-		<string>Extraction</string>
+		<string>Tourism</string>
 		<key>economy2</key>
-		<string>Industrial</string>
+		<string>Extraction</string>
 		<key>population</key>
-		<integer>4495638</integer>
+		<integer>1646566</integer>
 		<key>security</key>
-		<string>High Security</string>
+		<string>Medium Security</string>
 		<key>system</key>
-		<string>LTT 518</string>
+		<string>Smethells 173</string>
 		<key>updated</key>
-		<string>20260513</string>
+		<string>20260514</string>
 	</dict>
 </dict>
 </plist>
