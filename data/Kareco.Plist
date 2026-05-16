@@ -378,10 +378,105 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20260516</key>
+	<dict>
+		<key>Apishna Guardians of Tradition</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.13932800000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Imperial Self Defense Force</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.39229199999999997</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Ininohima Guardians of Tradition</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.116601</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Kareco Citizens' Forum</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.15909100000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Kareco Company</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.078062999999999994</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Kareco Crimson Mob</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.033597000000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Kareco Revolutionary Party</key>
+		<dict>
+			<key>Active</key>
+			<string>Boom</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.081028000000000003</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Boom</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
 		<array>
+			<string>Atacapa</string>
 			<string>Ininohima</string>
 			<string>Uzumo</string>
 			<string>LHS 1391</string>
@@ -410,6 +505,7 @@
 			<string>HIP 9141 A</string>
 			<string>HR 706</string>
 			<string>HIP 12119</string>
+			<string>Domoth</string>
 		</array>
 		<key>StarPos</key>
 		<array>
@@ -430,7 +526,7 @@
 		<key>system</key>
 		<string>Kareco</string>
 		<key>updated</key>
-		<string>20260429</string>
+		<string>20260516</string>
 	</dict>
 </dict>
 </plist>
