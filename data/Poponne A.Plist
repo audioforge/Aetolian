@@ -2,94 +2,94 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>20260504</key>
+	<key>20260517</key>
 	<dict>
-		<key>Domoth Empire Party</key>
+		<key>El Tio &amp; Co</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.39402999999999999</real>
+			<real>0.140873</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Dukes of HIP 12119</key>
+		<key>Mob of Poponne</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.149254</real>
+			<real>0.041667000000000003</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>HIP 11433 Empire League</key>
+		<key>Poponne Allied Company</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.084576999999999999</real>
+			<real>0.102183</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>HIP 12119 Netcoms Industries</key>
+		<key>Poponne Independents</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.050745999999999999</real>
+			<real>0.073413000000000006</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>HIP 12119 People's Co-operative</key>
+		<key>Poponne Patrons of Law</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.039801000000000003</real>
+			<real>0.18055599999999999</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Mizo Citizens of Tradition</key>
+		<key>United Hunte Liberty Party</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.16517399999999999</real>
+			<real>0.119048</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Unified HIP 11954</key>
+		<key>Wuru Empire Pact</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.11641799999999999</real>
+			<real>0.34226200000000001</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -100,35 +100,36 @@
 	<dict>
 		<key>ExpTarget</key>
 		<array>
-			<string>Domoth</string>
-			<string>HIP 11131 A</string>
-			<string>Khonsa</string>
-			<string>Uzumo</string>
-			<string>Devane</string>
-			<string>Atacapa</string>
-			<string>Aholhyniai A</string>
-			<string>Kareco</string>
+			<string>Wuru A</string>
+			<string>Giltine A</string>
+			<string>Thule</string>
+			<string>Hemaskas A</string>
+			<string>BW Phoenix A</string>
+			<string>Eseasa A</string>
+			<string>Mbetatika</string>
+			<string>HIP 3142 A</string>
+			<string>Asphodel</string>
 		</array>
 		<key>StarPos</key>
 		<array>
-			<real>35.90625</real>
-			<real>-124.28125</real>
-			<real>-40.9375</real>
+			<real>29.625</real>
+			<real>-134.4375</real>
+			<real>29.125</real>
 		</array>
 		<key>SysFaction</key>
-		<string>Domoth Empire Party</string>
+		<string>Wuru Empire Pact</string>
 		<key>economy</key>
-		<string>Extraction</string>
-		<key>economy2</key>
 		<string>Refinery</string>
+		<key>economy2</key>
+		<string>Extraction</string>
 		<key>population</key>
-		<integer>125841</integer>
+		<integer>524156</integer>
 		<key>security</key>
 		<string>Medium Security</string>
 		<key>system</key>
-		<string>HIP 12119</string>
+		<string>Poponne A</string>
 		<key>updated</key>
-		<string>20260504</string>
+		<string>20260517</string>
 	</dict>
 </dict>
 </plist>
