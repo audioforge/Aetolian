@@ -5133,13 +5133,11 @@
 	<key>Baynes City_Shambhala</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>503.016909</real>
+		<real>502.81756899999999</real>
 		<key>starSystem</key>
 		<string>Shambhala</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>Retreat</string>
 			<key>Name</key>
 			<string>ELITE SPACE WINGS</string>
 		</dict>
@@ -5178,7 +5176,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20260418</string>
+		<string>20260523</string>
 	</dict>
 	<key>Bell Dock_LTT 874</key>
 	<dict>
@@ -13073,7 +13071,7 @@
 	<key>Dyson Terminal_Songloi</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>11454.097626999999</real>
+		<real>11463.71197</real>
 		<key>starSystem</key>
 		<string>Songloi</string>
 		<key>stationFaction</key>
@@ -13111,7 +13109,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260322</string>
+		<string>20260523</string>
 	</dict>
 	<key>Edison Gateway_Arietis Sector RD-T b3-0</key>
 	<dict>
@@ -14611,7 +14609,7 @@
 	<key>Flagg Landing_Wongkho</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>286.67979500000001</real>
+		<real>286.73142799999999</real>
 		<key>starSystem</key>
 		<string>Wongkho</string>
 		<key>stationFaction</key>
@@ -14651,7 +14649,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260522</string>
+		<string>20260523</string>
 	</dict>
 	<key>Flagg Relay_HIP 5191</key>
 	<dict>
@@ -35223,7 +35221,7 @@
 	<key>Oort Port_CD-40 395</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>2523.6763059999998</real>
+		<real>2523.3952920000002</real>
 		<key>starSystem</key>
 		<string>CD-40 395</string>
 		<key>stationFaction</key>
@@ -41997,13 +41995,13 @@
 	<key>Short Hop_Thule</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>527.497433</real>
+		<real>527.39513399999998</real>
 		<key>starSystem</key>
 		<string>Thule</string>
 		<key>stationFaction</key>
 		<dict>
 			<key>FactionState</key>
-			<string>Election</string>
+			<string>Boom</string>
 			<key>Name</key>
 			<string>ELITE SPACE WINGS</string>
 		</dict>
@@ -42042,7 +42040,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260522</string>
+		<string>20260523</string>
 	</dict>
 	<key>Shoujing Hub_LTT 874</key>
 	<dict>
@@ -61921,6 +61919,54 @@
 		</array>
 		<key>stationType</key>
 		<string>Orbis</string>
+		<key>updated</key>
+		<string>20260523</string>
+	</dict>
+	<key>Whelan City_Huma</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>45263.021164999998</real>
+		<key>starSystem</key>
+		<string>Huma</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>Shonso Empire Pact</string>
+		</dict>
+		<key>stationName</key>
+		<string>Whelan City</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>shipyard</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>shop</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Coriolis</string>
 		<key>updated</key>
 		<string>20260523</string>
 	</dict>
