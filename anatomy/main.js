@@ -95,6 +95,7 @@ function update_sheet(svg_content,ship_descr){
   var modDicts = {};
   exampleFetch();
   async function exampleFetch() {
+          //const response = await fetch('/anatomy/ShipList.plist');
           const response = await fetch('https://dl.dropbox.com/scl/fi/9w0j5mg2u6buh4tzkcais/ShipList.plist?rlkey=8nq8sq9coijlxpmgrswhkedqu&st=6h2p7k6g&dl=0');
           var sysString = await response.text();
           if (response.ok) {
@@ -106,7 +107,7 @@ function update_sheet(svg_content,ship_descr){
             modDicts = PlistParser.parse(sysString);
             //const modules = Object.keys(modDicts);
             var systems = modDicts[ship_descr.name];
-            //console.log(systems);
+            console.log(systems);
             var dataAr = [];
             for (const [key, value] of Object.entries(systems)) {
                 var data = {};
