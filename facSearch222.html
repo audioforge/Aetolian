@@ -107,17 +107,12 @@
                 data.influence = parseFloat(value['Influence'] * 100).toFixed(1);
                 data.state = value['State'];
                 data.updated = value['updated'];
-                let stationsArr = value['Stations'];
-                data.stations= '';
-                for (i = 0; i < stationsArr.length; i++) {
-                    data.stations += stationsArr[i] + '<br>';
-                }
                 dataAr.push(data);
             }
             console.log(dataAr);
             var dt = dynamicTable.config('data-table',
-                                         ['system','influence','state','stations','updated'],
-                                     ['System','Influence','State','Stations','Updated'], //set to null for field names instead of custom header names
+                                         ['system','influence','state','updated'],
+                                     ['System','Influence','State','Updated'], //set to null for field names instead of custom header names
                                              'There are no items to list...');
             dt.load(dataAr);
             
