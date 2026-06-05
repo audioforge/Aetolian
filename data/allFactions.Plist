@@ -498,14 +498,16 @@
 		</dict>
 		<key>Kites</key>
 		<dict>
+			<key>Active</key>
+			<string></string>
 			<key>Influence</key>
-			<real>0.058824000000000001</real>
+			<real>0.065106999999999998</real>
+			<key>Pending</key>
+			<string></string>
 			<key>State</key>
 			<string>None</string>
-			<key>Stations</key>
-			<array/>
 			<key>updated</key>
-			<string>20250120</string>
+			<string>20260603</string>
 		</dict>
 		<key>Mu Nialfi A</key>
 		<dict>
@@ -746,13 +748,13 @@
 			<key>Active</key>
 			<string>Expansion</string>
 			<key>Influence</key>
-			<real>0.19878899999999999</real>
+			<real>0.16600000000000001</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>Expansion</string>
 			<key>updated</key>
-			<string>20260529</string>
+			<string>20260602</string>
 		</dict>
 		<key>Ao Kicho A</key>
 		<dict>
@@ -822,21 +824,6 @@
 			<key>updated</key>
 			<string>20250127</string>
 		</dict>
-		<key>HIP 7304</key>
-		<dict>
-			<key>Influence</key>
-			<real>0.44544499999999998</real>
-			<key>State</key>
-			<string>PublicHoliday</string>
-			<key>Stations</key>
-			<array>
-				<string>Celsius Station</string>
-				<string>Jefferies Vision</string>
-				<string>Kojima Station</string>
-			</array>
-			<key>updated</key>
-			<string>20250126</string>
-		</dict>
 		<key>HIP 7823 A</key>
 		<dict>
 			<key>Influence</key>
@@ -862,6 +849,19 @@
 			<array/>
 			<key>updated</key>
 			<string>20250119</string>
+		</dict>
+		<key>Kites</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Influence</key>
+			<real>0.69277699999999998</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>War</string>
+			<key>updated</key>
+			<string>20260603</string>
 		</dict>
 		<key>Laksmi</key>
 		<dict>
@@ -1095,15 +1095,15 @@
 		<key>Aitvas</key>
 		<dict>
 			<key>Active</key>
-			<string></string>
+			<string>War</string>
 			<key>Influence</key>
-			<real>0.118063</real>
+			<real>0.086999999999999994</real>
 			<key>Pending</key>
-			<string></string>
+			<string>CivilUnrest - 0</string>
 			<key>State</key>
-			<string>None</string>
+			<string>War</string>
 			<key>updated</key>
-			<string>20260529</string>
+			<string>20260602</string>
 		</dict>
 	</dict>
 	<key>Aitvas Corp.</key>
@@ -1111,15 +1111,15 @@
 		<key>Aitvas</key>
 		<dict>
 			<key>Active</key>
-			<string>CivilUnrest</string>
+			<string></string>
 			<key>Influence</key>
-			<real>0.162462</real>
+			<real>0.14099999999999999</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
-			<string>CivilUnrest</string>
+			<string>None</string>
 			<key>updated</key>
-			<string>20260529</string>
+			<string>20260602</string>
 		</dict>
 		<key>HIP 10579</key>
 		<dict>
@@ -1182,15 +1182,15 @@
 		<key>Aitvas</key>
 		<dict>
 			<key>Active</key>
-			<string></string>
+			<string>War</string>
 			<key>Influence</key>
-			<real>0.18768899999999999</real>
+			<real>0.192</real>
 			<key>Pending</key>
-			<string>War - 0</string>
+			<string></string>
 			<key>State</key>
-			<string>None</string>
+			<string>War</string>
 			<key>updated</key>
-			<string>20260529</string>
+			<string>20260602</string>
 		</dict>
 	</dict>
 	<key>Ajoku Industries</key>
@@ -2266,14 +2266,16 @@
 		</dict>
 		<key>HIP 7304</key>
 		<dict>
+			<key>Active</key>
+			<string></string>
 			<key>Influence</key>
-			<real>0.262262</real>
+			<real>0.36063899999999999</real>
+			<key>Pending</key>
+			<string></string>
 			<key>State</key>
 			<string>None</string>
-			<key>Stations</key>
-			<array/>
 			<key>updated</key>
-			<string>20250126</string>
+			<string>20260603</string>
 		</dict>
 		<key>Hloca</key>
 		<dict>
@@ -3466,14 +3468,16 @@
 	<dict>
 		<key>Kites</key>
 		<dict>
+			<key>Active</key>
+			<string></string>
 			<key>Influence</key>
-			<real>0.087736999999999996</real>
+			<real>0.033570999999999997</real>
+			<key>Pending</key>
+			<string></string>
 			<key>State</key>
 			<string>None</string>
-			<key>Stations</key>
-			<array/>
 			<key>updated</key>
-			<string>20250120</string>
+			<string>20260603</string>
 		</dict>
 	</dict>
 	<key>Aristocrats of Lopemba</key>
@@ -4631,13 +4635,13 @@
 			<key>Active</key>
 			<string></string>
 			<key>Influence</key>
-			<real>0.40936899999999998</real>
+			<real>0.38390999999999997</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 			<key>updated</key>
-			<string>20260526</string>
+			<string>20260601</string>
 		</dict>
 		<key>Ditae</key>
 		<dict>
@@ -6333,15 +6337,15 @@
 		<key>Aitvas</key>
 		<dict>
 			<key>Active</key>
-			<string>Expansion</string>
+			<string>CivilUnrest</string>
 			<key>Influence</key>
-			<real>0.042381000000000002</real>
+			<real>0.115</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
-			<string>Expansion</string>
+			<string>CivilUnrest</string>
 			<key>updated</key>
-			<string>20260529</string>
+			<string>20260602</string>
 		</dict>
 		<key>Caleket</key>
 		<dict>
@@ -7363,13 +7367,13 @@
 			<key>Active</key>
 			<string></string>
 			<key>Influence</key>
-			<real>0.055777</real>
+			<real>0.051741000000000002</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 			<key>updated</key>
-			<string>20260527</string>
+			<string>20260602</string>
 		</dict>
 	</dict>
 	<key>CD-37 641 Empire Pact</key>
@@ -7377,15 +7381,15 @@
 		<key>CD-37 641</key>
 		<dict>
 			<key>Active</key>
-			<string>CivilWar</string>
+			<string>Election</string>
 			<key>Influence</key>
-			<real>0.11852600000000001</real>
+			<real>0.097512000000000001</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
-			<string>CivilWar</string>
+			<string>Election</string>
 			<key>updated</key>
-			<string>20260527</string>
+			<string>20260602</string>
 		</dict>
 	</dict>
 	<key>CD-37 641 Network</key>
@@ -7393,15 +7397,15 @@
 		<key>CD-37 641</key>
 		<dict>
 			<key>Active</key>
-			<string>CivilWar</string>
+			<string></string>
 			<key>Influence</key>
-			<real>0.11852600000000001</real>
+			<real>0.129353</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
-			<string>CivilWar</string>
+			<string>None</string>
 			<key>updated</key>
-			<string>20260527</string>
+			<string>20260602</string>
 		</dict>
 	</dict>
 	<key>CD-40 395 Crew</key>
@@ -9814,28 +9818,32 @@
 	<dict>
 		<key>HIP 7304</key>
 		<dict>
+			<key>Active</key>
+			<string></string>
 			<key>Influence</key>
-			<real>0.031031</real>
+			<real>0.027972</real>
+			<key>Pending</key>
+			<string></string>
 			<key>State</key>
 			<string>None</string>
-			<key>Stations</key>
-			<array/>
 			<key>updated</key>
-			<string>20250126</string>
+			<string>20260603</string>
 		</dict>
 	</dict>
 	<key>Crew of HIP 9141</key>
 	<dict>
 		<key>HIP 9141 A</key>
 		<dict>
+			<key>Active</key>
+			<string></string>
 			<key>Influence</key>
-			<real>0.010836999999999999</real>
+			<real>0.035928000000000002</real>
+			<key>Pending</key>
+			<string></string>
 			<key>State</key>
 			<string>None</string>
-			<key>Stations</key>
-			<array/>
 			<key>updated</key>
-			<string>20250111</string>
+			<string>20260601</string>
 		</dict>
 	</dict>
 	<key>Crew of HR 2848</key>
@@ -10083,14 +10091,16 @@
 		</dict>
 		<key>LP 940-115</key>
 		<dict>
+			<key>Active</key>
+			<string></string>
 			<key>Influence</key>
-			<real>0.098912</real>
+			<real>0.11776399999999999</real>
+			<key>Pending</key>
+			<string></string>
 			<key>State</key>
 			<string>None</string>
-			<key>Stations</key>
-			<array/>
 			<key>updated</key>
-			<string>20250102</string>
+			<string>20260603</string>
 		</dict>
 		<key>NLTT 5871</key>
 		<dict>
@@ -10466,14 +10476,16 @@
 		</dict>
 		<key>Kites</key>
 		<dict>
+			<key>Active</key>
+			<string></string>
 			<key>Influence</key>
-			<real>0.14656</real>
+			<real>0.069176000000000001</real>
+			<key>Pending</key>
+			<string></string>
 			<key>State</key>
-			<string>Election</string>
-			<key>Stations</key>
-			<array/>
+			<string>None</string>
 			<key>updated</key>
-			<string>20250120</string>
+			<string>20260603</string>
 		</dict>
 		<key>Mu Nialfi A</key>
 		<dict>
@@ -10715,13 +10727,13 @@
 			<key>Active</key>
 			<string></string>
 			<key>Influence</key>
-			<real>0.010182999999999999</real>
+			<real>0.013238</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 			<key>updated</key>
-			<string>20260526</string>
+			<string>20260601</string>
 		</dict>
 	</dict>
 	<key>Devane Empire League</key>
@@ -10731,13 +10743,13 @@
 			<key>Active</key>
 			<string></string>
 			<key>Influence</key>
-			<real>0.029531999999999999</real>
+			<real>0.025458000000000001</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 			<key>updated</key>
-			<string>20260526</string>
+			<string>20260601</string>
 		</dict>
 	</dict>
 	<key>Devane Patrons of Law</key>
@@ -10747,13 +10759,13 @@
 			<key>Active</key>
 			<string></string>
 			<key>Influence</key>
-			<real>0.19755600000000001</real>
+			<real>0.26680199999999998</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 			<key>updated</key>
-			<string>20260526</string>
+			<string>20260601</string>
 		</dict>
 		<key>HIP 7687 A</key>
 		<dict>
@@ -11558,14 +11570,16 @@
 		</dict>
 		<key>Kites</key>
 		<dict>
+			<key>Active</key>
+			<string></string>
 			<key>Influence</key>
-			<real>0.14656</real>
+			<real>0.10681599999999999</real>
+			<key>Pending</key>
+			<string></string>
 			<key>State</key>
-			<string>Election</string>
-			<key>Stations</key>
-			<array/>
+			<string>None</string>
 			<key>updated</key>
-			<string>20250120</string>
+			<string>20260603</string>
 		</dict>
 		<key>Neginn</key>
 		<dict>
@@ -11816,15 +11830,15 @@
 		<key>CD-37 641</key>
 		<dict>
 			<key>Active</key>
-			<string></string>
+			<string>Election</string>
 			<key>Influence</key>
-			<real>0.250996</real>
+			<real>0.30248799999999998</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
-			<string>None</string>
+			<string>Election</string>
 			<key>updated</key>
-			<string>20260527</string>
+			<string>20260602</string>
 		</dict>
 		<key>CD-40 395 A</key>
 		<dict>
@@ -11923,13 +11937,13 @@
 			<key>Active</key>
 			<string></string>
 			<key>Influence</key>
-			<real>0.330957</real>
+			<real>0.291242</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 			<key>updated</key>
-			<string>20260526</string>
+			<string>20260601</string>
 		</dict>
 		<key>Ember</key>
 		<dict>
@@ -12071,15 +12085,15 @@
 		<key>HR 494 A</key>
 		<dict>
 			<key>Active</key>
-			<string>War</string>
+			<string></string>
 			<key>Influence</key>
-			<real>0.25925900000000002</real>
+			<real>0.21521499999999999</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
-			<string>War</string>
+			<string>Election</string>
 			<key>updated</key>
-			<string>20260527</string>
+			<string>20260602</string>
 		</dict>
 		<key>Hloca</key>
 		<dict>
@@ -12209,16 +12223,16 @@
 		</dict>
 		<key>LP 940-115</key>
 		<dict>
+			<key>Active</key>
+			<string>Boom</string>
 			<key>Influence</key>
-			<real>0.47774499999999998</real>
+			<real>0.65568899999999997</real>
+			<key>Pending</key>
+			<string></string>
 			<key>State</key>
-			<string>Expansion</string>
-			<key>Stations</key>
-			<array>
-				<string>May City</string>
-			</array>
+			<string>Boom</string>
 			<key>updated</key>
-			<string>20250102</string>
+			<string>20260603</string>
 		</dict>
 		<key>Lombi A</key>
 		<dict>
@@ -12371,6 +12385,19 @@
 			<string>Election</string>
 			<key>updated</key>
 			<string>20260522</string>
+		</dict>
+		<key>Sieganga</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Influence</key>
+			<real>0.60373600000000005</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+			<key>updated</key>
+			<string>20260601</string>
 		</dict>
 		<key>Songloi</key>
 		<dict>
@@ -14316,15 +14343,15 @@
 		<key>CD-37 641</key>
 		<dict>
 			<key>Active</key>
-			<string></string>
+			<string>Election</string>
 			<key>Influence</key>
-			<real>0.32270900000000002</real>
+			<real>0.30248799999999998</real>
 			<key>Pending</key>
-			<string>Expansion - 0</string>
+			<string></string>
 			<key>State</key>
-			<string>None</string>
+			<string>Election</string>
 			<key>updated</key>
-			<string>20260527</string>
+			<string>20260602</string>
 		</dict>
 		<key>CD-40 395 A</key>
 		<dict>
@@ -15774,13 +15801,13 @@
 			<key>Active</key>
 			<string></string>
 			<key>Influence</key>
-			<real>0.069069000000000005</real>
+			<real>0.074074000000000001</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 			<key>updated</key>
-			<string>20260527</string>
+			<string>20260602</string>
 		</dict>
 	</dict>
 	<key>Green Party of Luyten's Star</key>
@@ -16839,15 +16866,15 @@
 		<key>Aitvas</key>
 		<dict>
 			<key>Active</key>
-			<string></string>
+			<string>War</string>
 			<key>Influence</key>
-			<real>0.102926</real>
+			<real>0.107</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
-			<string>None</string>
+			<string>War</string>
 			<key>updated</key>
-			<string>20260529</string>
+			<string>20260602</string>
 		</dict>
 		<key>Bolocas A</key>
 		<dict>
@@ -19173,14 +19200,16 @@
 	<dict>
 		<key>HIP 7304</key>
 		<dict>
+			<key>Active</key>
+			<string></string>
 			<key>Influence</key>
-			<real>0.029028999999999999</real>
+			<real>0.17882100000000001</real>
+			<key>Pending</key>
+			<string></string>
 			<key>State</key>
 			<string>None</string>
-			<key>Stations</key>
-			<array/>
 			<key>updated</key>
-			<string>20250126</string>
+			<string>20260603</string>
 		</dict>
 	</dict>
 	<key>HIP 7304 Empire League</key>
@@ -19209,14 +19238,16 @@
 		</dict>
 		<key>HIP 7304</key>
 		<dict>
+			<key>Active</key>
+			<string></string>
 			<key>Influence</key>
-			<real>0.052052000000000001</real>
+			<real>0.252747</real>
+			<key>Pending</key>
+			<string></string>
 			<key>State</key>
 			<string>None</string>
-			<key>Stations</key>
-			<array/>
 			<key>updated</key>
-			<string>20250126</string>
+			<string>20260603</string>
 		</dict>
 		<key>Pi Sculptoris</key>
 		<dict>
@@ -19248,14 +19279,16 @@
 	<dict>
 		<key>HIP 7304</key>
 		<dict>
+			<key>Active</key>
+			<string></string>
 			<key>Influence</key>
-			<real>0.074074000000000001</real>
+			<real>0.098901000000000003</real>
+			<key>Pending</key>
+			<string></string>
 			<key>State</key>
 			<string>None</string>
-			<key>Stations</key>
-			<array/>
 			<key>updated</key>
-			<string>20250126</string>
+			<string>20260603</string>
 		</dict>
 	</dict>
 	<key>HIP 7386 Blue Mob</key>
@@ -19981,42 +20014,48 @@
 	<dict>
 		<key>HIP 9141 A</key>
 		<dict>
+			<key>Active</key>
+			<string></string>
 			<key>Influence</key>
-			<real>0.049260999999999999</real>
+			<real>0.067863999999999994</real>
+			<key>Pending</key>
+			<string></string>
 			<key>State</key>
 			<string>None</string>
-			<key>Stations</key>
-			<array/>
 			<key>updated</key>
-			<string>20250111</string>
+			<string>20260601</string>
 		</dict>
 	</dict>
 	<key>HIP 9141 Empire Party</key>
 	<dict>
 		<key>HIP 9141 A</key>
 		<dict>
+			<key>Active</key>
+			<string></string>
 			<key>Influence</key>
-			<real>0.143842</real>
+			<real>0.120758</real>
+			<key>Pending</key>
+			<string></string>
 			<key>State</key>
 			<string>None</string>
-			<key>Stations</key>
-			<array/>
 			<key>updated</key>
-			<string>20250111</string>
+			<string>20260601</string>
 		</dict>
 	</dict>
 	<key>HIP 9141 Purple Dynamic Inc</key>
 	<dict>
 		<key>HIP 9141 A</key>
 		<dict>
+			<key>Active</key>
+			<string></string>
 			<key>Influence</key>
-			<real>0.063053999999999999</real>
+			<real>0.068862000000000007</real>
+			<key>Pending</key>
+			<string></string>
 			<key>State</key>
 			<string>None</string>
-			<key>Stations</key>
-			<array/>
 			<key>updated</key>
-			<string>20250111</string>
+			<string>20260601</string>
 		</dict>
 	</dict>
 	<key>HIP 9216 Empire Party</key>
@@ -20265,7 +20304,7 @@
 			<key>State</key>
 			<string>None</string>
 			<key>updated</key>
-			<string>20260527</string>
+			<string>20260602</string>
 		</dict>
 	</dict>
 	<key>HR 494 Incorporated</key>
@@ -20273,15 +20312,15 @@
 		<key>HR 494 A</key>
 		<dict>
 			<key>Active</key>
-			<string>Election</string>
+			<string></string>
 			<key>Influence</key>
-			<real>0.145145</real>
+			<real>0.105105</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
-			<string>Election</string>
+			<string>None</string>
 			<key>updated</key>
-			<string>20260527</string>
+			<string>20260602</string>
 		</dict>
 	</dict>
 	<key>HR 494 Solutions</key>
@@ -20289,15 +20328,15 @@
 		<key>HR 494 A</key>
 		<dict>
 			<key>Active</key>
-			<string>Election</string>
+			<string></string>
 			<key>Influence</key>
-			<real>0.145145</real>
+			<real>0.18518499999999999</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
-			<string>Election</string>
+			<string>None</string>
 			<key>updated</key>
-			<string>20260527</string>
+			<string>20260602</string>
 		</dict>
 	</dict>
 	<key>HR 783 Imperial Society</key>
@@ -22119,14 +22158,16 @@
 		</dict>
 		<key>HIP 9141 A</key>
 		<dict>
+			<key>Active</key>
+			<string></string>
 			<key>Influence</key>
-			<real>0.59014800000000001</real>
+			<real>0.57085799999999998</real>
+			<key>Pending</key>
+			<string></string>
 			<key>State</key>
 			<string>None</string>
-			<key>Stations</key>
-			<array/>
 			<key>updated</key>
-			<string>20250111</string>
+			<string>20260601</string>
 		</dict>
 		<key>Kareco</key>
 		<dict>
@@ -23488,14 +23529,16 @@
 		</dict>
 		<key>HIP 7304</key>
 		<dict>
+			<key>Active</key>
+			<string></string>
 			<key>Influence</key>
-			<real>0.10610600000000001</real>
+			<real>0.080919000000000005</real>
+			<key>Pending</key>
+			<string></string>
 			<key>State</key>
 			<string>None</string>
-			<key>Stations</key>
-			<array/>
 			<key>updated</key>
-			<string>20250126</string>
+			<string>20260603</string>
 		</dict>
 		<key>HIP 7526</key>
 		<dict>
@@ -25123,16 +25166,16 @@
 		</dict>
 		<key>Kites</key>
 		<dict>
+			<key>Active</key>
+			<string></string>
 			<key>Influence</key>
-			<real>0.41575299999999998</real>
+			<real>0.032552999999999999</real>
+			<key>Pending</key>
+			<string></string>
 			<key>State</key>
 			<string>None</string>
-			<key>Stations</key>
-			<array>
-				<string>Chertovsky Arena</string>
-			</array>
 			<key>updated</key>
-			<string>20250120</string>
+			<string>20260603</string>
 		</dict>
 	</dict>
 	<key>Knights of Beneverchio</key>
@@ -25266,17 +25309,6 @@
 			<array/>
 			<key>updated</key>
 			<string>20250124</string>
-		</dict>
-		<key>Kites</key>
-		<dict>
-			<key>Influence</key>
-			<real>0.068793999999999994</real>
-			<key>State</key>
-			<string>None</string>
-			<key>Stations</key>
-			<array/>
-			<key>updated</key>
-			<string>20250120</string>
 		</dict>
 		<key>Kolhou Wu</key>
 		<dict>
@@ -26305,56 +26337,64 @@
 	<dict>
 		<key>LP 940-115</key>
 		<dict>
+			<key>Active</key>
+			<string></string>
 			<key>Influence</key>
-			<real>0.065282000000000007</real>
+			<real>0.043912</real>
+			<key>Pending</key>
+			<string></string>
 			<key>State</key>
 			<string>None</string>
-			<key>Stations</key>
-			<array/>
 			<key>updated</key>
-			<string>20250102</string>
+			<string>20260603</string>
 		</dict>
 	</dict>
 	<key>LP 940-115 Citizens' Forum</key>
 	<dict>
 		<key>LP 940-115</key>
 		<dict>
+			<key>Active</key>
+			<string></string>
 			<key>Influence</key>
-			<real>0.203759</real>
+			<real>0.051895999999999998</real>
+			<key>Pending</key>
+			<string></string>
 			<key>State</key>
 			<string>None</string>
-			<key>Stations</key>
-			<array/>
 			<key>updated</key>
-			<string>20250102</string>
+			<string>20260603</string>
 		</dict>
 	</dict>
 	<key>LP 940-115 Interstellar</key>
 	<dict>
 		<key>LP 940-115</key>
 		<dict>
+			<key>Active</key>
+			<string></string>
 			<key>Influence</key>
-			<real>0.060336000000000001</real>
+			<real>0.02495</real>
+			<key>Pending</key>
+			<string></string>
 			<key>State</key>
 			<string>None</string>
-			<key>Stations</key>
-			<array/>
 			<key>updated</key>
-			<string>20250102</string>
+			<string>20260603</string>
 		</dict>
 	</dict>
 	<key>LP 940-115 Progressive Party</key>
 	<dict>
 		<key>LP 940-115</key>
 		<dict>
+			<key>Active</key>
+			<string></string>
 			<key>Influence</key>
-			<real>0.048467000000000003</real>
+			<real>0.07485</real>
+			<key>Pending</key>
+			<string></string>
 			<key>State</key>
 			<string>None</string>
-			<key>Stations</key>
-			<array/>
 			<key>updated</key>
-			<string>20250102</string>
+			<string>20260603</string>
 		</dict>
 	</dict>
 	<key>LPV Corporation</key>
@@ -27611,14 +27651,16 @@
 	<dict>
 		<key>LP 940-115</key>
 		<dict>
+			<key>Active</key>
+			<string></string>
 			<key>Influence</key>
-			<real>0.045499999999999999</real>
+			<real>0.030938</real>
+			<key>Pending</key>
+			<string></string>
 			<key>State</key>
 			<string>None</string>
-			<key>Stations</key>
-			<array/>
 			<key>updated</key>
-			<string>20250102</string>
+			<string>20260603</string>
 		</dict>
 	</dict>
 	<key>League of LTT 2099 Party</key>
@@ -28093,15 +28135,15 @@
 		<key>CD-37 641</key>
 		<dict>
 			<key>Active</key>
-			<string></string>
+			<string>Election</string>
 			<key>Influence</key>
-			<real>0.084661</real>
+			<real>0.097512000000000001</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
-			<string>None</string>
+			<string>Election</string>
 			<key>updated</key>
-			<string>20260527</string>
+			<string>20260602</string>
 		</dict>
 	</dict>
 	<key>Liberty Party of Fandh</key>
@@ -29986,13 +30028,13 @@
 			<key>Active</key>
 			<string></string>
 			<key>Influence</key>
-			<real>0.048805000000000001</real>
+			<real>0.018905000000000002</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 			<key>updated</key>
-			<string>20260527</string>
+			<string>20260602</string>
 		</dict>
 	</dict>
 	<key>Movement for Capoos Independents</key>
@@ -31223,13 +31265,13 @@
 			<key>Active</key>
 			<string></string>
 			<key>Influence</key>
-			<real>0.087086999999999998</real>
+			<real>0.085084999999999994</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 			<key>updated</key>
-			<string>20260527</string>
+			<string>20260602</string>
 		</dict>
 	</dict>
 	<key>Natural Kanagoto Regulatory State</key>
@@ -31350,17 +31392,6 @@
 	</dict>
 	<key>Neginn Crimson Travel Network</key>
 	<dict>
-		<key>Kites</key>
-		<dict>
-			<key>Influence</key>
-			<real>0.075772999999999993</real>
-			<key>State</key>
-			<string>None</string>
-			<key>Stations</key>
-			<array/>
-			<key>updated</key>
-			<string>20250120</string>
-		</dict>
 		<key>Neginn</key>
 		<dict>
 			<key>Influence</key>
@@ -32007,15 +32038,15 @@
 		<key>Aitvas</key>
 		<dict>
 			<key>Active</key>
-			<string></string>
+			<string>War</string>
 			<key>Influence</key>
-			<real>0.18768899999999999</real>
+			<real>0.192</real>
 			<key>Pending</key>
-			<string>War - 0</string>
+			<string></string>
 			<key>State</key>
-			<string>None</string>
+			<string>War</string>
 			<key>updated</key>
-			<string>20260529</string>
+			<string>20260602</string>
 		</dict>
 		<key>Mainani</key>
 		<dict>
@@ -33655,6 +33686,19 @@
 			<key>updated</key>
 			<string>20250122</string>
 		</dict>
+		<key>Sieganga</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Influence</key>
+			<real>0.056047</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+			<key>updated</key>
+			<string>20260601</string>
+		</dict>
 	</dict>
 	<key>Party of Yoru</key>
 	<dict>
@@ -33917,13 +33961,13 @@
 			<key>Active</key>
 			<string></string>
 			<key>Influence</key>
-			<real>0.022402999999999999</real>
+			<real>0.019348000000000001</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 			<key>updated</key>
-			<string>20260526</string>
+			<string>20260601</string>
 		</dict>
 	</dict>
 	<key>People's Dyin Citizen Party</key>
@@ -35310,15 +35354,15 @@
 		<key>HR 494 A</key>
 		<dict>
 			<key>Active</key>
-			<string>War</string>
+			<string></string>
 			<key>Influence</key>
-			<real>0.25925900000000002</real>
+			<real>0.30030000000000001</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
-			<string>War</string>
+			<string>None</string>
 			<key>updated</key>
-			<string>20260527</string>
+			<string>20260602</string>
 		</dict>
 	</dict>
 	<key>Quebecois Patriots</key>
@@ -35531,6 +35575,19 @@
 			<array/>
 			<key>updated</key>
 			<string>20250118</string>
+		</dict>
+		<key>Sieganga</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Influence</key>
+			<real>0.095379000000000005</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+			<key>updated</key>
+			<string>20260601</string>
 		</dict>
 		<key>Targamu A</key>
 		<dict>
@@ -37916,6 +37973,38 @@
 			<string>20260522</string>
 		</dict>
 	</dict>
+	<key>Sieganga Blue Allied Group</key>
+	<dict>
+		<key>Sieganga</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Influence</key>
+			<real>0.032447999999999998</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+			<key>updated</key>
+			<string>20260601</string>
+		</dict>
+	</dict>
+	<key>Sieganga Gold Mob</key>
+	<dict>
+		<key>Sieganga</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Influence</key>
+			<real>0.038348</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+			<key>updated</key>
+			<string>20260601</string>
+		</dict>
+	</dict>
 	<key>Silver Bridge PLC</key>
 	<dict>
 		<key>MET 20 A</key>
@@ -38634,14 +38723,16 @@
 	<dict>
 		<key>HIP 9141 A</key>
 		<dict>
+			<key>Active</key>
+			<string></string>
 			<key>Influence</key>
-			<real>0.102463</real>
+			<real>0.0998</real>
+			<key>Pending</key>
+			<string></string>
 			<key>State</key>
 			<string>None</string>
-			<key>Stations</key>
-			<array/>
 			<key>updated</key>
-			<string>20250111</string>
+			<string>20260601</string>
 		</dict>
 	</dict>
 	<key>Space Boiz</key>
@@ -42023,6 +42114,22 @@
 			<string>20250203</string>
 		</dict>
 	</dict>
+	<key>Unified HIP 11954</key>
+	<dict>
+		<key>Sieganga</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Influence</key>
+			<real>0.13864299999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+			<key>updated</key>
+			<string>20260601</string>
+		</dict>
+	</dict>
 	<key>Unified Inherth</key>
 	<dict>
 		<key>Inherth A</key>
@@ -42207,6 +42314,22 @@
 			<array/>
 			<key>updated</key>
 			<string>20250203</string>
+		</dict>
+	</dict>
+	<key>Unionists of Sieganga</key>
+	<dict>
+		<key>Sieganga</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Influence</key>
+			<real>0.035397999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+			<key>updated</key>
+			<string>20260601</string>
 		</dict>
 	</dict>
 	<key>United Alkabalavs Free</key>
@@ -42481,14 +42604,16 @@
 	<dict>
 		<key>HIP 9141 A</key>
 		<dict>
+			<key>Active</key>
+			<string></string>
 			<key>Influence</key>
-			<real>0.040393999999999999</real>
+			<real>0.035928000000000002</real>
+			<key>Pending</key>
+			<string></string>
 			<key>State</key>
 			<string>None</string>
-			<key>Stations</key>
-			<array/>
 			<key>updated</key>
-			<string>20250111</string>
+			<string>20260601</string>
 		</dict>
 	</dict>
 	<key>United Hannonner Republic Party</key>
