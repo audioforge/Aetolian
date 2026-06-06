@@ -7649,7 +7649,7 @@
 	<key>Brill Station_Kareco</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>552.68652299999997</real>
+		<real>552.67402200000004</real>
 		<key>starSystem</key>
 		<string>Kareco</string>
 		<key>stationFaction</key>
@@ -7692,7 +7692,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260525</string>
+		<string>20260605</string>
 	</dict>
 	<key>Broderick Terminal_Pastara</key>
 	<dict>
@@ -9505,7 +9505,7 @@
 	<key>Celsius Station_HIP 7304</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>225.22930700000001</real>
+		<real>225.351146</real>
 		<key>starSystem</key>
 		<string>HIP 7304</string>
 		<key>stationFaction</key>
@@ -9549,7 +9549,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260603</string>
+		<string>20260605</string>
 	</dict>
 	<key>Cerulli Station_Almudjara</key>
 	<dict>
@@ -11248,7 +11248,7 @@
 	<key>Crown Works_Dumni</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1413.691834</real>
+		<real>1399.5727159999999</real>
 		<key>starSystem</key>
 		<string>Dumni</string>
 		<key>stationFaction</key>
@@ -11289,7 +11289,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260422</string>
+		<string>20260605</string>
 	</dict>
 	<key>Culpeper Market_HIP 38129</key>
 	<dict>
@@ -11711,7 +11711,7 @@
 	<key>Davies City_Devane</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1691.4045040000001</real>
+		<real>1696.2279799999999</real>
 		<key>starSystem</key>
 		<string>Devane</string>
 		<key>stationFaction</key>
@@ -11755,7 +11755,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260603</string>
+		<string>20260605</string>
 	</dict>
 	<key>Dawes Prospect_HIP 11433</key>
 	<dict>
@@ -29636,13 +29636,11 @@
 	<key>Lomonosov Hub_LEHPM 1902</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>829.07120399999997</real>
+		<real>840.84366899999998</real>
 		<key>starSystem</key>
 		<string>LEHPM 1902</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>Boom</string>
 			<key>Name</key>
 			<string>East India Company</string>
 		</dict>
@@ -29681,7 +29679,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260506</string>
+		<string>20260605</string>
 	</dict>
 	<key>Lomonosov Landing_Tucanae Sector UT-Z b5</key>
 	<dict>
@@ -31453,7 +31451,7 @@
 	<key>May City_LP 940-115</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1642.7375039999999</real>
+		<real>1643.0051820000001</real>
 		<key>starSystem</key>
 		<string>LP 940-115</string>
 		<key>stationFaction</key>
@@ -32488,13 +32486,11 @@
 	<key>Meuron Station_Siddha</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>26.465824999999999</real>
+		<real>26.454775000000001</real>
 		<key>starSystem</key>
 		<string>Siddha</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>Election</string>
 			<key>Name</key>
 			<string>Siddha Vision PLC</string>
 		</dict>
@@ -32533,7 +32529,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20260515</string>
+		<string>20260605</string>
 	</dict>
 	<key>Mies van der Rohe's Claim_Mainani</key>
 	<dict>
@@ -59522,11 +59518,13 @@
 	<key>Tikhonravov City_CD-37 641</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>74.871487999999999</real>
+		<real>74.844153000000006</real>
 		<key>starSystem</key>
 		<string>CD-37 641</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Election</string>
 			<key>Name</key>
 			<string>ELITE SPACE WINGS</string>
 		</dict>
@@ -59565,7 +59563,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20260525</string>
+		<string>20260605</string>
 	</dict>
 	<key>Tikhonravov Mine_Bolocas</key>
 	<dict>
@@ -60520,13 +60518,13 @@
 	<key>Urkovic Station_Pai Huldr</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1585.453274</real>
+		<real>1608.376675</real>
 		<key>starSystem</key>
 		<string>Pai Huldr</string>
 		<key>stationFaction</key>
 		<dict>
 			<key>FactionState</key>
-			<string>Retreat</string>
+			<string>Boom</string>
 			<key>Name</key>
 			<string>ELITE SPACE WINGS</string>
 		</dict>
@@ -60565,7 +60563,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260510</string>
+		<string>20260605</string>
 	</dict>
 	<key>Usachov Settlement_HIP 62809</key>
 	<dict>
