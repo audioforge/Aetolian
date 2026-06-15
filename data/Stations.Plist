@@ -351,7 +351,7 @@
 	<key>Abetti Vision_Kholu</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>637.13253599999996</real>
+		<real>636.50515199999995</real>
 		<key>starSystem</key>
 		<string>Kholu</string>
 		<key>stationFaction</key>
@@ -11294,11 +11294,13 @@
 	<key>Crown Works_Dumni</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1399.5727159999999</real>
+		<real>1395.9778240000001</real>
 		<key>starSystem</key>
 		<string>Dumni</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>CivilLiberty</string>
 			<key>Name</key>
 			<string>Kites Central Solutions</string>
 		</dict>
@@ -11335,7 +11337,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260605</string>
+		<string>20260615</string>
 	</dict>
 	<key>Culpeper Market_HIP 38129</key>
 	<dict>
@@ -12481,7 +12483,7 @@
 	<key>DiFate Landing_Mu Nialfi</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>18.715084000000001</real>
+		<real>18.656863999999999</real>
 		<key>starSystem</key>
 		<string>Mu Nialfi</string>
 		<key>stationFaction</key>
@@ -24511,13 +24513,11 @@
 	<key>Jefferies Vision_HIP 7304</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>705.67524500000002</real>
+		<real>705.64050799999995</real>
 		<key>starSystem</key>
 		<string>HIP 7304</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>CivilWar</string>
 			<key>Name</key>
 			<string>HIP 7304 Empire League</string>
 		</dict>
@@ -24553,7 +24553,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260503</string>
+		<string>20260615</string>
 	</dict>
 	<key>Jenkinson Port_Tepi</key>
 	<dict>
@@ -30230,7 +30230,7 @@
 	<key>Lubbock Terminal_Gladuwong</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>369.819186</real>
+		<real>369.83936399999999</real>
 		<key>starSystem</key>
 		<string>Gladuwong</string>
 		<key>stationFaction</key>
@@ -30271,7 +30271,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260525</string>
+		<string>20260615</string>
 	</dict>
 	<key>Lucy Young's Orbital Happy Home_Ursitoare</key>
 	<dict>
@@ -30798,7 +30798,7 @@
 	<key>MacLeod Enterprise_HR 494</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1736.660179</real>
+		<real>1736.6494929999999</real>
 		<key>starSystem</key>
 		<string>HR 494</string>
 		<key>stationFaction</key>
@@ -30836,7 +30836,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260608</string>
+		<string>20260615</string>
 	</dict>
 	<key>Mackenzie Relay_Cemiess</key>
 	<dict>
@@ -34082,7 +34082,7 @@
 	<key>Naburimannu Station_Usdiae</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>619.985859</real>
+		<real>619.76558</real>
 		<key>starSystem</key>
 		<string>Usdiae</string>
 		<key>stationFaction</key>
@@ -34125,7 +34125,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260324</string>
+		<string>20260615</string>
 	</dict>
 	<key>Nahavandi Platform_Alacagui</key>
 	<dict>
@@ -36309,7 +36309,7 @@
 	<key>Otomo Market_Siddha</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>141.74785800000001</real>
+		<real>143.34344200000001</real>
 		<key>starSystem</key>
 		<string>Siddha</string>
 		<key>stationFaction</key>
@@ -36352,7 +36352,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20260508</string>
+		<string>20260615</string>
 	</dict>
 	<key>Ottley's Landing_Cockaigne</key>
 	<dict>
@@ -42064,13 +42064,13 @@
 	<key>Shalatula City_HR 494</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>942.75581699999998</real>
+		<real>942.47573599999998</real>
 		<key>starSystem</key>
 		<string>HR 494</string>
 		<key>stationFaction</key>
 		<dict>
 			<key>Name</key>
-			<string>ELITE SPACE WINGS</string>
+			<string>Quamta Noblement</string>
 		</dict>
 		<key>stationName</key>
 		<string>Shalatula City</string>
@@ -42107,7 +42107,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20260514</string>
+		<string>20260615</string>
 	</dict>
 	<key>Sharman Platform_Djanharu</key>
 	<dict>
@@ -44065,7 +44065,7 @@
 	<key>Spurzem Gateway_Devane</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>2444.0932189999999</real>
+		<real>2433.4885559999998</real>
 		<key>starSystem</key>
 		<string>Devane</string>
 		<key>stationFaction</key>
@@ -44100,7 +44100,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260503</string>
+		<string>20260615</string>
 	</dict>
 	<key>Stanley Platform_Oromecani</key>
 	<dict>
@@ -48242,7 +48242,7 @@
 	<key>THH-LHG_Devane</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>2318.197357</real>
+		<real>2333.1523459999999</real>
 		<key>starSystem</key>
 		<string>Devane</string>
 		<key>stationFaction</key>
@@ -48275,7 +48275,7 @@
 		<key>stationType</key>
 		<string>FleetCarrier</string>
 		<key>updated</key>
-		<string>20260603</string>
+		<string>20260615</string>
 	</dict>
 	<key>THH-LHG_Dewindji</key>
 	<dict>
@@ -49226,6 +49226,44 @@
 		<string>FleetCarrier</string>
 		<key>updated</key>
 		<string>20250628</string>
+	</dict>
+	<key>THH-LHG_Dumni</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>1395.1957359999999</real>
+		<key>starSystem</key>
+		<string>Dumni</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>FleetCarrier</string>
+		</dict>
+		<key>stationName</key>
+		<string>THH-LHG</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>shipyard</string>
+			<string>engineer</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>stationMenu</string>
+			<string>carriermanagement</string>
+			<string>carrierfuel</string>
+			<string>socialspace</string>
+		</array>
+		<key>stationType</key>
+		<string>FleetCarrier</string>
+		<key>updated</key>
+		<string>20260615</string>
 	</dict>
 	<key>THH-LHG_Eesholt MM-D b18-3</key>
 	<dict>
@@ -50289,7 +50327,7 @@
 		<key>stationType</key>
 		<string>FleetCarrier</string>
 		<key>updated</key>
-		<string>20260601</string>
+		<string>20260615</string>
 	</dict>
 	<key>THH-LHG_Graea Hypue CD-R a72-0</key>
 	<dict>
@@ -59601,7 +59639,7 @@
 	<key>Tikhonravov City_CD-37 641</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>74.877200000000002</real>
+		<real>74.844426999999996</real>
 		<key>starSystem</key>
 		<string>CD-37 641</string>
 		<key>stationFaction</key>
