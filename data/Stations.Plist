@@ -5317,13 +5317,11 @@
 	<key>Baynes City_Shambhala</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>502.79370799999998</real>
+		<real>503.637473</real>
 		<key>starSystem</key>
 		<string>Shambhala</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>War</string>
 			<key>Name</key>
 			<string>ELITE SPACE WINGS</string>
 		</dict>
@@ -5362,7 +5360,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20260526</string>
+		<string>20260615</string>
 	</dict>
 	<key>Bell Dock_LTT 874</key>
 	<dict>
@@ -18238,7 +18236,7 @@
 	<key>Ghez Prospect_Hemaskas</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>197.05400499999999</real>
+		<real>197.10967099999999</real>
 		<key>starSystem</key>
 		<string>Hemaskas</string>
 		<key>stationFaction</key>
@@ -18278,7 +18276,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260523</string>
+		<string>20260615</string>
 	</dict>
 	<key>Giacconi Platform_Gaunab</key>
 	<dict>
@@ -18771,13 +18769,11 @@
 	<key>Godel Dock_Quivira</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>23.666806000000001</real>
+		<real>23.635169000000001</real>
 		<key>starSystem</key>
 		<string>Quivira</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>Election</string>
 			<key>Name</key>
 			<string>ELITE SPACE WINGS</string>
 		</dict>
@@ -18817,7 +18813,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260523</string>
+		<string>20260615</string>
 	</dict>
 	<key>Godel Plant_Noatin</key>
 	<dict>
@@ -25116,7 +25112,7 @@
 	<key>Joy Landing_Degardhi</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>3256.1266869999999</real>
+		<real>3256.4352739999999</real>
 		<key>starSystem</key>
 		<string>Degardhi</string>
 		<key>stationFaction</key>
@@ -26695,15 +26691,13 @@
 	<key>Kojima Station_HIP 7304</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>394.69614300000001</real>
+		<real>394.60187400000001</real>
 		<key>starSystem</key>
 		<string>HIP 7304</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>CivilWar</string>
 			<key>Name</key>
-			<string>HIP 7304 Incorporated</string>
+			<string>HIP 7304 Democrats</string>
 		</dict>
 		<key>stationName</key>
 		<string>Kojima Station</string>
@@ -26711,6 +26705,7 @@
 		<array>
 			<string>dock</string>
 			<string>autodock</string>
+			<string>blackmarket</string>
 			<string>commodities</string>
 			<string>contacts</string>
 			<string>exploration</string>
@@ -26735,7 +26730,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260506</string>
+		<string>20260615</string>
 	</dict>
 	<key>Konscak Depot_CD-36 874</key>
 	<dict>
@@ -64815,7 +64810,7 @@
 	<key>Zoline Port_HR 494</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>260.57498600000002</real>
+		<real>260.58171800000002</real>
 		<key>starSystem</key>
 		<string>HR 494</string>
 		<key>stationFaction</key>
