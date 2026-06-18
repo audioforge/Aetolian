@@ -7598,7 +7598,7 @@
 	<key>Brill Orbital_Guan Wango</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>242316.01757900001</real>
+		<real>242304.44430999999</real>
 		<key>starSystem</key>
 		<string>Guan Wango</string>
 		<key>stationFaction</key>
@@ -7642,7 +7642,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20260616</string>
+		<string>20260618</string>
 	</dict>
 	<key>Brill Orbital_HIP 5184</key>
 	<dict>
@@ -8337,7 +8337,7 @@
 	<key>Bullialdus Gateway_HIP 8894</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>16.246348999999999</real>
+		<real>16.192931000000002</real>
 		<key>starSystem</key>
 		<string>HIP 8894</string>
 		<key>stationFaction</key>
@@ -8381,7 +8381,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260615</string>
+		<string>20260618</string>
 	</dict>
 	<key>Bulychev Beacon_Chebaei</key>
 	<dict>
@@ -11759,7 +11759,7 @@
 	<key>Davies City_Devane</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1686.939975</real>
+		<real>1687.664182</real>
 		<key>starSystem</key>
 		<string>Devane</string>
 		<key>stationFaction</key>
@@ -11803,7 +11803,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260616</string>
+		<string>20260617</string>
 	</dict>
 	<key>Dawes Prospect_HIP 11433</key>
 	<dict>
@@ -14224,7 +14224,7 @@
 	<key>Fallows Terminal_Guan Wango</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>242285.01295999999</real>
+		<real>242300.41781899999</real>
 		<key>starSystem</key>
 		<string>Guan Wango</string>
 		<key>stationFaction</key>
@@ -14268,7 +14268,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20260615</string>
+		<string>20260618</string>
 	</dict>
 	<key>Fan Platform_Apam Napat</key>
 	<dict>
@@ -27429,7 +27429,7 @@
 	<key>Kuchemann Horizons_Bolocara</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>979.93053899999995</real>
+		<real>979.69261700000004</real>
 		<key>starSystem</key>
 		<string>Bolocara</string>
 		<key>stationFaction</key>
@@ -27469,7 +27469,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260616</string>
+		<string>20260618</string>
 	</dict>
 	<key>Kuchemann Vision_Kholhou</key>
 	<dict>
@@ -29124,13 +29124,13 @@
 	<key>Lee Terminal_HIP 8894</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1132.9622460000001</real>
+		<real>1138.1851340000001</real>
 		<key>starSystem</key>
 		<string>HIP 8894</string>
 		<key>stationFaction</key>
 		<dict>
 			<key>Name</key>
-			<string>ELITE SPACE WINGS</string>
+			<string>HIP 8894 Citizens of Tradition</string>
 		</dict>
 		<key>stationName</key>
 		<string>Lee Terminal</string>
@@ -29164,7 +29164,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260413</string>
+		<string>20260618</string>
 	</dict>
 	<key>Leeuwenhoek Port_Karaikda</key>
 	<dict>
@@ -42351,13 +42351,13 @@
 	<key>Shea City_HIP 8894</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>2932.0481159999999</real>
+		<real>2992.6661509999999</real>
 		<key>starSystem</key>
 		<string>HIP 8894</string>
 		<key>stationFaction</key>
 		<dict>
 			<key>Name</key>
-			<string>ELITE SPACE WINGS</string>
+			<string>Traditional HIP 8894 Nationalists</string>
 		</dict>
 		<key>stationName</key>
 		<string>Shea City</string>
@@ -42387,7 +42387,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260405</string>
+		<string>20260618</string>
 	</dict>
 	<key>Shiner Port_Pastara</key>
 	<dict>
@@ -46874,6 +46874,44 @@
 		<string>FleetCarrier</string>
 		<key>updated</key>
 		<string>20250709</string>
+	</dict>
+	<key>THH-LHG_Bolocara</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>0.0</real>
+		<key>starSystem</key>
+		<string>Bolocara</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>FleetCarrier</string>
+		</dict>
+		<key>stationName</key>
+		<string>THH-LHG</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>shipyard</string>
+			<string>engineer</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>stationMenu</string>
+			<string>carriermanagement</string>
+			<string>carrierfuel</string>
+			<string>socialspace</string>
+		</array>
+		<key>stationType</key>
+		<string>FleetCarrier</string>
+		<key>updated</key>
+		<string>20260618</string>
 	</dict>
 	<key>THH-LHG_Brigual</key>
 	<dict>
@@ -58657,7 +58695,7 @@
 	<key>Tanaka Mine_Caspataya</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>25380.011342999998</real>
+		<real>25378.816654999999</real>
 		<key>starSystem</key>
 		<string>Caspataya</string>
 		<key>stationFaction</key>
@@ -58698,7 +58736,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260414</string>
+		<string>20260618</string>
 	</dict>
 	<key>Tanaka Orbital_Apisni</key>
 	<dict>

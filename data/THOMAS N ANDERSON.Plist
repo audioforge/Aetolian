@@ -13,7 +13,7 @@
 	<key>Anomalous FSD Telemetry</key>
 	<integer>13</integer>
 	<key>Atypical Disrupted Wake Echoes</key>
-	<integer>30</integer>
+	<integer>33</integer>
 	<key>Atypical Encryption Archives</key>
 	<integer>12</integer>
 	<key>Biotech Conductors</key>
@@ -27,7 +27,7 @@
 	<key>Compact Composites</key>
 	<integer>15</integer>
 	<key>Conductive Ceramics</key>
-	<integer>3</integer>
+	<integer>6</integer>
 	<key>Conductive Components</key>
 	<integer>17</integer>
 	<key>Cracked Industrial Firmware</key>
@@ -37,7 +37,7 @@
 	<key>Decoded Emission Data</key>
 	<integer>30</integer>
 	<key>Distorted Shield Cycle Recordings</key>
-	<integer>72</integer>
+	<integer>61</integer>
 	<key>Divergent Scan Data</key>
 	<integer>10</integer>
 	<key>Exceptional Scrambled Emission Data</key>
@@ -47,7 +47,7 @@
 	<key>Filament Composites</key>
 	<integer>30</integer>
 	<key>Flawed Focus Crystals</key>
-	<integer>58</integer>
+	<integer>55</integer>
 	<key>Focus Crystals</key>
 	<integer>28</integer>
 	<key>Galvanising Alloys</key>
@@ -91,7 +91,7 @@
 	<key>Security Firmware Patch</key>
 	<integer>24</integer>
 	<key>Shield Emitters</key>
-	<integer>111</integer>
+	<integer>75</integer>
 	<key>Shielding Sensors</key>
 	<integer>29</integer>
 	<key>Specialised Legacy Firmware</key>
@@ -109,19 +109,23 @@
 	<key>Untypical Shield Scans </key>
 	<integer>69</integer>
 	<key>Worn Shield Emitters</key>
-	<integer>66</integer>
+	<integer>61</integer>
 	<key>antimony</key>
-	<integer>24</integer>
+	<integer>6</integer>
 	<key>chromium</key>
 	<integer>5</integer>
+	<key>germanium</key>
+	<integer>8</integer>
 	<key>iron</key>
 	<integer>4</integer>
 	<key>ruthenium</key>
-	<integer>19</integer>
+	<integer>1</integer>
+	<key>selenium</key>
+	<integer>3</integer>
 	<key>timestamp</key>
-	<string>202606161232</string>
+	<string>202606180736</string>
 	<key>tungsten</key>
-	<integer>30</integer>
+	<integer>25</integer>
 	<key>zirconium</key>
 	<integer>33</integer>
 </dict>
