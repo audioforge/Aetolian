@@ -773,20 +773,6 @@
 			<key>updated</key>
 			<string>20260619</string>
 		</dict>
-		<key>Ao Kicho A</key>
-		<dict>
-			<key>Influence</key>
-			<real>0.64271500000000004</real>
-			<key>State</key>
-			<string>Expansion</string>
-			<key>Stations</key>
-			<array>
-				<string>Somayaji Dock</string>
-				<string>Hansen Mines</string>
-			</array>
-			<key>updated</key>
-			<string>20250119</string>
-		</dict>
 		<key>Badbh</key>
 		<dict>
 			<key>Active</key>
@@ -836,20 +822,6 @@
 			<string>None</string>
 			<key>updated</key>
 			<string>20260605</string>
-		</dict>
-		<key>Laksmi</key>
-		<dict>
-			<key>Influence</key>
-			<real>0.44455499999999998</real>
-			<key>State</key>
-			<string>None</string>
-			<key>Stations</key>
-			<array>
-				<string>Hume Survey</string>
-				<string>Albitzky Outpost</string>
-			</array>
-			<key>updated</key>
-			<string>20250125</string>
 		</dict>
 		<key>Neginn</key>
 		<dict>
@@ -3076,16 +3048,16 @@
 	<dict>
 		<key>Ao Kicho A</key>
 		<dict>
+			<key>Active</key>
+			<string></string>
 			<key>Influence</key>
-			<real>0.121756</real>
+			<real>0.03424</real>
+			<key>Pending</key>
+			<string></string>
 			<key>State</key>
 			<string>None</string>
-			<key>Stations</key>
-			<array>
-				<string>Wendelin's Inheritance</string>
-			</array>
 			<key>updated</key>
-			<string>20250119</string>
+			<string>20260619</string>
 		</dict>
 		<key>HIP 6807 A</key>
 		<dict>
@@ -3132,28 +3104,32 @@
 	<dict>
 		<key>Ao Kicho A</key>
 		<dict>
+			<key>Active</key>
+			<string></string>
 			<key>Influence</key>
-			<real>0.020958000000000001</real>
+			<real>0.18126900000000001</real>
+			<key>Pending</key>
+			<string></string>
 			<key>State</key>
 			<string>None</string>
-			<key>Stations</key>
-			<array/>
 			<key>updated</key>
-			<string>20250119</string>
+			<string>20260619</string>
 		</dict>
 	</dict>
 	<key>Ao Kicho Left Party</key>
 	<dict>
 		<key>Ao Kicho A</key>
 		<dict>
+			<key>Active</key>
+			<string></string>
 			<key>Influence</key>
-			<real>0.055888</real>
+			<real>0.41691800000000001</real>
+			<key>Pending</key>
+			<string></string>
 			<key>State</key>
 			<string>None</string>
-			<key>Stations</key>
-			<array/>
 			<key>updated</key>
-			<string>20250119</string>
+			<string>20260619</string>
 		</dict>
 	</dict>
 	<key>Aparctias Purple Council</key>
@@ -10657,6 +10633,19 @@
 			<key>updated</key>
 			<string>20260605</string>
 		</dict>
+		<key>Laksmi</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Influence</key>
+			<real>0.096806000000000003</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+			<key>updated</key>
+			<string>20260619</string>
+		</dict>
 		<key>Mu Nialfi A</key>
 		<dict>
 			<key>Active</key>
@@ -11001,14 +10990,16 @@
 	<dict>
 		<key>Ao Kicho A</key>
 		<dict>
+			<key>Active</key>
+			<string></string>
 			<key>Influence</key>
-			<real>0.058881999999999997</real>
+			<real>0.19234599999999999</real>
+			<key>Pending</key>
+			<string></string>
 			<key>State</key>
 			<string>None</string>
-			<key>Stations</key>
-			<array/>
 			<key>updated</key>
-			<string>20250119</string>
+			<string>20260619</string>
 		</dict>
 		<key>Chen Shapa A</key>
 		<dict>
@@ -22010,14 +22001,16 @@
 		</dict>
 		<key>Ao Kicho A</key>
 		<dict>
+			<key>Active</key>
+			<string></string>
 			<key>Influence</key>
-			<real>0.089819999999999997</real>
+			<real>0.113797</real>
+			<key>Pending</key>
+			<string></string>
 			<key>State</key>
 			<string>None</string>
-			<key>Stations</key>
-			<array/>
 			<key>updated</key>
-			<string>20250119</string>
+			<string>20260619</string>
 		</dict>
 		<key>HIP 6847</key>
 		<dict>
@@ -26161,14 +26154,16 @@
 		</dict>
 		<key>Laksmi</key>
 		<dict>
+			<key>Active</key>
+			<string></string>
 			<key>Influence</key>
-			<real>0.19580400000000001</real>
+			<real>0.45908199999999999</real>
+			<key>Pending</key>
+			<string></string>
 			<key>State</key>
 			<string>None</string>
-			<key>Stations</key>
-			<array/>
 			<key>updated</key>
-			<string>20250125</string>
+			<string>20260619</string>
 		</dict>
 	</dict>
 	<key>Kong Dan Blue Cartel</key>
@@ -27873,14 +27868,16 @@
 	<dict>
 		<key>Laksmi</key>
 		<dict>
+			<key>Active</key>
+			<string></string>
 			<key>Influence</key>
-			<real>0.030969</real>
+			<real>0.18562899999999999</real>
+			<key>Pending</key>
+			<string></string>
 			<key>State</key>
 			<string>None</string>
-			<key>Stations</key>
-			<array/>
 			<key>updated</key>
-			<string>20250125</string>
+			<string>20260619</string>
 		</dict>
 	</dict>
 	<key>Laksmi Monarchy</key>
@@ -27898,28 +27895,32 @@
 		</dict>
 		<key>Laksmi</key>
 		<dict>
+			<key>Active</key>
+			<string></string>
 			<key>Influence</key>
-			<real>0.048951000000000001</real>
+			<real>0.13173699999999999</real>
+			<key>Pending</key>
+			<string></string>
 			<key>State</key>
 			<string>None</string>
-			<key>Stations</key>
-			<array/>
 			<key>updated</key>
-			<string>20250125</string>
+			<string>20260619</string>
 		</dict>
 	</dict>
 	<key>Laksmi Rats</key>
 	<dict>
 		<key>Laksmi</key>
 		<dict>
+			<key>Active</key>
+			<string></string>
 			<key>Influence</key>
-			<real>0.070929000000000006</real>
+			<real>0.10478999999999999</real>
+			<key>Pending</key>
+			<string></string>
 			<key>State</key>
 			<string>None</string>
-			<key>Stations</key>
-			<array/>
 			<key>updated</key>
-			<string>20250125</string>
+			<string>20260619</string>
 		</dict>
 	</dict>
 	<key>Lamgani Freedom Party</key>
@@ -29558,14 +29559,16 @@
 	<dict>
 		<key>Laksmi</key>
 		<dict>
+			<key>Active</key>
+			<string></string>
 			<key>Influence</key>
-			<real>0.208791</real>
+			<real>0.021956</real>
+			<key>Pending</key>
+			<string></string>
 			<key>State</key>
 			<string>None</string>
-			<key>Stations</key>
-			<array/>
 			<key>updated</key>
-			<string>20250125</string>
+			<string>20260619</string>
 		</dict>
 	</dict>
 	<key>Lusoneshas Blue Public Industry</key>
@@ -39745,14 +39748,16 @@
 	<dict>
 		<key>Ao Kicho A</key>
 		<dict>
+			<key>Active</key>
+			<string></string>
 			<key>Influence</key>
-			<real>0.0099799999999999993</real>
+			<real>0.061429999999999998</real>
+			<key>Pending</key>
+			<string></string>
 			<key>State</key>
 			<string>None</string>
-			<key>Stations</key>
-			<array/>
 			<key>updated</key>
-			<string>20250119</string>
+			<string>20260619</string>
 		</dict>
 	</dict>
 	<key>Society of Fawaol</key>
