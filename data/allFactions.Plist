@@ -799,17 +799,6 @@
 			<key>updated</key>
 			<string>20260619</string>
 		</dict>
-		<key>HR 394</key>
-		<dict>
-			<key>Influence</key>
-			<real>0.22745499999999999</real>
-			<key>State</key>
-			<string>Expansion</string>
-			<key>Stations</key>
-			<array/>
-			<key>updated</key>
-			<string>20250119</string>
-		</dict>
 		<key>Kites</key>
 		<dict>
 			<key>Active</key>
@@ -848,21 +837,6 @@
 			</array>
 			<key>updated</key>
 			<string>20250122</string>
-		</dict>
-		<key>Sibianoe</key>
-		<dict>
-			<key>Influence</key>
-			<real>0.545817</real>
-			<key>State</key>
-			<string>Expansion</string>
-			<key>Stations</key>
-			<array>
-				<string>Barnes' Claim</string>
-				<string>Impey Ring</string>
-				<string>Bauschinger Gateway</string>
-			</array>
-			<key>updated</key>
-			<string>20250118</string>
 		</dict>
 		<key>Wayica</key>
 		<dict>
@@ -3074,17 +3048,16 @@
 		</dict>
 		<key>HR 394</key>
 		<dict>
+			<key>Active</key>
+			<string></string>
 			<key>Influence</key>
-			<real>0.143287</real>
+			<real>0.22759299999999999</real>
+			<key>Pending</key>
+			<string></string>
 			<key>State</key>
 			<string>None</string>
-			<key>Stations</key>
-			<array>
-				<string>Roelofs Station</string>
-				<string>Campbell Vision</string>
-			</array>
 			<key>updated</key>
-			<string>20250119</string>
+			<string>20260619</string>
 		</dict>
 		<key>Wayica</key>
 		<dict>
@@ -3913,14 +3886,16 @@
 		</dict>
 		<key>Sibianoe</key>
 		<dict>
+			<key>Active</key>
+			<string></string>
 			<key>Influence</key>
-			<real>0.106574</real>
+			<real>0.17982000000000001</real>
+			<key>Pending</key>
+			<string></string>
 			<key>State</key>
 			<string>None</string>
-			<key>Stations</key>
-			<array/>
 			<key>updated</key>
-			<string>20250118</string>
+			<string>20260619</string>
 		</dict>
 	</dict>
 	<key>Audhenu Galactic Group</key>
@@ -3931,6 +3906,19 @@
 			<string></string>
 			<key>Influence</key>
 			<real>0.52095800000000003</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+			<key>updated</key>
+			<string>20260619</string>
+		</dict>
+		<key>Sibianoe</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Influence</key>
+			<real>0.205794</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -5453,13 +5441,13 @@
 			<key>Active</key>
 			<string></string>
 			<key>Influence</key>
-			<real>0.042042000000000003</real>
+			<real>0.017051</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 			<key>updated</key>
-			<string>20260528</string>
+			<string>20260619</string>
 		</dict>
 	</dict>
 	<key>Bayah Energy Holdings</key>
@@ -5469,13 +5457,13 @@
 			<key>Active</key>
 			<string></string>
 			<key>Influence</key>
-			<real>0.71972000000000003</real>
+			<real>0.65396200000000004</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 			<key>updated</key>
-			<string>20260528</string>
+			<string>20260619</string>
 		</dict>
 	</dict>
 	<key>Bayah Partners</key>
@@ -5485,13 +5473,13 @@
 			<key>Active</key>
 			<string></string>
 			<key>Influence</key>
-			<real>0.097097000000000003</real>
+			<real>0.114343</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 			<key>updated</key>
-			<string>20260528</string>
+			<string>20260619</string>
 		</dict>
 	</dict>
 	<key>Beasts of Bestia</key>
@@ -20944,30 +20932,32 @@
 	<dict>
 		<key>HR 394</key>
 		<dict>
+			<key>Active</key>
+			<string></string>
 			<key>Influence</key>
-			<real>0.078156000000000003</real>
+			<real>0.098691000000000001</real>
+			<key>Pending</key>
+			<string></string>
 			<key>State</key>
 			<string>None</string>
-			<key>Stations</key>
-			<array/>
 			<key>updated</key>
-			<string>20250119</string>
+			<string>20260619</string>
 		</dict>
 	</dict>
 	<key>HR 394 Patron's Principles</key>
 	<dict>
 		<key>HR 394</key>
 		<dict>
+			<key>Active</key>
+			<string></string>
 			<key>Influence</key>
-			<real>0.318637</real>
+			<real>0.33434000000000003</real>
+			<key>Pending</key>
+			<string></string>
 			<key>State</key>
 			<string>None</string>
-			<key>Stations</key>
-			<array>
-				<string>Kirby Vision</string>
-			</array>
 			<key>updated</key>
-			<string>20250119</string>
+			<string>20260619</string>
 		</dict>
 	</dict>
 	<key>HR 494 Crimson Brotherhood</key>
@@ -22975,13 +22965,13 @@
 			<key>Active</key>
 			<string></string>
 			<key>Influence</key>
-			<real>0.064063999999999996</real>
+			<real>0.121364</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 			<key>updated</key>
-			<string>20260528</string>
+			<string>20260619</string>
 		</dict>
 	</dict>
 	<key>Independent Candiae Citizen Party</key>
@@ -31075,14 +31065,16 @@
 	<dict>
 		<key>HR 394</key>
 		<dict>
+			<key>Active</key>
+			<string></string>
 			<key>Influence</key>
-			<real>0.061122000000000003</real>
+			<real>0.094662999999999997</real>
+			<key>Pending</key>
+			<string></string>
 			<key>State</key>
 			<string>None</string>
-			<key>Stations</key>
-			<array/>
 			<key>updated</key>
-			<string>20250119</string>
+			<string>20260619</string>
 		</dict>
 	</dict>
 	<key>Movement for Hyroks Labour</key>
@@ -32866,14 +32858,16 @@
 	<dict>
 		<key>Sibianoe</key>
 		<dict>
+			<key>Active</key>
+			<string></string>
 			<key>Influence</key>
-			<real>0.028884</real>
+			<real>0.118881</real>
+			<key>Pending</key>
+			<string></string>
 			<key>State</key>
 			<string>None</string>
-			<key>Stations</key>
-			<array/>
 			<key>updated</key>
-			<string>20250118</string>
+			<string>20260619</string>
 		</dict>
 	</dict>
 	<key>New Siddha Constitution Party</key>
@@ -36335,14 +36329,16 @@
 	<dict>
 		<key>HR 394</key>
 		<dict>
+			<key>Active</key>
+			<string></string>
 			<key>Influence</key>
-			<real>0.062123999999999999</real>
+			<real>0.108761</real>
+			<key>Pending</key>
+			<string></string>
 			<key>State</key>
 			<string>None</string>
-			<key>Stations</key>
-			<array/>
 			<key>updated</key>
-			<string>20250119</string>
+			<string>20260619</string>
 		</dict>
 	</dict>
 	<key>Purple Transport Limited</key>
@@ -38925,14 +38921,16 @@
 	<dict>
 		<key>Sibianoe</key>
 		<dict>
+			<key>Active</key>
+			<string></string>
 			<key>Influence</key>
-			<real>0.050797000000000002</real>
+			<real>0.043956000000000002</real>
+			<key>Pending</key>
+			<string></string>
 			<key>State</key>
 			<string>None</string>
-			<key>Stations</key>
-			<array/>
 			<key>updated</key>
-			<string>20250118</string>
+			<string>20260619</string>
 		</dict>
 	</dict>
 	<key>Sibianoe Guardians of Tradition</key>
@@ -38961,14 +38959,16 @@
 		</dict>
 		<key>Sibianoe</key>
 		<dict>
+			<key>Active</key>
+			<string></string>
 			<key>Influence</key>
-			<real>0.133466</real>
+			<real>0.077922000000000005</real>
+			<key>Pending</key>
+			<string></string>
 			<key>State</key>
 			<string>None</string>
-			<key>Stations</key>
-			<array/>
 			<key>updated</key>
-			<string>20250118</string>
+			<string>20260619</string>
 		</dict>
 		<key>Waventeno A</key>
 		<dict>
@@ -38986,28 +38986,32 @@
 	<dict>
 		<key>Sibianoe</key>
 		<dict>
+			<key>Active</key>
+			<string></string>
 			<key>Influence</key>
-			<real>0.016931999999999999</real>
+			<real>0.046953000000000002</real>
+			<key>Pending</key>
+			<string></string>
 			<key>State</key>
 			<string>None</string>
-			<key>Stations</key>
-			<array/>
 			<key>updated</key>
-			<string>20250118</string>
+			<string>20260619</string>
 		</dict>
 	</dict>
 	<key>Sibianoe Silver Vision Inc</key>
 	<dict>
 		<key>Sibianoe</key>
 		<dict>
+			<key>Active</key>
+			<string></string>
 			<key>Influence</key>
-			<real>0.11753</real>
+			<real>0.32667299999999999</real>
+			<key>Pending</key>
+			<string></string>
 			<key>State</key>
 			<string>None</string>
-			<key>Stations</key>
-			<array/>
 			<key>updated</key>
-			<string>20250118</string>
+			<string>20260619</string>
 		</dict>
 	</dict>
 	<key>Sibilja Brotherhood</key>
@@ -42885,13 +42889,13 @@
 			<key>Active</key>
 			<string></string>
 			<key>Influence</key>
-			<real>0.077077000000000007</real>
+			<real>0.093280000000000002</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 			<key>updated</key>
-			<string>20260528</string>
+			<string>20260619</string>
 		</dict>
 	</dict>
 	<key>Traditional Caere Justice Party</key>
@@ -45176,14 +45180,16 @@
 	<dict>
 		<key>HR 394</key>
 		<dict>
+			<key>Active</key>
+			<string></string>
 			<key>Influence</key>
-			<real>0.109218</real>
+			<real>0.13595199999999999</real>
+			<key>Pending</key>
+			<string></string>
 			<key>State</key>
 			<string>None</string>
-			<key>Stations</key>
-			<array/>
 			<key>updated</key>
-			<string>20250119</string>
+			<string>20260619</string>
 		</dict>
 		<key>Waila</key>
 		<dict>
