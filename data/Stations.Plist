@@ -1200,7 +1200,7 @@
 	<key>Albategnius Dock_HIP 7823</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>2010.78773</real>
+		<real>2068.7538330000002</real>
 		<key>starSystem</key>
 		<string>HIP 7823</string>
 		<key>stationFaction</key>
@@ -1239,7 +1239,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260401</string>
+		<string>20260619</string>
 	</dict>
 	<key>Albitzky Outpost_Laksmi</key>
 	<dict>
@@ -8764,7 +8764,7 @@
 	<key>Burnham Station_HIP 6758</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>3838.8468419999999</real>
+		<real>3848.9336950000002</real>
 		<key>starSystem</key>
 		<string>HIP 6758</string>
 		<key>stationFaction</key>
@@ -8800,7 +8800,55 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250412</string>
+		<string>20260619</string>
+	</dict>
+	<key>Caidin Legacy_Anja</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>13.099262</real>
+		<key>starSystem</key>
+		<string>Anja</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>Cornae Patrons of Law</string>
+		</dict>
+		<key>stationName</key>
+		<string>Caidin Legacy</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>shipyard</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>shop</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>CraterPort</string>
+		<key>updated</key>
+		<string>20260619</string>
 	</dict>
 	<key>Camm's Pride_HIP 28192</key>
 	<dict>
@@ -29998,7 +30046,7 @@
 	<key>Longomontanus Beacon_Humatsu</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>2344.4877160000001</real>
+		<real>2213.8748679999999</real>
 		<key>starSystem</key>
 		<string>Humatsu</string>
 		<key>stationFaction</key>
@@ -30037,7 +30085,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20240818</string>
+		<string>20260619</string>
 	</dict>
 	<key>Lopez City_Arexack</key>
 	<dict>
