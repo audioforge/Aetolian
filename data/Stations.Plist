@@ -5273,15 +5273,13 @@
 	<key>Bauschinger Gateway_Sibianoe</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1284.5977760000001</real>
+		<real>1284.455997</real>
 		<key>starSystem</key>
 		<string>Sibianoe</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>Boom</string>
 			<key>Name</key>
-			<string>Aetolians</string>
+			<string>Sibianoe Silver Vision Inc</string>
 		</dict>
 		<key>stationName</key>
 		<string>Bauschinger Gateway</string>
@@ -5289,7 +5287,6 @@
 		<array>
 			<string>dock</string>
 			<string>autodock</string>
-			<string>blackmarket</string>
 			<string>commodities</string>
 			<string>contacts</string>
 			<string>exploration</string>
@@ -5314,7 +5311,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20241024</string>
+		<string>20260620</string>
 	</dict>
 	<key>Baynes City_Shambhala</key>
 	<dict>
@@ -11193,7 +11190,7 @@
 	<key>Cowling Refinery_Caleket</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1195.0691919999999</real>
+		<real>1195.8322410000001</real>
 		<key>starSystem</key>
 		<string>Caleket</string>
 		<key>stationFaction</key>
@@ -11235,7 +11232,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20241104</string>
+		<string>20260620</string>
 	</dict>
 	<key>Cowper Dock_Anima</key>
 	<dict>
@@ -11580,6 +11577,54 @@
 		<string>Ocellus</string>
 		<key>updated</key>
 		<string>20250306</string>
+	</dict>
+	<key>Curtis Settlement_Gliese 9090</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>4057.5099599999999</real>
+		<key>starSystem</key>
+		<string>Gliese 9090</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>FactionState</key>
+			<string>Expansion</string>
+			<key>Name</key>
+			<string>HIP 11241 Patrons of Law</string>
+		</dict>
+		<key>stationName</key>
+		<string>Curtis Settlement</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>facilitator</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Outpost</string>
+		<key>updated</key>
+		<string>20260620</string>
 	</dict>
 	<key>Curtiss Mines_Fandh</key>
 	<dict>
@@ -25763,7 +25808,7 @@
 	<key>Kapteyn Platform_Bolocas</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>3917.797039</real>
+		<real>3917.6884169999998</real>
 		<key>starSystem</key>
 		<string>Bolocas</string>
 		<key>stationFaction</key>
@@ -35822,6 +35867,48 @@
 		<string>Orbis</string>
 		<key>updated</key>
 		<string>20250314</string>
+	</dict>
+	<key>O'Neill Station_HIP 13564</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>2634.3669340000001</real>
+		<key>starSystem</key>
+		<string>HIP 13564</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>Jormungand Empire Group</string>
+		</dict>
+		<key>stationName</key>
+		<string>O'Neill Station</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Outpost</string>
+		<key>updated</key>
+		<string>20260620</string>
 	</dict>
 	<key>Obsidian Directive_Gondul</key>
 	<dict>
