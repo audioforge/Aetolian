@@ -621,8 +621,107 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20260620</key>
+	<dict>
+		<key>Brazilian League of Pilots</key>
+		<dict>
+			<key>Active</key>
+			<string>Expansion</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.18581400000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Expansion</string>
+		</dict>
+		<key>Jormungand Empire Group</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.096903000000000003</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Nighthawks</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.41758200000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Nyikas Advanced Group</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.093906000000000003</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Nyikas Crimson Brothers</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.11988</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Salaallang Emperor's Grace</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.085914000000000004</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
+		<key>ExpTarget</key>
+		<array>
+			<string>Humatsu A</string>
+			<string>HIP 12167</string>
+			<string>Audhenu</string>
+			<string>Anja A</string>
+			<string>Caleket</string>
+			<string>Sibianoe</string>
+			<string>Hiradha A</string>
+			<string>HIP 12425 A</string>
+			<string>Pemeno A</string>
+			<string>HIP 11305</string>
+			<string>Cantiaci A</string>
+			<string>HIP 10012</string>
+			<string>Inherth A</string>
+			<string>Waventeno A</string>
+			<string>Bayah A</string>
+		</array>
 		<key>StarPos</key>
 		<array>
 			<real>44.34375</real>
@@ -642,7 +741,7 @@
 		<key>system</key>
 		<string>Nyikas A</string>
 		<key>updated</key>
-		<string>20240812</string>
+		<string>20260620</string>
 	</dict>
 </dict>
 </plist>
