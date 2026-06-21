@@ -1694,8 +1694,111 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20260620</key>
+	<dict>
+		<key>Asterion</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.094093999999999997</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>HIP 11241 Patrons of Law</key>
+		<dict>
+			<key>Active</key>
+			<string>Expansion</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.12812799999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Expansion</string>
+		</dict>
+		<key>LOST BOYS</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.63863899999999996</real>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Official Partii Nationalists</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.060060000000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Partii Dynamic Network</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.033033</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Partii Order</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.032031999999999998</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Society of Partii</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.014014</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
+		<key>ExpTarget</key>
+		<array>
+			<string>Bolocas A</string>
+			<string>Gliese 9090</string>
+			<string>HIP 12425 A</string>
+			<string>Audhenu</string>
+			<string>Sibianoe</string>
+			<string>HIP 12167</string>
+			<string>Bayah A</string>
+			<string>HIP 10973</string>
+			<string>Cantiaci A</string>
+			<string>Pemeno A</string>
+			<string>HIP 9252 A</string>
+			<string>HIP 10012</string>
+		</array>
 		<key>StarPos</key>
 		<array>
 			<real>41.5625</real>
@@ -1703,7 +1806,7 @@
 			<real>-64.21875</real>
 		</array>
 		<key>SysFaction</key>
-		<string>HIP 11241 Patrons of Law</string>
+		<string>LOST BOYS</string>
 		<key>economy</key>
 		<string>Industrial</string>
 		<key>economy2</key>
@@ -1715,7 +1818,7 @@
 		<key>system</key>
 		<string>Partii</string>
 		<key>updated</key>
-		<string>20241029</string>
+		<string>20260620</string>
 	</dict>
 </dict>
 </plist>
