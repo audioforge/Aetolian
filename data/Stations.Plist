@@ -25808,7 +25808,7 @@
 	<key>Kapteyn Platform_Bolocas</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>3917.797039</real>
+		<real>3917.6884169999998</real>
 		<key>starSystem</key>
 		<string>Bolocas</string>
 		<key>stationFaction</key>
@@ -51220,7 +51220,7 @@
 	<key>THH-LHG_HIP 6905</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>2446.3491319999998</real>
+		<real>2446.3490809999998</real>
 		<key>starSystem</key>
 		<string>HIP 6905</string>
 		<key>stationFaction</key>
@@ -60195,11 +60195,13 @@
 	<key>Tikhonravov City_CD-37 641</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>74.889285999999998</real>
+		<real>74.839558999999994</real>
 		<key>starSystem</key>
 		<string>CD-37 641</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Election</string>
 			<key>Name</key>
 			<string>ELITE SPACE WINGS</string>
 		</dict>
@@ -60238,7 +60240,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20260616</string>
+		<string>20260619</string>
 	</dict>
 	<key>Tikhonravov Mine_Bolocas</key>
 	<dict>
