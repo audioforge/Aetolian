@@ -11283,7 +11283,7 @@
 	<key>Cowling Refinery_Caleket</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1195.9907740000001</real>
+		<real>1196.021551</real>
 		<key>starSystem</key>
 		<string>Caleket</string>
 		<key>stationFaction</key>
@@ -12040,7 +12040,7 @@
 	<key>Davies City_Devane</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1692.3523270000001</real>
+		<real>1690.3508340000001</real>
 		<key>starSystem</key>
 		<string>Devane</string>
 		<key>stationFaction</key>
@@ -12084,7 +12084,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260618</string>
+		<string>20260622</string>
 	</dict>
 	<key>Dawes Prospect_HIP 11433</key>
 	<dict>
@@ -12762,15 +12762,13 @@
 	<key>DiFate Landing_Mu Nialfi</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>18.794360999999999</real>
+		<real>18.794888</real>
 		<key>starSystem</key>
 		<string>Mu Nialfi</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>Election</string>
 			<key>Name</key>
-			<string>Degardhi Life &amp; Co</string>
+			<string>Achenar Trading and Mining</string>
 		</dict>
 		<key>stationName</key>
 		<string>DiFate Landing</string>
@@ -12802,7 +12800,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260620</string>
+		<string>20260622</string>
 	</dict>
 	<key>Dillon Survey_49 Ceti</key>
 	<dict>
@@ -36368,13 +36366,11 @@
 	<key>Oort Port_CD-40 395</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>2540.1042689999999</real>
+		<real>2538.1656379999999</real>
 		<key>starSystem</key>
 		<string>CD-40 395</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>Election</string>
 			<key>Name</key>
 			<string>ELITE SPACE WINGS</string>
 		</dict>
@@ -36414,7 +36410,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260618</string>
+		<string>20260622</string>
 	</dict>
 	<key>Oosterhoff Terminal_Ngane</key>
 	<dict>
@@ -53495,7 +53491,7 @@
 		<key>stationType</key>
 		<string>FleetCarrier</string>
 		<key>updated</key>
-		<string>20260619</string>
+		<string>20260622</string>
 	</dict>
 	<key>THH-LHG_Mylaifai LY-F d12-266</key>
 	<dict>
@@ -54441,6 +54437,44 @@
 		<string>FleetCarrier</string>
 		<key>updated</key>
 		<string>20260501</string>
+	</dict>
+	<key>THH-LHG_Partii</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>1386.8789730000001</real>
+		<key>starSystem</key>
+		<string>Partii</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>FleetCarrier</string>
+		</dict>
+		<key>stationName</key>
+		<string>THH-LHG</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>shipyard</string>
+			<string>engineer</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>stationMenu</string>
+			<string>carriermanagement</string>
+			<string>carrierfuel</string>
+			<string>socialspace</string>
+		</array>
+		<key>stationType</key>
+		<string>FleetCarrier</string>
+		<key>updated</key>
+		<string>20260622</string>
 	</dict>
 	<key>THH-LHG_Pemeowa</key>
 	<dict>
