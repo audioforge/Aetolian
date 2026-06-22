@@ -5169,7 +5169,7 @@
 	<key>Bartini Enterprise_CF 464</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>523.04780200000005</real>
+		<real>523.02052800000001</real>
 		<key>starSystem</key>
 		<string>CF 464</string>
 		<key>stationFaction</key>
@@ -6064,7 +6064,7 @@
 	<key>Birkhoff Port_HR 494</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1214.1112330000001</real>
+		<real>1214.055597</real>
 		<key>starSystem</key>
 		<string>HR 494</string>
 		<key>stationFaction</key>
@@ -6104,7 +6104,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260606</string>
+		<string>20260622</string>
 	</dict>
 	<key>Biruni Gateway_Agastariya</key>
 	<dict>
@@ -22065,11 +22065,13 @@
 	<key>Helffrich Outpost_Santupik</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>511.46470399999998</real>
+		<real>511.34069599999998</real>
 		<key>starSystem</key>
 		<string>Santupik</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Election</string>
 			<key>Name</key>
 			<string>G.O.M. Collective</string>
 		</dict>
@@ -22106,7 +22108,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260522</string>
+		<string>20260622</string>
 	</dict>
 	<key>Helin Dock_Njiri</key>
 	<dict>
@@ -34734,13 +34736,13 @@
 	<key>Nahavandi Platform_Alacagui</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>468.001304</real>
+		<real>467.93667399999998</real>
 		<key>starSystem</key>
 		<string>Alacagui</string>
 		<key>stationFaction</key>
 		<dict>
 			<key>FactionState</key>
-			<string>CivilLiberty</string>
+			<string>Election</string>
 			<key>Name</key>
 			<string>G.O.M. Collective</string>
 		</dict>
@@ -34776,7 +34778,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260510</string>
+		<string>20260622</string>
 	</dict>
 	<key>Nahavandi Station_HIP 23824</key>
 	<dict>
@@ -43959,7 +43961,7 @@
 	<key>Skjellerup Terminal_Ininohima</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>320.87416100000002</real>
+		<real>320.90984900000001</real>
 		<key>starSystem</key>
 		<string>Ininohima</string>
 		<key>stationFaction</key>
@@ -44002,7 +44004,7 @@
 		<key>stationType</key>
 		<string>Ocellus</string>
 		<key>updated</key>
-		<string>20260616</string>
+		<string>20260622</string>
 	</dict>
 	<key>Slade Observatory_Col 285 Sector VS-D a28-4</key>
 	<dict>
@@ -60459,7 +60461,7 @@
 	<key>Tikhonravov City_CD-37 641</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>74.839558999999994</real>
+		<real>74.836742999999998</real>
 		<key>starSystem</key>
 		<string>CD-37 641</string>
 		<key>stationFaction</key>
@@ -60504,7 +60506,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20260619</string>
+		<string>20260622</string>
 	</dict>
 	<key>Tikhonravov Mine_Bolocas</key>
 	<dict>
