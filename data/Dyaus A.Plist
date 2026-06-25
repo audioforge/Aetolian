@@ -190,10 +190,122 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20260625</key>
+	<dict>
+		<key>Dyaus Empire Party</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.105419</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Dyaus Rats</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.068966</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>HIP 5184 Empire Group</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.118227</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Jolly Co-Operators</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.39408900000000002</real>
+			<key>Pending</key>
+			<string>Expansion - 0</string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Kingdom of the Elysian Fields</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.115271</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Tang Mu Natural Inc</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.12512300000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Uodigi Empire League</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.072905999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
-		<array/>
+		<array>
+			<string>Guan Wango A</string>
+			<string>HIP 5184 A</string>
+			<string>Candiae A</string>
+			<string>Dyin A</string>
+			<string>Caspataya A</string>
+			<string>HIP 4892 A</string>
+			<string>Almudjara</string>
+			<string>Nyalayan A</string>
+			<string>HIP 6011 A</string>
+			<string>Reret A</string>
+			<string>Jemede</string>
+			<string>Nespel</string>
+			<string>HIP 7386 A</string>
+			<string>Nanapan</string>
+			<string>Lusoneshas</string>
+			<string>Cemplangpa A</string>
+			<string>Zhuang A</string>
+		</array>
 		<key>StarPos</key>
 		<array>
 			<real>41.09375</real>
@@ -213,7 +325,7 @@
 		<key>system</key>
 		<string>Dyaus A</string>
 		<key>updated</key>
-		<string>20250114</string>
+		<string>20260625</string>
 	</dict>
 </dict>
 </plist>
