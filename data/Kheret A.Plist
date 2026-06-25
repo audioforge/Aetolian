@@ -2,42 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>20260622</key>
+	<key>20260625</key>
 	<dict>
-		<key>HIP 12480 Guardians of Tradition</key>
+		<key>Crew of Kheret</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.073999999999999996</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>None</string>
-		</dict>
-		<key>HIP 12480 Incorporated</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.033000000000000002</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>None</string>
-		</dict>
-		<key>HIP 12480 Posse</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.01</real>
+			<real>0.030242000000000002</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -50,46 +24,72 @@
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.435</real>
+			<real>0.39516099999999998</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Liberty Party of HIP 13564</key>
+		<key>Kheret Co</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.22</real>
+			<real>0.039315000000000003</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Tankobung Empire Party</key>
+		<key>Kheret Crimson Universal Group</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.13300000000000001</real>
+			<real>0.162298</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Union Party of HIP 12480</key>
+		<key>Kheret Empire Pact</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.095000000000000001</real>
+			<real>0.12600800000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Red Stars Squadron</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.18044399999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Revolutionary Kheret Progressive Party</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.066531999999999994</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -100,42 +100,39 @@
 	<dict>
 		<key>ExpTarget</key>
 		<array>
-			<string>Cantiaci A</string>
+			<string>Salaallang A</string>
 			<string>Tankobung A</string>
-			<string>HIP 12860</string>
-			<string>HIP 13564</string>
-			<string>HIP 12167</string>
-			<string>HIP 12425 A</string>
-			<string>Nyikas A</string>
-			<string>Audhenu</string>
-			<string>Humatsu A</string>
-			<string>Hiradha A</string>
-			<string>HIP 10579</string>
-			<string>Pemeno A</string>
-			<string>Gliese 9090</string>
 			<string>Anja A</string>
-			<string>Bolocas A</string>
+			<string>HIP 13564</string>
+			<string>HIP 12425 A</string>
+			<string>HIP 12167</string>
+			<string>Humatsu A</string>
+			<string>Nyikas A</string>
+			<string>HIP 12860</string>
+			<string>Gliese 9090</string>
+			<string>Nyororor</string>
+			<string>Audhenu</string>
 		</array>
 		<key>StarPos</key>
 		<array>
-			<real>38.03125</real>
-			<real>-176.625</real>
-			<real>-77.25</real>
+			<real>60.65625</real>
+			<real>-173.1875</real>
+			<real>-76.5625</real>
 		</array>
 		<key>SysFaction</key>
 		<string>Jormungand Empire Group</string>
 		<key>economy</key>
-		<string>Military</string>
+		<string>Industrial</string>
 		<key>economy2</key>
-		<string>Terraforming</string>
+		<string>Extraction</string>
 		<key>population</key>
-		<integer>238666</integer>
+		<integer>2773610</integer>
 		<key>security</key>
 		<string>Medium Security</string>
 		<key>system</key>
-		<string>HIP 12480 A</string>
+		<string>Kheret A</string>
 		<key>updated</key>
-		<string>20260622</string>
+		<string>20260625</string>
 	</dict>
 </dict>
 </plist>

@@ -2,42 +2,42 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>20260622</key>
+	<key>20260624</key>
 	<dict>
-		<key>HIP 12480 Guardians of Tradition</key>
+		<key>HIP 12860 Dynasty</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.073999999999999996</real>
+			<real>0.042084000000000003</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>HIP 12480 Incorporated</key>
+		<key>HIP 12860 Jet Hand Gang</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.033000000000000002</real>
+			<real>0.040079999999999998</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>HIP 12480 Posse</key>
+		<key>HIP 12860 State Solutions</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.01</real>
+			<real>0.094187999999999994</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -50,20 +50,20 @@
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.435</real>
+			<real>0.59819599999999995</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Liberty Party of HIP 13564</key>
+		<key>Official Partii Nationalists</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.22</real>
+			<real>0.15831700000000001</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -76,20 +76,7 @@
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.13300000000000001</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>None</string>
-		</dict>
-		<key>Union Party of HIP 12480</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.095000000000000001</real>
+			<real>0.067133999999999999</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -100,42 +87,36 @@
 	<dict>
 		<key>ExpTarget</key>
 		<array>
-			<string>Cantiaci A</string>
 			<string>Tankobung A</string>
-			<string>HIP 12860</string>
+			<string>HIP 12480 A</string>
+			<string>Cantiaci A</string>
+			<string>HIP 12425 A</string>
 			<string>HIP 13564</string>
 			<string>HIP 12167</string>
-			<string>HIP 12425 A</string>
-			<string>Nyikas A</string>
-			<string>Audhenu</string>
-			<string>Humatsu A</string>
-			<string>Hiradha A</string>
-			<string>HIP 10579</string>
-			<string>Pemeno A</string>
 			<string>Gliese 9090</string>
-			<string>Anja A</string>
-			<string>Bolocas A</string>
+			<string>Kheret A</string>
+			<string>Partii</string>
 		</array>
 		<key>StarPos</key>
 		<array>
-			<real>38.03125</real>
-			<real>-176.625</real>
-			<real>-77.25</real>
+			<real>42.84375</real>
+			<real>-184.09375</real>
+			<real>-83.34375</real>
 		</array>
 		<key>SysFaction</key>
 		<string>Jormungand Empire Group</string>
 		<key>economy</key>
-		<string>Military</string>
+		<string>High Tech</string>
 		<key>economy2</key>
-		<string>Terraforming</string>
+		<string>Agriculture</string>
 		<key>population</key>
-		<integer>238666</integer>
+		<integer>71397</integer>
 		<key>security</key>
-		<string>Medium Security</string>
+		<string>Low Security</string>
 		<key>system</key>
-		<string>HIP 12480 A</string>
+		<string>HIP 12860</string>
 		<key>updated</key>
-		<string>20260622</string>
+		<string>20260624</string>
 	</dict>
 </dict>
 </plist>

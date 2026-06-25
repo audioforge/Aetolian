@@ -1670,8 +1670,122 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20260625</key>
+	<dict>
+		<key>Amanogawa Enlight</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.34260200000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Brazilian League of Pilots</key>
+		<dict>
+			<key>Active</key>
+			<string>Expansion</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.263158</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Expansion</string>
+		</dict>
+		<key>Inherth Electronics Group</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.064547999999999994</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Inherth Emperor's Grace</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.10327699999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Royal Canadian Co-operative</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.063555</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Sibianoe Guardians of Tradition</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.118173</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Unified Inherth</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.044686999999999998</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
+		<key>ExpTarget</key>
+		<array>
+			<string>Waventeno A</string>
+			<string>Prana</string>
+			<string>Caleket</string>
+			<string>HIP 10012</string>
+			<string>Kureinji A</string>
+			<string>Pemeno A</string>
+			<string>HIP 11305</string>
+			<string>HIP 10579</string>
+			<string>Hiradha A</string>
+			<string>Sibianoe</string>
+			<string>Zosian Tse</string>
+			<string>Audhenu</string>
+			<string>Nyikas A</string>
+			<string>Humatsu A</string>
+			<string>Bembo</string>
+			<string>Gladuwong</string>
+			<string>HIP 12167</string>
+		</array>
 		<key>StarPos</key>
 		<array>
 			<real>26.90625</real>
@@ -1679,7 +1793,7 @@
 			<real>-48.5</real>
 		</array>
 		<key>SysFaction</key>
-		<string>Brazilian League of Pilots</string>
+		<string>Amanogawa Enlight</string>
 		<key>economy</key>
 		<string>High Tech</string>
 		<key>economy2</key>
@@ -1691,7 +1805,7 @@
 		<key>system</key>
 		<string>Inherth A</string>
 		<key>updated</key>
-		<string>20241007</string>
+		<string>20260625</string>
 	</dict>
 </dict>
 </plist>
