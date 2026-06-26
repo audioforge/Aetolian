@@ -10389,13 +10389,13 @@
 	<key>Chertovsky Arena_Kites</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>994.69983999999999</real>
+		<real>994.72889099999998</real>
 		<key>starSystem</key>
 		<string>Kites</string>
 		<key>stationFaction</key>
 		<dict>
 			<key>FactionState</key>
-			<string>War</string>
+			<string>Expansion</string>
 			<key>Name</key>
 			<string>Aetolians</string>
 		</dict>
@@ -10432,7 +10432,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260603</string>
+		<string>20260626</string>
 	</dict>
 	<key>Chretien Terminal_Ross 444</key>
 	<dict>
@@ -36364,7 +36364,7 @@
 	<key>Ohain Hub_Gungo</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>865.41017099999999</real>
+		<real>873.75777100000005</real>
 		<key>starSystem</key>
 		<string>Gungo</string>
 		<key>stationFaction</key>
@@ -36406,7 +36406,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260510</string>
+		<string>20260626</string>
 	</dict>
 	<key>Ohm Horizons_HIP 29312</key>
 	<dict>
@@ -36466,11 +36466,13 @@
 	<key>Oikawa Stop_Badbh</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>387.63031699999999</real>
+		<real>387.62786</real>
 		<key>starSystem</key>
 		<string>Badbh</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Expansion</string>
 			<key>Name</key>
 			<string>Aetolians</string>
 		</dict>
@@ -36508,7 +36510,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260620</string>
+		<string>20260626</string>
 	</dict>
 	<key>Onyx Bastion_Santy</key>
 	<dict>
