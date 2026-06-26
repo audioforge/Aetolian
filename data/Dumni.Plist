@@ -11623,6 +11623,100 @@
 			<string>War</string>
 		</dict>
 	</dict>
+	<key>20260626</key>
+	<dict>
+		<key>Achenar Trading and Mining</key>
+		<dict>
+			<key>Active</key>
+			<string>CivilUnrest</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.088088</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>CivilUnrest</string>
+		</dict>
+		<key>Aetolians</key>
+		<dict>
+			<key>Active</key>
+			<string>Expansion</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.49649599999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Expansion</string>
+		</dict>
+		<key>Cartel of Dumni</key>
+		<dict>
+			<key>Active</key>
+			<string>Bust</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.021021000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Bust</string>
+		</dict>
+		<key>Dumni Jet Public Inc</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.018017999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Outbreak</string>
+		</dict>
+		<key>Earls of Dumni</key>
+		<dict>
+			<key>Active</key>
+			<string>Election</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.073072999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Election</string>
+		</dict>
+		<key>HIP 6807 Imperial Society</key>
+		<dict>
+			<key>Active</key>
+			<string>Election</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.073072999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Election</string>
+		</dict>
+		<key>Kites Central Solutions</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.23022999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
@@ -11654,7 +11748,7 @@
 			<real>-42</real>
 		</array>
 		<key>SysFaction</key>
-		<string>Kites Central Solutions</string>
+		<string>Aetolians</string>
 		<key>economy</key>
 		<string>Agriculture</string>
 		<key>economy2</key>
@@ -11666,7 +11760,7 @@
 		<key>system</key>
 		<string>Dumni</string>
 		<key>updated</key>
-		<string>20260619</string>
+		<string>20260626</string>
 	</dict>
 </dict>
 </plist>
