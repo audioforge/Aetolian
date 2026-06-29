@@ -12903,7 +12903,7 @@
 	<key>Dhawan Vision_Cantiaci</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>793.17923199999996</real>
+		<real>788.34377800000004</real>
 		<key>starSystem</key>
 		<string>Cantiaci</string>
 		<key>stationFaction</key>
@@ -12946,13 +12946,13 @@
 	<key>DiFate Landing_Mu Nialfi</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>18.789774000000001</real>
+		<real>18.657049000000001</real>
 		<key>starSystem</key>
 		<string>Mu Nialfi</string>
 		<key>stationFaction</key>
 		<dict>
 			<key>Name</key>
-			<string>Achenar Trading and Mining</string>
+			<string>Friends of Mu Nialfi</string>
 		</dict>
 		<key>stationName</key>
 		<string>DiFate Landing</string>
@@ -12960,6 +12960,7 @@
 		<array>
 			<string>dock</string>
 			<string>autodock</string>
+			<string>blackmarket</string>
 			<string>commodities</string>
 			<string>contacts</string>
 			<string>exploration</string>
@@ -12984,7 +12985,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260622</string>
+		<string>20260628</string>
 	</dict>
 	<key>Dillon Survey_49 Ceti</key>
 	<dict>
@@ -19226,6 +19227,53 @@
 		<string>MegaShip</string>
 		<key>updated</key>
 		<string>20250521</string>
+	</dict>
+	<key>Gloss Hub_Boresti</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>727.14391799999999</real>
+		<key>starSystem</key>
+		<string>Boresti</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>United Tau Sculptoris Order</string>
+		</dict>
+		<key>stationName</key>
+		<string>Gloss Hub</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>facilitator</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>shop</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>CraterOutpost</string>
+		<key>updated</key>
+		<string>20260628</string>
 	</dict>
 	<key>Glushko Landing_HIP 3125</key>
 	<dict>
@@ -47970,7 +48018,7 @@
 		<key>stationType</key>
 		<string>FleetCarrier</string>
 		<key>updated</key>
-		<string>20260627</string>
+		<string>20260628</string>
 	</dict>
 	<key>THH-LHG_Brigual</key>
 	<dict>
