@@ -96,8 +96,121 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20260628</key>
+	<dict>
+		<key>Cantiaci Inc</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.066000000000000003</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Cantiaci Patron's Principles</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.037999999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Cantiaci Rats</key>
+		<dict>
+			<key>Active</key>
+			<string>CivilWar</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.10100000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>CivilWar</string>
+		</dict>
+		<key>Jormungand Empire Group</key>
+		<dict>
+			<key>Active</key>
+			<string>Election</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.11700000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Election</string>
+		</dict>
+		<key>Kharwar Holdings</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.46000000000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Mandioka Squad</key>
+		<dict>
+			<key>Active</key>
+			<string>Election</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.11700000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Election</string>
+		</dict>
+		<key>Republic Party of Cantiaci</key>
+		<dict>
+			<key>Active</key>
+			<string>CivilWar</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.10100000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>CivilWar</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
+		<key>ExpTarget</key>
+		<array>
+			<string>HIP 12480 A</string>
+			<string>HIP 12860</string>
+			<string>Tankobung A</string>
+			<string>HIP 12167</string>
+			<string>HIP 12425 A</string>
+			<string>HIP 13564</string>
+			<string>Angetenar</string>
+			<string>Nyikas A</string>
+			<string>HIP 10579</string>
+			<string>Audhenu</string>
+			<string>Hiradha A</string>
+			<string>Pemeno A</string>
+			<string>Humatsu A</string>
+			<string>Partii</string>
+			<string>Gliese 9090</string>
+			<string>Bolocas A</string>
+		</array>
 		<key>StarPos</key>
 		<array>
 			<real>35.1875</real>
@@ -117,7 +230,7 @@
 		<key>system</key>
 		<string>Cantiaci A</string>
 		<key>updated</key>
-		<string>20240702</string>
+		<string>20260628</string>
 	</dict>
 </dict>
 </plist>
