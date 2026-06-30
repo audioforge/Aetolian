@@ -20067,7 +20067,7 @@
 	<key>Gould Ring_HIP 8830</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>325.223727</real>
+		<real>327.67655200000002</real>
 		<key>starSystem</key>
 		<string>HIP 8830</string>
 		<key>stationFaction</key>
@@ -20110,7 +20110,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20260522</string>
+		<string>20260629</string>
 	</dict>
 	<key>Gould Station_HIP 5651</key>
 	<dict>
@@ -38365,6 +38365,53 @@
 		<key>updated</key>
 		<string>20250307</string>
 	</dict>
+	<key>Perrine Station_HIP 8830</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>194.83552599999999</real>
+		<key>starSystem</key>
+		<string>HIP 8830</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>BR Imperial Force</string>
+		</dict>
+		<key>stationName</key>
+		<string>Perrine Station</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>shipyard</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Ocellus</string>
+		<key>updated</key>
+		<string>20260629</string>
+	</dict>
 	<key>Persephone_Avalon</key>
 	<dict>
 		<key>DistFromStarLS</key>
@@ -40555,6 +40602,51 @@
 		<string>Outpost</string>
 		<key>updated</key>
 		<string>20260519</string>
+	</dict>
+	<key>Riazuddin Station_HIP 8830</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>2224.6087520000001</real>
+		<key>starSystem</key>
+		<string>HIP 8830</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>BR Imperial Force</string>
+		</dict>
+		<key>stationName</key>
+		<string>Riazuddin Station</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Outpost</string>
+		<key>updated</key>
+		<string>20260629</string>
 	</dict>
 	<key>Riccioli Terminal_HR 706</key>
 	<dict>
