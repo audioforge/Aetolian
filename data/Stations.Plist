@@ -5265,15 +5265,13 @@
 	<key>Bartini Enterprise_CF 464</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>523.02052800000001</real>
+		<real>522.95485499999995</real>
 		<key>starSystem</key>
 		<string>CF 464</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>Election</string>
 			<key>Name</key>
-			<string>ELITE SPACE WINGS</string>
+			<string>G.O.M. Collective</string>
 		</dict>
 		<key>stationName</key>
 		<string>Bartini Enterprise</string>
@@ -5310,7 +5308,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260622</string>
+		<string>20260702</string>
 	</dict>
 	<key>Bauman Port_Kaukhe</key>
 	<dict>
@@ -5690,7 +5688,7 @@
 	<key>Berkey Terminal_Tankobung</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>71.165250999999998</real>
+		<real>71.162232000000003</real>
 		<key>starSystem</key>
 		<string>Tankobung</string>
 		<key>stationFaction</key>
@@ -5734,7 +5732,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260701</string>
+		<string>20260702</string>
 	</dict>
 	<key>Bernoulli Vision_Caeritis</key>
 	<dict>
@@ -7736,7 +7734,7 @@
 	<key>Brendan Gateway_Quivira</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>41.020957000000003</real>
+		<real>40.859498000000002</real>
 		<key>starSystem</key>
 		<string>Quivira</string>
 		<key>stationFaction</key>
@@ -7774,7 +7772,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260701</string>
+		<string>20260702</string>
 	</dict>
 	<key>Bresnik Port_82 Eridani</key>
 	<dict>
@@ -10209,15 +10207,15 @@
 	<key>Cheranovsky City_Partii</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>756.76913500000001</real>
+		<real>756.30008599999996</real>
 		<key>starSystem</key>
 		<string>Partii</string>
 		<key>stationFaction</key>
 		<dict>
 			<key>FactionState</key>
-			<string>Expansion</string>
+			<string>Boom</string>
 			<key>Name</key>
-			<string>HIP 11241 Patrons of Law</string>
+			<string>LOST BOYS</string>
 		</dict>
 		<key>stationName</key>
 		<string>Cheranovsky City</string>
@@ -10225,6 +10223,7 @@
 		<array>
 			<string>dock</string>
 			<string>autodock</string>
+			<string>blackmarket</string>
 			<string>commodities</string>
 			<string>contacts</string>
 			<string>exploration</string>
@@ -10254,7 +10253,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20241002</string>
+		<string>20260702</string>
 	</dict>
 	<key>Cheranovsky Dock_Liabeze</key>
 	<dict>
@@ -12137,7 +12136,7 @@
 	<key>Dassault Gateway_Salaallang</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>250.55859799999999</real>
+		<real>250.139509</real>
 		<key>starSystem</key>
 		<string>Salaallang</string>
 		<key>stationFaction</key>
@@ -12176,7 +12175,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260628</string>
+		<string>20260702</string>
 	</dict>
 	<key>Davies City_Devane</key>
 	<dict>
@@ -32407,7 +32406,7 @@
 	<key>May City_LP 940-115</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1650.2634860000001</real>
+		<real>1660.7938280000001</real>
 		<key>starSystem</key>
 		<string>LP 940-115</string>
 		<key>stationFaction</key>
@@ -32450,7 +32449,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260616</string>
+		<string>20260702</string>
 	</dict>
 	<key>May's Exile_Bylgiani</key>
 	<dict>
@@ -33303,7 +33302,7 @@
 	<key>Merritt Dock_CD-40 395</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>2510.6090899999999</real>
+		<real>2511.0965719999999</real>
 		<key>starSystem</key>
 		<string>CD-40 395</string>
 		<key>stationFaction</key>
@@ -33343,7 +33342,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260701</string>
+		<string>20260702</string>
 	</dict>
 	<key>Merritt Port_LTT 518</key>
 	<dict>
@@ -60719,7 +60718,7 @@
 	<key>Theodor Winnecke Station_LP 940-115</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>2208.1153859999999</real>
+		<real>2208.0749649999998</real>
 		<key>starSystem</key>
 		<string>LP 940-115</string>
 		<key>stationFaction</key>
@@ -60755,7 +60754,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260510</string>
+		<string>20260702</string>
 	</dict>
 	<key>Theodore Kyle_Cibola</key>
 	<dict>
@@ -61172,13 +61171,11 @@
 	<key>Tikhonravov City_CD-37 641</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>74.836742999999998</real>
+		<real>74.858338000000003</real>
 		<key>starSystem</key>
 		<string>CD-37 641</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>Election</string>
 			<key>Name</key>
 			<string>ELITE SPACE WINGS</string>
 		</dict>
@@ -61217,7 +61214,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20260622</string>
+		<string>20260702</string>
 	</dict>
 	<key>Tikhonravov Mine_Bolocas</key>
 	<dict>
@@ -61269,7 +61266,7 @@
 	<key>Tikhonravov Port_HIP 12167</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>168.26076699999999</real>
+		<real>168.42646199999999</real>
 		<key>starSystem</key>
 		<string>HIP 12167</string>
 		<key>stationFaction</key>
@@ -61310,7 +61307,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260701</string>
+		<string>20260702</string>
 	</dict>
 	<key>Tousey Dock_Delta Doradus</key>
 	<dict>
@@ -66913,7 +66910,7 @@
 	<key>van Royen Vision_HIP 13564</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1846.371592</real>
+		<real>1816.0195229999999</real>
 		<key>starSystem</key>
 		<string>HIP 13564</string>
 		<key>stationFaction</key>
@@ -66956,7 +66953,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260623</string>
+		<string>20260702</string>
 	</dict>
 	<key>van de Hulst Vision_Morai</key>
 	<dict>
