@@ -5411,7 +5411,7 @@
 	<key>Bauschinger Gateway_Sibianoe</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1283.9777469999999</real>
+		<real>1283.829708</real>
 		<key>starSystem</key>
 		<string>Sibianoe</string>
 		<key>stationFaction</key>
@@ -10207,7 +10207,7 @@
 	<key>Cheranovsky City_Partii</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>756.30008599999996</real>
+		<real>755.30220999999995</real>
 		<key>starSystem</key>
 		<string>Partii</string>
 		<key>stationFaction</key>
@@ -10253,7 +10253,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260702</string>
+		<string>20260703</string>
 	</dict>
 	<key>Cheranovsky Dock_Liabeze</key>
 	<dict>
@@ -12503,13 +12503,13 @@
 	<key>Delporte Vision_Neginn</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>6.2316820000000002</real>
+		<real>6.1862950000000003</real>
 		<key>starSystem</key>
 		<string>Neginn</string>
 		<key>stationFaction</key>
 		<dict>
 			<key>FactionState</key>
-			<string>Expansion</string>
+			<string>Boom</string>
 			<key>Name</key>
 			<string>Aetolians</string>
 		</dict>
@@ -12545,7 +12545,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260626</string>
+		<string>20260703</string>
 	</dict>
 	<key>Delsanti Orbital_Teliadjali</key>
 	<dict>
@@ -12634,7 +12634,7 @@
 	<key>Denning Terminal_Kheret</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>246.37546599999999</real>
+		<real>246.33917400000001</real>
 		<key>starSystem</key>
 		<string>Kheret</string>
 		<key>stationFaction</key>
@@ -12672,7 +12672,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260629</string>
+		<string>20260703</string>
 	</dict>
 	<key>Denning Vision_Vodyanes</key>
 	<dict>
@@ -14682,6 +14682,51 @@
 		<string>Coriolis</string>
 		<key>updated</key>
 		<string>20250117</string>
+	</dict>
+	<key>Fabricius Colony_Cantiaci</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>60.528773000000001</real>
+		<key>starSystem</key>
+		<string>Cantiaci</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>Kharwar Holdings</string>
+		</dict>
+		<key>stationName</key>
+		<string>Fabricius Colony</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>facilitator</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Outpost</string>
+		<key>updated</key>
+		<string>20260703</string>
 	</dict>
 	<key>Fabricius Vision_Yaso Kondi</key>
 	<dict>
@@ -16787,7 +16832,7 @@
 	<key>Friedrich Peters Gateway_Salaallang</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>249.17809800000001</real>
+		<real>249.340845</real>
 		<key>starSystem</key>
 		<string>Salaallang</string>
 		<key>stationFaction</key>
@@ -24773,7 +24818,7 @@
 	<key>Impey Ring_Sibianoe</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>15.340529999999999</real>
+		<real>15.336076</real>
 		<key>starSystem</key>
 		<string>Sibianoe</string>
 		<key>stationFaction</key>
@@ -24816,7 +24861,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260624</string>
+		<string>20260703</string>
 	</dict>
 	<key>Isaev Port_HIP 23824</key>
 	<dict>
@@ -45252,7 +45297,7 @@
 	<key>Sorayama Prospect_HIP 12425</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>275.72015900000002</real>
+		<real>275.453779</real>
 		<key>starSystem</key>
 		<string>HIP 12425</string>
 		<key>stationFaction</key>
@@ -45291,7 +45336,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260626</string>
+		<string>20260703</string>
 	</dict>
 	<key>Sorayama Station_HIP 34961</key>
 	<dict>
@@ -49683,7 +49728,7 @@
 		<key>stationType</key>
 		<string>FleetCarrier</string>
 		<key>updated</key>
-		<string>20260629</string>
+		<string>20260703</string>
 	</dict>
 	<key>THH-LHG_Dewindji</key>
 	<dict>
@@ -54400,7 +54445,7 @@
 	<key>THH-LHG_Neginn</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>2249.7145650000002</real>
+		<real>0.0</real>
 		<key>starSystem</key>
 		<string>Neginn</string>
 		<key>stationFaction</key>
@@ -61266,7 +61311,7 @@
 	<key>Tikhonravov Port_HIP 12167</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>168.215225</real>
+		<real>168.42566500000001</real>
 		<key>starSystem</key>
 		<string>HIP 12167</string>
 		<key>stationFaction</key>
@@ -66862,7 +66907,7 @@
 	<key>van Rhijn Station_Anja</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>13.073964</real>
+		<real>13.116650999999999</real>
 		<key>starSystem</key>
 		<string>Anja</string>
 		<key>stationFaction</key>
@@ -66905,7 +66950,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260629</string>
+		<string>20260703</string>
 	</dict>
 	<key>van Royen Vision_HIP 13564</key>
 	<dict>
