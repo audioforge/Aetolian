@@ -1197,7 +1197,7 @@
 	<key>Al-Khujandi Enterprise_Muang</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>31.691648000000001</real>
+		<real>31.747661999999998</real>
 		<key>starSystem</key>
 		<string>Muang</string>
 		<key>stationFaction</key>
@@ -1241,7 +1241,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260708</string>
+		<string>20260710</string>
 	</dict>
 	<key>Albategnius Dock_HIP 7823</key>
 	<dict>
@@ -19228,7 +19228,7 @@
 	<key>Ghez Prospect_Hemaskas</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>197.10967099999999</real>
+		<real>197.12084999999999</real>
 		<key>starSystem</key>
 		<string>Hemaskas</string>
 		<key>stationFaction</key>
@@ -19268,7 +19268,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260615</string>
+		<string>20260710</string>
 	</dict>
 	<key>Giacconi Platform_Gaunab</key>
 	<dict>
@@ -31538,7 +31538,7 @@
 	<key>Lubbock Ring_Kholhou</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1197.73362</real>
+		<real>1199.5264520000001</real>
 		<key>starSystem</key>
 		<string>Kholhou</string>
 		<key>stationFaction</key>
@@ -31582,7 +31582,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20260513</string>
+		<string>20260710</string>
 	</dict>
 	<key>Lubbock Terminal_Gladuwong</key>
 	<dict>
@@ -53492,6 +53492,44 @@
 		<string>FleetCarrier</string>
 		<key>updated</key>
 		<string>20240813</string>
+	</dict>
+	<key>THH-LHG_Jemede</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>775.64246500000002</real>
+		<key>starSystem</key>
+		<string>Jemede</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>FleetCarrier</string>
+		</dict>
+		<key>stationName</key>
+		<string>THH-LHG</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>shipyard</string>
+			<string>engineer</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>stationMenu</string>
+			<string>carriermanagement</string>
+			<string>carrierfuel</string>
+			<string>socialspace</string>
+		</array>
+		<key>stationType</key>
+		<string>FleetCarrier</string>
+		<key>updated</key>
+		<string>20260710</string>
 	</dict>
 	<key>THH-LHG_Juenae EX-S c20-7374</key>
 	<dict>
