@@ -16316,6 +16316,49 @@
 		<key>updated</key>
 		<string>20260409</string>
 	</dict>
+	<key>Fowler Survey_Iota Eridani</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>425.31401099999999</real>
+		<key>starSystem</key>
+		<string>Iota Eridani</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>ELITE SPACE WINGS</string>
+		</dict>
+		<key>stationName</key>
+		<string>Fowler Survey</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Outpost</string>
+		<key>updated</key>
+		<string>20260710</string>
+	</dict>
 	<key>Fox Holdings_Kalvaitu</key>
 	<dict>
 		<key>DistFromStarLS</key>
@@ -24207,6 +24250,54 @@
 		<string>Outpost</string>
 		<key>updated</key>
 		<string>20240705</string>
+	</dict>
+	<key>Hughes Hub_Namarii</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>465.35246000000001</real>
+		<key>starSystem</key>
+		<string>Namarii</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>Imperial Privateers</string>
+		</dict>
+		<key>stationName</key>
+		<string>Hughes Hub</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>shipyard</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>shop</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Coriolis</string>
+		<key>updated</key>
+		<string>20260710</string>
 	</dict>
 	<key>Hughes Mines_Warlaworka</key>
 	<dict>
@@ -64730,7 +64821,7 @@
 	<key>Whelan City_Huma</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>45288.603456999997</real>
+		<real>45289.760387000002</real>
 		<key>starSystem</key>
 		<string>Huma</string>
 		<key>stationFaction</key>
@@ -64773,7 +64864,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260709</string>
+		<string>20260710</string>
 	</dict>
 	<key>Whipple Survey_Shokwus</key>
 	<dict>
