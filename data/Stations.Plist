@@ -6889,6 +6889,51 @@
 		<key>updated</key>
 		<string>20250204</string>
 	</dict>
+	<key>Bond Port_HIP 12716</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>907.11389899999995</real>
+		<key>starSystem</key>
+		<string>HIP 12716</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>FactionState</key>
+			<string>Election</string>
+			<key>Name</key>
+			<string>HIP 12716 Citizens of Tradition</string>
+		</dict>
+		<key>stationName</key>
+		<string>Bond Port</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>shop</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Coriolis</string>
+		<key>updated</key>
+		<string>20260710</string>
+	</dict>
 	<key>Bond Port_Urcia</key>
 	<dict>
 		<key>DistFromStarLS</key>
@@ -16408,11 +16453,13 @@
 	<key>Fowler Survey_Iota Eridani</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>425.31401099999999</real>
+		<real>425.32365099999998</real>
 		<key>starSystem</key>
 		<string>Iota Eridani</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Election</string>
 			<key>Name</key>
 			<string>ELITE SPACE WINGS</string>
 		</dict>
