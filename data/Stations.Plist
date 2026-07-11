@@ -1426,6 +1426,54 @@
 		<key>updated</key>
 		<string>20260513</string>
 	</dict>
+	<key>Albumasar Station_Hruntia</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>322.52963999999997</real>
+		<key>starSystem</key>
+		<string>Hruntia</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>Hruntia Silver Vision Network</string>
+		</dict>
+		<key>stationName</key>
+		<string>Albumasar Station</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>shipyard</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>shop</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Coriolis</string>
+		<key>updated</key>
+		<string>20260710</string>
+	</dict>
 	<key>Alden Vision_Anja</key>
 	<dict>
 		<key>DistFromStarLS</key>
@@ -6892,7 +6940,7 @@
 	<key>Bond Port_HIP 12716</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>907.11389899999995</real>
+		<real>907.07698700000003</real>
 		<key>starSystem</key>
 		<string>HIP 12716</string>
 		<key>stationFaction</key>
@@ -11507,6 +11555,54 @@
 		<string>Outpost</string>
 		<key>updated</key>
 		<string>20260420</string>
+	</dict>
+	<key>Cottenot Orbital_HIP 11448</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>1372.607293</real>
+		<key>starSystem</key>
+		<string>HIP 11448</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>HIP 11448 Empire Consulate</string>
+		</dict>
+		<key>stationName</key>
+		<string>Cottenot Orbital</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>shipyard</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>shop</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Ocellus</string>
+		<key>updated</key>
+		<string>20260710</string>
 	</dict>
 	<key>Couper Hub_Kamadhenu</key>
 	<dict>
@@ -65788,13 +65884,11 @@
 	<key>Wirtanen Port_Manthe</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>524.85547199999996</real>
+		<real>524.86828500000001</real>
 		<key>starSystem</key>
 		<string>Manthe</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>War</string>
 			<key>Name</key>
 			<string>ELITE SPACE WINGS</string>
 		</dict>
@@ -65833,7 +65927,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260526</string>
+		<string>20260710</string>
 	</dict>
 	<key>Witt Dock_Hevernaku</key>
 	<dict>
@@ -67237,7 +67331,7 @@
 	<key>Zoline Port_HR 494</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>260.63440400000002</real>
+		<real>260.610997</real>
 		<key>starSystem</key>
 		<string>HR 494</string>
 		<key>stationFaction</key>
@@ -67275,7 +67369,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260710</string>
+		<string>20260711</string>
 	</dict>
 	<key>Zoline Station_Hu Jona</key>
 	<dict>
@@ -67515,6 +67609,55 @@
 		<string>CraterOutpost</string>
 		<key>updated</key>
 		<string>20250105</string>
+	</dict>
+	<key>van Houten Station_Ember</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>341.29290500000002</real>
+		<key>starSystem</key>
+		<string>Ember</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>ELITE SPACE WINGS</string>
+		</dict>
+		<key>stationName</key>
+		<string>van Houten Station</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>shipyard</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>materialtrader</string>
+			<string>stationMenu</string>
+			<string>shop</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Coriolis</string>
+		<key>updated</key>
+		<string>20260710</string>
 	</dict>
 	<key>van Rhijn City_Nu Kuni</key>
 	<dict>
