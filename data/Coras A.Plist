@@ -2,81 +2,94 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>20260713</key>
+	<key>20260714</key>
 	<dict>
-		<key>Acorn Freelancers Corporate Faction</key>
+		<key>Allied Coras Conservatives</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.061568999999999999</real>
+			<real>0.53458499999999998</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>CSNU</key>
+		<key>Coras Partners</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.054618</real>
+			<real>0.097825999999999996</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>ELITE SPACE WINGS</key>
+		<key>Coras Society</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.59086399999999994</real>
+			<real>0.018775</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Purple Life Commodities</key>
+		<key>Galactic Rangers</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.047666</real>
+			<real>0.17885400000000001</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>The Winged Hussars</key>
+		<key>Mizo Industries</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.23535300000000001</real>
+			<real>0.066206000000000001</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Tian Gold Mob</key>
+		<key>New Coras Coalition</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.0099299999999999996</real>
+			<real>0.054348</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Noblemen of Coras</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.049407</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -87,42 +100,41 @@
 	<dict>
 		<key>ExpTarget</key>
 		<array>
-			<string>LTT 542</string>
-			<string>LHS 1110 A</string>
-			<string>Thule</string>
-			<string>Hemaskas A</string>
-			<string>HIP 3142 A</string>
-			<string>Waangamici A</string>
-			<string>Poponne A</string>
-			<string>Eseasa A</string>
-			<string>Xi Wangar</string>
-			<string>Wuru A</string>
-			<string>CD-44 224</string>
-			<string>Giltine A</string>
-			<string>Pyemmairre A</string>
-			<string>Julung A</string>
-			<string>Crom Dubh</string>
+			<string>Mizo</string>
+			<string>HIP 12119</string>
+			<string>Huma A</string>
+			<string>Domoth</string>
+			<string>HIP 11433 A</string>
+			<string>HIP 11131 A</string>
+			<string>Mentintei A</string>
+			<string>HIP 12716 A</string>
+			<string>Sieganga</string>
+			<string>Usdiae</string>
+			<string>HIP 9774 A</string>
+			<string>Karelitakas</string>
+			<string>HIP 7817 A</string>
+			<string>Uzumo</string>
 		</array>
 		<key>StarPos</key>
 		<array>
-			<real>20.5625</real>
-			<real>-141.21875</real>
-			<real>16.75</real>
+			<real>40.34375</real>
+			<real>-131.84375</real>
+			<real>-33.875</real>
 		</array>
 		<key>SysFaction</key>
-		<string>ELITE SPACE WINGS</string>
+		<string>Allied Coras Conservatives</string>
 		<key>economy</key>
 		<string>Extraction</string>
 		<key>economy2</key>
-		<string>Industrial</string>
+		<string>Refinery</string>
 		<key>population</key>
-		<integer>46725</integer>
+		<integer>183321</integer>
 		<key>security</key>
-		<string>Low Security</string>
+		<string>Medium Security</string>
 		<key>system</key>
-		<string>Tian</string>
+		<string>Coras A</string>
 		<key>updated</key>
-		<string>20260713</string>
+		<string>20260714</string>
 	</dict>
 </dict>
 </plist>
