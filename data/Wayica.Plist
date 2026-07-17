@@ -9694,6 +9694,100 @@
 			<string>CivilUnrest</string>
 		</dict>
 	</dict>
+	<key>20260717</key>
+	<dict>
+		<key>Aetolians</key>
+		<dict>
+			<key>Active</key>
+			<string>InfrastructureFailure</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.41041699999999998</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>InfrastructureFailure</string>
+		</dict>
+		<key>Ao Kicho Emperor's Grace</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.076041999999999998</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Degardhi Life &amp; Co</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.18437500000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Mainani Empire Party</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.27708300000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Wayica Corp.</key>
+		<dict>
+			<key>Active</key>
+			<string>CivilUnrest</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.025000000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>CivilUnrest</string>
+		</dict>
+		<key>Wayica Purple Boys</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.016667000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Wayica Shared</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.010416999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
@@ -9712,7 +9806,9 @@
 			<string>Boresti</string>
 			<string>Kolhou Wu</string>
 			<string>Ao Kicho A</string>
+			<string>Tewinicnii A</string>
 			<string>Tau Sculptoris A</string>
+			<string>Rynchi</string>
 		</array>
 		<key>StarPos</key>
 		<array>
@@ -9721,7 +9817,7 @@
 			<real>-47.09375</real>
 		</array>
 		<key>SysFaction</key>
-		<string>Mainani Empire Party</string>
+		<string>Aetolians</string>
 		<key>economy</key>
 		<string>High Tech</string>
 		<key>economy2</key>
@@ -9733,7 +9829,7 @@
 		<key>system</key>
 		<string>Wayica</string>
 		<key>updated</key>
-		<string>20260630</string>
+		<string>20260717</string>
 	</dict>
 </dict>
 </plist>
