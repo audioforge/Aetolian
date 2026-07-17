@@ -20130,11 +20130,13 @@
 	<key>Godel Dock_Quivira</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>23.746632000000002</real>
+		<real>23.782577</real>
 		<key>starSystem</key>
 		<string>Quivira</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Election</string>
 			<key>Name</key>
 			<string>ELITE SPACE WINGS</string>
 		</dict>
@@ -29682,7 +29684,7 @@
 	<key>Lagrange City_CD-37 641</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>923.61633099999995</real>
+		<real>923.69974999999999</real>
 		<key>starSystem</key>
 		<string>CD-37 641</string>
 		<key>stationFaction</key>
@@ -30202,13 +30204,11 @@
 	<key>Langley Dock_Siddha</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1671.418975</real>
+		<real>1688.7576590000001</real>
 		<key>starSystem</key>
 		<string>Siddha</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>War</string>
 			<key>Name</key>
 			<string>Social Siddha Future</string>
 		</dict>
@@ -30244,7 +30244,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260510</string>
+		<string>20260717</string>
 	</dict>
 	<key>Langley Hub_Apam Napat</key>
 	<dict>
