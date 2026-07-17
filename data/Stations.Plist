@@ -12996,6 +12996,51 @@
 		<key>updated</key>
 		<string>20240806</string>
 	</dict>
+	<key>Denning Platform_Minjango</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>447.65748500000001</real>
+		<key>starSystem</key>
+		<string>Minjango</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>Minjango Company</string>
+		</dict>
+		<key>stationName</key>
+		<string>Denning Platform</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Outpost</string>
+		<key>updated</key>
+		<string>20260717</string>
+	</dict>
 	<key>Denning Terminal_Kheret</key>
 	<dict>
 		<key>DistFromStarLS</key>
@@ -25631,7 +25676,7 @@
 	<key>Israel Base_Lu Hsiensei</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>17.072852000000001</real>
+		<real>17.196173000000002</real>
 		<key>starSystem</key>
 		<string>Lu Hsiensei</string>
 		<key>stationFaction</key>
@@ -25670,7 +25715,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260708</string>
+		<string>20260717</string>
 	</dict>
 	<key>Israel Station_Chick Bara</key>
 	<dict>
@@ -26566,7 +26611,7 @@
 	<key>Jordan Orbital_HR 494</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>3227.3473220000001</real>
+		<real>3227.2768850000002</real>
 		<key>starSystem</key>
 		<string>HR 494</string>
 		<key>stationFaction</key>
@@ -26609,7 +26654,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260701</string>
+		<string>20260717</string>
 	</dict>
 	<key>Joseph Delambre Hub_HIP 22006</key>
 	<dict>
@@ -68233,13 +68278,11 @@
 	<key>van Rhijn Hub_Veamit</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>325.53319800000003</real>
+		<real>325.45432799999998</real>
 		<key>starSystem</key>
 		<string>Veamit</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>Election</string>
 			<key>Name</key>
 			<string>ELITE SPACE WINGS</string>
 		</dict>
@@ -68278,7 +68321,7 @@
 		<key>stationType</key>
 		<string>Ocellus</string>
 		<key>updated</key>
-		<string>20260618</string>
+		<string>20260717</string>
 	</dict>
 	<key>van Rhijn Station_Anja</key>
 	<dict>
