@@ -5356,7 +5356,7 @@
 	<key>Bartini Enterprise_CF 464</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>522.95485499999995</real>
+		<real>522.81011699999999</real>
 		<key>starSystem</key>
 		<string>CF 464</string>
 		<key>stationFaction</key>
@@ -5399,7 +5399,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260702</string>
+		<string>20260717</string>
 	</dict>
 	<key>Bauman Port_Kaukhe</key>
 	<dict>
@@ -10998,11 +10998,13 @@
 	<key>Coggia Mines_Khonsa</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>54.302396000000002</real>
+		<real>54.207438000000003</real>
 		<key>starSystem</key>
 		<string>Khonsa</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Election</string>
 			<key>Name</key>
 			<string>BFNF Solutions</string>
 		</dict>
@@ -11037,7 +11039,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260503</string>
+		<string>20260717</string>
 	</dict>
 	<key>Coggia Port_Aymifa</key>
 	<dict>
@@ -12999,7 +13001,7 @@
 	<key>Denning Platform_Minjango</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>447.65748500000001</real>
+		<real>447.663048</real>
 		<key>starSystem</key>
 		<string>Minjango</string>
 		<key>stationFaction</key>
@@ -20128,7 +20130,7 @@
 	<key>Godel Dock_Quivira</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>23.635169000000001</real>
+		<real>23.746632000000002</real>
 		<key>starSystem</key>
 		<string>Quivira</string>
 		<key>stationFaction</key>
@@ -20172,7 +20174,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260615</string>
+		<string>20260717</string>
 	</dict>
 	<key>Godel Plant_Noatin</key>
 	<dict>
@@ -23241,7 +23243,7 @@
 	<key>Henderson Dock_HIP 7823</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>2012.117722</real>
+		<real>2076.8202259999998</real>
 		<key>starSystem</key>
 		<string>HIP 7823</string>
 		<key>stationFaction</key>
@@ -23278,7 +23280,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260410</string>
+		<string>20260717</string>
 	</dict>
 	<key>Henry Depot_HIP 7386</key>
 	<dict>
@@ -24761,11 +24763,13 @@
 	<key>Hughes Mines_Warlaworka</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1188.5847819999999</real>
+		<real>1131.81791</real>
 		<key>starSystem</key>
 		<string>Warlaworka</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Election</string>
 			<key>Name</key>
 			<string>ELITE SPACE WINGS</string>
 		</dict>
@@ -24800,7 +24804,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260324</string>
+		<string>20260717</string>
 	</dict>
 	<key>Hughes Observatory_Chunza</key>
 	<dict>
@@ -28612,7 +28616,7 @@
 	<key>Kosai Station_Kholu</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>657.86424199999999</real>
+		<real>662.23062300000004</real>
 		<key>starSystem</key>
 		<string>Kholu</string>
 		<key>stationFaction</key>
@@ -28647,7 +28651,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260326</string>
+		<string>20260717</string>
 	</dict>
 	<key>Kotelnikov Hangar_HIP 4072</key>
 	<dict>
@@ -29678,7 +29682,7 @@
 	<key>Lagrange City_CD-37 641</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>923.55027800000005</real>
+		<real>923.61633099999995</real>
 		<key>starSystem</key>
 		<string>CD-37 641</string>
 		<key>stationFaction</key>
@@ -34203,13 +34207,11 @@
 	<key>Merritt Dock_CD-40 395</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>2516.2783589999999</real>
+		<real>2515.1069269999998</real>
 		<key>starSystem</key>
 		<string>CD-40 395</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>Election</string>
 			<key>Name</key>
 			<string>G.O.M. Collective</string>
 		</dict>
@@ -34245,7 +34247,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260713</string>
+		<string>20260717</string>
 	</dict>
 	<key>Merritt Port_LTT 518</key>
 	<dict>
@@ -38925,7 +38927,7 @@
 	<key>Parkinson Dock_Eotienses</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>41.649051</real>
+		<real>41.808579000000002</real>
 		<key>starSystem</key>
 		<string>Eotienses</string>
 		<key>stationFaction</key>
@@ -38968,7 +38970,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20260618</string>
+		<string>20260717</string>
 	</dict>
 	<key>Parkinson Dock_Salaallang</key>
 	<dict>
@@ -46032,7 +46034,7 @@
 	<key>Slipher Vision_Kadrusa</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>102.698795</real>
+		<real>102.76843599999999</real>
 		<key>starSystem</key>
 		<string>Kadrusa</string>
 		<key>stationFaction</key>
@@ -46075,7 +46077,7 @@
 		<key>stationType</key>
 		<string>Ocellus</string>
 		<key>updated</key>
-		<string>20260709</string>
+		<string>20260717</string>
 	</dict>
 	<key>Sm1tty's Shack_LTT 9587</key>
 	<dict>
