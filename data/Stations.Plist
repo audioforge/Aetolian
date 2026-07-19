@@ -14673,6 +14673,50 @@
 		<key>updated</key>
 		<string>20260427</string>
 	</dict>
+	<key>Endate Refinery_Palliyar</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>790.35825899999998</real>
+		<key>starSystem</key>
+		<string>Palliyar</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>Palliyar Organisation</string>
+		</dict>
+		<key>stationName</key>
+		<string>Endate Refinery</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>blackmarket</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>facilitator</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>stationMenu</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Outpost</string>
+		<key>updated</key>
+		<string>20260719</string>
+	</dict>
 	<key>Enoch Port_Agartha</key>
 	<dict>
 		<key>DistFromStarLS</key>
@@ -20779,7 +20823,7 @@
 	<key>Gould Ring_HIP 8830</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>327.67655200000002</real>
+		<real>323.79189300000002</real>
 		<key>starSystem</key>
 		<string>HIP 8830</string>
 		<key>stationFaction</key>
@@ -20822,7 +20866,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20260629</string>
+		<string>20260719</string>
 	</dict>
 	<key>Gould Station_HIP 5651</key>
 	<dict>
@@ -24765,7 +24809,7 @@
 	<key>Hughes Mines_Warlaworka</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1131.81791</real>
+		<real>1135.374145</real>
 		<key>starSystem</key>
 		<string>Warlaworka</string>
 		<key>stationFaction</key>
@@ -24806,7 +24850,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260717</string>
+		<string>20260719</string>
 	</dict>
 	<key>Hughes Observatory_Chunza</key>
 	<dict>
@@ -25682,11 +25726,13 @@
 	<key>Israel Base_Lu Hsiensei</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>17.196173000000002</real>
+		<real>17.231615000000001</real>
 		<key>starSystem</key>
 		<string>Lu Hsiensei</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Expansion</string>
 			<key>Name</key>
 			<string>BFNF Solutions</string>
 		</dict>
@@ -25721,7 +25767,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260717</string>
+		<string>20260719</string>
 	</dict>
 	<key>Israel Station_Chick Bara</key>
 	<dict>
@@ -26295,13 +26341,11 @@
 	<key>Jokester's Station_LTT 911</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>154.61437699999999</real>
+		<real>154.85865000000001</real>
 		<key>starSystem</key>
 		<string>LTT 911</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>Election</string>
 			<key>Name</key>
 			<string>G.O.M. Collective</string>
 		</dict>
@@ -26340,7 +26384,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260718</string>
+		<string>20260719</string>
 	</dict>
 	<key>Jones City_Giabaing</key>
 	<dict>
@@ -31118,6 +31162,50 @@
 		<string>Coriolis</string>
 		<key>updated</key>
 		<string>20260714</string>
+	</dict>
+	<key>Lindblad Station_HIP 8830</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>5290.7510709999997</real>
+		<key>starSystem</key>
+		<string>HIP 8830</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>Traditional HIP 8830 Conservatives</string>
+		</dict>
+		<key>stationName</key>
+		<string>Lindblad Station</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Outpost</string>
+		<key>updated</key>
+		<string>20260719</string>
 	</dict>
 	<key>Linnehan Works_Macu Kuang</key>
 	<dict>
@@ -37678,6 +37766,50 @@
 		<string>Coriolis</string>
 		<key>updated</key>
 		<string>20250607</string>
+	</dict>
+	<key>Oikawa Point_HIP 7687</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>961.89169400000003</real>
+		<key>starSystem</key>
+		<string>HIP 7687</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>Devane Patrons of Law</string>
+		</dict>
+		<key>stationName</key>
+		<string>Oikawa Point</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>facilitator</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Outpost</string>
+		<key>updated</key>
+		<string>20260719</string>
 	</dict>
 	<key>Oikawa Stop_Badbh</key>
 	<dict>
