@@ -1242,7 +1242,7 @@
 	<key>Al-Khujandi Enterprise_Muang</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>31.70618</real>
+		<real>31.696942</real>
 		<key>starSystem</key>
 		<string>Muang</string>
 		<key>stationFaction</key>
@@ -5356,11 +5356,13 @@
 	<key>Bartini Enterprise_CF 464</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>522.91215999999997</real>
+		<real>522.98746000000006</real>
 		<key>starSystem</key>
 		<string>CF 464</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Election</string>
 			<key>Name</key>
 			<string>G.O.M. Collective</string>
 		</dict>
@@ -5399,7 +5401,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260718</string>
+		<string>20260719</string>
 	</dict>
 	<key>Bauman Port_Kaukhe</key>
 	<dict>
@@ -37769,7 +37771,7 @@
 	<key>Oort Port_CD-40 395</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>2559.1922420000001</real>
+		<real>2559.0343189999999</real>
 		<key>starSystem</key>
 		<string>CD-40 395</string>
 		<key>stationFaction</key>
@@ -37813,7 +37815,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260717</string>
+		<string>20260719</string>
 	</dict>
 	<key>Oosterhoff Terminal_Ngane</key>
 	<dict>
@@ -39811,6 +39813,49 @@
 		<string>Outpost</string>
 		<key>updated</key>
 		<string>20250118</string>
+	</dict>
+	<key>Pickering Station_Tir Na Nog</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>2225.733655</real>
+		<key>starSystem</key>
+		<string>Tir Na Nog</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>FactionState</key>
+			<string>Election</string>
+			<key>Name</key>
+			<string>G.O.M. Collective</string>
+		</dict>
+		<key>stationName</key>
+		<string>Pickering Station</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>refuel</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Outpost</string>
+		<key>updated</key>
+		<string>20260719</string>
 	</dict>
 	<key>Pilcher Port_Nyalayan</key>
 	<dict>
@@ -42476,7 +42521,7 @@
 	<key>Roe Dock_Eotienses</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1171.2969969999999</real>
+		<real>1131.848992</real>
 		<key>starSystem</key>
 		<string>Eotienses</string>
 		<key>stationFaction</key>
@@ -42516,7 +42561,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260411</string>
+		<string>20260719</string>
 	</dict>
 	<key>Roed Odegaard Port_Brestla</key>
 	<dict>
@@ -43197,7 +43242,7 @@
 	<key>Saavedra Dock_Kui Hsien</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>542.36589600000002</real>
+		<real>542.23683700000004</real>
 		<key>starSystem</key>
 		<string>Kui Hsien</string>
 		<key>stationFaction</key>
@@ -43237,7 +43282,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260718</string>
+		<string>20260719</string>
 	</dict>
 	<key>Saavedra Hub_Kairi</key>
 	<dict>
@@ -53600,7 +53645,7 @@
 	<key>THH-LHG_HR 494</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>5614.1964079999998</real>
+		<real>360.26960100000002</real>
 		<key>starSystem</key>
 		<string>HR 494</string>
 		<key>stationFaction</key>
@@ -53633,7 +53678,7 @@
 		<key>stationType</key>
 		<string>FleetCarrier</string>
 		<key>updated</key>
-		<string>20260522</string>
+		<string>20260719</string>
 	</dict>
 	<key>THH-LHG_Hidar</key>
 	<dict>
@@ -55457,7 +55502,7 @@
 		<key>stationType</key>
 		<string>FleetCarrier</string>
 		<key>updated</key>
-		<string>20260717</string>
+		<string>20260718</string>
 	</dict>
 	<key>THH-LHG_Mylaifai LY-F d12-266</key>
 	<dict>
