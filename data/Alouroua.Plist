@@ -284,10 +284,115 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20260720</key>
+	<dict>
+		<key>Alouroua Blue Major Incorporated</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.050897999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Alouroua Family</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.069860000000000005</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Brian Solutions</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.111776</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Co-op of Alouroua</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.085828000000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Jolly Co-Operators</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.177645</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Kingdom of the Elysian Fields</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.14071900000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>The 501st Guild</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.36327300000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
-		<array/>
+		<array>
+			<string>HIP 5004</string>
+			<string>Selisao Jiu A</string>
+			<string>HIP 7167</string>
+			<string>HIP 6011 A</string>
+			<string>HIP 4892 A</string>
+			<string>Weti</string>
+			<string>Dauruma A</string>
+			<string>HIP 7526</string>
+			<string>Almudjara</string>
+			<string>Nanapan</string>
+		</array>
 		<key>StarPos</key>
 		<array>
 			<real>41.6875</real>
@@ -307,7 +412,7 @@
 		<key>system</key>
 		<string>Alouroua</string>
 		<key>updated</key>
-		<string>20250114</string>
+		<string>20260720</string>
 	</dict>
 </dict>
 </plist>

@@ -5688,7 +5688,7 @@
 	<key>Belyavsky Station_HIP 5184</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>2148.4546190000001</real>
+		<real>2177.9117630000001</real>
 		<key>starSystem</key>
 		<string>HIP 5184</string>
 		<key>stationFaction</key>
@@ -5728,7 +5728,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260518</string>
+		<string>20260720</string>
 	</dict>
 	<key>Benford Survey_Fei Lin</key>
 	<dict>
@@ -14051,7 +14051,7 @@
 	<key>Dubyago Port_HIP 6011</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>116.814151</real>
+		<real>116.675926</real>
 		<key>starSystem</key>
 		<string>HIP 6011</string>
 		<key>stationFaction</key>
@@ -14090,7 +14090,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260716</string>
+		<string>20260720</string>
 	</dict>
 	<key>Dumont Terminal_Ch'in Yang</key>
 	<dict>
@@ -37386,6 +37386,50 @@
 		<string>Outpost</string>
 		<key>updated</key>
 		<string>20260423</string>
+	</dict>
+	<key>Nomura Settlement_Alouroua</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>934.57328399999994</real>
+		<key>starSystem</key>
+		<string>Alouroua</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>The 501st Guild</string>
+		</dict>
+		<key>stationName</key>
+		<string>Nomura Settlement</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>facilitator</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Outpost</string>
+		<key>updated</key>
+		<string>20260720</string>
 	</dict>
 	<key>Nomura Vision_Shambhala</key>
 	<dict>
@@ -63730,7 +63774,7 @@
 	<key>Urkovic Holdings_Selisao Jiu</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>193.707426</real>
+		<real>193.501406</real>
 		<key>starSystem</key>
 		<string>Selisao Jiu</string>
 		<key>stationFaction</key>
@@ -63773,7 +63817,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260716</string>
+		<string>20260720</string>
 	</dict>
 	<key>Urkovic Station_Pai Huldr</key>
 	<dict>
