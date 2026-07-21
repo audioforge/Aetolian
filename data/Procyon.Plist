@@ -109,8 +109,128 @@
 			<string>Expansion</string>
 		</dict>
 	</dict>
+	<key>20260721</key>
+	<dict>
+		<key>Autocracy of Procyon</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.032586999999999998</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>G 41-14 Purple Travel Solutions</key>
+		<dict>
+			<key>Active</key>
+			<string>War</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.10692500000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>War</string>
+		</dict>
+		<key>G 89-32 Gold Power Incorporated</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.041751999999999997</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>PirateAttack</string>
+		</dict>
+		<key>People's Procyon Values Party</key>
+		<dict>
+			<key>Active</key>
+			<string>War</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.10692500000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>War</string>
+		</dict>
+		<key>Procyon Crimson Advanced Ex</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.057026</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Procyon Incorporated</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.039715</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Red Corporation</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.064155000000000004</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Sirius Corporation</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.55091599999999996</real>
+			<key>Pending</key>
+			<string>Expansion - 0</string>
+			<key>State</key>
+			<string>Election</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
+		<key>ExpTarget</key>
+		<array>
+			<string>Luyten's Star</string>
+			<string>Sirius</string>
+			<string>Wolf 359</string>
+			<string>Lalande 21185 A</string>
+			<string>Sol</string>
+			<string>WISE 1506+7027</string>
+			<string>Tau Ceti</string>
+			<string>LHS 235</string>
+			<string>82 Eridani</string>
+			<string>WISE 1741+2553</string>
+		</array>
 		<key>StarPos</key>
 		<array>
 			<real>6.21875</real>
@@ -126,11 +246,11 @@
 		<key>population</key>
 		<integer>18561357265</integer>
 		<key>security</key>
-		<string>Medium Security</string>
+		<string>High Security</string>
 		<key>system</key>
 		<string>Procyon</string>
 		<key>updated</key>
-		<string>20240518</string>
+		<string>20260721</string>
 	</dict>
 </dict>
 </plist>

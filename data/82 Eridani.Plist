@@ -190,10 +190,106 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20260721</key>
+	<dict>
+		<key>82 Eridani Silver Mafia</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.044580000000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Conservatives of 82 Eridani</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.062816999999999998</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Crimson Legal &amp; Co</key>
+		<dict>
+			<key>Active</key>
+			<string>Election</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.129686</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Election</string>
+		</dict>
+		<key>Nationals of 82 Eridani</key>
+		<dict>
+			<key>Active</key>
+			<string>CivilWar</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.100304</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>CivilWar</string>
+		</dict>
+		<key>Rhatigan Industries</key>
+		<dict>
+			<key>Active</key>
+			<string>CivilWar</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.100304</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>CivilWar</string>
+		</dict>
+		<key>Sirius Corporation</key>
+		<dict>
+			<key>Active</key>
+			<string>Election</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.129686</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Election</string>
+		</dict>
+		<key>Workers of 82 Eridani Values Party</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.43262400000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
 		<array>
+			<string>Tau Ceti</string>
+			<string>LHS 1339 A</string>
 			<string>Sirius</string>
 			<string>Core Sys Sector VO-R a4-0</string>
 			<string>Core Sys Sector WO-R a4-0</string>
@@ -209,7 +305,7 @@
 			<real>-3.75</real>
 		</array>
 		<key>SysFaction</key>
-		<string>Boop Brigade</string>
+		<string>Workers of 82 Eridani Values Party</string>
 		<key>economy</key>
 		<string>Refinery</string>
 		<key>economy2</key>
@@ -217,11 +313,11 @@
 		<key>population</key>
 		<integer>3608745</integer>
 		<key>security</key>
-		<string>High Security</string>
+		<string>Medium Security</string>
 		<key>system</key>
 		<string>82 Eridani</string>
 		<key>updated</key>
-		<string>20250608</string>
+		<string>20260721</string>
 	</dict>
 </dict>
 </plist>
