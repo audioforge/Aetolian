@@ -96,10 +96,106 @@
 			<string>Election</string>
 		</dict>
 	</dict>
+	<key>20260722</key>
+	<dict>
+		<key>Crimson Legal &amp; Co</key>
+		<dict>
+			<key>Active</key>
+			<string>Election</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.10299999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Election</string>
+		</dict>
+		<key>Independents of Tau Ceti</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.088999999999999996</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Liberty Party of Tau Ceti</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.041000000000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>South Haven</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.121</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Sublime Order of van Maanen's Star</key>
+		<dict>
+			<key>Active</key>
+			<string>CivilLiberty</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.53000000000000003</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>CivilLiberty</string>
+		</dict>
+		<key>Tau Ceti Crimson Boys</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.012999999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Tau Ceti Crimson Legal Solutions</key>
+		<dict>
+			<key>Active</key>
+			<string>Election</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.10299999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Election</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
 		<array>
+			<string>Epsilon Eridani</string>
+			<string>TZ Arietis</string>
 			<string>82 Eridani</string>
 			<string>Sol</string>
 			<string>Sirius</string>
@@ -111,6 +207,7 @@
 			<string>LHS 1339 A</string>
 			<string>Core Sys Sector VO-R a4-0</string>
 			<string>WISE 1506+7027</string>
+			<string>Lushertha A</string>
 			<string>WISE 1741+2553</string>
 		</array>
 		<key>StarPos</key>
@@ -132,7 +229,7 @@
 		<key>system</key>
 		<string>Tau Ceti</string>
 		<key>updated</key>
-		<string>20260721</string>
+		<string>20260722</string>
 	</dict>
 </dict>
 </plist>
