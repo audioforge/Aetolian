@@ -2,94 +2,94 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>20260721</key>
+	<key>20260723</key>
 	<dict>
-		<key>Blood Brothers from Alrai</key>
-		<dict>
-			<key>Active</key>
-			<string>Expansion</string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.097097000000000003</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>Expansion</string>
-		</dict>
-		<key>Groombridge 34 Blue Public Sysy</key>
+		<key>Dievat Citizens of Tradition</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.050049999999999997</real>
+			<real>0.13686300000000001</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Independents of Groombridge 34</key>
-		<dict>
-			<key>Active</key>
-			<string>Boom</string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.63963999999999999</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>Boom</string>
-		</dict>
-		<key>Kruger 60 Free</key>
+		<key>Dievat Crimson Crew</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.105105</real>
+			<real>0.0099900000000000006</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Mob of Groombridge 34</key>
+		<key>Dievat Gold Electronics Ind</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.021021000000000001</real>
+			<real>0.056943000000000001</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Official Groombridge 34 Liberty Party</key>
+		<key>Dievat Guardians of Tradition</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.028028000000000001</real>
+			<real>0.066933000000000006</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>The Federation of Ravenwood</key>
+		<key>Royal Elite of the Grand Duke</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.059059</real>
+			<real>0.50149900000000003</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>The Empires Fleet</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.203796</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Union of Dievat Values Party</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.023976000000000001</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -100,40 +100,34 @@
 	<dict>
 		<key>ExpTarget</key>
 		<array>
-			<string>TZ Arietis</string>
-			<string>WISE 1506+7027</string>
-			<string>Sol</string>
-			<string>Tau Ceti</string>
-			<string>Epsilon Eridani</string>
-			<string>Lalande 21185 A</string>
-			<string>Lushertha A</string>
-			<string>Sirius</string>
-			<string>Wolf 359</string>
-			<string>Procyon</string>
-			<string>Luyten's Star</string>
-			<string>Groombridge 1618 A</string>
-			<string>WISE 1741+2553</string>
+			<string>Guathiti</string>
+			<string>Calhuacan</string>
+			<string>Morana</string>
+			<string>Ch'in Yang</string>
+			<string>Carthage</string>
+			<string>Aerial</string>
+			<string>Exioce</string>
 		</array>
 		<key>StarPos</key>
 		<array>
-			<real>-9.90625</real>
-			<real>-3.6875</real>
-			<real>-5.09375</real>
+			<real>85.53125</real>
+			<real>-84.375</real>
+			<real>-3.125</real>
 		</array>
 		<key>SysFaction</key>
-		<string>Independents of Groombridge 34</string>
+		<string>Royal Elite of the Grand Duke</string>
 		<key>economy</key>
-		<string>High Tech</string>
+		<string>Industrial</string>
 		<key>economy2</key>
 		<string>Extraction</string>
 		<key>population</key>
-		<integer>9521472</integer>
+		<integer>12444069</integer>
 		<key>security</key>
 		<string>Medium Security</string>
 		<key>system</key>
-		<string>Groombridge 34</string>
+		<string>Dievat A</string>
 		<key>updated</key>
-		<string>20260721</string>
+		<string>20260723</string>
 	</dict>
 </dict>
 </plist>
