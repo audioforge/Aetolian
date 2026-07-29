@@ -80,7 +80,7 @@
             
             var dt = dynamicTable.config('data-table',
                                          ['system','station','price'],
-                                         ['System','Station','Price'], //set to null for field names instead of custom header names
+                                         ['System','Station','Updated'], //set to null for field names instead of custom header names
                                                'There are no items to list...');
             dt.load(dataAr);
         }
@@ -108,7 +108,7 @@
                             curow = '<td bgcolor="palegreen">' + c + '</td>';
                         }
                         if (curow.includes(':')) {
-                            curow = '<td bgcolor="black">' + c + '</td>';
+                            curow = '<td bgcolor="palegreen">' + c + '</td>';
                         }
                         if (curow.includes('War')||curow.includes('Election')) {
                             curow = '<td bgcolor="red">' + c + '</td>';
