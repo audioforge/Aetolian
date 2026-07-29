@@ -156,6 +156,7 @@
                             data.sellprice=dicts['sellPrice'];
                             data.stock=dicts['stock'];
                             data.type=dicts['stationType'];
+                            data.updated=dicts['timeStamp']
                             dataAr.push(data);
                         }
                         
@@ -168,8 +169,8 @@
             dataAr.sort((firstItem, secondItem) => firstItem.distance - secondItem.distance);
             
             dt = dynamicTable.config('data-table',
-                                         ['system','station','type','distance','stock','buyprice','demand','sellprice'],
-                                         ['system','station','<a onclick="sortByType()" href="javascript:void(0);">type</a>','<a onclick="sortByDistance()" href="javascript:void(0);">distance</a>','<a onclick="sortByStock()" href="javascript:void(0);">stock</a>','<a onclick="sortByBuy()" href="javascript:void(0);">buyprice</a>','<a onclick="sortByDemand()" href="javascript:void(0);">demand</a>','<a onclick="sortBySell()" href="javascript:void(0);">sellprice</a>'], //set to null for field names instead of custom header names
+                                         ['system','station','type','distance','stock','buyprice','demand','sellprice','updated'],
+                                         ['system','station','<a onclick="sortByType()" href="javascript:void(0);">type</a>','<a onclick="sortByDistance()" href="javascript:void(0);">distance</a>','<a onclick="sortByStock()" href="javascript:void(0);">stock</a>','<a onclick="sortByBuy()" href="javascript:void(0);">buyprice</a>','<a onclick="sortByDemand()" href="javascript:void(0);">demand</a>','<a onclick="sortBySell()" href="javascript:void(0);">sellprice</a>','updated'], //set to null for field names instead of custom header names
                                                'There are no items to list...');
             dt.load(dataAr);
             
