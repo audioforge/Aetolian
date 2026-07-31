@@ -9078,7 +9078,7 @@
 	<key>Bullialdus Gateway_HIP 8894</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>16.262474000000001</real>
+		<real>16.132470999999999</real>
 		<key>starSystem</key>
 		<string>HIP 8894</string>
 		<key>stationFaction</key>
@@ -9122,7 +9122,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260626</string>
+		<string>20260731</string>
 	</dict>
 	<key>Bulychev Beacon_Chebaei</key>
 	<dict>
@@ -14931,7 +14931,7 @@
 	<key>Eggen Hub_Chih Hiner</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>54.689349999999997</real>
+		<real>54.696444999999997</real>
 		<key>starSystem</key>
 		<string>Chih Hiner</string>
 		<key>stationFaction</key>
@@ -14968,7 +14968,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260730</string>
+		<string>20260731</string>
 	</dict>
 	<key>Eisinga Colony_HIP 6807</key>
 	<dict>
@@ -33499,13 +33499,13 @@
 	<key>MacLeod Enterprise_HR 494</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1736.6494929999999</real>
+		<real>1736.17526</real>
 		<key>starSystem</key>
 		<string>HR 494</string>
 		<key>stationFaction</key>
 		<dict>
 			<key>Name</key>
-			<string>ELITE SPACE WINGS</string>
+			<string>Natural HR 494 Law Party</string>
 		</dict>
 		<key>stationName</key>
 		<string>MacLeod Enterprise</string>
@@ -33537,7 +33537,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260615</string>
+		<string>20260731</string>
 	</dict>
 	<key>Mackenzie Relay_Cemiess</key>
 	<dict>
@@ -35133,13 +35133,11 @@
 	<key>Merritt Dock_CD-40 395</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>2516.9338590000002</real>
+		<real>2525.5124110000002</real>
 		<key>starSystem</key>
 		<string>CD-40 395</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>Expansion</string>
 			<key>Name</key>
 			<string>G.O.M. Collective</string>
 		</dict>
@@ -35175,7 +35173,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260720</string>
+		<string>20260731</string>
 	</dict>
 	<key>Merritt Port_LTT 518</key>
 	<dict>
@@ -36876,6 +36874,50 @@
 		<string>Outpost</string>
 		<key>updated</key>
 		<string>20241209</string>
+	</dict>
+	<key>Naboth Terminal_Jemen</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>424.388644</real>
+		<key>starSystem</key>
+		<string>Jemen</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>Jemen Empire Party</string>
+		</dict>
+		<key>stationName</key>
+		<string>Naboth Terminal</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Outpost</string>
+		<key>updated</key>
+		<string>20260731</string>
 	</dict>
 	<key>Naburimannu Orbital_CD-62 136</key>
 	<dict>
@@ -63695,7 +63737,7 @@
 	<key>Tikhonravov City_CD-37 641</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>74.874122</real>
+		<real>74.874543000000003</real>
 		<key>starSystem</key>
 		<string>CD-37 641</string>
 		<key>stationFaction</key>
