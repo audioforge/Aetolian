@@ -472,10 +472,105 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20260731</key>
+	<dict>
+		<key>CD-36 874 Industries</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.056829999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Co-op of CD-36 874</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.063809000000000005</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>HR 706 Emperor's Grace</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.212363</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Imperial Self Defense Force</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.24027899999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>LHS 1391 Group</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.172483</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Lords of CD-36 874</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.103689</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>NLTT 8653 Empire Assembly</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.15054799999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
 		<array>
+			<string>Potriambunn</string>
 			<string>LHS 1391</string>
 			<string>NLTT 8653</string>
 			<string>CD-41 568</string>
@@ -487,15 +582,22 @@
 			<string>LP 941-16 A</string>
 			<string>NLTT 5871</string>
 			<string>CD-37 641</string>
+			<string>LHS 1380 A</string>
+			<string>Atacapa</string>
 			<string>Siddha A</string>
 			<string>LP 940-115</string>
 			<string>Mahei</string>
+			<string>HIP 11131 A</string>
 			<string>Morai A</string>
+			<string>Uzumo</string>
 			<string>Chimechilo A</string>
 			<string>LTT 982</string>
 			<string>CD-40 395 A</string>
 			<string>Kadrusa A</string>
+			<string>HIP 12716 A</string>
+			<string>Devane</string>
 			<string>Khonsa</string>
+			<string>HIP 11433 A</string>
 		</array>
 		<key>StarPos</key>
 		<array>
@@ -516,7 +618,7 @@
 		<key>system</key>
 		<string>CD-36 874</string>
 		<key>updated</key>
-		<string>20260414</string>
+		<string>20260731</string>
 	</dict>
 </dict>
 </plist>
