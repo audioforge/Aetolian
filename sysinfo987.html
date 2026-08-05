@@ -235,7 +235,8 @@
             //const sysString = await response.text();
             
             const locDicts = PlistParser.parse(sysString);
-            //const z = locDicts['Z'];
+            const z = locDicts['Z'];
+            const pop = z['population'];
             //currentCoord = z['StarPos'];
             //console.log(z,system);
             
@@ -300,7 +301,7 @@
                                                'There are no items to list...');
             dt.load(dataAr);
             
-            document.getElementById("showresulthere").innerHTML = '<a href="bgsSearch1.html?' + system + '">Expansion</a>';
+            document.getElementById("showresulthere").innerHTML = '<a href="bgsSearch1.html?' + system + '">Expansion</a><bg>Population: ' + pop + '<br>System: ' + sysString;
             
         }
         
