@@ -472,13 +472,109 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20260805</key>
+	<dict>
+		<key>Ancient Astronauts</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.38329999999999997</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Giltine Network</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.22032199999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Royal Privateers</key>
+		<dict>
+			<key>Active</key>
+			<string>Boom</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.197183</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Boom</string>
+		</dict>
+		<key>Wuru Blue Dynamic Network</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.024145</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Wuru Citizens' Forum</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.047284</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Wuru Empire Pact</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.10161000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Wuru Industry</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.026157</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
 		<array>
+			<string>El Tio</string>
 			<string>Giltine A</string>
 			<string>LTT 135</string>
 			<string>Poponne A</string>
+			<string>Lambda-2 Phoenicis</string>
 			<string>Smethells 173</string>
 			<string>Wongkho</string>
 			<string>CD-51 102</string>
@@ -489,11 +585,13 @@
 			<string>LHS 1110 A</string>
 			<string>Summerland</string>
 			<string>Asphodel</string>
+			<string>LTT 542</string>
 			<string>Tamar</string>
 			<string>CF 464</string>
 			<string>Persephone</string>
 			<string>Mbetatika</string>
 			<string>Hemaskas A</string>
+			<string>Tian</string>
 			<string>Avalon</string>
 			<string>Pemeowa</string>
 			<string>Kui Hsien A</string>
@@ -518,7 +616,7 @@
 		<key>system</key>
 		<string>Wuru A</string>
 		<key>updated</key>
-		<string>20260618</string>
+		<string>20260805</string>
 	</dict>
 </dict>
 </plist>
