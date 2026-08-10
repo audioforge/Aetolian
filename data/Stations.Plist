@@ -5313,6 +5313,47 @@
 		<key>updated</key>
 		<string>20241202</string>
 	</dict>
+	<key>Barr Refinery_Bobadzihozo</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>404.27590900000001</real>
+		<key>starSystem</key>
+		<string>Bobadzihozo</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>Empire Corsairs</string>
+		</dict>
+		<key>stationName</key>
+		<string>Barr Refinery</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>refuel</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Outpost</string>
+		<key>updated</key>
+		<string>20260810</string>
+	</dict>
 	<key>Barry Port_Njordr</key>
 	<dict>
 		<key>DistFromStarLS</key>
@@ -20465,7 +20506,7 @@
 	<key>Gent Vision_CD-41 568</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>2475.5017910000001</real>
+		<real>2476.0653739999998</real>
 		<key>starSystem</key>
 		<string>CD-41 568</string>
 		<key>stationFaction</key>
@@ -20508,7 +20549,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260727</string>
+		<string>20260810</string>
 	</dict>
 	<key>Gentil Platform_HIP 12480</key>
 	<dict>
@@ -32138,13 +32179,13 @@
 	<key>Leckie Port_HR 494</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>5613.5874809999996</real>
+		<real>5613.9633260000001</real>
 		<key>starSystem</key>
 		<string>HR 494</string>
 		<key>stationFaction</key>
 		<dict>
 			<key>FactionState</key>
-			<string>Election</string>
+			<string>Retreat</string>
 			<key>Name</key>
 			<string>ELITE SPACE WINGS</string>
 		</dict>
@@ -32183,7 +32224,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260731</string>
+		<string>20260810</string>
 	</dict>
 	<key>Ledyard Survey_Nyan</key>
 	<dict>
@@ -36000,7 +36041,7 @@
 	<key>Meuron Station_Siddha</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>26.501619999999999</real>
+		<real>26.477689999999999</real>
 		<key>starSystem</key>
 		<string>Siddha</string>
 		<key>stationFaction</key>
@@ -36043,7 +36084,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20260724</string>
+		<string>20260810</string>
 	</dict>
 	<key>Mies van der Rohe's Claim_Mainani</key>
 	<dict>
@@ -47599,7 +47640,7 @@
 	<key>Siddha Legacy_Paiwatec</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>41566.532545000002</real>
+		<real>41575.843531999999</real>
 		<key>starSystem</key>
 		<string>Paiwatec</string>
 		<key>stationFaction</key>
@@ -47637,7 +47678,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260806</string>
+		<string>20260810</string>
 	</dict>
 	<key>Siddha Port_Siddha</key>
 	<dict>
@@ -64924,11 +64965,13 @@
 	<key>Tikhonravov City_CD-37 641</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>74.836903000000007</real>
+		<real>74.891426999999993</real>
 		<key>starSystem</key>
 		<string>CD-37 641</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Election</string>
 			<key>Name</key>
 			<string>CD-37 641 Network</string>
 		</dict>
@@ -64967,7 +65010,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20260802</string>
+		<string>20260810</string>
 	</dict>
 	<key>Tikhonravov Mine_Bolocas</key>
 	<dict>
