@@ -278,6 +278,100 @@
 			<string>War</string>
 		</dict>
 	</dict>
+	<key>20260809</key>
+	<dict>
+		<key>Brotherhood of Nu Kuni</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.01925</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>ELITE SPACE WINGS</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.22999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>G.O.M. Collective</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.16919999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Nu Kuni Empire League</key>
+		<dict>
+			<key>Active</key>
+			<string>CivilWar</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.083080000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>CivilWar</string>
+		</dict>
+		<key>Nu Kuni Jet Life Incorporated</key>
+		<dict>
+			<key>Active</key>
+			<string>CivilWar</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.083080000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>CivilWar</string>
+		</dict>
+		<key>Nu Kuni for Equality</key>
+		<dict>
+			<key>Active</key>
+			<string>InfrastructureFailure</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.010132</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>InfrastructureFailure</string>
+		</dict>
+		<key>Royal Privateers</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.40526800000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
@@ -287,6 +381,7 @@
 			<string>Wongkho</string>
 			<string>Flesk</string>
 			<string>CD-52 187</string>
+			<string>Lambda-2 Phoenicis</string>
 			<string>Persephone</string>
 			<string>Kured A</string>
 			<string>Macu Kuang</string>
@@ -313,7 +408,7 @@
 			<real>17.5625</real>
 		</array>
 		<key>SysFaction</key>
-		<string>ELITE SPACE WINGS</string>
+		<string>Royal Privateers</string>
 		<key>economy</key>
 		<string>Industrial</string>
 		<key>economy2</key>
@@ -325,7 +420,7 @@
 		<key>system</key>
 		<string>Nu Kuni A</string>
 		<key>updated</key>
-		<string>20260804</string>
+		<string>20260809</string>
 	</dict>
 </dict>
 </plist>
