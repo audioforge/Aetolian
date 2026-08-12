@@ -284,10 +284,141 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20260811</key>
+	<dict>
+		<key>Autocracy of HIP 6795</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.164824</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>BFNF Solutions</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.42713600000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>HIP 6795 Blue Organisation</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.01005</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>HIP 6795 Federal Industry</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.055275999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Official HIP 6795 Order</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.094472</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Thule Empire League</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.19597999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>CivilUnrest</string>
+		</dict>
+		<key>Wichaimi Empire Assembly</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.052261000000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
-		<array/>
+		<array>
+			<string>Wichaimi A</string>
+			<string>Kholu</string>
+			<string>Macat</string>
+			<string>Pastara A</string>
+			<string>Byeri A</string>
+			<string>Rabatha</string>
+			<string>Gliese 76 A</string>
+			<string>Gliese 58 A</string>
+			<string>HIP 7817 A</string>
+			<string>Karelitakas</string>
+			<string>Plentauri A</string>
+			<string>Ausermoduro A</string>
+			<string>Lwali</string>
+			<string>HIP 7687 A</string>
+			<string>Warlaworka A</string>
+			<string>Targamu A</string>
+			<string>Ten Samba</string>
+			<string>Xi Wangar</string>
+			<string>Namba A</string>
+			<string>Kalvaitu A</string>
+			<string>Ibormbu A</string>
+			<string>HIP 9141 A</string>
+			<string>HIP 9769 A</string>
+			<string>Shokwus A</string>
+			<string>HIP 6551</string>
+			<string>Ditae</string>
+			<string>Majhwala A</string>
+			<string>HIP 8830 A</string>
+			<string>Tepi</string>
+			<string>Zosian Tse</string>
+			<string>Gliese 9043 A</string>
+			<string>Sui Xianoan A</string>
+			<string>Tlakakaltan A</string>
+			<string>Minjango</string>
+			<string>Lu Hsiensei A</string>
+			<string>Bolowari A</string>
+		</array>
 		<key>StarPos</key>
 		<array>
 			<real>9.34375</real>
@@ -307,7 +438,7 @@
 		<key>system</key>
 		<string>HIP 6795 A</string>
 		<key>updated</key>
-		<string>20250114</string>
+		<string>20260811</string>
 	</dict>
 </dict>
 </plist>
