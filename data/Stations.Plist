@@ -1336,7 +1336,7 @@
 	<key>Albitzky Outpost_Laksmi</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>360.87310000000002</real>
+		<real>360.91726199999999</real>
 		<key>starSystem</key>
 		<string>Laksmi</string>
 		<key>stationFaction</key>
@@ -1373,7 +1373,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260730</string>
+		<string>20260814</string>
 	</dict>
 	<key>Albitzky Platform_HIP 6847</key>
 	<dict>
@@ -23466,7 +23466,7 @@
 	<key>Hansen Mines_Ao Kicho</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>117.605812</real>
+		<real>117.49575</real>
 		<key>starSystem</key>
 		<string>Ao Kicho</string>
 		<key>stationFaction</key>
@@ -23505,7 +23505,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260423</string>
+		<string>20260814</string>
 	</dict>
 	<key>Hansen Platform_Atacapa</key>
 	<dict>
@@ -36786,15 +36786,13 @@
 	<key>Mobius Enterprise_Bayah</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>234.94917699999999</real>
+		<real>234.96962600000001</real>
 		<key>starSystem</key>
 		<string>Bayah</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>Drought</string>
 			<key>Name</key>
-			<string>Bayah Energy Holdings</string>
+			<string>Aetolians</string>
 		</dict>
 		<key>stationName</key>
 		<string>Mobius Enterprise</string>
@@ -36802,6 +36800,7 @@
 		<array>
 			<string>dock</string>
 			<string>autodock</string>
+			<string>blackmarket</string>
 			<string>commodities</string>
 			<string>contacts</string>
 			<string>exploration</string>
@@ -36831,7 +36830,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260731</string>
+		<string>20260814</string>
 	</dict>
 	<key>Montanari Vision_Kehpera</key>
 	<dict>
@@ -67726,13 +67725,13 @@
 	<key>Wallis Vision_Bayah</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>414.75899600000002</real>
+		<real>414.78685899999999</real>
 		<key>starSystem</key>
 		<string>Bayah</string>
 		<key>stationFaction</key>
 		<dict>
 			<key>Name</key>
-			<string>Brazilian League of Pilots</string>
+			<string>Bayah Energy Holdings</string>
 		</dict>
 		<key>stationName</key>
 		<string>Wallis Vision</string>
@@ -67740,7 +67739,6 @@
 		<array>
 			<string>dock</string>
 			<string>autodock</string>
-			<string>blackmarket</string>
 			<string>commodities</string>
 			<string>contacts</string>
 			<string>exploration</string>
@@ -67765,7 +67763,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20250124</string>
+		<string>20260814</string>
 	</dict>
 	<key>Walotsky Terminal_Arugh</key>
 	<dict>
