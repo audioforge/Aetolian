@@ -2307,13 +2307,13 @@
 	<key>Anastase Perrotin Mines_Waventeno</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>606.30329500000005</real>
+		<real>605.83320700000002</real>
 		<key>starSystem</key>
 		<string>Waventeno</string>
 		<key>stationFaction</key>
 		<dict>
 			<key>Name</key>
-			<string>Mandioka Squad</string>
+			<string>Waventeno Jet Raiders</string>
 		</dict>
 		<key>stationName</key>
 		<string>Anastase Perrotin Mines</string>
@@ -2321,6 +2321,7 @@
 		<array>
 			<string>dock</string>
 			<string>autodock</string>
+			<string>blackmarket</string>
 			<string>commodities</string>
 			<string>contacts</string>
 			<string>exploration</string>
@@ -2336,7 +2337,6 @@
 			<string>flightcontroller</string>
 			<string>stationoperations</string>
 			<string>powerplay</string>
-			<string>searchrescue</string>
 			<string>stationMenu</string>
 			<string>socialspace</string>
 			<string>bartender</string>
@@ -2348,7 +2348,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20241105</string>
+		<string>20260814</string>
 	</dict>
 	<key>Anderson Colony_Othel</key>
 	<dict>
@@ -5445,7 +5445,7 @@
 	<key>Bartini Enterprise_CF 464</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>522.95985299999995</real>
+		<real>522.87850500000002</real>
 		<key>starSystem</key>
 		<string>CF 464</string>
 		<key>stationFaction</key>
@@ -5488,7 +5488,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260809</string>
+		<string>20260814</string>
 	</dict>
 	<key>Bauman Port_Kaukhe</key>
 	<dict>
@@ -25582,7 +25582,7 @@
 	<key>Honda Dock_Thule</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>904.98693700000001</real>
+		<real>905.05228199999999</real>
 		<key>starSystem</key>
 		<string>Thule</string>
 		<key>stationFaction</key>
@@ -25621,7 +25621,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260618</string>
+		<string>20260814</string>
 	</dict>
 	<key>Hooker Gateway_HIP 10012</key>
 	<dict>
@@ -27762,11 +27762,13 @@
 	<key>Jones City_Giabaing</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>22.423769</real>
+		<real>22.512414</real>
 		<key>starSystem</key>
 		<string>Giabaing</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>War</string>
 			<key>Name</key>
 			<string>ELITE SPACE WINGS</string>
 		</dict>
@@ -28034,7 +28036,7 @@
 	<key>Jordan Orbital_HR 494</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>3227.3574149999999</real>
+		<real>3227.315975</real>
 		<key>starSystem</key>
 		<string>HR 494</string>
 		<key>stationFaction</key>
@@ -28077,7 +28079,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260801</string>
+		<string>20260814</string>
 	</dict>
 	<key>Joseph Delambre Hub_HIP 22006</key>
 	<dict>
@@ -28729,7 +28731,7 @@
 	<key>Kaufmanis Port_Eotienses</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>56.019832999999998</real>
+		<real>56.250849000000002</real>
 		<key>starSystem</key>
 		<string>Eotienses</string>
 		<key>stationFaction</key>
@@ -28772,7 +28774,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20260719</string>
+		<string>20260814</string>
 	</dict>
 	<key>Keeler Port_Yaso Kondi</key>
 	<dict>
@@ -29710,13 +29712,11 @@
 	<key>Kobayashi Vision_Bratabha</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>152.553292</real>
+		<real>152.57219699999999</real>
 		<key>starSystem</key>
 		<string>Bratabha</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>War</string>
 			<key>Name</key>
 			<string>The Independent Light Wheel</string>
 		</dict>
@@ -29755,7 +29755,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260812</string>
+		<string>20260814</string>
 	</dict>
 	<key>Kohoutek Mines_Jemede</key>
 	<dict>
@@ -35856,7 +35856,7 @@
 	<key>Melotte Hub_Zelano</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>3281.8532009999999</real>
+		<real>3280.3620209999999</real>
 		<key>starSystem</key>
 		<string>Zelano</string>
 		<key>stationFaction</key>
@@ -38763,7 +38763,7 @@
 	<key>Nijland Station_HIP 1885</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1240.065014</real>
+		<real>1234.238638</real>
 		<key>starSystem</key>
 		<string>HIP 1885</string>
 		<key>stationFaction</key>
@@ -38807,7 +38807,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260809</string>
+		<string>20260814</string>
 	</dict>
 	<key>Niven Dock_Xinca</key>
 	<dict>
@@ -47821,7 +47821,7 @@
 	<key>Siddha Legacy_Paiwatec</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>41597.664045999998</real>
+		<real>41599.678117000003</real>
 		<key>starSystem</key>
 		<string>Paiwatec</string>
 		<key>stationFaction</key>
@@ -50106,7 +50106,7 @@
 	<key>Svahn's Trading Station_Delta Phoenicis</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>3742.6878299999998</real>
+		<real>3742.5520270000002</real>
 		<key>starSystem</key>
 		<string>Delta Phoenicis</string>
 		<key>stationFaction</key>
@@ -50149,7 +50149,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260805</string>
+		<string>20260814</string>
 	</dict>
 	<key>Sverdrup Arena_Pi Sculptoris</key>
 	<dict>
@@ -50249,7 +50249,7 @@
 	<key>Sy Gateway_Pequen</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>49.284720999999998</real>
+		<real>49.332991999999997</real>
 		<key>starSystem</key>
 		<string>Pequen</string>
 		<key>stationFaction</key>
@@ -50292,7 +50292,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260812</string>
+		<string>20260814</string>
 	</dict>
 	<key>Syromyatnikov Horizons_Nu</key>
 	<dict>
@@ -69743,11 +69743,13 @@
 	<key>Xin Hub_Lombi</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>519.13076999999998</real>
+		<real>519.119192</real>
 		<key>starSystem</key>
 		<string>Lombi</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Election</string>
 			<key>Name</key>
 			<string>ELITE SPACE WINGS</string>
 		</dict>
@@ -69787,7 +69789,7 @@
 		<key>stationType</key>
 		<string>Ocellus</string>
 		<key>updated</key>
-		<string>20260809</string>
+		<string>20260814</string>
 	</dict>
 	<key>Xuesen Estate_CD-26 369</key>
 	<dict>
