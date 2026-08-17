@@ -27,6 +27,10 @@
     </head>
     
     <body><h2>Module Search</h2>
+   int_ vs hpt_: Internal Module vs Hardpoint.<br>
+   Class = Rating: class1 = E-rated, class2 = D-rated, class3 = C-rated, class4 = B-rated, and class5 = A-rated.<br>
+   Size = Class: Module Class size (1 through 8).<p>
+    
    Select Module:<br>
 
     <select id="color"></select>
@@ -38,6 +42,7 @@
         document.getElementById("color").onchange = changeListener;
         exampleFetch();
         var modDicts = {};
+                
         async function exampleFetch() {
           //https://aetolian.info/data/MarketCom.plist
           const response = await fetch('https://aetolian.info/data/ModList.plist');
@@ -50,7 +55,8 @@
             console.error('Promise resolved but HTTP status failed');
           }
             modDicts = PlistParser.parse(sysString);
-            const modules = Object.keys(modDicts);
+            const modules_internal = Object.keys(modDicts);
+            
             var sel = document.getElementById('color');
             modules.forEach((c, value/*This is the index of this loop*/) => sel.add(new Option(c, value)));
 
@@ -68,10 +74,10 @@
                 
                 for (const [stationKey, priceValue] of Object.entries(value)) {
                     
-                        var data = {};
-                data.system = key;
-                        data.station=stationKey;
-                        data.price=priceValue;
+                    var data = {};
+                    data.system = key;
+                    data.station=stationKey;
+                    data.price=priceValue;
                     dataAr.push(data);
                 }
                 
