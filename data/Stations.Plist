@@ -5445,11 +5445,13 @@
 	<key>Bartini Enterprise_CF 464</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>522.87850500000002</real>
+		<real>522.73847499999999</real>
 		<key>starSystem</key>
 		<string>CF 464</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Expansion</string>
 			<key>Name</key>
 			<string>G.O.M. Collective</string>
 		</dict>
@@ -5488,7 +5490,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260814</string>
+		<string>20260817</string>
 	</dict>
 	<key>Bauman Port_Kaukhe</key>
 	<dict>
@@ -6383,7 +6385,7 @@
 	<key>Biruni Gateway_Agastariya</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1948.1546679999999</real>
+		<real>1948.561357</real>
 		<key>starSystem</key>
 		<string>Agastariya</string>
 		<key>stationFaction</key>
@@ -6426,7 +6428,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260816</string>
+		<string>20260817</string>
 	</dict>
 	<key>Blaauw Orbital_Siddha</key>
 	<dict>
@@ -9740,6 +9742,52 @@
 		<string>SurfaceStation</string>
 		<key>updated</key>
 		<string>20250527</string>
+	</dict>
+	<key>Campbell Point_Rugien</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>119.29959100000001</real>
+		<key>starSystem</key>
+		<string>Rugien</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>Pequen Empire League</string>
+		</dict>
+		<key>stationName</key>
+		<string>Campbell Point</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>shop</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>CraterOutpost</string>
+		<key>updated</key>
+		<string>20260817</string>
 	</dict>
 	<key>Campbell Vision_HR 394</key>
 	<dict>
@@ -25271,7 +25319,7 @@
 	<key>Hickam Holdings_Degardhi</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>3249.774007</real>
+		<real>3249.7335210000001</real>
 		<key>starSystem</key>
 		<string>Degardhi</string>
 		<key>stationFaction</key>
@@ -29935,7 +29983,7 @@
 	<key>Kobayashi Vision_Bratabha</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>152.555881</real>
+		<real>152.54262600000001</real>
 		<key>starSystem</key>
 		<string>Bratabha</string>
 		<key>stationFaction</key>
@@ -52497,7 +52545,7 @@
 		<key>stationType</key>
 		<string>FleetCarrier</string>
 		<key>updated</key>
-		<string>20260814</string>
+		<string>20260817</string>
 	</dict>
 	<key>THH-LHG_Brigual</key>
 	<dict>
@@ -64848,6 +64896,55 @@
 		<string>Coriolis</string>
 		<key>updated</key>
 		<string>20250717</string>
+	</dict>
+	<key>Terry Hub_Bembo</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>1622.9973769999999</real>
+		<key>starSystem</key>
+		<string>Bembo</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>Bembo Dragons</string>
+		</dict>
+		<key>stationName</key>
+		<string>Terry Hub</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>blackmarket</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>shipyard</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>facilitator</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>stationMenu</string>
+			<string>shop</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>CraterOutpost</string>
+		<key>updated</key>
+		<string>20260817</string>
 	</dict>
 	<key>Terry Survey_Meiri</key>
 	<dict>
