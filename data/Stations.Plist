@@ -5445,13 +5445,11 @@
 	<key>Bartini Enterprise_CF 464</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>522.74050699999998</real>
+		<real>522.83795999999995</real>
 		<key>starSystem</key>
 		<string>CF 464</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>Expansion</string>
 			<key>Name</key>
 			<string>G.O.M. Collective</string>
 		</dict>
@@ -5490,7 +5488,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260820</string>
+		<string>20260822</string>
 	</dict>
 	<key>Bauman Port_Kaukhe</key>
 	<dict>
@@ -21551,7 +21549,7 @@
 	<key>Godel Dock_Quivira</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>23.800742</real>
+		<real>23.621452000000001</real>
 		<key>starSystem</key>
 		<string>Quivira</string>
 		<key>stationFaction</key>
@@ -21595,7 +21593,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260805</string>
+		<string>20260822</string>
 	</dict>
 	<key>Godel Plant_Noatin</key>
 	<dict>
@@ -27985,11 +27983,13 @@
 	<key>John Irving Station_Asphodel</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>194.45051000000001</real>
+		<real>194.778469</real>
 		<key>starSystem</key>
 		<string>Asphodel</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Blight</string>
 			<key>Name</key>
 			<string>Eotienses Citizens' Forum</string>
 		</dict>
@@ -28028,7 +28028,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20260806</string>
+		<string>20260822</string>
 	</dict>
 	<key>Johnson Terminal_Zang Tangma</key>
 	<dict>
@@ -28356,7 +28356,7 @@
 	<key>Jones Orbital_Yaso Kondi</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>151.59048200000001</real>
+		<real>151.62376499999999</real>
 		<key>starSystem</key>
 		<string>Yaso Kondi</string>
 		<key>stationFaction</key>
@@ -28395,7 +28395,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260514</string>
+		<string>20260821</string>
 	</dict>
 	<key>Jones Station_Yab Yum</key>
 	<dict>
@@ -30167,7 +30167,7 @@
 	<key>Kobayashi Vision_Bratabha</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>152.55633800000001</real>
+		<real>152.550489</real>
 		<key>starSystem</key>
 		<string>Bratabha</string>
 		<key>stationFaction</key>
@@ -30210,7 +30210,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260819</string>
+		<string>20260820</string>
 	</dict>
 	<key>Kohoutek Mines_Jemede</key>
 	<dict>
@@ -31795,7 +31795,7 @@
 	<key>Lambert Ring_Reshero</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>295.84502700000002</real>
+		<real>294.25119599999999</real>
 		<key>starSystem</key>
 		<string>Reshero</string>
 		<key>stationFaction</key>
@@ -31838,7 +31838,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260820</string>
+		<string>20260821</string>
 	</dict>
 	<key>Laming Orbital_HR 706</key>
 	<dict>
@@ -41098,11 +41098,13 @@
 	<key>Ottley's Landing_Cockaigne</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>223.54620399999999</real>
+		<real>224.24167</real>
 		<key>starSystem</key>
 		<string>Cockaigne</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>War</string>
 			<key>Name</key>
 			<string>ELITE SPACE WINGS</string>
 		</dict>
@@ -41141,7 +41143,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260810</string>
+		<string>20260822</string>
 	</dict>
 	<key>Otus Survey_Kheret</key>
 	<dict>
@@ -46348,13 +46350,11 @@
 	<key>Sandage Terminal_Delta Phoenicis</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>2145.652865</real>
+		<real>2145.7103109999998</real>
 		<key>starSystem</key>
 		<string>Delta Phoenicis</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>PirateAttack</string>
 			<key>Name</key>
 			<string>ELITE SPACE WINGS</string>
 		</dict>
@@ -46391,7 +46391,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260819</string>
+		<string>20260822</string>
 	</dict>
 	<key>Sansebar_Cibola</key>
 	<dict>
@@ -48272,7 +48272,7 @@
 	<key>Short Hop_Thule</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>515.07099400000004</real>
+		<real>514.99734599999999</real>
 		<key>starSystem</key>
 		<string>Thule</string>
 		<key>stationFaction</key>
@@ -48315,7 +48315,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260819</string>
+		<string>20260821</string>
 	</dict>
 	<key>Shoujing Hub_LTT 874</key>
 	<dict>
@@ -53797,7 +53797,7 @@
 	<key>THH-LHG_CF 464</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>522.81687899999997</real>
+		<real>522.81622300000004</real>
 		<key>starSystem</key>
 		<string>CF 464</string>
 		<key>stationFaction</key>
@@ -67422,7 +67422,7 @@
 	<key>Valz Dock_Yaso Kondi</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>350.97328700000003</real>
+		<real>354.55483900000002</real>
 		<key>starSystem</key>
 		<string>Yaso Kondi</string>
 		<key>stationFaction</key>
@@ -67462,7 +67462,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20241222</string>
+		<string>20260822</string>
 	</dict>
 	<key>Valz Installation_Othel</key>
 	<dict>
@@ -70606,13 +70606,11 @@
 	<key>Xin Hub_Lombi</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>519.24037799999996</real>
+		<real>519.48600399999998</real>
 		<key>starSystem</key>
 		<string>Lombi</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>Expansion</string>
 			<key>Name</key>
 			<string>G.O.M. Collective</string>
 		</dict>
@@ -70652,7 +70650,7 @@
 		<key>stationType</key>
 		<string>Ocellus</string>
 		<key>updated</key>
-		<string>20260818</string>
+		<string>20260822</string>
 	</dict>
 	<key>Xuesen Estate_CD-26 369</key>
 	<dict>
