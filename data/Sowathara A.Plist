@@ -2,6 +2,100 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>20260617</key>
+	<dict>
+		<key>Akualanu United &amp; Co</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.055</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Empire Corsairs</key>
+		<dict>
+			<key>Active</key>
+			<string>War</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.36899999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>War</string>
+		</dict>
+		<key>Silver Hunter Order</key>
+		<dict>
+			<key>Active</key>
+			<string>War</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.36899999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>War</string>
+		</dict>
+		<key>Sowathara Citizens' Forum</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.034000000000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Sowathara Group</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.040000000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Sowathara Patron's Principles</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.065000000000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Sowathara United Ltd</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.068000000000000005</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>20260619</key>
 	<dict>
 		<key>Akualanu United &amp; Co</key>
@@ -100,13 +194,19 @@
 	<dict>
 		<key>ExpTarget</key>
 		<array>
+			<string>Bobadzihozo A</string>
+			<string>Phi Eridani A</string>
 			<string>Taevaisa</string>
+			<string>Duronese A</string>
+			<string>Sibil</string>
 			<string>Meliontit</string>
 			<string>Cibola</string>
+			<string>Liu Di</string>
 			<string>Urcia</string>
 			<string>Zelacanto A</string>
 			<string>Zvaithhogg</string>
 			<string>LTT 874</string>
+			<string>CD-52 557</string>
 			<string>Akualanu A</string>
 			<string>Lombi A</string>
 			<string>Cockaigne</string>
@@ -131,7 +231,7 @@
 		<key>system</key>
 		<string>Sowathara A</string>
 		<key>updated</key>
-		<string>20260619</string>
+		<string>20260617</string>
 	</dict>
 </dict>
 </plist>

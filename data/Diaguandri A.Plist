@@ -96,6 +96,100 @@
 			<string>CivilLiberty</string>
 		</dict>
 	</dict>
+	<key>20260514</key>
+	<dict>
+		<key>Balante Inc</key>
+		<dict>
+			<key>Active</key>
+			<string>Expansion</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.62753000000000003</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Expansion</string>
+		</dict>
+		<key>Cartel of Diaguandri</key>
+		<dict>
+			<key>Active</key>
+			<string>InfrastructureFailure</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.015181999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>InfrastructureFailure</string>
+		</dict>
+		<key>Diaguandri Interstellar</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.044533999999999997</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>EXO</key>
+		<dict>
+			<key>Active</key>
+			<string>Expansion</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.13967599999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Expansion</string>
+		</dict>
+		<key>Natural Diaguandri Regulatory State</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.051618999999999998</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Revolutionary Party of Diaguandri</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.093117000000000005</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>The Brotherhood of the Dark Circle</key>
+		<dict>
+			<key>Active</key>
+			<string>Famine</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.028340000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Famine</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
@@ -109,7 +203,7 @@
 			<real>-103.25</real>
 		</array>
 		<key>SysFaction</key>
-		<string>EXO</string>
+		<string>Balante Inc</string>
 		<key>economy</key>
 		<string>High Tech</string>
 		<key>economy2</key>
@@ -121,7 +215,7 @@
 		<key>system</key>
 		<string>Diaguandri A</string>
 		<key>updated</key>
-		<string>20250526</string>
+		<string>20260514</string>
 	</dict>
 </dict>
 </plist>
