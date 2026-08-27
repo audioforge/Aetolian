@@ -244,7 +244,13 @@
                   const sysString = await response.text();
                   const targetDicts = PlistParser.parse(sysString);
                   var z = targetDicts['Z'];
-                  var updated = z['updated'];
+                  
+                  const maxKey = Math.max(...Object.keys(targetDicts));
+                  const latestSysInfo = { [maxKey]: dictionary[maxKey] };
+
+                  console.log(latestSysInfo);
+                  
+                  var updated = maxKey; //z['updated'];
                   var factionInfo = targetDicts[updated];
                   var sysFact = z['SysFaction'];
                   
@@ -272,15 +278,24 @@
                         count++;
                 }                
                 data['count'] = count;
-                
-                
+                // highest influence
+                var largest = 0;
+                 for (const [key, value] of Object.entries(factionInfo)) {
+                    // get highest inf
+                      var inf = value['Influence'];
+                      if (inf > largest) {
+                          largest = inf;
+                          sysFact = key;
+                      }
+                    
+                }           
                 
                 var popu = z['population'];
                 data['population'] = popu;
                 data['updated'] = updated;
-                var sysFacDicts = factionInfo[sysFact];
+                //var sysFacDicts = factionInfo[sysFact];
                 console.log (sysFacDicts);
-                var inf = (sysFacDicts['Influence']*100).toFixed(1);
+                var inf = (largest*100).toFixed(1);
                 smallest = (smallest*100).toFixed(1);
                 data.main = sysFact + ': ' + inf; // + ' (' + lowestFac + ': ' + smallest + ')';
                 data.lowest = smallest + ' (' + lowestFac + ')';
