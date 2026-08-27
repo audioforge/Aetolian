@@ -2,6 +2,74 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>20260320</key>
+	<dict>
+		<key>G.O.M. Collective</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.36690600000000001</real>
+			<key>Pending</key>
+			<string>Expansion - 0</string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Pemeowa Blue Hand Gang</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.023637999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Pemeowa Confederacy</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.059609000000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Pemeowa Netcoms Exchange</key>
+		<dict>
+			<key>Active</key>
+			<string>InfrastructureFailure</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.039053999999999998</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>InfrastructureFailure</string>
+		</dict>
+		<key>Siddha Vision PLC</key>
+		<dict>
+			<key>Active</key>
+			<string>Boom</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.510791</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Boom</string>
+		</dict>
+	</dict>
 	<key>20260321</key>
 	<dict>
 		<key>ELITE SPACE WINGS</key>
@@ -158,6 +226,87 @@
 			<string>Happy</string>
 			<key>Influence</key>
 			<real>0.47672100000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Boom</string>
+		</dict>
+	</dict>
+	<key>20260323</key>
+	<dict>
+		<key>ELITE SPACE WINGS</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.087486999999999995</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>G.O.M. Collective</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.31332700000000002</real>
+			<key>Pending</key>
+			<string>Expansion - 0</string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Pemeowa Blue Hand Gang</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.019328999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Pemeowa Confederacy</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.050865</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Pemeowa Netcoms Exchange</key>
+		<dict>
+			<key>Active</key>
+			<string>CivilUnrest</string>
+			<key>Happiness</key>
+			<string>Discontented</string>
+			<key>Influence</key>
+			<real>0.010173</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>CivilUnrest</string>
+		</dict>
+		<key>Siddha Vision PLC</key>
+		<dict>
+			<key>Active</key>
+			<string>Boom</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.51881999999999995</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -738,7 +887,7 @@
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
-			<string>Election</string>
+			<string>None</string>
 		</dict>
 		<key>G.O.M. Collective</key>
 		<dict>
@@ -1435,7 +1584,7 @@
 		<key>system</key>
 		<string>Pemeowa</string>
 		<key>updated</key>
-		<string>20260414</string>
+		<string>20260405</string>
 	</dict>
 </dict>
 </plist>

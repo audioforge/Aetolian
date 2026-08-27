@@ -466,23 +466,123 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20260317</key>
+	<dict>
+		<key>Conservatives of HIP 38129</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.056943000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>HIP 38129 Gold General Systems</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.053946000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>HIP 38129 Jet Family</key>
+		<dict>
+			<key>Active</key>
+			<string>War</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.073926000000000006</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>War</string>
+		</dict>
+		<key>HIP 38129 Life Systems</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.112887</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>HIP 38129 Republic Party</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.28171800000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Klikumad Confederation</key>
+		<dict>
+			<key>Active</key>
+			<string>War</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.073926000000000006</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>War</string>
+		</dict>
+		<key>Ryders of the Void</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.34665299999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Boom</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
 		<array>
 			<string>Shos</string>
 			<string>HR 3007</string>
+			<string>Kairi A</string>
 			<string>Djanharu</string>
 			<string>Vaccae</string>
 			<string>HIP 39470</string>
+			<string>Hosus A</string>
 			<string>Lie Zhi</string>
 			<string>Xinca</string>
+			<string>HIP 36165 A</string>
+			<string>Inheretii A</string>
 			<string>Deciat</string>
+			<string>Dyaushibi A</string>
 			<string>Shaplintin</string>
 			<string>Taueret</string>
 			<string>HIP 41529</string>
 			<string>Caeritis</string>
 			<string>Prthi</string>
+			<string>Deuringas A</string>
 			<string>Nialfi</string>
 			<string>Arawan</string>
 		</array>
@@ -493,7 +593,7 @@
 			<real>-38.3125</real>
 		</array>
 		<key>SysFaction</key>
-		<string>HIP 38129 Republic Party</string>
+		<string>Ryders of the Void</string>
 		<key>economy</key>
 		<string>Industrial</string>
 		<key>economy2</key>
@@ -505,7 +605,7 @@
 		<key>system</key>
 		<string>HIP 38129 A</string>
 		<key>updated</key>
-		<string>20250226</string>
+		<string>20260317</string>
 	</dict>
 </dict>
 </plist>
