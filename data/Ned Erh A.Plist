@@ -836,11 +836,106 @@
 			<string>Election</string>
 		</dict>
 	</dict>
+	<key>20260616</key>
+	<dict>
+		<key>G.O.M. Collective</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.295929</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Monarchy of Ned Erh</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.076465000000000005</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Ned Erh PLC</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.186693</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Ned Erh Silver State Group</key>
+		<dict>
+			<key>Active</key>
+			<string>CivilWar</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.12909599999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>CivilWar</string>
+		</dict>
+		<key>Syndicate of Ned Erh</key>
+		<dict>
+			<key>Active</key>
+			<string>CivilWar</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.12909599999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>CivilWar</string>
+		</dict>
+		<key>UICLI</key>
+		<dict>
+			<key>Active</key>
+			<string>Election</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.091359999999999997</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Election</string>
+		</dict>
+		<key>United Ned Erh Confederation</key>
+		<dict>
+			<key>Active</key>
+			<string>Election</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.091359999999999997</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Election</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
 		<array>
 			<string>BPM 590</string>
+			<string>CD-26 369</string>
 			<string>HDS 123</string>
 			<string>Utgaroar</string>
 			<string>Pemeowa</string>
@@ -849,12 +944,16 @@
 			<string>Khruvandji A</string>
 			<string>Pyemmairre A</string>
 			<string>Tamar</string>
+			<string>Cayura A</string>
+			<string>Chao Wu A</string>
 			<string>HIP 7018</string>
 			<string>Siddha A</string>
 			<string>CD-25 636</string>
+			<string>Kenna</string>
 			<string>Othel</string>
 			<string>Marowalan</string>
 			<string>Kokowar</string>
+			<string>Gulidjan</string>
 			<string>Ininohima</string>
 			<string>HIP 3142 A</string>
 			<string>Kured A</string>
@@ -881,7 +980,7 @@
 		<key>system</key>
 		<string>Ned Erh A</string>
 		<key>updated</key>
-		<string>20260414</string>
+		<string>20260616</string>
 	</dict>
 </dict>
 </plist>

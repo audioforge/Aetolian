@@ -2,94 +2,94 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>20260514</key>
+	<key>20260617</key>
 	<dict>
-		<key>Coffin Dodgers Inc.</key>
+		<key>Canonn</key>
+		<dict>
+			<key>Active</key>
+			<string>Expansion</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.63825600000000005</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Expansion</string>
+		</dict>
+		<key>Independent Kongi League</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.12130199999999999</real>
+			<real>0.103072</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>HIP 14031 Brotherhood</key>
+		<key>Independent Suhte Labour Union</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.042405999999999999</real>
+			<real>0.015857</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>HIP 14031 Commodities</key>
+		<key>League of Goplatrugba</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.055226999999999998</real>
+			<real>0.083251000000000006</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>HIP 14031 Emperor's Grace</key>
+		<key>Suhte Blue Posse</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.081853999999999996</real>
+			<real>0.0099109999999999997</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>Official HIP 14031 Justice Party</key>
+		<key>Suhte Life Exchange</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.045365000000000003</real>
+			<real>0.072348999999999997</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
-		<key>The Independent Light Wheel</key>
+		<key>Suhte Order</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.61143999999999998</real>
-			<key>Pending</key>
-			<string></string>
-			<key>State</key>
-			<string>None</string>
-		</dict>
-		<key>Workers of HIP 14031 Labour</key>
-		<dict>
-			<key>Active</key>
-			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
-			<key>Influence</key>
-			<real>0.042405999999999999</real>
+			<real>0.077303999999999998</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -100,40 +100,28 @@
 	<dict>
 		<key>ExpTarget</key>
 		<array>
-			<string>Thari</string>
-			<string>HR 780 A</string>
-			<string>Nyororor</string>
-			<string>Ya'Nomamo</string>
-			<string>Pequen A</string>
-			<string>Holva A</string>
-			<string>Acamar A</string>
-			<string>HIP 11205</string>
-			<string>Giabaing A</string>
-			<string>Rugien A</string>
-			<string>Shonso A</string>
-			<string>Bratabha A</string>
-			<string>Salaallang A</string>
+			<string>Khun</string>
 		</array>
 		<key>StarPos</key>
 		<array>
-			<real>74.21875</real>
-			<real>-156.46875</real>
-			<real>-45.8125</real>
+			<real>-168.90625</real>
+			<real>27.375</real>
+			<real>-55.375</real>
 		</array>
 		<key>SysFaction</key>
-		<string>The Independent Light Wheel</string>
+		<string>Canonn</string>
 		<key>economy</key>
-		<string>High Tech</string>
+		<string>Extraction</string>
 		<key>economy2</key>
-		<string>Refinery</string>
+		<string>Industrial</string>
 		<key>population</key>
-		<integer>14861579</integer>
+		<integer>3256854</integer>
 		<key>security</key>
 		<string>High Security</string>
 		<key>system</key>
-		<string>HIP 14031</string>
+		<string>Suhte A</string>
 		<key>updated</key>
-		<string>20260514</string>
+		<string>20260617</string>
 	</dict>
 </dict>
 </plist>
