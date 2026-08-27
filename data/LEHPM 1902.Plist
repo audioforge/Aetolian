@@ -767,12 +767,18 @@
 			<key>Pending</key>
 			<string>War - 0</string>
 			<key>State</key>
-			<string>Election</string>
+			<string>Retreat</string>
 		</dict>
 		<key>East India Company</key>
 		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
 			<key>Influence</key>
 			<real>0.386521</real>
+			<key>Pending</key>
+			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
@@ -1961,7 +1967,7 @@
 		<key>system</key>
 		<string>LEHPM 1902</string>
 		<key>updated</key>
-		<string>20260506</string>
+		<string>20260414</string>
 	</dict>
 </dict>
 </plist>
