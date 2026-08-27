@@ -2,6 +2,100 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>20260805</key>
+	<dict>
+		<key>Bobadzihozo Citizens' Forum</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.15976299999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Bobadzihozo Group</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.063116000000000005</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Bobadzihozo Purple General PLC</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.047336999999999997</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Bobadzihozo Silver Brothers</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.010848</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Duronese Silver Netcoms Corp</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.129191</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Empire Corsairs</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.54635100000000003</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Union of Bobadzihozo Revolutionary Party</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.043393000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>20260810</key>
 	<dict>
 		<key>Bobadzihozo Citizens' Forum</key>
@@ -100,12 +194,14 @@
 	<dict>
 		<key>ExpTarget</key>
 		<array>
+			<string>Duronese A</string>
 			<string>Sowathara A</string>
 			<string>Urcia</string>
 			<string>Cibola</string>
 			<string>Meliontit</string>
 			<string>Phi Eridani A</string>
 			<string>Liu Di</string>
+			<string>Miquitagat</string>
 			<string>Sibil</string>
 			<string>Zelacanto A</string>
 			<string>Lombi A</string>
@@ -139,7 +235,7 @@
 		<key>system</key>
 		<string>Bobadzihozo A</string>
 		<key>updated</key>
-		<string>20260810</string>
+		<string>20260805</string>
 	</dict>
 </dict>
 </plist>
