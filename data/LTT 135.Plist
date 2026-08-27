@@ -190,19 +190,108 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20260806</key>
+	<dict>
+		<key>Hyperion Intelligence Agency</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.15407899999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>LTT 135 Emperor's Grace</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.12588099999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>LTT 135 Empire Consulate</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.041288999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>LTT 135 Limited</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.091641</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>LTT 135 PLC</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.56193400000000004</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Workers of LTT 135 Free</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.025176</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
 		<array>
+			<string>Lambda-2 Phoenicis</string>
 			<string>Wuru A</string>
+			<string>LHS 1071</string>
+			<string>El Tio</string>
 			<string>Dharasir A</string>
 			<string>Wongkho</string>
 			<string>Agastariya A</string>
+			<string>HIP 1885 A</string>
 			<string>Nu Kuni A</string>
+			<string>Mundjiga A</string>
 			<string>BV Phoenicis</string>
 			<string>LHS 1097</string>
 			<string>Giltine A</string>
 			<string>Kokowar</string>
+			<string>LHS 1110 A</string>
+			<string>CD-51 102</string>
+			<string>Tir Na Nog</string>
 			<string>Khruvandji A</string>
 			<string>Kured A</string>
 			<string>HIP 3142 A</string>
@@ -217,7 +306,7 @@
 			<real>28.375</real>
 		</array>
 		<key>SysFaction</key>
-		<string>G.O.M. Collective</string>
+		<string>LTT 135 PLC</string>
 		<key>economy</key>
 		<string>High Tech</string>
 		<key>economy2</key>
@@ -229,7 +318,7 @@
 		<key>system</key>
 		<string>LTT 135</string>
 		<key>updated</key>
-		<string>20260508</string>
+		<string>20260806</string>
 	</dict>
 </dict>
 </plist>
