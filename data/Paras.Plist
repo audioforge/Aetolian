@@ -2,6 +2,100 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>20260429</key>
+	<dict>
+		<key>Achenar Immortals</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.27308399999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Hyperborea Bureau</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.094302999999999998</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Movement for Paras Free</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.063851000000000005</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Paras Constitution Party</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.047150999999999998</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Paras Corporation</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.070726999999999998</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>United German Commanders</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.36738700000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>United Paras Defence Party</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.083497000000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>20260513</key>
 	<dict>
 		<key>Achenar Immortals</key>
@@ -101,21 +195,29 @@
 		<key>ExpTarget</key>
 		<array>
 			<string>Kartamayana</string>
+			<string>Liu Di</string>
 			<string>Delta Phoenicis</string>
 			<string>Erlik A</string>
 			<string>LTT 874</string>
 			<string>Mbetatika</string>
+			<string>Takshana</string>
 			<string>Kharpulo</string>
 			<string>Avalon</string>
+			<string>Bobadzihozo A</string>
 			<string>Cibola</string>
 			<string>CD-44 224</string>
+			<string>Duronese A</string>
 			<string>Eseasa A</string>
 			<string>Lombi A</string>
 			<string>Zelacanto A</string>
 			<string>Gender A</string>
+			<string>Quamta</string>
+			<string>Miquitagat</string>
 			<string>Akualanu A</string>
 			<string>Giltine A</string>
+			<string>Phi Eridani A</string>
 			<string>Ba Nari A</string>
+			<string>CD-51 102</string>
 		</array>
 		<key>StarPos</key>
 		<array>
@@ -136,7 +238,7 @@
 		<key>system</key>
 		<string>Paras</string>
 		<key>updated</key>
-		<string>20260513</string>
+		<string>20260429</string>
 	</dict>
 </dict>
 </plist>

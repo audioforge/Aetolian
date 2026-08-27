@@ -2,6 +2,188 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>20260506</key>
+	<dict>
+		<key>6th Interstellar Corps</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.66962500000000003</real>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Bhumij Dynamic Group</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.053254000000000003</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Bhumij Gold Mob</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.025641000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Bhumij Limited</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.064102999999999993</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Co-operative of Bhumij</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.035503</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Marquis du Bhumij</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.057199</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Shonso Empire Pact</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.094674999999999995</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
+	<key>20260515</key>
+	<dict>
+		<key>6th Interstellar Corps</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.66962500000000003</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Bhumij Dynamic Group</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.053254000000000003</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Bhumij Gold Mob</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.025641000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Bhumij Limited</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.064102999999999993</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Co-operative of Bhumij</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.035503</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Marquis du Bhumij</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.057199</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Shonso Empire Pact</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.094674999999999995</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>20260526</key>
 	<dict>
 		<key>6th Interstellar Corps</key>
@@ -194,18 +376,30 @@
 	<dict>
 		<key>ExpTarget</key>
 		<array>
+			<string>Ember</string>
+			<string>Iota Eridani</string>
 			<string>Manthe</string>
+			<string>Shonso A</string>
+			<string>Acamar A</string>
 			<string>Hruntia</string>
+			<string>Kong Dan</string>
+			<string>Namarii</string>
 			<string>Meliontit</string>
 			<string>HIP 14007</string>
+			<string>Sibil</string>
 			<string>Cockaigne</string>
 			<string>Autrimpe A</string>
 			<string>Urcia</string>
+			<string>Matec</string>
 			<string>Fawaol</string>
 			<string>Zvaithhogg</string>
 			<string>Samen A</string>
+			<string>HIP 12716 A</string>
+			<string>Nai Shoro</string>
+			<string>CD-52 557</string>
 			<string>Yab Yum</string>
 			<string>Jemen A</string>
+			<string>HIP 11448 A</string>
 		</array>
 		<key>StarPos</key>
 		<array>
@@ -226,7 +420,7 @@
 		<key>system</key>
 		<string>Bhumij</string>
 		<key>updated</key>
-		<string>20260526</string>
+		<string>20260515</string>
 	</dict>
 </dict>
 </plist>
