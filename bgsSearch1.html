@@ -245,11 +245,17 @@
                   const targetDicts = PlistParser.parse(sysString);
                   var z = targetDicts['Z'];
                   
-                  const maxKey = Math.max(...Object.keys(targetDicts));
-                  const latestSysInfo = { [maxKey]: dictionary[maxKey] };
-
-                  console.log(latestSysInfo);
-                  
+                  let maxKey = 0;
+                    let maxValue = -Infinity;
+                    
+                    for (const [key, value] of Object.entries(targetDicts)) {
+                      if (key!='Z') {
+                          if (key > maxKey) {
+                            maxKey = key;
+                          }
+                      }
+                    }
+                  console.log(maxKey);
                   var updated = maxKey; //z['updated'];
                   var factionInfo = targetDicts[updated];
                   var sysFact = z['SysFaction'];
@@ -294,7 +300,7 @@
                 data['population'] = popu;
                 data['updated'] = updated;
                 //var sysFacDicts = factionInfo[sysFact];
-                console.log (sysFacDicts);
+                //console.log (sysFacDicts);
                 var inf = (largest*100).toFixed(1);
                 smallest = (smallest*100).toFixed(1);
                 data.main = sysFact + ': ' + inf; // + ' (' + lowestFac + ': ' + smallest + ')';
