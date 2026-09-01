@@ -10476,7 +10476,7 @@
 	<key>Calatrava Arsenal_Meliontit</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>2149.0629450000001</real>
+		<real>2149.1651139999999</real>
 		<key>starSystem</key>
 		<string>Meliontit</string>
 		<key>stationFaction</key>
@@ -45126,11 +45126,13 @@
 	<key>Ottley's Landing_Cockaigne</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>223.39674299999999</real>
+		<real>224.81867500000001</real>
 		<key>starSystem</key>
 		<string>Cockaigne</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Drought</string>
 			<key>Name</key>
 			<string>ELITE SPACE WINGS</string>
 		</dict>
@@ -45169,7 +45171,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260805</string>
+		<string>20260901</string>
 	</dict>
 	<key>Otus Survey_Kheret</key>
 	<dict>
