@@ -3255,8 +3255,6 @@
 		<dict>
 			<key>Active</key>
 			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
 			<key>Influence</key>
 			<real>0.28162100000000001</real>
 			<key>Pending</key>
@@ -3267,9 +3265,7 @@
 		<key>G.O.M. Collective</key>
 		<dict>
 			<key>Active</key>
-			<string>Expansion</string>
-			<key>Happiness</key>
-			<string>Happy</string>
+			<string></string>
 			<key>Influence</key>
 			<real>0.17094899999999999</real>
 			<key>Pending</key>
@@ -3280,9 +3276,7 @@
 		<key>Labour of Pai Huldr</key>
 		<dict>
 			<key>Active</key>
-			<string>Boom</string>
-			<key>Happiness</key>
-			<string>Happy</string>
+			<string></string>
 			<key>Influence</key>
 			<real>0.070157999999999998</real>
 			<key>Pending</key>
@@ -3294,10 +3288,85 @@
 		<dict>
 			<key>Active</key>
 			<string></string>
+			<key>Influence</key>
+			<real>0.0098809999999999992</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Pai Huldr Empire Assembly</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Influence</key>
+			<real>0.108696</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Pai Huldr Power Limited</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Influence</key>
+			<real>0.35869600000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
+	<key>20260903</key>
+	<dict>
+		<key>ELITE SPACE WINGS</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.0098809999999999992</real>
+			<real>0.25765100000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>G.O.M. Collective</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.20927899999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Labour of Pai Huldr</key>
+		<dict>
+			<key>Active</key>
+			<string>Boom</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.097729999999999997</real>
+			<key>Pending</key>
+			<string>CivilWar - 0</string>
+			<key>State</key>
+			<string>Boom</string>
+		</dict>
+		<key>Pai Huldr Blue Brothers</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.0098720000000000006</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -3310,9 +3379,9 @@
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.108696</real>
+			<real>0.097729999999999997</real>
 			<key>Pending</key>
-			<string></string>
+			<string>CivilWar - 0</string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
@@ -3323,7 +3392,7 @@
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.35869600000000001</real>
+			<real>0.327739</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -3394,7 +3463,7 @@
 		<key>system</key>
 		<string>Pai Huldr A</string>
 		<key>updated</key>
-		<string>20260902</string>
+		<string>20260903</string>
 	</dict>
 </dict>
 </plist>

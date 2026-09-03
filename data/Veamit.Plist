@@ -2402,6 +2402,75 @@
 		<dict>
 			<key>Active</key>
 			<string></string>
+			<key>Influence</key>
+			<real>0.096289</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>ELITE SPACE WINGS</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Influence</key>
+			<real>0.38114300000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>League of Veamit Defence Party</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Influence</key>
+			<real>0.045135000000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Social Veamit Revolutionary Party</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Influence</key>
+			<real>0.091273999999999994</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Veamit Solutions</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Influence</key>
+			<real>0.25677</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Warlords of Tengri</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Influence</key>
+			<real>0.129388</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
+	<key>20260903</key>
+	<dict>
+		<key>Allied Veamit Movement</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
@@ -2453,15 +2522,15 @@
 		<key>Veamit Solutions</key>
 		<dict>
 			<key>Active</key>
-			<string></string>
+			<string>Boom</string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
 			<real>0.25677</real>
 			<key>Pending</key>
-			<string>Boom - 0</string>
+			<string></string>
 			<key>State</key>
-			<string>None</string>
+			<string>Boom</string>
 		</dict>
 		<key>Warlords of Tengri</key>
 		<dict>
@@ -2529,7 +2598,7 @@
 		<key>system</key>
 		<string>Veamit</string>
 		<key>updated</key>
-		<string>20260902</string>
+		<string>20260903</string>
 	</dict>
 </dict>
 </plist>
