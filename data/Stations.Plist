@@ -11462,11 +11462,13 @@
 	<key>Celsius Station_HIP 7304</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>225.35368800000001</real>
+		<real>225.35925700000001</real>
 		<key>starSystem</key>
 		<string>HIP 7304</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Election</string>
 			<key>Name</key>
 			<string>Amanogawa Enlight</string>
 		</dict>
@@ -11506,7 +11508,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260904</string>
+		<string>20260905</string>
 	</dict>
 	<key>Cerulli Market_HIP 7817</key>
 	<dict>
