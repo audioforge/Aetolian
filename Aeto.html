@@ -1,0 +1,52 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <script>
+    window.dataLayer = window.dataLayer || [];
+  </script>
+  
+ 
+
+
+  <!-- Basic Page Needs -->
+  <meta charset="utf-8">
+  <title>3D Starmap in JavaScript</title>
+  <meta name="description" content="3D Starmap in JavaScript">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <!-- starmap controls -->
+  <link rel="stylesheet" type="text/css" href="data/starmap.css"/>
+
+  <!-- I can almost get rid of this now, thanks to refactoring -->
+  <script type="text/javascript" src="data/prototype.js"></script>
+
+  <!-- this is the starmap renderer -->
+  <script type="text/javascript" src="data/starmap.js"></script>
+
+  <!-- this is the data for the current starmap -->
+  <script type="text/javascript" src="data/Neginn.js"></script>
+</head>
+<body>
+
+<canvas id="starmap" width="650" height="650"></canvas>
+<hr>
+<div id="starmap_controls">
+    <input type="checkbox" name="toggle_wormholes" id="toggle_wormholes" value="0"> Show Wormholes
+    <br />
+    <input type="checkbox" name="toggle_rotation" id="toggle_rotation" value="0"> Rotate
+    <br />
+    <input type="checkbox" name="toggle_names" id="toggle_names" value="0"> Star Names
+    <br />
+    <input type="checkbox" name="toggle_unreachable" id="toggle_unreachable" value="0"> Show Unreachable
+    <br />
+</div>
+<div id="star_id">No star selected</div>
+<hr />
+
+</body>
+</html>
+
