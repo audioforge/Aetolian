@@ -196,7 +196,16 @@ var map = {
         if ( !this.show_unreachable && !star.reachable ) {
             return;
         }
-        this.renderer.draw_circle(star.projected_x, star.projected_y, radius, rgb);
+        if (star.name == "Badbh") {
+            this.renderer.draw_circle(star.projected_x, star.projected_y, radius, '0,255,0');
+        }
+        else if (!star.reachable) {
+            this.renderer.draw_circle(star.projected_x, star.projected_y, radius, '255,0,0');
+        }
+        else {
+            this.renderer.draw_circle(star.projected_x, star.projected_y, radius, rgb);
+        }
+        
         if ( star.current ) {
             this.renderer.draw_current( star.projected_x, star.projected_y );
         }
