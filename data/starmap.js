@@ -196,7 +196,7 @@ var map = {
         if ( !this.show_unreachable && !star.reachable ) {
             return;
         }
-        if (star.stations === '2') {
+        if (star.stations === "2") {
             this.renderer.draw_circle(star.projected_x, star.projected_y, radius, '0,255,0');
         }
         else if (!star.reachable) {
