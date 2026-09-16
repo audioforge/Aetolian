@@ -196,14 +196,20 @@ var map = {
         if ( !this.show_unreachable && !star.reachable ) {
             return;
         }
-        if (star.num_stations === '2') {
-            this.renderer.draw_circle(star.projected_x, star.projected_y, radius, '0,255,0');
-        }
-        else if (!star.reachable) {
+        if (star.type === 'ESW') {
             this.renderer.draw_circle(star.projected_x, star.projected_y, radius, '255,0,0');
         }
+        else if (star.type === 'AETO') {
+            this.renderer.draw_circle(star.projected_x, star.projected_y, radius, '0,255,0');
+        }
+        else if (star.type === 'BLOP') {
+            this.renderer.draw_circle(star.projected_x, star.projected_y, radius, '255,0,255');
+        }
+        else if (!star.reachable) {
+            this.renderer.draw_circle(star.projected_x, star.projected_y, radius, '200,200,200');
+        }
         else {
-            this.renderer.draw_circle(star.projected_x, star.projected_y, radius, rgb);
+            this.renderer.draw_circle(star.projected_x, star.projected_y, radius, '200,255,200');
         }
         
         if ( star.current ) {
@@ -266,9 +272,9 @@ var map = {
                 else {
                     $('star_id').update(
                         "Name: "              + star.name
-                        + '<br />Type: '      + star.type
-                        + '<br />Wormholes: ' + star.wormholes
-                        + '<br />Stations: '  + star.stations
+                        + '<br />Faction: '      + star.type
+                        + '<br />Updated: ' + star.wormholes
+                        + '<br />Inf: '  + star.stations
                     );
                 }
                 break;
