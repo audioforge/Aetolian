@@ -30506,13 +30506,13 @@
 	<key>John Irving Station_Asphodel</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>194.777164</real>
+		<real>194.47228699999999</real>
 		<key>starSystem</key>
 		<string>Asphodel</string>
 		<key>stationFaction</key>
 		<dict>
 			<key>FactionState</key>
-			<string>Blight</string>
+			<string>CivilUnrest</string>
 			<key>Name</key>
 			<string>Eotienses Citizens' Forum</string>
 		</dict>
@@ -30522,6 +30522,7 @@
 		<array>
 			<string>dock</string>
 			<string>autodock</string>
+			<string>blackmarket</string>
 			<string>commodities</string>
 			<string>contacts</string>
 			<string>exploration</string>
@@ -30551,7 +30552,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20260822</string>
+		<string>20260916</string>
 	</dict>
 	<key>Johnson Terminal_Zang Tangma</key>
 	<dict>
@@ -44664,13 +44665,11 @@
 	<key>Oort Port_CD-40 395</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>2610.90004</real>
+		<real>2610.0196040000001</real>
 		<key>starSystem</key>
 		<string>CD-40 395</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>Expansion</string>
 			<key>Name</key>
 			<string>G.O.M. Collective</string>
 		</dict>
@@ -44710,7 +44709,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260914</string>
+		<string>20260916</string>
 	</dict>
 	<key>Oosterhoff Terminal_Ngane</key>
 	<dict>
@@ -79162,7 +79161,7 @@
 	<key>de Seversky Plant_Ba Nari</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>269.688851</real>
+		<real>269.81177600000001</real>
 		<key>starSystem</key>
 		<string>Ba Nari</string>
 		<key>stationFaction</key>
@@ -79203,7 +79202,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260902</string>
+		<string>20260916</string>
 	</dict>
 	<key>i Sola Hub_HIP 6011</key>
 	<dict>
@@ -79388,7 +79387,7 @@
 	<key>van Rhijn Hub_Veamit</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>325.59022499999998</real>
+		<real>325.60242399999998</real>
 		<key>starSystem</key>
 		<string>Veamit</string>
 		<key>stationFaction</key>
