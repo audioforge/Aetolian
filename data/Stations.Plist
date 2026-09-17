@@ -7843,11 +7843,13 @@
 	<key>Bond Port_Urcia</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>4155.5555899999999</real>
+		<real>4175.7408329999998</real>
 		<key>starSystem</key>
 		<string>Urcia</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Drought</string>
 			<key>Name</key>
 			<string>Urcia Allied &amp; Co</string>
 		</dict>
@@ -7886,7 +7888,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260619</string>
+		<string>20260916</string>
 	</dict>
 	<key>Bond Terminal_Lusoneshas</key>
 	<dict>
@@ -10294,7 +10296,7 @@
 	<key>Burnham City_Nespel</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>315.404832</real>
+		<real>315.50792300000001</real>
 		<key>starSystem</key>
 		<string>Nespel</string>
 		<key>stationFaction</key>
@@ -10337,7 +10339,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20260521</string>
+		<string>20260916</string>
 	</dict>
 	<key>Burnham Market_HIP 10123</key>
 	<dict>
@@ -18903,7 +18905,7 @@
 	<key>Folland Port_Nyalayan</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>55.638418000000001</real>
+		<real>55.498556000000001</real>
 		<key>starSystem</key>
 		<string>Nyalayan</string>
 		<key>stationFaction</key>
@@ -18947,7 +18949,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20260709</string>
+		<string>20260916</string>
 	</dict>
 	<key>Ford City_Groombridge 34</key>
 	<dict>
@@ -28512,7 +28514,7 @@
 	<key>Hornoch Port_Hloca</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>127.332043</real>
+		<real>127.400616</real>
 		<key>starSystem</key>
 		<string>Hloca</string>
 		<key>stationFaction</key>
@@ -28551,7 +28553,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260722</string>
+		<string>20260916</string>
 	</dict>
 	<key>Hornoch Ring_Crom Dubh</key>
 	<dict>
@@ -40449,7 +40451,7 @@
 	<key>Merritt Port_Nespel</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>423.64239600000002</real>
+		<real>423.22513400000003</real>
 		<key>starSystem</key>
 		<string>Nespel</string>
 		<key>stationFaction</key>
@@ -40493,7 +40495,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20260521</string>
+		<string>20260916</string>
 	</dict>
 	<key>Messier Port_Guathiti</key>
 	<dict>
@@ -45432,7 +45434,7 @@
 	<key>Ottley's Landing_Cockaigne</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>225.57503600000001</real>
+		<real>225.63277500000001</real>
 		<key>starSystem</key>
 		<string>Cockaigne</string>
 		<key>stationFaction</key>
@@ -50309,7 +50311,7 @@
 	<key>Rogers Vision_Valkindan</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>7.309247</real>
+		<real>7.3878259999999996</real>
 		<key>starSystem</key>
 		<string>Valkindan</string>
 		<key>stationFaction</key>
@@ -50347,7 +50349,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260915</string>
+		<string>20260916</string>
 	</dict>
 	<key>Rominger Orbital_BD+42 3917</key>
 	<dict>
@@ -73330,13 +73332,11 @@
 	<key>Tully Survey_Quamta</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>9.4231820000000006</real>
+		<real>9.3136449999999993</real>
 		<key>starSystem</key>
 		<string>Quamta</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>War</string>
 			<key>Name</key>
 			<string>ELITE SPACE WINGS</string>
 		</dict>
@@ -73372,7 +73372,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260831</string>
+		<string>20260916</string>
 	</dict>
 	<key>Turner Terminal_HIP 12119</key>
 	<dict>
@@ -77653,13 +77653,11 @@
 	<key>Xin Hub_Lombi</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>519.10784000000001</real>
+		<real>519.16483900000003</real>
 		<key>starSystem</key>
 		<string>Lombi</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>Expansion</string>
 			<key>Name</key>
 			<string>G.O.M. Collective</string>
 		</dict>
@@ -77699,7 +77697,7 @@
 		<key>stationType</key>
 		<string>Ocellus</string>
 		<key>updated</key>
-		<string>20260914</string>
+		<string>20260916</string>
 	</dict>
 	<key>Xuesen Estate_CD-26 369</key>
 	<dict>
@@ -78215,7 +78213,7 @@
 	<key>Young Hub_Lombi</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>519.25043200000005</real>
+		<real>519.76624900000002</real>
 		<key>starSystem</key>
 		<string>Lombi</string>
 		<key>stationFaction</key>
@@ -78253,7 +78251,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260831</string>
+		<string>20260916</string>
 	</dict>
 	<key>Young Orbital_HIP 6807</key>
 	<dict>
