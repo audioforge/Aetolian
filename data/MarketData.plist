@@ -10439,7 +10439,7 @@
 					<key>name</key>
 					<string>monazite</string>
 					<key>sellPrice</key>
-					<integer>194323</integer>
+					<integer>196375</integer>
 					<key>stock</key>
 					<integer>0</integer>
 					<key>stockBracket</key>
@@ -10584,6 +10584,24 @@
 					<string>personaleffects</string>
 					<key>sellPrice</key>
 					<integer>9498</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>32400</integer>
+					<key>demand</key>
+					<integer>0</integer>
+					<key>demandBracket</key>
+					<integer>0</integer>
+					<key>meanPrice</key>
+					<integer>58263</integer>
+					<key>name</key>
+					<string>platinum</string>
+					<key>sellPrice</key>
+					<integer>32398</integer>
 					<key>stock</key>
 					<integer>0</integer>
 					<key>stockBracket</key>
@@ -10789,7 +10807,7 @@
 				</dict>
 				<dict>
 					<key>buyPrice</key>
-					<integer>33812</integer>
+					<integer>33986</integer>
 					<key>demand</key>
 					<integer>1</integer>
 					<key>demandBracket</key>
@@ -10799,9 +10817,9 @@
 					<key>name</key>
 					<string>silver</string>
 					<key>sellPrice</key>
-					<integer>33005</integer>
+					<integer>33175</integer>
 					<key>stock</key>
-					<integer>774</integer>
+					<integer>669</integer>
 					<key>stockBracket</key>
 					<integer>2</integer>
 				</dict>
@@ -11083,7 +11101,7 @@
 			<key>StationType</key>
 			<string>Outpost</string>
 			<key>timestamp</key>
-			<string>2026-09-17T14:38:42Z</string>
+			<string>2026-09-18T13:04:00Z</string>
 		</dict>
 	</dict>
 	<key>Arexack</key>
@@ -16752,7 +16770,7 @@
 			<key>StationType</key>
 			<string>Outpost</string>
 			<key>timestamp</key>
-			<string>2026-09-17T11:34:56Z</string>
+			<string>2026-09-18T12:19:55Z</string>
 		</dict>
 	</dict>
 	<key>Audhenu</key>
@@ -27367,7 +27385,7 @@
 					<key>name</key>
 					<string>monazite</string>
 					<key>sellPrice</key>
-					<integer>194214</integer>
+					<integer>194506</integer>
 					<key>stock</key>
 					<integer>0</integer>
 					<key>stockBracket</key>
@@ -27583,7 +27601,7 @@
 					<key>name</key>
 					<string>platinum</string>
 					<key>sellPrice</key>
-					<integer>57520</integer>
+					<integer>57515</integer>
 					<key>stock</key>
 					<integer>0</integer>
 					<key>stockBracket</key>
@@ -28155,7 +28173,7 @@
 			<key>StationType</key>
 			<string>Coriolis</string>
 			<key>timestamp</key>
-			<string>2026-09-17T11:55:19Z</string>
+			<string>2026-09-18T13:33:39Z</string>
 		</dict>
 		<key>Robinson Dock</key>
 		<dict>
@@ -29379,7 +29397,7 @@
 					<key>name</key>
 					<string>monazite</string>
 					<key>sellPrice</key>
-					<integer>194367</integer>
+					<integer>194506</integer>
 					<key>stock</key>
 					<integer>0</integer>
 					<key>stockBracket</key>
@@ -29595,7 +29613,7 @@
 					<key>name</key>
 					<string>platinum</string>
 					<key>sellPrice</key>
-					<integer>57520</integer>
+					<integer>57516</integer>
 					<key>stock</key>
 					<integer>0</integer>
 					<key>stockBracket</key>
@@ -30167,7 +30185,7 @@
 			<key>StationType</key>
 			<string>Outpost</string>
 			<key>timestamp</key>
-			<string>2026-09-10T13:20:36Z</string>
+			<string>2026-09-18T13:38:35Z</string>
 		</dict>
 	</dict>
 	<key>Aymifa</key>
@@ -153949,6 +153967,1625 @@
 			<string>2026-08-31T10:33:53Z</string>
 		</dict>
 	</dict>
+	<key>Gaoshe</key>
+	<dict>
+		<key>Potrykus Horizons</key>
+		<dict>
+			<key>Items</key>
+			<array>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>5710</integer>
+					<key>demandBracket</key>
+					<integer>3</integer>
+					<key>meanPrice</key>
+					<integer>3039</integer>
+					<key>name</key>
+					<string>advancedcatalysers</string>
+					<key>sellPrice</key>
+					<integer>3654</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>492</integer>
+					<key>demandBracket</key>
+					<integer>3</integer>
+					<key>meanPrice</key>
+					<integer>1485</integer>
+					<key>name</key>
+					<string>advancedmedicines</string>
+					<key>sellPrice</key>
+					<integer>1869</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>6</integer>
+					<key>demandBracket</key>
+					<integer>3</integer>
+					<key>meanPrice</key>
+					<integer>3105</integer>
+					<key>name</key>
+					<string>agronomictreatment</string>
+					<key>sellPrice</key>
+					<integer>3660</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>44</integer>
+					<key>demandBracket</key>
+					<integer>3</integer>
+					<key>meanPrice</key>
+					<integer>217277</integer>
+					<key>name</key>
+					<string>alexandrite</string>
+					<key>sellPrice</key>
+					<integer>217160</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>244</integer>
+					<key>demand</key>
+					<integer>1</integer>
+					<key>demandBracket</key>
+					<integer>0</integer>
+					<key>meanPrice</key>
+					<integer>551</integer>
+					<key>name</key>
+					<string>aluminium</string>
+					<key>sellPrice</key>
+					<integer>226</integer>
+					<key>stock</key>
+					<integer>8209</integer>
+					<key>stockBracket</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>269</integer>
+					<key>demandBracket</key>
+					<integer>3</integer>
+					<key>meanPrice</key>
+					<integer>1539</integer>
+					<key>name</key>
+					<string>animalmeat</string>
+					<key>sellPrice</key>
+					<integer>1851</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>391</integer>
+					<key>demandBracket</key>
+					<integer>2</integer>
+					<key>meanPrice</key>
+					<integer>493</integer>
+					<key>name</key>
+					<string>basicmedicines</string>
+					<key>sellPrice</key>
+					<integer>768</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>7015</integer>
+					<key>demandBracket</key>
+					<integer>2</integer>
+					<key>meanPrice</key>
+					<integer>1140</integer>
+					<key>name</key>
+					<string>bauxite</string>
+					<key>sellPrice</key>
+					<integer>1466</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>3087</integer>
+					<key>demandBracket</key>
+					<integer>3</integer>
+					<key>meanPrice</key>
+					<integer>430</integer>
+					<key>name</key>
+					<string>beer</string>
+					<key>sellPrice</key>
+					<integer>763</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>44</integer>
+					<key>demandBracket</key>
+					<integer>3</integer>
+					<key>meanPrice</key>
+					<integer>149395</integer>
+					<key>name</key>
+					<string>benitoite</string>
+					<key>sellPrice</key>
+					<integer>149041</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>536</integer>
+					<key>demandBracket</key>
+					<integer>2</integer>
+					<key>meanPrice</key>
+					<integer>18817</integer>
+					<key>name</key>
+					<string>bertrandite</string>
+					<key>sellPrice</key>
+					<integer>20670</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>7434</integer>
+					<key>demand</key>
+					<integer>1</integer>
+					<key>demandBracket</key>
+					<integer>0</integer>
+					<key>meanPrice</key>
+					<integer>8243</integer>
+					<key>name</key>
+					<string>beryllium</string>
+					<key>sellPrice</key>
+					<integer>7348</integer>
+					<key>stock</key>
+					<integer>184</integer>
+					<key>stockBracket</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>4018</integer>
+					<key>demandBracket</key>
+					<integer>2</integer>
+					<key>meanPrice</key>
+					<integer>1204</integer>
+					<key>name</key>
+					<string>bioreducinglichen</string>
+					<key>sellPrice</key>
+					<integer>1559</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>64</integer>
+					<key>demand</key>
+					<integer>1</integer>
+					<key>demandBracket</key>
+					<integer>0</integer>
+					<key>meanPrice</key>
+					<integer>358</integer>
+					<key>name</key>
+					<string>biowaste</string>
+					<key>sellPrice</key>
+					<integer>39</integer>
+					<key>stock</key>
+					<integer>385</integer>
+					<key>stockBracket</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>912</integer>
+					<key>demandBracket</key>
+					<integer>3</integer>
+					<key>meanPrice</key>
+					<integer>672</integer>
+					<key>name</key>
+					<string>chemicalwaste</string>
+					<key>sellPrice</key>
+					<integer>722</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>1607</integer>
+					<key>demandBracket</key>
+					<integer>3</integer>
+					<key>meanPrice</key>
+					<integer>546</integer>
+					<key>name</key>
+					<string>clothing</string>
+					<key>sellPrice</key>
+					<integer>923</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>2677</integer>
+					<key>demand</key>
+					<integer>1</integer>
+					<key>demandBracket</key>
+					<integer>0</integer>
+					<key>meanPrice</key>
+					<integer>3762</integer>
+					<key>name</key>
+					<string>cobalt</string>
+					<key>sellPrice</key>
+					<integer>2557</integer>
+					<key>stock</key>
+					<integer>5593</integer>
+					<key>stockBracket</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>212</integer>
+					<key>demandBracket</key>
+					<integer>3</integer>
+					<key>meanPrice</key>
+					<integer>1499</integer>
+					<key>name</key>
+					<string>coffee</string>
+					<key>sellPrice</key>
+					<integer>1851</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>9729</integer>
+					<key>demandBracket</key>
+					<integer>2</integer>
+					<key>meanPrice</key>
+					<integer>6163</integer>
+					<key>name</key>
+					<string>coltan</string>
+					<key>sellPrice</key>
+					<integer>7488</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>444</integer>
+					<key>demand</key>
+					<integer>1</integer>
+					<key>demandBracket</key>
+					<integer>0</integer>
+					<key>meanPrice</key>
+					<integer>709</integer>
+					<key>name</key>
+					<string>conductivefabrics</string>
+					<key>sellPrice</key>
+					<integer>415</integer>
+					<key>stock</key>
+					<integer>183</integer>
+					<key>stockBracket</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>74</integer>
+					<key>demandBracket</key>
+					<integer>2</integer>
+					<key>meanPrice</key>
+					<integer>6690</integer>
+					<key>name</key>
+					<string>consumertechnology</string>
+					<key>sellPrice</key>
+					<integer>7099</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>361</integer>
+					<key>demand</key>
+					<integer>1</integer>
+					<key>demandBracket</key>
+					<integer>0</integer>
+					<key>meanPrice</key>
+					<integer>689</integer>
+					<key>name</key>
+					<string>copper</string>
+					<key>sellPrice</key>
+					<integer>337</integer>
+					<key>stock</key>
+					<integer>9548</integer>
+					<key>stockBracket</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>1086</integer>
+					<key>demandBracket</key>
+					<integer>3</integer>
+					<key>meanPrice</key>
+					<integer>12173</integer>
+					<key>name</key>
+					<string>cryolite</string>
+					<key>sellPrice</key>
+					<integer>14770</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>6</integer>
+					<key>demandBracket</key>
+					<integer>3</integer>
+					<key>meanPrice</key>
+					<integer>16966</integer>
+					<key>name</key>
+					<string>damagedescapepod</string>
+					<key>sellPrice</key>
+					<integer>16939</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>641</integer>
+					<key>demandBracket</key>
+					<integer>3</integer>
+					<key>meanPrice</key>
+					<integer>740</integer>
+					<key>name</key>
+					<string>domesticappliances</string>
+					<key>sellPrice</key>
+					<integer>1162</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>330</integer>
+					<key>demand</key>
+					<integer>1</integer>
+					<key>demandBracket</key>
+					<integer>0</integer>
+					<key>meanPrice</key>
+					<integer>512</integer>
+					<key>name</key>
+					<string>explosives</string>
+					<key>sellPrice</key>
+					<integer>299</integer>
+					<key>stock</key>
+					<integer>2454</integer>
+					<key>stockBracket</key>
+					<integer>2</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>979</integer>
+					<key>demandBracket</key>
+					<integer>3</integer>
+					<key>meanPrice</key>
+					<integer>650</integer>
+					<key>name</key>
+					<string>fish</string>
+					<key>sellPrice</key>
+					<integer>1027</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>285</integer>
+					<key>demandBracket</key>
+					<integer>2</integer>
+					<key>meanPrice</key>
+					<integer>265</integer>
+					<key>name</key>
+					<string>foodcartridges</string>
+					<key>sellPrice</key>
+					<integer>370</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>760</integer>
+					<key>demandBracket</key>
+					<integer>3</integer>
+					<key>meanPrice</key>
+					<integer>509</integer>
+					<key>name</key>
+					<string>fruitandvegetables</string>
+					<key>sellPrice</key>
+					<integer>923</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>1022</integer>
+					<key>demandBracket</key>
+					<integer>2</integer>
+					<key>meanPrice</key>
+					<integer>11915</integer>
+					<key>name</key>
+					<string>gallite</string>
+					<key>sellPrice</key>
+					<integer>12926</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>4586</integer>
+					<key>demand</key>
+					<integer>1</integer>
+					<key>demandBracket</key>
+					<integer>0</integer>
+					<key>meanPrice</key>
+					<integer>5203</integer>
+					<key>name</key>
+					<string>gallium</string>
+					<key>sellPrice</key>
+					<integer>4477</integer>
+					<key>stock</key>
+					<integer>269</integer>
+					<key>stockBracket</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>44359</integer>
+					<key>demand</key>
+					<integer>1</integer>
+					<key>demandBracket</key>
+					<integer>0</integer>
+					<key>meanPrice</key>
+					<integer>47610</integer>
+					<key>name</key>
+					<string>gold</string>
+					<key>sellPrice</key>
+					<integer>43852</integer>
+					<key>stock</key>
+					<integer>175</integer>
+					<key>stockBracket</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>7764</integer>
+					<key>demandBracket</key>
+					<integer>3</integer>
+					<key>meanPrice</key>
+					<integer>5979</integer>
+					<key>name</key>
+					<string>goslarite</string>
+					<key>sellPrice</key>
+					<integer>7878</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>2679</integer>
+					<key>demandBracket</key>
+					<integer>3</integer>
+					<key>meanPrice</key>
+					<integer>410</integer>
+					<key>name</key>
+					<string>grain</string>
+					<key>sellPrice</key>
+					<integer>798</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>44</integer>
+					<key>demandBracket</key>
+					<integer>3</integer>
+					<key>meanPrice</key>
+					<integer>197292</integer>
+					<key>name</key>
+					<string>grandidierite</string>
+					<key>sellPrice</key>
+					<integer>197016</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>5719</integer>
+					<key>demandBracket</key>
+					<integer>3</integer>
+					<key>meanPrice</key>
+					<integer>570</integer>
+					<key>name</key>
+					<string>hazardousenvironmentsuits</string>
+					<key>sellPrice</key>
+					<integer>834</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>3435</integer>
+					<key>demandBracket</key>
+					<integer>3</integer>
+					<key>meanPrice</key>
+					<integer>434</integer>
+					<key>name</key>
+					<string>heliostaticfurnaces</string>
+					<key>sellPrice</key>
+					<integer>790</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>6</integer>
+					<key>demandBracket</key>
+					<integer>3</integer>
+					<key>meanPrice</key>
+					<integer>34604</integer>
+					<key>name</key>
+					<string>hostage</string>
+					<key>sellPrice</key>
+					<integer>34657</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>84</integer>
+					<key>demand</key>
+					<integer>1</integer>
+					<key>demandBracket</key>
+					<integer>0</integer>
+					<key>meanPrice</key>
+					<integer>113</integer>
+					<key>name</key>
+					<string>hydrogenfuel</string>
+					<key>sellPrice</key>
+					<integer>80</integer>
+					<key>stock</key>
+					<integer>5197</integer>
+					<key>stockBracket</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>3167</integer>
+					<key>demandBracket</key>
+					<integer>3</integer>
+					<key>meanPrice</key>
+					<integer>3160</integer>
+					<key>name</key>
+					<string>hydrogenperoxide</string>
+					<key>sellPrice</key>
+					<integer>3222</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>6855</integer>
+					<key>demandBracket</key>
+					<integer>2</integer>
+					<key>meanPrice</key>
+					<integer>11389</integer>
+					<key>name</key>
+					<string>indite</string>
+					<key>sellPrice</key>
+					<integer>13125</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>5076</integer>
+					<key>demand</key>
+					<integer>1</integer>
+					<key>demandBracket</key>
+					<integer>0</integer>
+					<key>meanPrice</key>
+					<integer>5845</integer>
+					<key>name</key>
+					<string>indium</string>
+					<key>sellPrice</key>
+					<integer>5016</integer>
+					<key>stock</key>
+					<integer>2448</integer>
+					<key>stockBracket</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>9639</integer>
+					<key>demand</key>
+					<integer>1</integer>
+					<key>demandBracket</key>
+					<integer>0</integer>
+					<key>meanPrice</key>
+					<integer>10724</integer>
+					<key>name</key>
+					<string>insulatingmembrane</string>
+					<key>sellPrice</key>
+					<integer>9529</integer>
+					<key>stock</key>
+					<integer>21</integer>
+					<key>stockBracket</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>10095</integer>
+					<key>demandBracket</key>
+					<integer>3</integer>
+					<key>meanPrice</key>
+					<integer>771</integer>
+					<key>name</key>
+					<string>lepidolite</string>
+					<key>sellPrice</key>
+					<integer>1196</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>650</integer>
+					<key>demand</key>
+					<integer>1</integer>
+					<key>demandBracket</key>
+					<integer>0</integer>
+					<key>meanPrice</key>
+					<integer>1474</integer>
+					<key>name</key>
+					<string>liquidoxygen</string>
+					<key>sellPrice</key>
+					<integer>578</integer>
+					<key>stock</key>
+					<integer>433</integer>
+					<key>stockBracket</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>296</integer>
+					<key>demandBracket</key>
+					<integer>2</integer>
+					<key>meanPrice</key>
+					<integer>879</integer>
+					<key>name</key>
+					<string>liquor</string>
+					<key>sellPrice</key>
+					<integer>1054</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>1279</integer>
+					<key>demand</key>
+					<integer>1</integer>
+					<key>demandBracket</key>
+					<integer>0</integer>
+					<key>meanPrice</key>
+					<integer>1772</integer>
+					<key>name</key>
+					<string>lithium</string>
+					<key>sellPrice</key>
+					<integer>1245</integer>
+					<key>stock</key>
+					<integer>6847</integer>
+					<key>stockBracket</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>582</integer>
+					<key>demandBracket</key>
+					<integer>3</integer>
+					<key>meanPrice</key>
+					<integer>5673</integer>
+					<key>name</key>
+					<string>lithiumhydroxide</string>
+					<key>sellPrice</key>
+					<integer>5771</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>29</integer>
+					<key>demandBracket</key>
+					<integer>3</integer>
+					<key>meanPrice</key>
+					<integer>106353</integer>
+					<key>name</key>
+					<string>lowtemperaturediamond</string>
+					<key>sellPrice</key>
+					<integer>101685</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>8380</integer>
+					<key>demandBracket</key>
+					<integer>3</integer>
+					<key>meanPrice</key>
+					<integer>1650</integer>
+					<key>name</key>
+					<string>methaneclathrate</string>
+					<key>sellPrice</key>
+					<integer>1685</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>570</integer>
+					<key>demand</key>
+					<integer>1</integer>
+					<key>demandBracket</key>
+					<integer>0</integer>
+					<key>meanPrice</key>
+					<integer>984</integer>
+					<key>name</key>
+					<string>militarygradefabrics</string>
+					<key>sellPrice</key>
+					<integer>545</integer>
+					<key>stock</key>
+					<integer>1634</integer>
+					<key>stockBracket</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>1353</integer>
+					<key>demandBracket</key>
+					<integer>3</integer>
+					<key>meanPrice</key>
+					<integer>801</integer>
+					<key>name</key>
+					<string>mineralextractors</string>
+					<key>sellPrice</key>
+					<integer>1244</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>10863</integer>
+					<key>demandBracket</key>
+					<integer>3</integer>
+					<key>meanPrice</key>
+					<integer>423</integer>
+					<key>name</key>
+					<string>mineraloil</string>
+					<key>sellPrice</key>
+					<integer>782</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>18</integer>
+					<key>demandBracket</key>
+					<integer>3</integer>
+					<key>meanPrice</key>
+					<integer>200975</integer>
+					<key>name</key>
+					<string>monazite</string>
+					<key>sellPrice</key>
+					<integer>202292</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>44</integer>
+					<key>demandBracket</key>
+					<integer>3</integer>
+					<key>meanPrice</key>
+					<integer>198613</integer>
+					<key>name</key>
+					<string>musgravite</string>
+					<key>sellPrice</key>
+					<integer>198381</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>173</integer>
+					<key>demandBracket</key>
+					<integer>3</integer>
+					<key>meanPrice</key>
+					<integer>1943</integer>
+					<key>name</key>
+					<string>nonlethalweapons</string>
+					<key>sellPrice</key>
+					<integer>2373</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>6</integer>
+					<key>demandBracket</key>
+					<integer>3</integer>
+					<key>meanPrice</key>
+					<integer>30363</integer>
+					<key>name</key>
+					<string>occupiedcryopod</string>
+					<key>sellPrice</key>
+					<integer>30397</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>18</integer>
+					<key>demandBracket</key>
+					<integer>3</integer>
+					<key>meanPrice</key>
+					<integer>135284</integer>
+					<key>name</key>
+					<string>opal</string>
+					<key>sellPrice</key>
+					<integer>136596</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>36</integer>
+					<key>demandBracket</key>
+					<integer>3</integer>
+					<key>meanPrice</key>
+					<integer>53016</integer>
+					<key>name</key>
+					<string>painite</string>
+					<key>sellPrice</key>
+					<integer>50809</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>47430</integer>
+					<key>demand</key>
+					<integer>1</integer>
+					<key>demandBracket</key>
+					<integer>0</integer>
+					<key>meanPrice</key>
+					<integer>50639</integer>
+					<key>name</key>
+					<string>palladium</string>
+					<key>sellPrice</key>
+					<integer>46894</integer>
+					<key>stock</key>
+					<integer>55</integer>
+					<key>stockBracket</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>235</integer>
+					<key>demandBracket</key>
+					<integer>3</integer>
+					<key>meanPrice</key>
+					<integer>6790</integer>
+					<key>name</key>
+					<string>performanceenhancers</string>
+					<key>sellPrice</key>
+					<integer>7457</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>6</integer>
+					<key>demandBracket</key>
+					<integer>3</integer>
+					<key>meanPrice</key>
+					<integer>9543</integer>
+					<key>name</key>
+					<string>personaleffects</string>
+					<key>sellPrice</key>
+					<integer>9559</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>72</integer>
+					<key>demand</key>
+					<integer>1</integer>
+					<key>demandBracket</key>
+					<integer>0</integer>
+					<key>meanPrice</key>
+					<integer>376</integer>
+					<key>name</key>
+					<string>polymers</string>
+					<key>sellPrice</key>
+					<integer>54</integer>
+					<key>stock</key>
+					<integer>8028</integer>
+					<key>stockBracket</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>770</integer>
+					<key>demandBracket</key>
+					<integer>3</integer>
+					<key>meanPrice</key>
+					<integer>2466</integer>
+					<key>name</key>
+					<string>powergenerators</string>
+					<key>sellPrice</key>
+					<integer>3147</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>38</integer>
+					<key>demandBracket</key>
+					<integer>3</integer>
+					<key>meanPrice</key>
+					<integer>6752</integer>
+					<key>name</key>
+					<string>progenitorcells</string>
+					<key>sellPrice</key>
+					<integer>7457</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>6657</integer>
+					<key>demandBracket</key>
+					<integer>3</integer>
+					<key>meanPrice</key>
+					<integer>11538</integer>
+					<key>name</key>
+					<string>pyrophyllite</string>
+					<key>sellPrice</key>
+					<integer>14335</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>187</integer>
+					<key>demandBracket</key>
+					<integer>3</integer>
+					<key>meanPrice</key>
+					<integer>2224</integer>
+					<key>name</key>
+					<string>reactivearmour</string>
+					<key>sellPrice</key>
+					<integer>2633</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>504</integer>
+					<key>demandBracket</key>
+					<integer>3</integer>
+					<key>meanPrice</key>
+					<integer>5937</integer>
+					<key>name</key>
+					<string>resonatingseparators</string>
+					<key>sellPrice</key>
+					<integer>6882</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>36</integer>
+					<key>demandBracket</key>
+					<integer>3</integer>
+					<key>meanPrice</key>
+					<integer>176839</integer>
+					<key>name</key>
+					<string>rhodplumsite</string>
+					<key>sellPrice</key>
+					<integer>177003</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>2395</integer>
+					<key>demandBracket</key>
+					<integer>2</integer>
+					<key>meanPrice</key>
+					<integer>2083</integer>
+					<key>name</key>
+					<string>rutile</string>
+					<key>sellPrice</key>
+					<integer>2384</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>1308</integer>
+					<key>demandBracket</key>
+					<integer>2</integer>
+					<key>meanPrice</key>
+					<integer>300</integer>
+					<key>name</key>
+					<string>scrap</string>
+					<key>sellPrice</key>
+					<integer>582</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>716</integer>
+					<key>demand</key>
+					<integer>1</integer>
+					<key>demandBracket</key>
+					<integer>0</integer>
+					<key>meanPrice</key>
+					<integer>1136</integer>
+					<key>name</key>
+					<string>semiconductors</string>
+					<key>sellPrice</key>
+					<integer>686</integer>
+					<key>stock</key>
+					<integer>1085</integer>
+					<key>stockBracket</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>44</integer>
+					<key>demandBracket</key>
+					<integer>3</integer>
+					<key>meanPrice</key>
+					<integer>172711</integer>
+					<key>name</key>
+					<string>serendibite</string>
+					<key>sellPrice</key>
+					<integer>172424</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>33587</integer>
+					<key>demand</key>
+					<integer>1</integer>
+					<key>demandBracket</key>
+					<integer>0</integer>
+					<key>meanPrice</key>
+					<integer>37223</integer>
+					<key>name</key>
+					<string>silver</string>
+					<key>sellPrice</key>
+					<integer>32785</integer>
+					<key>stock</key>
+					<integer>744</integer>
+					<key>stockBracket</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>5781</integer>
+					<key>demand</key>
+					<integer>1</integer>
+					<key>demandBracket</key>
+					<integer>0</integer>
+					<key>meanPrice</key>
+					<integer>6679</integer>
+					<key>name</key>
+					<string>superconductors</string>
+					<key>sellPrice</key>
+					<integer>5713</integer>
+					<key>stock</key>
+					<integer>2210</integer>
+					<key>stockBracket</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>409</integer>
+					<key>demand</key>
+					<integer>1</integer>
+					<key>demandBracket</key>
+					<integer>0</integer>
+					<key>meanPrice</key>
+					<integer>726</integer>
+					<key>name</key>
+					<string>surfacestabilisers</string>
+					<key>sellPrice</key>
+					<integer>383</integer>
+					<key>stock</key>
+					<integer>1720</integer>
+					<key>stockBracket</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>111</integer>
+					<key>demand</key>
+					<integer>1</integer>
+					<key>demandBracket</key>
+					<integer>0</integer>
+					<key>meanPrice</key>
+					<integer>416</integer>
+					<key>name</key>
+					<string>syntheticfabrics</string>
+					<key>sellPrice</key>
+					<integer>94</integer>
+					<key>stock</key>
+					<integer>5606</integer>
+					<key>stockBracket</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>271</integer>
+					<key>demandBracket</key>
+					<integer>2</integer>
+					<key>meanPrice</key>
+					<integer>440</integer>
+					<key>name</key>
+					<string>syntheticmeat</string>
+					<key>sellPrice</key>
+					<integer>485</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>3326</integer>
+					<key>demand</key>
+					<integer>1</integer>
+					<key>demandBracket</key>
+					<integer>0</integer>
+					<key>meanPrice</key>
+					<integer>4044</integer>
+					<key>name</key>
+					<string>tantalum</string>
+					<key>sellPrice</key>
+					<integer>3244</integer>
+					<key>stock</key>
+					<integer>3339</integer>
+					<key>stockBracket</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>268</integer>
+					<key>demandBracket</key>
+					<integer>3</integer>
+					<key>meanPrice</key>
+					<integer>1696</integer>
+					<key>name</key>
+					<string>tea</string>
+					<key>sellPrice</key>
+					<integer>2039</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>810</integer>
+					<key>demand</key>
+					<integer>1</integer>
+					<key>demandBracket</key>
+					<integer>0</integer>
+					<key>meanPrice</key>
+					<integer>1208</integer>
+					<key>name</key>
+					<string>titanium</string>
+					<key>sellPrice</key>
+					<integer>776</integer>
+					<key>stock</key>
+					<integer>4896</integer>
+					<key>stockBracket</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>49550</integer>
+					<key>demand</key>
+					<integer>1</integer>
+					<key>demandBracket</key>
+					<integer>0</integer>
+					<key>meanPrice</key>
+					<integer>51707</integer>
+					<key>name</key>
+					<string>tritium</string>
+					<key>sellPrice</key>
+					<integer>49015</integer>
+					<key>stock</key>
+					<integer>547</integer>
+					<key>stockBracket</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>2414</integer>
+					<key>demand</key>
+					<integer>1</integer>
+					<key>demandBracket</key>
+					<integer>0</integer>
+					<key>meanPrice</key>
+					<integer>2957</integer>
+					<key>name</key>
+					<string>uraninite</string>
+					<key>sellPrice</key>
+					<integer>2311</integer>
+					<key>stock</key>
+					<integer>4213</integer>
+					<key>stockBracket</key>
+					<integer>2</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>2234</integer>
+					<key>demand</key>
+					<integer>1</integer>
+					<key>demandBracket</key>
+					<integer>0</integer>
+					<key>meanPrice</key>
+					<integer>2827</integer>
+					<key>name</key>
+					<string>uranium</string>
+					<key>sellPrice</key>
+					<integer>2178</integer>
+					<key>stock</key>
+					<integer>447</integer>
+					<key>stockBracket</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>6</integer>
+					<key>demandBracket</key>
+					<integer>3</integer>
+					<key>meanPrice</key>
+					<integer>31062</integer>
+					<key>name</key>
+					<string>usscargoblackbox</string>
+					<key>sellPrice</key>
+					<integer>31099</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>1749</integer>
+					<key>demandBracket</key>
+					<integer>2</integer>
+					<key>meanPrice</key>
+					<integer>278</integer>
+					<key>name</key>
+					<string>water</string>
+					<key>sellPrice</key>
+					<integer>643</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>679</integer>
+					<key>demandBracket</key>
+					<integer>3</integer>
+					<key>meanPrice</key>
+					<integer>484</integer>
+					<key>name</key>
+					<string>waterpurifiers</string>
+					<key>sellPrice</key>
+					<integer>906</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>834</integer>
+					<key>demandBracket</key>
+					<integer>3</integer>
+					<key>meanPrice</key>
+					<integer>507</integer>
+					<key>name</key>
+					<string>wine</string>
+					<key>sellPrice</key>
+					<integer>849</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>buyPrice</key>
+					<integer>0</integer>
+					<key>demand</key>
+					<integer>47</integer>
+					<key>demandBracket</key>
+					<integer>3</integer>
+					<key>meanPrice</key>
+					<integer>9033</integer>
+					<key>name</key>
+					<string>wreckagecomponents</string>
+					<key>sellPrice</key>
+					<integer>8981</integer>
+					<key>stock</key>
+					<integer>0</integer>
+					<key>stockBracket</key>
+					<integer>0</integer>
+				</dict>
+			</array>
+			<key>StarSystem</key>
+			<string>Gaoshe</string>
+			<key>StationName</key>
+			<string>Potrykus Horizons</string>
+			<key>StationType</key>
+			<string>Outpost</string>
+			<key>timestamp</key>
+			<string>2026-09-18T14:09:24Z</string>
+		</dict>
+	</dict>
 	<key>Gateway</key>
 	<dict>
 		<key>Dublin Citadel</key>
@@ -175083,7 +176720,7 @@
 				</dict>
 				<dict>
 					<key>buyPrice</key>
-					<integer>48681</integer>
+					<integer>48700</integer>
 					<key>demand</key>
 					<integer>1</integer>
 					<key>demandBracket</key>
@@ -175093,9 +176730,9 @@
 					<key>name</key>
 					<string>gold</string>
 					<key>sellPrice</key>
-					<integer>48125</integer>
+					<integer>48145</integer>
 					<key>stock</key>
-					<integer>82</integer>
+					<integer>73</integer>
 					<key>stockBracket</key>
 					<integer>3</integer>
 				</dict>
@@ -175587,7 +177224,7 @@
 				</dict>
 				<dict>
 					<key>buyPrice</key>
-					<integer>52087</integer>
+					<integer>52118</integer>
 					<key>demand</key>
 					<integer>1</integer>
 					<key>demandBracket</key>
@@ -175597,9 +177234,9 @@
 					<key>name</key>
 					<string>palladium</string>
 					<key>sellPrice</key>
-					<integer>51499</integer>
+					<integer>51530</integer>
 					<key>stock</key>
-					<integer>12</integer>
+					<integer>10</integer>
 					<key>stockBracket</key>
 					<integer>3</integer>
 				</dict>
@@ -175851,7 +177488,7 @@
 					<key>sellPrice</key>
 					<integer>39516</integer>
 					<key>stock</key>
-					<integer>113</integer>
+					<integer>111</integer>
 					<key>stockBracket</key>
 					<integer>3</integer>
 				</dict>
@@ -176019,7 +177656,7 @@
 				</dict>
 				<dict>
 					<key>buyPrice</key>
-					<integer>2328</integer>
+					<integer>2316</integer>
 					<key>demand</key>
 					<integer>1</integer>
 					<key>demandBracket</key>
@@ -176029,9 +177666,9 @@
 					<key>name</key>
 					<string>uranium</string>
 					<key>sellPrice</key>
-					<integer>2269</integer>
+					<integer>2258</integer>
 					<key>stock</key>
-					<integer>275</integer>
+					<integer>305</integer>
 					<key>stockBracket</key>
 					<integer>3</integer>
 				</dict>
@@ -176133,7 +177770,7 @@
 			<key>StationType</key>
 			<string>Outpost</string>
 			<key>timestamp</key>
-			<string>2026-09-17T12:24:42Z</string>
+			<string>2026-09-18T12:37:15Z</string>
 		</dict>
 	</dict>
 	<key>HIP 10579</key>
@@ -396834,7 +398471,7 @@
 					<key>buyPrice</key>
 					<integer>0</integer>
 					<key>demand</key>
-					<integer>79539</integer>
+					<integer>79757</integer>
 					<key>demandBracket</key>
 					<integer>3</integer>
 					<key>meanPrice</key>
@@ -396842,7 +398479,7 @@
 					<key>name</key>
 					<string>animalmeat</string>
 					<key>sellPrice</key>
-					<integer>1700</integer>
+					<integer>1702</integer>
 					<key>stock</key>
 					<integer>0</integer>
 					<key>stockBracket</key>
@@ -397104,15 +398741,15 @@
 					<key>buyPrice</key>
 					<integer>0</integer>
 					<key>demand</key>
-					<integer>185470</integer>
+					<integer>190270</integer>
 					<key>demandBracket</key>
-					<integer>2</integer>
+					<integer>3</integer>
 					<key>meanPrice</key>
 					<integer>546</integer>
 					<key>name</key>
 					<string>clothing</string>
 					<key>sellPrice</key>
-					<integer>685</integer>
+					<integer>699</integer>
 					<key>stock</key>
 					<integer>0</integer>
 					<key>stockBracket</key>
@@ -397158,7 +398795,7 @@
 					<key>buyPrice</key>
 					<integer>0</integer>
 					<key>demand</key>
-					<integer>19723</integer>
+					<integer>19941</integer>
 					<key>demandBracket</key>
 					<integer>3</integer>
 					<key>meanPrice</key>
@@ -397166,7 +398803,7 @@
 					<key>name</key>
 					<string>coffee</string>
 					<key>sellPrice</key>
-					<integer>1694</integer>
+					<integer>1702</integer>
 					<key>stock</key>
 					<integer>0</integer>
 					<key>stockBracket</key>
@@ -397176,7 +398813,7 @@
 					<key>buyPrice</key>
 					<integer>0</integer>
 					<key>demand</key>
-					<integer>576345</integer>
+					<integer>576723</integer>
 					<key>demandBracket</key>
 					<integer>3</integer>
 					<key>meanPrice</key>
@@ -397338,7 +398975,7 @@
 					<key>buyPrice</key>
 					<integer>0</integer>
 					<key>demand</key>
-					<integer>53182</integer>
+					<integer>56650</integer>
 					<key>demandBracket</key>
 					<integer>2</integer>
 					<key>meanPrice</key>
@@ -397346,7 +398983,7 @@
 					<key>name</key>
 					<string>domesticappliances</string>
 					<key>sellPrice</key>
-					<integer>848</integer>
+					<integer>883</integer>
 					<key>stock</key>
 					<integer>0</integer>
 					<key>stockBracket</key>
@@ -397608,7 +399245,7 @@
 					<key>buyPrice</key>
 					<integer>0</integer>
 					<key>demand</key>
-					<integer>55455</integer>
+					<integer>60173</integer>
 					<key>demandBracket</key>
 					<integer>2</integer>
 					<key>meanPrice</key>
@@ -397616,7 +399253,7 @@
 					<key>name</key>
 					<string>hnshockmount</string>
 					<key>sellPrice</key>
-					<integer>1750</integer>
+					<integer>1781</integer>
 					<key>stock</key>
 					<integer>0</integer>
 					<key>stockBracket</key>
@@ -397734,7 +399371,7 @@
 					<key>buyPrice</key>
 					<integer>0</integer>
 					<key>demand</key>
-					<integer>784789</integer>
+					<integer>785004</integer>
 					<key>demandBracket</key>
 					<integer>3</integer>
 					<key>meanPrice</key>
@@ -398022,7 +399659,7 @@
 					<key>buyPrice</key>
 					<integer>0</integer>
 					<key>demand</key>
-					<integer>2812761</integer>
+					<integer>2813538</integer>
 					<key>demandBracket</key>
 					<integer>3</integer>
 					<key>meanPrice</key>
@@ -398868,7 +400505,7 @@
 					<key>buyPrice</key>
 					<integer>0</integer>
 					<key>demand</key>
-					<integer>237685</integer>
+					<integer>239089</integer>
 					<key>demandBracket</key>
 					<integer>3</integer>
 					<key>meanPrice</key>
@@ -398876,7 +400513,7 @@
 					<key>name</key>
 					<string>water</string>
 					<key>sellPrice</key>
-					<integer>564</integer>
+					<integer>567</integer>
 					<key>stock</key>
 					<integer>0</integer>
 					<key>stockBracket</key>
@@ -398886,7 +400523,7 @@
 					<key>buyPrice</key>
 					<integer>0</integer>
 					<key>demand</key>
-					<integer>75777</integer>
+					<integer>77665</integer>
 					<key>demandBracket</key>
 					<integer>2</integer>
 					<key>meanPrice</key>
@@ -398894,7 +400531,7 @@
 					<key>name</key>
 					<string>waterpurifiers</string>
 					<key>sellPrice</key>
-					<integer>541</integer>
+					<integer>552</integer>
 					<key>stock</key>
 					<integer>0</integer>
 					<key>stockBracket</key>
@@ -398944,7 +400581,7 @@
 			<key>StationType</key>
 			<string>Orbis</string>
 			<key>timestamp</key>
-			<string>2026-09-17T21:08:57Z</string>
+			<string>2026-09-18T09:40:18Z</string>
 		</dict>
 	</dict>
 	<key>Shokwus</key>
@@ -476258,7 +477895,7 @@
 				</dict>
 				<dict>
 					<key>buyPrice</key>
-					<integer>3746</integer>
+					<integer>4147</integer>
 					<key>demand</key>
 					<integer>1</integer>
 					<key>demandBracket</key>
@@ -476268,11 +477905,11 @@
 					<key>name</key>
 					<string>personalweapons</string>
 					<key>sellPrice</key>
-					<integer>3648</integer>
+					<integer>4038</integer>
 					<key>stock</key>
-					<integer>444</integer>
+					<integer>90</integer>
 					<key>stockBracket</key>
-					<integer>3</integer>
+					<integer>1</integer>
 				</dict>
 				<dict>
 					<key>buyPrice</key>
@@ -476638,7 +478275,7 @@
 					<key>buyPrice</key>
 					<integer>0</integer>
 					<key>demand</key>
-					<integer>3045</integer>
+					<integer>3058</integer>
 					<key>demandBracket</key>
 					<integer>2</integer>
 					<key>meanPrice</key>
@@ -476646,7 +478283,7 @@
 					<key>name</key>
 					<string>tritium</string>
 					<key>sellPrice</key>
-					<integer>57596</integer>
+					<integer>57601</integer>
 					<key>stock</key>
 					<integer>0</integer>
 					<key>stockBracket</key>
@@ -476768,7 +478405,7 @@
 			<key>StationType</key>
 			<string>Coriolis</string>
 			<key>timestamp</key>
-			<string>2026-09-17T12:16:51Z</string>
+			<string>2026-09-18T12:26:58Z</string>
 		</dict>
 	</dict>
 	<key>Wu Guinagi</key>
