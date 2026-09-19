@@ -13235,7 +13235,7 @@
 	<key>Cowling Refinery_Caleket</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1200.0486900000001</real>
+		<real>1202.146663</real>
 		<key>starSystem</key>
 		<string>Caleket</string>
 		<key>stationFaction</key>
@@ -13277,7 +13277,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260627</string>
+		<string>20260919</string>
 	</dict>
 	<key>Cowper Dock_Anima</key>
 	<dict>
@@ -18905,7 +18905,7 @@
 	<key>Folland Port_Nyalayan</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>55.610731999999999</real>
+		<real>55.493008000000003</real>
 		<key>starSystem</key>
 		<string>Nyalayan</string>
 		<key>stationFaction</key>
@@ -18949,7 +18949,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20260917</string>
+		<string>20260919</string>
 	</dict>
 	<key>Ford City_Groombridge 34</key>
 	<dict>
@@ -29757,7 +29757,7 @@
 	<key>Impey Ring_Sibianoe</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>15.340565</real>
+		<real>15.345874999999999</real>
 		<key>starSystem</key>
 		<string>Sibianoe</string>
 		<key>stationFaction</key>
@@ -29800,7 +29800,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260918</string>
+		<string>20260919</string>
 	</dict>
 	<key>Irvin Refinery_Flousop</key>
 	<dict>
@@ -30508,7 +30508,7 @@
 	<key>John Irving Station_Asphodel</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>194.47228699999999</real>
+		<real>194.46106900000001</real>
 		<key>starSystem</key>
 		<string>Asphodel</string>
 		<key>stationFaction</key>
@@ -30554,7 +30554,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20260916</string>
+		<string>20260919</string>
 	</dict>
 	<key>Johnson Terminal_Zang Tangma</key>
 	<dict>
@@ -45170,11 +45170,13 @@
 	<key>Oshima's Claim_Nyan</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>564.03396099999998</real>
+		<real>570.92542000000003</real>
 		<key>starSystem</key>
 		<string>Nyan</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Expansion</string>
 			<key>Name</key>
 			<string>Brazilian League of Pilots</string>
 		</dict>
@@ -45210,7 +45212,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260914</string>
+		<string>20260919</string>
 	</dict>
 	<key>Osterbrock Landing_Wayica</key>
 	<dict>
@@ -47673,13 +47675,11 @@
 	<key>Polya Coliseum_Aymifa</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>448.98937100000001</real>
+		<real>449.04110900000001</real>
 		<key>starSystem</key>
 		<string>Aymifa</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>Boom</string>
 			<key>Name</key>
 			<string>Lavigny's Legion</string>
 		</dict>
@@ -47718,7 +47718,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20260516</string>
+		<string>20260919</string>
 	</dict>
 	<key>Polya Station_Harrigi</key>
 	<dict>
@@ -73652,11 +73652,13 @@
 	<key>Urkovic Station_Pai Huldr</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1597.95517</real>
+		<real>1609.6485170000001</real>
 		<key>starSystem</key>
 		<string>Pai Huldr</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Election</string>
 			<key>Name</key>
 			<string>ELITE SPACE WINGS</string>
 		</dict>
@@ -73695,7 +73697,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260916</string>
+		<string>20260919</string>
 	</dict>
 	<key>Usachov Settlement_HIP 62809</key>
 	<dict>
@@ -77613,7 +77615,7 @@
 	<key>XFJ-T8T_Dumni</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1393.696154</real>
+		<real>1391.578119</real>
 		<key>starSystem</key>
 		<string>Dumni</string>
 		<key>stationFaction</key>
@@ -77648,7 +77650,7 @@
 		<key>stationType</key>
 		<string>FleetCarrier</string>
 		<key>updated</key>
-		<string>20260903</string>
+		<string>20260919</string>
 	</dict>
 	<key>Xin Hub_Lombi</key>
 	<dict>
