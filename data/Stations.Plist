@@ -31158,7 +31158,7 @@
 	<key>Jordan Orbital_HR 494</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>3227.7001310000001</real>
+		<real>3227.3501649999998</real>
 		<key>starSystem</key>
 		<string>HR 494</string>
 		<key>stationFaction</key>
@@ -31201,7 +31201,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260922</string>
+		<string>20260923</string>
 	</dict>
 	<key>Joseph Delambre Hub_HIP 22006</key>
 	<dict>
@@ -62772,6 +62772,44 @@
 		<string>FleetCarrier</string>
 		<key>updated</key>
 		<string>20260625</string>
+	</dict>
+	<key>THH-LHG_HIP 6795</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>0.0</real>
+		<key>starSystem</key>
+		<string>HIP 6795</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>FleetCarrier</string>
+		</dict>
+		<key>stationName</key>
+		<string>THH-LHG</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>shipyard</string>
+			<string>engineer</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>stationMenu</string>
+			<string>carriermanagement</string>
+			<string>carrierfuel</string>
+			<string>socialspace</string>
+		</array>
+		<key>stationType</key>
+		<string>FleetCarrier</string>
+		<key>updated</key>
+		<string>20260923</string>
 	</dict>
 	<key>THH-LHG_HIP 6807</key>
 	<dict>
