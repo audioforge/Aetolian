@@ -5440,10 +5440,8 @@
 		<dict>
 			<key>Active</key>
 			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.54083700000000001</real>
+			<real>0.53884500000000002</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -5453,23 +5451,19 @@
 		<dict>
 			<key>Active</key>
 			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.22808800000000001</real>
+			<real>0.25199199999999999</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
-			<string>Famine</string>
+			<string>None</string>
 		</dict>
 		<key>Jet Allied Corporation</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.037849000000000001</real>
+			<real>0.027888</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -5479,10 +5473,8 @@
 		<dict>
 			<key>Active</key>
 			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.024899999999999999</real>
+			<real>0.012947999999999999</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -5492,8 +5484,6 @@
 		<dict>
 			<key>Active</key>
 			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
 			<key>Influence</key>
 			<real>0.039841000000000001</real>
 			<key>Pending</key>
@@ -5505,8 +5495,6 @@
 		<dict>
 			<key>Active</key>
 			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
 			<key>Influence</key>
 			<real>0.11852600000000001</real>
 			<key>Pending</key>
@@ -5518,8 +5506,86 @@
 		<dict>
 			<key>Active</key>
 			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.0099600000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
+	<key>20260924</key>
+	<dict>
+		<key>ELITE SPACE WINGS</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Influence</key>
+			<real>0.50298799999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Election</string>
+		</dict>
+		<key>G.O.M. Collective</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Influence</key>
+			<real>0.27788800000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Election</string>
+		</dict>
+		<key>Jet Allied Corporation</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Influence</key>
+			<real>0.033864999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Nationalists of Quivira</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Influence</key>
+			<real>0.010956</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>People's Quivira for Equality</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Influence</key>
+			<real>0.037849000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Quivira Electronics PLC</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Influence</key>
+			<real>0.126494</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Quivira Purple Dragons</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
 			<key>Influence</key>
 			<real>0.0099600000000000001</real>
 			<key>Pending</key>
@@ -5587,7 +5653,7 @@
 		<key>system</key>
 		<string>Quivira A</string>
 		<key>updated</key>
-		<string>20260922</string>
+		<string>20260924</string>
 	</dict>
 </dict>
 </plist>
