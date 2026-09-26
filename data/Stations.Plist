@@ -8912,7 +8912,7 @@
 	<key>Brendan Gateway_Quivira</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>41.028964000000002</real>
+		<real>41.018971999999998</real>
 		<key>starSystem</key>
 		<string>Quivira</string>
 		<key>stationFaction</key>
@@ -8948,7 +8948,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260925</string>
+		<string>20260926</string>
 	</dict>
 	<key>Bresnik Dock_LTT 911</key>
 	<dict>
@@ -30548,7 +30548,7 @@
 	<key>John Irving Station_Asphodel</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>194.46106900000001</real>
+		<real>194.66942800000001</real>
 		<key>starSystem</key>
 		<string>Asphodel</string>
 		<key>stationFaction</key>
@@ -30594,7 +30594,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20260919</string>
+		<string>20260926</string>
 	</dict>
 	<key>Johnson Terminal_Zang Tangma</key>
 	<dict>
@@ -31944,11 +31944,13 @@
 	<key>Kaufmanis Port_Eotienses</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>56.087699999999998</real>
+		<real>56.155579000000003</real>
 		<key>starSystem</key>
 		<string>Eotienses</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>CivilLiberty</string>
 			<key>Name</key>
 			<string>Royal Privateers</string>
 		</dict>
@@ -31987,7 +31989,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20260829</string>
+		<string>20260926</string>
 	</dict>
 	<key>Keeler Port_Yaso Kondi</key>
 	<dict>
@@ -33258,7 +33260,7 @@
 	<key>Kohoutek Mines_Jemede</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>574.18293100000005</real>
+		<real>574.26872900000001</real>
 		<key>starSystem</key>
 		<string>Jemede</string>
 		<key>stationFaction</key>
@@ -33296,7 +33298,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260925</string>
+		<string>20260926</string>
 	</dict>
 	<key>Kojima Station_HIP 7304</key>
 	<dict>
@@ -54684,11 +54686,13 @@
 	<key>Slipher Vision_Kadrusa</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>102.749331</real>
+		<real>102.72724599999999</real>
 		<key>starSystem</key>
 		<string>Kadrusa</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Bust</string>
 			<key>Name</key>
 			<string>G.O.M. Collective</string>
 		</dict>
@@ -54727,7 +54731,7 @@
 		<key>stationType</key>
 		<string>Ocellus</string>
 		<key>updated</key>
-		<string>20260925</string>
+		<string>20260926</string>
 	</dict>
 	<key>Sm1tty's Shack_LTT 9587</key>
 	<dict>
@@ -65700,7 +65704,7 @@
 		<key>stationType</key>
 		<string>FleetCarrier</string>
 		<key>updated</key>
-		<string>20260925</string>
+		<string>20260926</string>
 	</dict>
 	<key>THH-LHG_Njokujinun</key>
 	<dict>
@@ -73948,11 +73952,13 @@
 	<key>Urkovic Station_Pai Huldr</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1647.525936</real>
+		<real>1618.3249639999999</real>
 		<key>starSystem</key>
 		<string>Pai Huldr</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Election</string>
 			<key>Name</key>
 			<string>G.O.M. Collective</string>
 		</dict>
@@ -73975,6 +73981,7 @@
 			<string>tuning</string>
 			<string>engineer</string>
 			<string>missionsgenerated</string>
+			<string>facilitator</string>
 			<string>flightcontroller</string>
 			<string>stationoperations</string>
 			<string>powerplay</string>
@@ -73991,7 +73998,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260922</string>
+		<string>20260926</string>
 	</dict>
 	<key>Usachov Settlement_HIP 62809</key>
 	<dict>
@@ -79455,7 +79462,7 @@
 	<key>de Seversky Plant_Ba Nari</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>269.78883300000001</real>
+		<real>269.71450299999998</real>
 		<key>starSystem</key>
 		<string>Ba Nari</string>
 		<key>stationFaction</key>
@@ -79498,7 +79505,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260925</string>
+		<string>20260926</string>
 	</dict>
 	<key>i Sola Hub_HIP 6011</key>
 	<dict>
