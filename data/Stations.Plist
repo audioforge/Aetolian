@@ -8912,7 +8912,7 @@
 	<key>Brendan Gateway_Quivira</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>40.928832999999997</real>
+		<real>41.028964000000002</real>
 		<key>starSystem</key>
 		<string>Quivira</string>
 		<key>stationFaction</key>
@@ -8948,7 +8948,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260904</string>
+		<string>20260925</string>
 	</dict>
 	<key>Bresnik Dock_LTT 911</key>
 	<dict>
@@ -13574,7 +13574,7 @@
 	<key>Crown Works_Dumni</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1363.867643</real>
+		<real>1363.505535</real>
 		<key>starSystem</key>
 		<string>Dumni</string>
 		<key>stationFaction</key>
@@ -13616,7 +13616,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260924</string>
+		<string>20260925</string>
 	</dict>
 	<key>Cuffey Orbital_Vequess</key>
 	<dict>
@@ -33258,13 +33258,11 @@
 	<key>Kohoutek Mines_Jemede</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>574.75226999999995</real>
+		<real>574.18293100000005</real>
 		<key>starSystem</key>
 		<string>Jemede</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>Boom</string>
 			<key>Name</key>
 			<string>Reret Emperor's Grace</string>
 		</dict>
@@ -33298,7 +33296,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260723</string>
+		<string>20260925</string>
 	</dict>
 	<key>Kojima Station_HIP 7304</key>
 	<dict>
@@ -41529,7 +41527,7 @@
 	<key>Moore Hub_Gender</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>386.041472</real>
+		<real>386.02161699999999</real>
 		<key>starSystem</key>
 		<string>Gender</string>
 		<key>stationFaction</key>
@@ -41568,7 +41566,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260425</string>
+		<string>20260925</string>
 	</dict>
 	<key>Moore Works_38 Arietis</key>
 	<dict>
@@ -41986,7 +41984,7 @@
 	<key>Mukai Enterprise_Degardhi</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>4468.9433220000001</real>
+		<real>4469.3563670000003</real>
 		<key>starSystem</key>
 		<string>Degardhi</string>
 		<key>stationFaction</key>
@@ -42025,7 +42023,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260827</string>
+		<string>20260925</string>
 	</dict>
 	<key>Mukai Gateway_LP 282-7</key>
 	<dict>
@@ -45257,13 +45255,11 @@
 	<key>Oshima's Claim_Nyan</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>570.92542000000003</real>
+		<real>578.29925000000003</real>
 		<key>starSystem</key>
 		<string>Nyan</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>Expansion</string>
 			<key>Name</key>
 			<string>Brazilian League of Pilots</string>
 		</dict>
@@ -45299,7 +45295,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260919</string>
+		<string>20260925</string>
 	</dict>
 	<key>Osterbrock Landing_Wayica</key>
 	<dict>
@@ -54688,7 +54684,7 @@
 	<key>Slipher Vision_Kadrusa</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>102.707724</real>
+		<real>102.749331</real>
 		<key>starSystem</key>
 		<string>Kadrusa</string>
 		<key>stationFaction</key>
@@ -54731,7 +54727,7 @@
 		<key>stationType</key>
 		<string>Ocellus</string>
 		<key>updated</key>
-		<string>20260922</string>
+		<string>20260925</string>
 	</dict>
 	<key>Sm1tty's Shack_LTT 9587</key>
 	<dict>
@@ -65667,6 +65663,44 @@
 		<string>FleetCarrier</string>
 		<key>updated</key>
 		<string>20260703</string>
+	</dict>
+	<key>THH-LHG_Nespel</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>0.0</real>
+		<key>starSystem</key>
+		<string>Nespel</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>FleetCarrier</string>
+		</dict>
+		<key>stationName</key>
+		<string>THH-LHG</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>shipyard</string>
+			<string>engineer</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>stationMenu</string>
+			<string>carriermanagement</string>
+			<string>carrierfuel</string>
+			<string>socialspace</string>
+		</array>
+		<key>stationType</key>
+		<string>FleetCarrier</string>
+		<key>updated</key>
+		<string>20260925</string>
 	</dict>
 	<key>THH-LHG_Njokujinun</key>
 	<dict>
@@ -78518,7 +78552,7 @@
 	<key>Young Orbital_HIP 6807</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>3681.4877750000001</real>
+		<real>3688.5379830000002</real>
 		<key>starSystem</key>
 		<string>HIP 6807</string>
 		<key>stationFaction</key>
@@ -78558,7 +78592,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260924</string>
+		<string>20260925</string>
 	</dict>
 	<key>Young Port_LTT 874</key>
 	<dict>
@@ -79421,11 +79455,13 @@
 	<key>de Seversky Plant_Ba Nari</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>269.813785</real>
+		<real>269.78883300000001</real>
 		<key>starSystem</key>
 		<string>Ba Nari</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Election</string>
 			<key>Name</key>
 			<string>ELITE SPACE WINGS</string>
 		</dict>
@@ -79462,7 +79498,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260920</string>
+		<string>20260925</string>
 	</dict>
 	<key>i Sola Hub_HIP 6011</key>
 	<dict>
