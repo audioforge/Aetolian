@@ -4373,7 +4373,7 @@
 	<key>Bahcall Vision_Alyuta</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>233.05390199999999</real>
+		<real>233.075534</real>
 		<key>starSystem</key>
 		<string>Alyuta</string>
 		<key>stationFaction</key>
@@ -4417,7 +4417,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20250118</string>
+		<string>20260927</string>
 	</dict>
 	<key>Baillaud Dock_Gliese 58</key>
 	<dict>
@@ -8629,7 +8629,7 @@
 	<key>Boyer Dock_Mokoi</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>269.03632199999998</real>
+		<real>270.26453400000003</real>
 		<key>starSystem</key>
 		<string>Mokoi</string>
 		<key>stationFaction</key>
@@ -8673,7 +8673,7 @@
 		<key>stationType</key>
 		<string>Ocellus</string>
 		<key>updated</key>
-		<string>20260913</string>
+		<string>20260927</string>
 	</dict>
 	<key>Brackett Enterprise_Asphodel</key>
 	<dict>
@@ -31855,7 +31855,7 @@
 	<key>Karachkina Orbital_Rishanha</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>2671.310911</real>
+		<real>2690.2227069999999</real>
 		<key>starSystem</key>
 		<string>Rishanha</string>
 		<key>stationFaction</key>
@@ -31899,7 +31899,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260517</string>
+		<string>20260927</string>
 	</dict>
 	<key>Karachkina Orbital_Zvaithhogg</key>
 	<dict>
@@ -45257,11 +45257,13 @@
 	<key>Oshima's Claim_Nyan</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>578.29925000000003</real>
+		<real>580.88478199999997</real>
 		<key>starSystem</key>
 		<string>Nyan</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Election</string>
 			<key>Name</key>
 			<string>Brazilian League of Pilots</string>
 		</dict>
@@ -45297,7 +45299,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260925</string>
+		<string>20260927</string>
 	</dict>
 	<key>Osterbrock Landing_Wayica</key>
 	<dict>
@@ -54686,13 +54688,11 @@
 	<key>Slipher Vision_Kadrusa</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>102.72724599999999</real>
+		<real>102.694897</real>
 		<key>starSystem</key>
 		<string>Kadrusa</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>Bust</string>
 			<key>Name</key>
 			<string>G.O.M. Collective</string>
 		</dict>
@@ -54731,7 +54731,7 @@
 		<key>stationType</key>
 		<string>Ocellus</string>
 		<key>updated</key>
-		<string>20260926</string>
+		<string>20260927</string>
 	</dict>
 	<key>Sm1tty's Shack_LTT 9587</key>
 	<dict>
@@ -65704,7 +65704,7 @@
 		<key>stationType</key>
 		<string>FleetCarrier</string>
 		<key>updated</key>
-		<string>20260926</string>
+		<string>20260927</string>
 	</dict>
 	<key>THH-LHG_Njokujinun</key>
 	<dict>
