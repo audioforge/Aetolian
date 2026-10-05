@@ -3565,9 +3565,7 @@
 		<key>ELITE SPACE WINGS</key>
 		<dict>
 			<key>Active</key>
-			<string>Election</string>
-			<key>Happiness</key>
-			<string>Happy</string>
+			<string></string>
 			<key>Influence</key>
 			<real>0.23320199999999999</real>
 			<key>Pending</key>
@@ -3579,8 +3577,6 @@
 		<dict>
 			<key>Active</key>
 			<string></string>
-			<key>Happiness</key>
-			<string>Happy</string>
 			<key>Influence</key>
 			<real>0.30237199999999997</real>
 			<key>Pending</key>
@@ -3591,9 +3587,7 @@
 		<key>Urcia Allied &amp; Co</key>
 		<dict>
 			<key>Active</key>
-			<string>Election</string>
-			<key>Happiness</key>
-			<string>Happy</string>
+			<string></string>
 			<key>Influence</key>
 			<real>0.23320199999999999</real>
 			<key>Pending</key>
@@ -3605,10 +3599,90 @@
 		<dict>
 			<key>Active</key>
 			<string></string>
+			<key>Influence</key>
+			<real>0.027668000000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Urcia Republic Party</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Influence</key>
+			<real>0.049407</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Urcia Silver Hand Gang</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Influence</key>
+			<real>0.077075000000000005</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>CivilWar</string>
+		</dict>
+		<key>Urcia State Services</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Influence</key>
+			<real>0.077075000000000005</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>CivilWar</string>
+		</dict>
+	</dict>
+	<key>20261005</key>
+	<dict>
+		<key>ELITE SPACE WINGS</key>
+		<dict>
+			<key>Influence</key>
+			<real>0.19071099999999999</real>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Empire Corsairs</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.027668000000000002</real>
+			<real>0.297431</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Urcia Allied &amp; Co</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.26877499999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Urcia Empire Assembly</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.036561000000000003</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -3621,7 +3695,7 @@
 			<key>Happiness</key>
 			<string>Happy</string>
 			<key>Influence</key>
-			<real>0.049407</real>
+			<real>0.052372000000000002</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -3708,7 +3782,7 @@
 		<key>system</key>
 		<string>Urcia</string>
 		<key>updated</key>
-		<string>20261004</string>
+		<string>20261005</string>
 	</dict>
 </dict>
 </plist>
