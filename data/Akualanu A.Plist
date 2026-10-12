@@ -2364,6 +2364,8 @@
 		<dict>
 			<key>Active</key>
 			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
 			<key>Influence</key>
 			<real>0.089640999999999998</real>
 			<key>Pending</key>
@@ -2375,6 +2377,8 @@
 		<dict>
 			<key>Active</key>
 			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
 			<key>Influence</key>
 			<real>0.013944</real>
 			<key>Pending</key>
@@ -2386,6 +2390,8 @@
 		<dict>
 			<key>Active</key>
 			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
 			<key>Influence</key>
 			<real>0.38147399999999998</real>
 			<key>Pending</key>
@@ -2395,12 +2401,8 @@
 		</dict>
 		<key>G.O.M. Collective</key>
 		<dict>
-			<key>Active</key>
-			<string></string>
 			<key>Influence</key>
 			<real>0.21713099999999999</real>
-			<key>Pending</key>
-			<string></string>
 			<key>State</key>
 			<string>Expansion</string>
 		</dict>
@@ -2408,6 +2410,8 @@
 		<dict>
 			<key>Active</key>
 			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
 			<key>Influence</key>
 			<real>0.056772999999999997</real>
 			<key>Pending</key>
@@ -2419,6 +2423,8 @@
 		<dict>
 			<key>Active</key>
 			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
 			<key>Influence</key>
 			<real>0.056772999999999997</real>
 			<key>Pending</key>
@@ -2430,8 +2436,90 @@
 		<dict>
 			<key>Active</key>
 			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
 			<key>Influence</key>
 			<real>0.18426300000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
+	<key>20261010</key>
+	<dict>
+		<key>Akualanu United &amp; Co</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Influence</key>
+			<real>0.085743</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Cartel of Akualanu</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Influence</key>
+			<real>0.012961</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>ELITE SPACE WINGS</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Influence</key>
+			<real>0.37587199999999998</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Retreat</string>
+		</dict>
+		<key>G.O.M. Collective</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Influence</key>
+			<real>0.23230300000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Expansion</string>
+		</dict>
+		<key>Left Party of Akualanu</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Influence</key>
+			<real>0.061815000000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Revolutionary Akualanu Liberals</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Influence</key>
+			<real>0.054835000000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>The White Templars</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Influence</key>
+			<real>0.17647099999999999</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
@@ -2503,7 +2591,7 @@
 		<key>system</key>
 		<string>Akualanu A</string>
 		<key>updated</key>
-		<string>20261009</string>
+		<string>20261010</string>
 	</dict>
 </dict>
 </plist>
