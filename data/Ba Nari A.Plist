@@ -4908,6 +4908,8 @@
 		<dict>
 			<key>Active</key>
 			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
 			<key>Influence</key>
 			<real>0.01001</real>
 			<key>Pending</key>
@@ -4918,18 +4920,22 @@
 		<key>Ba Nari Corp.</key>
 		<dict>
 			<key>Active</key>
-			<string></string>
+			<string>Election</string>
+			<key>Happiness</key>
+			<string>Elated</string>
 			<key>Influence</key>
 			<real>0.233233</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
-			<string>Boom</string>
+			<string>Election</string>
 		</dict>
 		<key>Ba Nari Stakeholders</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
 			<key>Influence</key>
 			<real>0.021021000000000001</real>
 			<key>Pending</key>
@@ -4941,6 +4947,8 @@
 		<dict>
 			<key>Active</key>
 			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
 			<key>Influence</key>
 			<real>0.034034000000000002</real>
 			<key>Pending</key>
@@ -4952,6 +4960,8 @@
 		<dict>
 			<key>Active</key>
 			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
 			<key>Influence</key>
 			<real>0.017017000000000001</real>
 			<key>Pending</key>
@@ -4962,24 +4972,28 @@
 		<key>ELITE SPACE WINGS</key>
 		<dict>
 			<key>Active</key>
-			<string></string>
+			<string>Election</string>
+			<key>Happiness</key>
+			<string>Happy</string>
 			<key>Influence</key>
 			<real>0.233233</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
-			<string>None</string>
+			<string>Election</string>
 		</dict>
 		<key>G.O.M. Collective</key>
 		<dict>
 			<key>Active</key>
 			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
 			<key>Influence</key>
 			<real>0.45145099999999999</real>
 			<key>Pending</key>
 			<string></string>
 			<key>State</key>
-			<string>None</string>
+			<string>Outbreak</string>
 		</dict>
 	</dict>
 	<key>Z</key>
@@ -5043,7 +5057,7 @@
 		<key>system</key>
 		<string>Ba Nari A</string>
 		<key>updated</key>
-		<string>20261014</string>
+		<string>20261015</string>
 	</dict>
 </dict>
 </plist>
