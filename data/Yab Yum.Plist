@@ -5244,8 +5244,14 @@
 	<dict>
 		<key>ELITE SPACE WINGS</key>
 		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
 			<key>Influence</key>
 			<real>0.220356</real>
+			<key>Pending</key>
+			<string></string>
 			<key>State</key>
 			<string>None</string>
 		</dict>
@@ -5328,6 +5334,86 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20261014</key>
+	<dict>
+		<key>ELITE SPACE WINGS</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Influence</key>
+			<real>0.21224100000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Paiwatec Flag</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Influence</key>
+			<real>0.28825299999999998</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Traditional Yab Yum Nationalists</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Influence</key>
+			<real>0.12339600000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Yab Yum Empire Consulate</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Influence</key>
+			<real>0.049357999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Yab Yum Gold Ring</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Influence</key>
+			<real>0.169793</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Yab Yum Inc</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Influence</key>
+			<real>0.065153000000000003</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Yab Yum Purple Allied Industry</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Influence</key>
+			<real>0.091807</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
@@ -5352,6 +5438,7 @@
 			<string>Sieganga</string>
 			<string>Mal Ye</string>
 			<string>Manthe</string>
+			<string>CD-41 359</string>
 			<string>Reret A</string>
 			<string>HIP 10589 A</string>
 			<string>Ketsauts A</string>
@@ -5392,7 +5479,7 @@
 		<key>system</key>
 		<string>Yab Yum</string>
 		<key>updated</key>
-		<string>20261013</string>
+		<string>20261014</string>
 	</dict>
 </dict>
 </plist>
