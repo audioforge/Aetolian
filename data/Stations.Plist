@@ -15135,11 +15135,13 @@
 	<key>Dhawan Outpost_Mokowa</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>241.55061000000001</real>
+		<real>241.409243</real>
 		<key>starSystem</key>
 		<string>Mokowa</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Election</string>
 			<key>Name</key>
 			<string>ELITE SPACE WINGS</string>
 		</dict>
@@ -15176,7 +15178,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20261014</string>
+		<string>20261016</string>
 	</dict>
 	<key>Dhawan Platform_Jemede</key>
 	<dict>
@@ -23440,11 +23442,13 @@
 	<key>Godel Dock_Quivira</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>23.778756000000001</real>
+		<real>23.642944</real>
 		<key>starSystem</key>
 		<string>Quivira</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Election</string>
 			<key>Name</key>
 			<string>ELITE SPACE WINGS</string>
 		</dict>
@@ -23484,7 +23488,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260920</string>
+		<string>20261016</string>
 	</dict>
 	<key>Godel Plant_Noatin</key>
 	<dict>
@@ -32140,11 +32144,13 @@
 	<key>Karachkina Orbital_Rishanha</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>2690.500266</real>
+		<real>2689.775572</real>
 		<key>starSystem</key>
 		<string>Rishanha</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Election</string>
 			<key>Name</key>
 			<string>Amanogawa Enlight</string>
 		</dict>
@@ -32184,7 +32190,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20261009</string>
+		<string>20261016</string>
 	</dict>
 	<key>Karachkina Orbital_Zvaithhogg</key>
 	<dict>
@@ -33860,7 +33866,7 @@
 	<key>Korolyov Dock_HIP 6854</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>637.79190000000006</real>
+		<real>637.58538799999997</real>
 		<key>starSystem</key>
 		<string>HIP 6854</string>
 		<key>stationFaction</key>
@@ -33904,7 +33910,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20261009</string>
+		<string>20261016</string>
 	</dict>
 	<key>Kosai Station_Kholu</key>
 	<dict>
@@ -36268,13 +36274,13 @@
 	<key>Leckie Port_HR 494</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>5614.1648560000003</real>
+		<real>5613.4767979999997</real>
 		<key>starSystem</key>
 		<string>HR 494</string>
 		<key>stationFaction</key>
 		<dict>
 			<key>Name</key>
-			<string>ELITE SPACE WINGS</string>
+			<string>Quamta Noblement</string>
 		</dict>
 		<key>stationName</key>
 		<string>Leckie Port</string>
@@ -36311,7 +36317,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260805</string>
+		<string>20261016</string>
 	</dict>
 	<key>Ledyard Survey_Nyan</key>
 	<dict>
@@ -38524,11 +38530,13 @@
 	<key>Lyne Vision_Nyalayan</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>158.94834</real>
+		<real>158.926422</real>
 		<key>starSystem</key>
 		<string>Nyalayan</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Election</string>
 			<key>Name</key>
 			<string>Amanogawa Enlight</string>
 		</dict>
@@ -38565,7 +38573,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260521</string>
+		<string>20261016</string>
 	</dict>
 	<key>Lyulka Beacon_Liabeze</key>
 	<dict>
@@ -41611,11 +41619,13 @@
 	<key>Milne Orbital_Sowathara</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>177.33759499999999</real>
+		<real>177.19939500000001</real>
 		<key>starSystem</key>
 		<string>Sowathara</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Election</string>
 			<key>Name</key>
 			<string>Empire Corsairs</string>
 		</dict>
@@ -41655,7 +41665,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20261001</string>
+		<string>20261016</string>
 	</dict>
 	<key>Mitanek Orbiter_LHS 1071</key>
 	<dict>
@@ -43090,7 +43100,7 @@
 	<key>Naburimannu Station_Usdiae</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>619.58835599999998</real>
+		<real>619.61917900000003</real>
 		<key>starSystem</key>
 		<string>Usdiae</string>
 		<key>stationFaction</key>
@@ -43133,7 +43143,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20261015</string>
+		<string>20261016</string>
 	</dict>
 	<key>Nahavandi Platform_Alacagui</key>
 	<dict>
@@ -44433,11 +44443,13 @@
 	<key>Nomura Vision_Shambhala</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>502.92473999999999</real>
+		<real>504.360814</real>
 		<key>starSystem</key>
 		<string>Shambhala</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Election</string>
 			<key>Name</key>
 			<string>ELITE SPACE WINGS</string>
 		</dict>
@@ -44476,7 +44488,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20260916</string>
+		<string>20261016</string>
 	</dict>
 	<key>Norman Prospect_Santupik</key>
 	<dict>
@@ -70531,7 +70543,7 @@
 		<key>stationType</key>
 		<string>FleetCarrier</string>
 		<key>updated</key>
-		<string>20261015</string>
+		<string>20261016</string>
 	</dict>
 	<key>THH-LHG_Yokusu</key>
 	<dict>
@@ -74368,13 +74380,11 @@
 	<key>Tully Survey_Quamta</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>9.3137120000000007</real>
+		<real>9.3480690000000006</real>
 		<key>starSystem</key>
 		<string>Quamta</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>Boom</string>
 			<key>Name</key>
 			<string>Delta Phoenicis Empire League</string>
 		</dict>
@@ -74410,7 +74420,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20261014</string>
+		<string>20261016</string>
 	</dict>
 	<key>Turner Terminal_HIP 12119</key>
 	<dict>
@@ -80301,7 +80311,7 @@
 	<key>de Seversky Plant_Ba Nari</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>269.80464899999998</real>
+		<real>269.82192500000002</real>
 		<key>starSystem</key>
 		<string>Ba Nari</string>
 		<key>stationFaction</key>
@@ -80342,7 +80352,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20261015</string>
+		<string>20261016</string>
 	</dict>
 	<key>i Sola Hub_HIP 6011</key>
 	<dict>
