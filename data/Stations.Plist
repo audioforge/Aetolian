@@ -167,7 +167,7 @@
 	<key>Abe Hub_Meliontit</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>557.21318499999995</real>
+		<real>556.78228799999999</real>
 		<key>starSystem</key>
 		<string>Meliontit</string>
 		<key>stationFaction</key>
@@ -211,7 +211,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20261002</string>
+		<string>20261019</string>
 	</dict>
 	<key>Abe Ring_Iboraga</key>
 	<dict>
@@ -2303,7 +2303,7 @@
 	<key>Amano Dock_HIP 6807</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>3601.1472450000001</real>
+		<real>3662.572983</real>
 		<key>starSystem</key>
 		<string>HIP 6807</string>
 		<key>stationFaction</key>
@@ -2343,7 +2343,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260924</string>
+		<string>20261019</string>
 	</dict>
 	<key>Amedeo Plana Orbital_HIP 4310</key>
 	<dict>
@@ -7939,11 +7939,13 @@
 	<key>Bond Port_Urcia</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>4164.9820200000004</real>
+		<real>4221.57852</real>
 		<key>starSystem</key>
 		<string>Urcia</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Election</string>
 			<key>Name</key>
 			<string>Urcia Allied &amp; Co</string>
 		</dict>
@@ -7982,7 +7984,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20261014</string>
+		<string>20261019</string>
 	</dict>
 	<key>Bond Terminal_Lusoneshas</key>
 	<dict>
@@ -11602,7 +11604,7 @@
 	<key>Celsius Station_HIP 7304</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>225.22915</real>
+		<real>225.128657</real>
 		<key>starSystem</key>
 		<string>HIP 7304</string>
 		<key>stationFaction</key>
@@ -11648,7 +11650,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260921</string>
+		<string>20261019</string>
 	</dict>
 	<key>Cerulli Market_HIP 7817</key>
 	<dict>
@@ -11836,7 +11838,7 @@
 	<key>Chandra Hub_Hruntia</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>61.440441999999997</real>
+		<real>61.470844999999997</real>
 		<key>starSystem</key>
 		<string>Hruntia</string>
 		<key>stationFaction</key>
@@ -11878,7 +11880,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20261018</string>
+		<string>20261019</string>
 	</dict>
 	<key>Chargaff Point_19 Phi-2 Ceti</key>
 	<dict>
@@ -12397,13 +12399,11 @@
 	<key>Clark Point_Fei Lin</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>88.225076000000001</real>
+		<real>82.892977999999999</real>
 		<key>starSystem</key>
 		<string>Fei Lin</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>War</string>
 			<key>Name</key>
 			<string>Amanogawa Enlight</string>
 		</dict>
@@ -12440,12 +12440,12 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20261005</string>
+		<string>20261019</string>
 	</dict>
 	<key>Clark Ring_Yab Yum</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>15.366904999999999</real>
+		<real>15.349913000000001</real>
 		<key>starSystem</key>
 		<string>Yab Yum</string>
 		<key>stationFaction</key>
@@ -12488,7 +12488,7 @@
 		<key>stationType</key>
 		<string>Orbis</string>
 		<key>updated</key>
-		<string>20260930</string>
+		<string>20261019</string>
 	</dict>
 	<key>Coelho Station_Matet</key>
 	<dict>
@@ -13715,11 +13715,13 @@
 	<key>Crown Works_Dumni</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1363.505535</real>
+		<real>1358.1739219999999</real>
 		<key>starSystem</key>
 		<string>Dumni</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Expansion</string>
 			<key>Name</key>
 			<string>Aetolians</string>
 		</dict>
@@ -13757,7 +13759,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260925</string>
+		<string>20261019</string>
 	</dict>
 	<key>Cuffey Orbital_Vequess</key>
 	<dict>
@@ -14868,11 +14870,13 @@
 	<key>Delporte Vision_Neginn</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>6.2412260000000002</real>
+		<real>6.1882140000000003</real>
 		<key>starSystem</key>
 		<string>Neginn</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Expansion</string>
 			<key>Name</key>
 			<string>Aetolians</string>
 		</dict>
@@ -14908,7 +14912,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20261016</string>
+		<string>20261019</string>
 	</dict>
 	<key>Delsanti Orbital_Teliadjali</key>
 	<dict>
@@ -15448,11 +15452,13 @@
 	<key>DiFate Landing_Mu Nialfi</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>18.660844999999998</real>
+		<real>18.760111999999999</real>
 		<key>starSystem</key>
 		<string>Mu Nialfi</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Election</string>
 			<key>Name</key>
 			<string>Friends of Mu Nialfi</string>
 		</dict>
@@ -15487,7 +15493,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20261004</string>
+		<string>20261019</string>
 	</dict>
 	<key>Dillon Survey_49 Ceti</key>
 	<dict>
@@ -18864,7 +18870,7 @@
 	<key>Flettner Vision_NLTT 7856</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>753.01137000000006</real>
+		<real>752.39793399999996</real>
 		<key>starSystem</key>
 		<string>NLTT 7856</string>
 		<key>stationFaction</key>
@@ -18901,7 +18907,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260524</string>
+		<string>20261019</string>
 	</dict>
 	<key>Florine Ring_Pini</key>
 	<dict>
@@ -25481,7 +25487,7 @@
 	<key>Gurney Hub_Miquitagat</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1483.0500770000001</real>
+		<real>1482.248476</real>
 		<key>starSystem</key>
 		<string>Miquitagat</string>
 		<key>stationFaction</key>
@@ -25525,7 +25531,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20261018</string>
+		<string>20261019</string>
 	</dict>
 	<key>Gurney Vision_CD-26 369</key>
 	<dict>
@@ -26481,7 +26487,7 @@
 	<key>Hansen Mines_Ao Kicho</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>117.592995</real>
+		<real>117.530252</real>
 		<key>starSystem</key>
 		<string>Ao Kicho</string>
 		<key>stationFaction</key>
@@ -26520,7 +26526,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260521</string>
+		<string>20261019</string>
 	</dict>
 	<key>Hansen Platform_Atacapa</key>
 	<dict>
@@ -29392,7 +29398,7 @@
 	<key>Hughes Vista_Akualanu</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>79.002030000000005</real>
+		<real>78.839771999999996</real>
 		<key>starSystem</key>
 		<string>Akualanu</string>
 		<key>stationFaction</key>
@@ -29438,7 +29444,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20261018</string>
+		<string>20261019</string>
 	</dict>
 	<key>Hume Survey_Laksmi</key>
 	<dict>
@@ -35496,7 +35502,7 @@
 	<key>Laming Vision_Zvaithhogg</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>11.868848</real>
+		<real>11.88236</real>
 		<key>starSystem</key>
 		<string>Zvaithhogg</string>
 		<key>stationFaction</key>
@@ -35540,7 +35546,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260916</string>
+		<string>20261019</string>
 	</dict>
 	<key>Landsteiner Terminal_59 Virginis</key>
 	<dict>
@@ -37415,13 +37421,11 @@
 	<key>Lomonosov Colony_Aymifa</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>639.80171700000005</real>
+		<real>639.56306099999995</real>
 		<key>starSystem</key>
 		<string>Aymifa</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>Boom</string>
 			<key>Name</key>
 			<string>Lavigny's Legion</string>
 		</dict>
@@ -37460,7 +37464,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20261014</string>
+		<string>20261019</string>
 	</dict>
 	<key>Lomonosov Hub_LEHPM 1902</key>
 	<dict>
@@ -41657,6 +41661,53 @@
 		<string>Outpost</string>
 		<key>updated</key>
 		<string>20260322</string>
+	</dict>
+	<key>Millosevich Terminal_Urcia</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>4274.3494799999999</real>
+		<key>starSystem</key>
+		<string>Urcia</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>FactionState</key>
+			<string>Election</string>
+			<key>Name</key>
+			<string>Empire Corsairs</string>
+		</dict>
+		<key>stationName</key>
+		<string>Millosevich Terminal</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Outpost</string>
+		<key>updated</key>
+		<string>20261019</string>
 	</dict>
 	<key>Milne Enterprise_Chebaei</key>
 	<dict>
@@ -51157,11 +51208,13 @@
 	<key>Rogers Vision_Valkindan</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>7.4183050000000001</real>
+		<real>7.3946779999999999</real>
 		<key>starSystem</key>
 		<string>Valkindan</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Election</string>
 			<key>Name</key>
 			<string>ELITE SPACE WINGS</string>
 		</dict>
@@ -51195,7 +51248,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20260920</string>
+		<string>20261019</string>
 	</dict>
 	<key>Rominger Orbital_BD+42 3917</key>
 	<dict>
@@ -55775,13 +55828,15 @@
 	<key>Somayaji Dock_Ao Kicho</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>65.907302000000001</real>
+		<real>65.892769000000001</real>
 		<key>starSystem</key>
 		<string>Ao Kicho</string>
 		<key>stationFaction</key>
 		<dict>
+			<key>FactionState</key>
+			<string>Expansion</string>
 			<key>Name</key>
-			<string>Ao Kicho Left Party</string>
+			<string>Aetolians</string>
 		</dict>
 		<key>stationName</key>
 		<string>Somayaji Dock</string>
@@ -55815,7 +55870,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20261009</string>
+		<string>20261019</string>
 	</dict>
 	<key>Somerville Station_Kharpulo</key>
 	<dict>
@@ -56511,13 +56566,11 @@
 	<key>Stone Colony_Fei Lin</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>3047.2387079999999</real>
+		<real>3181.9306649999999</real>
 		<key>starSystem</key>
 		<string>Fei Lin</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>War</string>
 			<key>Name</key>
 			<string>Amanogawa Enlight</string>
 		</dict>
@@ -56550,7 +56603,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20261005</string>
+		<string>20261019</string>
 	</dict>
 	<key>Stone Dock_Bhumij</key>
 	<dict>
@@ -57521,13 +57574,11 @@
 	<key>Syromyatnikov Horizons_Nu</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>1425.302203</real>
+		<real>1231.0802080000001</real>
 		<key>starSystem</key>
 		<string>Nu</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>Expansion</string>
 			<key>Name</key>
 			<string>G.O.M. Collective</string>
 		</dict>
@@ -57566,7 +57617,7 @@
 		<key>stationType</key>
 		<string>Coriolis</string>
 		<key>updated</key>
-		<string>20260423</string>
+		<string>20261019</string>
 	</dict>
 	<key>Szameit Landing_Anek Wango</key>
 	<dict>
@@ -78940,7 +78991,7 @@
 	<key>Xin Hub_Lombi</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>519.07561399999997</real>
+		<real>519.23262899999997</real>
 		<key>starSystem</key>
 		<string>Lombi</string>
 		<key>stationFaction</key>
@@ -78984,7 +79035,7 @@
 		<key>stationType</key>
 		<string>Ocellus</string>
 		<key>updated</key>
-		<string>20261014</string>
+		<string>20261019</string>
 	</dict>
 	<key>Xuesen Estate_CD-26 369</key>
 	<dict>
@@ -79500,13 +79551,11 @@
 	<key>Young Hub_Lombi</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>519.45670399999995</real>
+		<real>519.60395700000004</real>
 		<key>starSystem</key>
 		<string>Lombi</string>
 		<key>stationFaction</key>
 		<dict>
-			<key>FactionState</key>
-			<string>Boom</string>
 			<key>Name</key>
 			<string>The White Templars</string>
 		</dict>
@@ -79540,7 +79589,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20261005</string>
+		<string>20261019</string>
 	</dict>
 	<key>Young Orbital_HIP 6807</key>
 	<dict>
@@ -80269,6 +80318,54 @@
 		<key>updated</key>
 		<string>20260616</string>
 	</dict>
+	<key>al-Din al-Urdi Terminal_Hruntia</key>
+	<dict>
+		<key>DistFromStarLS</key>
+		<real>468.17316399999999</real>
+		<key>starSystem</key>
+		<string>Hruntia</string>
+		<key>stationFaction</key>
+		<dict>
+			<key>Name</key>
+			<string>Hruntia Silver Vision Network</string>
+		</dict>
+		<key>stationName</key>
+		<string>al-Din al-Urdi Terminal</string>
+		<key>stationServices</key>
+		<array>
+			<string>dock</string>
+			<string>autodock</string>
+			<string>commodities</string>
+			<string>contacts</string>
+			<string>exploration</string>
+			<string>missions</string>
+			<string>outfitting</string>
+			<string>crewlounge</string>
+			<string>rearm</string>
+			<string>refuel</string>
+			<string>repair</string>
+			<string>shipyard</string>
+			<string>tuning</string>
+			<string>engineer</string>
+			<string>missionsgenerated</string>
+			<string>flightcontroller</string>
+			<string>stationoperations</string>
+			<string>powerplay</string>
+			<string>searchrescue</string>
+			<string>stationMenu</string>
+			<string>shop</string>
+			<string>socialspace</string>
+			<string>bartender</string>
+			<string>vistagenomics</string>
+			<string>pioneersupplies</string>
+			<string>apexinterstellar</string>
+			<string>frontlinesolutions</string>
+		</array>
+		<key>stationType</key>
+		<string>Coriolis</string>
+		<key>updated</key>
+		<string>20261019</string>
+	</dict>
 	<key>de Kamp City_Valkindan</key>
 	<dict>
 		<key>DistFromStarLS</key>
@@ -80448,7 +80545,7 @@
 	<key>de Seversky Plant_Ba Nari</key>
 	<dict>
 		<key>DistFromStarLS</key>
-		<real>269.78460899999999</real>
+		<real>269.855434</real>
 		<key>starSystem</key>
 		<string>Ba Nari</string>
 		<key>stationFaction</key>
@@ -80489,7 +80586,7 @@
 		<key>stationType</key>
 		<string>Outpost</string>
 		<key>updated</key>
-		<string>20261017</string>
+		<string>20261019</string>
 	</dict>
 	<key>i Sola Hub_HIP 6011</key>
 	<dict>
