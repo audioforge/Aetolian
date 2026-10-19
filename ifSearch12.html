@@ -224,7 +224,7 @@
                       //console.log(topTen[i],stuff);
                       var data = {};
                       data.station = stuff['name'];
-                      data.system = '<a href = "sysinfo987.html?' + stuff['system']  + '">' + stuff['system'] + '</a>';
+                      data.system =  stuff['system'];
                       data.distance = parseFloat(topTen[i]).toFixed(1);
                       data.updated = stuff['updated'];
                       data.type = stuff['type'];
