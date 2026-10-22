@@ -458,12 +458,108 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20261021</key>
+	<dict>
+		<key>Alacagui Holdings</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.11899999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Empire Corsairs</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.184</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Phi Eridani Drug Empire</key>
+		<dict>
+			<key>Active</key>
+			<string>CivilUnrest</string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.095000000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>CivilUnrest</string>
+		</dict>
+		<key>Phi Eridani Interstellar</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.040000000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Phi Eridani Patron's Principles</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.063</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Sibil Empire Assembly</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.13100000000000001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>The White Templars</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Happiness</key>
+			<string>Happy</string>
+			<key>Influence</key>
+			<real>0.36799999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
 		<array>
+			<string>Aztlan</string>
 			<string>Sibil</string>
 			<string>Zelacanto A</string>
+			<string>Raurici A</string>
 			<string>Taevaisa</string>
 			<string>Sowathara A</string>
 			<string>Meliontit</string>
@@ -476,11 +572,13 @@
 			<string>Lombi A</string>
 			<string>Cockaigne</string>
 			<string>Lu Pah</string>
+			<string>Mokowa</string>
 			<string>Liu Di</string>
 			<string>Gender A</string>
 			<string>Urcia</string>
 			<string>LTT 874</string>
 			<string>Samen A</string>
+			<string>Laumaia</string>
 			<string>Alacagui A</string>
 			<string>Nu A</string>
 			<string>Kartamayana</string>
@@ -509,7 +607,7 @@
 		<key>system</key>
 		<string>Phi Eridani A</string>
 		<key>updated</key>
-		<string>20260930</string>
+		<string>20261021</string>
 	</dict>
 </dict>
 </plist>
