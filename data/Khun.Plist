@@ -2,6 +2,75 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>20220221</key>
+	<dict>
+		<key>Canonn</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Influence</key>
+			<real>0.55855900000000003</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Boom</string>
+		</dict>
+		<key>Khun Citizen Party</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Influence</key>
+			<real>0.090090000000000003</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>Outbreak</string>
+		</dict>
+		<key>Khun Crimson Ring</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Influence</key>
+			<real>0.01001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Khun Independent Governance</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Influence</key>
+			<real>0.16016</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>CivilWar</string>
+		</dict>
+		<key>Khun Ltd</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Influence</key>
+			<real>0.17117099999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>CivilWar</string>
+		</dict>
+		<key>Khun Raiders</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Influence</key>
+			<real>0.01001</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>InfrastructureFailure</string>
+		</dict>
+	</dict>
 	<key>20250812</key>
 	<dict>
 		<key>Canonn</key>
@@ -270,7 +339,7 @@
 		<key>system</key>
 		<string>Khun</string>
 		<key>updated</key>
-		<string>20260617</string>
+		<string>20220221</string>
 	</dict>
 </dict>
 </plist>

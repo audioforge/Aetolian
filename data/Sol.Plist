@@ -245,6 +245,75 @@
 			<string>None</string>
 		</dict>
 	</dict>
+	<key>20261115</key>
+	<dict>
+		<key>Aegis Core</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Influence</key>
+			<real>0.083501000000000006</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Federal Congress</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Influence</key>
+			<real>0.14788699999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Mother Gaia</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Influence</key>
+			<real>0.43863200000000002</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Sol Constitution Party</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Influence</key>
+			<real>0.108652</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Sol Nationalists</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Influence</key>
+			<real>0.060361999999999999</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+		<key>Sol Workers' Party</key>
+		<dict>
+			<key>Active</key>
+			<string></string>
+			<key>Influence</key>
+			<real>0.160966</real>
+			<key>Pending</key>
+			<string></string>
+			<key>State</key>
+			<string>None</string>
+		</dict>
+	</dict>
 	<key>Z</key>
 	<dict>
 		<key>ExpTarget</key>
@@ -260,9 +329,9 @@
 		</array>
 		<key>StarPos</key>
 		<array>
-			<real>0.0</real>
-			<real>0.0</real>
-			<real>0.0</real>
+			<integer>0</integer>
+			<integer>0</integer>
+			<integer>0</integer>
 		</array>
 		<key>SysFaction</key>
 		<string>Mother Gaia</string>
@@ -277,7 +346,7 @@
 		<key>system</key>
 		<string>Sol</string>
 		<key>updated</key>
-		<string>20250612</string>
+		<string>20261115</string>
 	</dict>
 </dict>
 </plist>
